@@ -42,9 +42,9 @@ function LoginFormContent() {
           ? await loginAction(formData)
           : await signupAction(formData);
 
-      if (result?.error) {
+      if (result && "error" in result && result.error) {
         setError(result.error);
-      } else if ("success" in (result || {}) && result?.success) {
+      } else if (result && "success" in result && result.success) {
         setSuccess(result.success);
       }
     } catch {

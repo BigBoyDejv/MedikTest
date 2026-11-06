@@ -221,7 +221,7 @@ export async function importQuestionsFromJsonAction(
         const catName = String(rawItem.category).trim();
         const subjKey = subjName.toLowerCase();
 
-        let subjectId = subjectCache.get(subjKey);
+        let subjectId: string | undefined = subjectCache.get(subjKey);
         if (!subjectId) {
           const { data: newSubj, error: subjErr } = await supabase
             .from("subjects")
@@ -229,19 +229,19 @@ export async function importQuestionsFromJsonAction(
             .select("id")
             .single();
 
-          if (subjErr || !newSubj) {
+          if (subjErr || !newSubj || !newSubj.id) {
             return {
               error: `${indexLabel}: nepodarilo sa vytvoriť predmet "${subjName}" (${
                 subjErr?.message ?? "skontrolujte RLS politiku pre admina"
               }).`,
             };
           }
-          subjectId = newSubj.id;
+          subjectId = String(newSubj.id);
           subjectCache.set(subjKey, subjectId);
         }
 
         const catKey = `${subjectId}::${catName.toLowerCase()}`;
-        let resolvedCatId = categoryCache.get(catKey);
+        let resolvedCatId: string | undefined = categoryCache.get(catKey);
         if (!resolvedCatId) {
           const { data: newCat, error: catErr } = await supabase
             .from("categories")
@@ -249,14 +249,14 @@ export async function importQuestionsFromJsonAction(
             .select("id")
             .single();
 
-          if (catErr || !newCat) {
+          if (catErr || !newCat || !newCat.id) {
             return {
               error: `${indexLabel}: nepodarilo sa vytvoriť kategóriu "${catName}" (${
                 catErr?.message ?? "skontrolujte RLS politiku pre admina"
               }).`,
             };
           }
-          resolvedCatId = newCat.id;
+          resolvedCatId = String(newCat.id);
           categoryCache.set(catKey, resolvedCatId);
         }
 
