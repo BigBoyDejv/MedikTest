@@ -1,7 +1,12 @@
 import Link from "next/link";
 import { createClient } from "@/utils/supabase/server";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, BookOpen, Layers } from "lucide-react";
 
@@ -9,13 +14,17 @@ export const dynamic = "force-dynamic";
 
 export default async function SubjectsPage() {
   const isConfigured = Boolean(
-    process.env.NEXT_PUBLIC_SUPABASE_URL && process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY
+    process.env.NEXT_PUBLIC_SUPABASE_URL &&
+      (process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY ||
+        process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY)
   );
 
   if (!isConfigured) {
     return (
       <main className="mx-auto max-w-4xl px-4 py-12">
-        <p className="text-muted-foreground">Supabase nie je nakonfigurovaný v .env.local</p>
+        <p className="text-muted-foreground">
+          Supabase nie je nakonfigurovaný v .env.local
+        </p>
       </main>
     );
   }
@@ -29,9 +38,12 @@ export default async function SubjectsPage() {
   return (
     <main className="mx-auto max-w-5xl space-y-8 px-4 py-8 sm:px-6">
       <div>
-        <h1 className="text-3xl font-bold tracking-tight">Vyberte si predmet na precvičovanie</h1>
+        <h1 className="text-3xl font-bold tracking-tight">
+          Vyberte si predmet na precvičovanie
+        </h1>
         <p className="mt-1 text-muted-foreground">
-          Zvoľte si predmet a konkrétny tematický okruh otázok na prípravu na prijímacie skúšky.
+          Zvoľte si predmet alebo konkrétny tematický okruh pre otvorenie
+          konfigurátora testu (<code>/test</code>).
         </p>
       </div>
 
@@ -61,7 +73,7 @@ export default async function SubjectsPage() {
 
               <CardContent className="space-y-4">
                 <div className="space-y-2">
-                  <span className="text-xs font-semibold text-muted-foreground uppercase tracking-wider">
+                  <span className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
                     Tematické okruhy
                   </span>
                   <div className="flex flex-wrap gap-2">
@@ -69,7 +81,7 @@ export default async function SubjectsPage() {
                       subjectCategories.map((cat) => (
                         <Link
                           key={cat.id}
-                          href={`/practice?category=${cat.id}`}
+                          href={`/test?category=${cat.id}`}
                           className="group inline-flex items-center gap-1.5 rounded-lg border bg-muted/40 px-3 py-1.5 text-xs font-medium transition hover:border-primary hover:bg-primary/5 hover:text-primary"
                         >
                           <Layers className="h-3 w-3 text-muted-foreground group-hover:text-primary" />
@@ -86,8 +98,10 @@ export default async function SubjectsPage() {
 
                 <div className="pt-2">
                   <Button asChild className="w-full justify-between" size="sm">
-                    <Link href={`/practice?subject=${subject.id}`}>
-                      <span>Spustiť test zo všetkých okruhov ({subject.name})</span>
+                    <Link href={`/test?subject=${subject.id}`}>
+                      <span>
+                        Konfigurovať test z predmetu ({subject.name})
+                      </span>
                       <ArrowRight className="h-4 w-4" />
                     </Link>
                   </Button>
@@ -100,4 +114,3 @@ export default async function SubjectsPage() {
     </main>
   );
 }
-

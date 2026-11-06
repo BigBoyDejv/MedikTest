@@ -9,7 +9,7 @@ export async function loginAction(formData: FormData) {
 
   const email = String(formData.get("email") ?? "").trim();
   const password = String(formData.get("password") ?? "");
-  const nextPath = String(formData.get("next") ?? "/");
+  const nextPath = String(formData.get("next") ?? "/dashboard");
 
   if (!email || !password) {
     return { error: "Zadajte prosím e-mail aj heslo." };
@@ -25,7 +25,7 @@ export async function loginAction(formData: FormData) {
   }
 
   revalidatePath("/", "layout");
-  redirect(nextPath.startsWith("/") ? nextPath : "/");
+  redirect(nextPath.startsWith("/") ? nextPath : "/dashboard");
 }
 
 export async function signupAction(formData: FormData) {
@@ -52,7 +52,7 @@ export async function signupAction(formData: FormData) {
   // Ak je v Supabase vypnuté email confirmation, používateľ je rovno prihlásený
   if (data.session) {
     revalidatePath("/", "layout");
-    redirect("/");
+    redirect("/dashboard");
   }
 
   return {
@@ -67,4 +67,3 @@ export async function signOutAction() {
   revalidatePath("/", "layout");
   redirect("/login");
 }
-

@@ -16,6 +16,7 @@ import {
   AlertTriangle,
   BookOpen,
   CheckCircle2,
+  ClipboardList,
   ShieldCheck,
   Sparkles,
   Trophy,
@@ -27,7 +28,8 @@ export const dynamic = "force-dynamic";
 export default async function HomePage() {
   const isSupabaseConfigured = Boolean(
     process.env.NEXT_PUBLIC_SUPABASE_URL &&
-      process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY
+      (process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY ||
+        process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY)
   );
 
   if (!isSupabaseConfigured) {
@@ -39,18 +41,7 @@ export default async function HomePage() {
           <AlertDescription className="mt-2 space-y-2">
             <p>
               Pre prepojenie aplikácie so Supabase vytvorte súbor{" "}
-              <code>.env.local</code> podľa vzoru <code>.env.local.example</code>{" "}
-              a nastavte premenné:
-            </p>
-            <pre className="rounded bg-muted p-3 text-xs">
-              {`NEXT_PUBLIC_SUPABASE_URL=https://vas-projekt.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=vas-anon-key
-NEXT_PUBLIC_ADMIN_EMAIL=vas-admin@email.sk
-ADMIN_EMAIL=vas-admin@email.sk`}
-            </pre>
-            <p>
-              Následne spustite SQL skript zo súboru{" "}
-              <code>supabase/schema.sql</code> v Supabase SQL Editore.
+              <code>.env.local</code> podľa vzoru <code>.env.local.example</code>.
             </p>
           </AlertDescription>
         </Alert>
@@ -106,18 +97,26 @@ ADMIN_EMAIL=vas-admin@email.sk`}
             </h1>
             <p className="max-w-2xl text-muted-foreground">
               Interaktívna databáza testových otázok (Single &amp; Multiple
-              Choice) s okamžitým vysvetlením a sledovaním osobnej úspešnosti.
+              Choice) s konfigurátorom testov, okamžitým vysvetlením a sledovaním
+              osobnej úspešnosti.
             </p>
           </div>
 
           <div className="flex flex-wrap gap-3">
-            {!user && (
-              <Button asChild>
+            {user ? (
+              <Button asChild size="lg">
+                <Link href="/test">
+                  <ClipboardList className="h-4 w-4" />
+                  Konfigurátor testu (/test)
+                </Link>
+              </Button>
+            ) : (
+              <Button asChild size="lg">
                 <Link href="/login">Prihlásiť sa / Registrovať</Link>
               </Button>
             )}
             {isAdmin && (
-              <Button asChild variant="outline">
+              <Button asChild variant="outline" size="lg">
                 <Link href="/admin">
                   <ShieldCheck className="h-4 w-4 text-primary" />
                   Otvoriť Admin CMS
@@ -220,9 +219,18 @@ ADMIN_EMAIL=vas-admin@email.sk`}
                 <CardContent className="flex flex-wrap gap-2">
                   {subjectCategories.length > 0 ? (
                     subjectCategories.map((cat) => (
-                      <Badge key={cat.id} variant="secondary">
-                        {cat.name}
-                      </Badge>
+                      <Link
+                        key={cat.id}
+                        href={`/test?category=${cat.id}`}
+                        className="inline-flex"
+                      >
+                        <Badge
+                          variant="secondary"
+                          className="cursor-pointer hover:bg-primary hover:text-primary-foreground"
+                        >
+                          {cat.name}
+                        </Badge>
+                      </Link>
                     ))
                   ) : (
                     <span className="text-xs text-muted-foreground">
@@ -238,4 +246,3 @@ ADMIN_EMAIL=vas-admin@email.sk`}
     </main>
   );
 }
-

@@ -19,7 +19,9 @@ export const createClient = (request: NextRequest) => {
       getAll() {
         return request.cookies.getAll();
       },
-      setAll(cookiesToSet: { name: string; value: string; options: CookieOptions }[]) {
+      setAll(
+        cookiesToSet: { name: string; value: string; options: CookieOptions }[]
+      ) {
         cookiesToSet.forEach(({ name, value }) =>
           request.cookies.set(name, value)
         );
@@ -48,6 +50,14 @@ export async function updateSession(request: NextRequest) {
   } = await supabase.auth.getUser();
 
   const pathname = request.nextUrl.pathname;
+
+  // Ochrana /dashboard a /test pre prihláseného používateľa
+  if ((pathname.startsWith("/dashboard") || pathname.startsWith("/test")) && !user) {
+    const loginUrl = request.nextUrl.clone();
+    loginUrl.pathname = "/login";
+    loginUrl.searchParams.set("next", pathname);
+    return NextResponse.redirect(loginUrl);
+  }
 
   // Ochrana /admin route už na úrovni middleware
   if (pathname.startsWith("/admin")) {

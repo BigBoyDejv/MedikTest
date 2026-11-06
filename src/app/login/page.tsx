@@ -19,7 +19,7 @@ import { AlertCircle, CheckCircle2, GraduationCap, Loader2 } from "lucide-react"
 
 function LoginFormContent() {
   const searchParams = useSearchParams();
-  const nextPath = searchParams.get("next") || "/";
+  const nextPath = searchParams.get("next") || "/dashboard";
   const urlError = searchParams.get("error");
 
   const [mode, setMode] = React.useState<"login" | "register">("login");
