@@ -2,7 +2,7 @@ export function getAdminEmail(): string {
   return (
     process.env.ADMIN_EMAIL ||
     process.env.NEXT_PUBLIC_ADMIN_EMAIL ||
-    ""
+    "david.rusin@student.tuke.sk"
   )
     .trim()
     .toLowerCase();
