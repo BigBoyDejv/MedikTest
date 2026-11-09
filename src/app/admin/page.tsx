@@ -2,9 +2,19 @@ import { redirect } from "next/navigation";
 import { createClient } from "@/utils/supabase/server";
 import { isAdminEmail, getAdminEmail } from "@/lib/admin";
 import { QuestionImportCms } from "@/components/admin/question-import-cms";
+import {
+  UserApprovalsCms,
+  type UserProfileItem,
+} from "@/components/admin/user-approvals-cms";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { BookOpen, Database, Layers, ShieldCheck } from "lucide-react";
+import {
+  BookOpen,
+  Database,
+  Layers,
+  ShieldCheck,
+  UserCheck,
+} from "lucide-react";
 
 export const dynamic = "force-dynamic";
 
@@ -49,16 +59,21 @@ export default async function AdminPage() {
     );
   }
 
-  // Načítanie prehľadu predmetov, kategórií a počtu otázok
-  const [{ data: subjects }, { data: categories }, { count: questionsCount }] =
-    await Promise.all([
-      supabase.from("subjects").select("id, name").order("name"),
-      supabase
-        .from("categories")
-        .select("id, subject_id, name")
-        .order("name"),
-      supabase.from("questions").select("id", { count: "exact", head: true }),
-    ]);
+  // Načítanie prehľadu predmetov, kategórií, počtu otázok a profilov používateľov
+  const [
+    { data: subjects },
+    { data: categories },
+    { count: questionsCount },
+    { data: profilesData },
+  ] = await Promise.all([
+    supabase.from("subjects").select("id, name").order("name"),
+    supabase.from("categories").select("id, subject_id, name").order("name"),
+    supabase.from("questions").select("id", { count: "exact", head: true }),
+    supabase
+      .from("profiles")
+      .select("id, email, status, created_at, updated_at")
+      .order("created_at", { ascending: false }),
+  ]);
 
   const subjectMap = new Map(
     (subjects ?? []).map((s) => [s.id, s.name] as const)
@@ -70,6 +85,18 @@ export default async function AdminPage() {
     subjectName: subjectMap.get(c.subject_id) ?? "Neznámy predmet",
   }));
 
+  const userProfiles: UserProfileItem[] = (profilesData ?? []).map((p) => ({
+    id: p.id,
+    email: p.email,
+    status: (p.status as UserProfileItem["status"]) || "pending",
+    created_at: p.created_at,
+    updated_at: p.updated_at,
+  }));
+
+  const pendingApprovalsCount = userProfiles.filter(
+    (u) => u.status === "pending"
+  ).length;
+
   return (
     <main className="mx-auto max-w-6xl space-y-8 px-4 py-8 sm:px-6">
       <div className="flex flex-wrap items-center justify-between gap-4">
@@ -80,24 +107,38 @@ export default async function AdminPage() {
               Admin CMS
             </Badge>
             <span className="text-xs text-muted-foreground">
-              Prihlásený admin: {user.email}
+              Prihlásený admin: <strong>{user.email}</strong>
             </span>
           </div>
           <h1 className="mt-2 text-3xl font-bold tracking-tight">
-            Správa otázok a hromadný import
+            Administrátorský panel
           </h1>
           <p className="text-sm text-muted-foreground">
-            Importujte testové otázky vo formáte JSON priamo do Supabase databázy.
+            Správa používateľských prístupov a správa testových otázok.
           </p>
         </div>
       </div>
 
-      {/* Štatistické karty databázy */}
-      <div className="grid gap-4 sm:grid-cols-3">
+      {/* Štatistické karty */}
+      <div className="grid gap-4 sm:grid-cols-4">
+        <Card>
+          <CardHeader className="flex flex-row items-center justify-between pb-2">
+            <CardTitle className="text-sm font-medium text-amber-600 dark:text-amber-400">
+              Čakajú na schválenie
+            </CardTitle>
+            <UserCheck className="h-4 w-4 text-amber-500" />
+          </CardHeader>
+          <CardContent>
+            <div className="text-2xl font-bold text-amber-600 dark:text-amber-400">
+              {pendingApprovalsCount}
+            </div>
+          </CardContent>
+        </Card>
+
         <Card>
           <CardHeader className="flex flex-row items-center justify-between pb-2">
             <CardTitle className="text-sm font-medium text-muted-foreground">
-              Predmety v databáze
+              Predmety
             </CardTitle>
             <BookOpen className="h-4 w-4 text-primary" />
           </CardHeader>
@@ -121,7 +162,7 @@ export default async function AdminPage() {
         <Card>
           <CardHeader className="flex flex-row items-center justify-between pb-2">
             <CardTitle className="text-sm font-medium text-muted-foreground">
-              Celkový počet otázok
+              Otázky v databáze
             </CardTitle>
             <Database className="h-4 w-4 text-primary" />
           </CardHeader>
@@ -131,9 +172,20 @@ export default async function AdminPage() {
         </Card>
       </div>
 
-      {/* Hlavný CMS komponent na hromadný import */}
-      <QuestionImportCms categories={formattedCategories} />
+      {/* 1. SEKCIA: Schvaľovanie používateľov */}
+      <section className="space-y-4">
+        <UserApprovalsCms initialProfiles={userProfiles} />
+      </section>
+
+      {/* 2. SEKCIA: Otázky a hromadný import */}
+      <section className="space-y-4 pt-4 border-t">
+        <h2 className="text-xl font-bold tracking-tight">
+          Hromadný import a správa otázok
+        </h2>
+        <QuestionImportCms categories={formattedCategories} />
+      </section>
     </main>
   );
 }
+
 

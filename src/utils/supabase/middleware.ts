@@ -52,11 +52,53 @@ export async function updateSession(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
 
   // Ochrana /dashboard a /test pre prihláseného používateľa
-  if ((pathname.startsWith("/dashboard") || pathname.startsWith("/test")) && !user) {
-    const loginUrl = request.nextUrl.clone();
-    loginUrl.pathname = "/login";
-    loginUrl.searchParams.set("next", pathname);
-    return NextResponse.redirect(loginUrl);
+  if (pathname.startsWith("/dashboard") || pathname.startsWith("/test")) {
+    if (!user) {
+      const loginUrl = request.nextUrl.clone();
+      loginUrl.pathname = "/login";
+      loginUrl.searchParams.set("next", pathname);
+      return NextResponse.redirect(loginUrl);
+    }
+
+    // Ak nie je administrátor, overíme či má stav 'approved'
+    if (!isAdminEmail(user.email)) {
+      const { data: profile } = await supabase
+        .from("profiles")
+        .select("status")
+        .eq("id", user.id)
+        .maybeSingle();
+
+      if (profile && profile.status !== "approved") {
+        const pendingUrl = request.nextUrl.clone();
+        pendingUrl.pathname = "/pending-approval";
+        return NextResponse.redirect(pendingUrl);
+      }
+    }
+  }
+
+  // Ochrana /pending-approval: ak je admin alebo approved, presmerujeme
+  if (pathname.startsWith("/pending-approval")) {
+    if (!user) {
+      const loginUrl = request.nextUrl.clone();
+      loginUrl.pathname = "/login";
+      return NextResponse.redirect(loginUrl);
+    }
+    if (isAdminEmail(user.email)) {
+      const adminUrl = request.nextUrl.clone();
+      adminUrl.pathname = "/admin";
+      return NextResponse.redirect(adminUrl);
+    }
+    const { data: profile } = await supabase
+      .from("profiles")
+      .select("status")
+      .eq("id", user.id)
+      .maybeSingle();
+
+    if (profile?.status === "approved") {
+      const dashUrl = request.nextUrl.clone();
+      dashUrl.pathname = "/dashboard";
+      return NextResponse.redirect(dashUrl);
+    }
   }
 
   // Ochrana /admin route už na úrovni middleware

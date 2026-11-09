@@ -58,8 +58,6 @@ CREATE INDEX IF NOT EXISTS idx_user_progress_created_at ON public.user_progress(
 -- ============================================================================
 -- 2. POMOCNÁ FUNKCIA PRE KONTROLU ADMINA V RLS
 -- ============================================================================
--- POZNÁMKA: Nahraďte 'admin@example.com' svojím skutočným admin emailom
--- (zhodným s NEXT_PUBLIC_ADMIN_EMAIL v .env.local).
 CREATE OR REPLACE FUNCTION public.is_admin()
 RETURNS BOOLEAN
 LANGUAGE sql
@@ -68,7 +66,7 @@ SECURITY DEFINER
 SET search_path = public
 AS $$
   SELECT COALESCE(
-    lower(auth.jwt() ->> 'email') = lower('admin@example.com'),
+    lower(auth.jwt() ->> 'email') = lower('david.rusin@student.tuke.sk'),
     false
   );
 $$;
@@ -194,4 +192,87 @@ CREATE POLICY "Users can insert their own progress"
   FOR INSERT
   TO authenticated
   WITH CHECK (auth.uid() = user_id);
+
+-- ============================================================================
+-- 4. SPRÁVA POUŽÍVATEĽOV A SCHVAĽOVANIE REGISTRÁCIÍ (PROFILES)
+-- ============================================================================
+CREATE TABLE IF NOT EXISTS public.profiles (
+  id UUID PRIMARY KEY REFERENCES auth.users(id) ON DELETE CASCADE,
+  email TEXT NOT NULL,
+  status TEXT NOT NULL DEFAULT 'pending' CHECK (status IN ('pending', 'approved', 'rejected')),
+  created_at TIMESTAMPTZ NOT NULL DEFAULT timezone('utc'::text, now()),
+  updated_at TIMESTAMPTZ NOT NULL DEFAULT timezone('utc'::text, now())
+);
+
+ALTER TABLE public.profiles ENABLE ROW LEVEL SECURITY;
+
+DROP POLICY IF EXISTS "Users can view their own profile" ON public.profiles;
+CREATE POLICY "Users can view their own profile"
+  ON public.profiles
+  FOR SELECT
+  TO authenticated
+  USING (auth.uid() = id);
+
+DROP POLICY IF EXISTS "Admin can view all profiles" ON public.profiles;
+CREATE POLICY "Admin can view all profiles"
+  ON public.profiles
+  FOR SELECT
+  TO authenticated
+  USING (public.is_admin());
+
+DROP POLICY IF EXISTS "Admin can update profiles" ON public.profiles;
+CREATE POLICY "Admin can update profiles"
+  ON public.profiles
+  FOR UPDATE
+  TO authenticated
+  USING (public.is_admin())
+  WITH CHECK (public.is_admin());
+
+DROP POLICY IF EXISTS "Admin can delete profiles" ON public.profiles;
+CREATE POLICY "Admin can delete profiles"
+  ON public.profiles
+  FOR DELETE
+  TO authenticated
+  USING (public.is_admin());
+
+-- Automatický trigger pri registrácii nového používateľa
+CREATE OR REPLACE FUNCTION public.handle_new_user()
+RETURNS TRIGGER
+LANGUAGE plpgsql
+SECURITY DEFINER
+SET search_path = public
+AS $$
+BEGIN
+  INSERT INTO public.profiles (id, email, status)
+  VALUES (
+    NEW.id,
+    NEW.email,
+    CASE 
+      WHEN lower(NEW.email) = lower('david.rusin@student.tuke.sk') THEN 'approved'
+      ELSE 'pending'
+    END
+  )
+  ON CONFLICT (id) DO UPDATE
+  SET email = EXCLUDED.email;
+  RETURN NEW;
+END;
+$$;
+
+DROP TRIGGER IF EXISTS on_auth_user_created ON auth.users;
+CREATE TRIGGER on_auth_user_created
+  AFTER INSERT ON auth.users
+  FOR EACH ROW EXECUTE FUNCTION public.handle_new_user();
+
+-- Spätné vloženie existujúcich používateľov do profiles (admin je rovno approved)
+INSERT INTO public.profiles (id, email, status)
+SELECT 
+  id, 
+  email, 
+  CASE 
+    WHEN lower(email) = lower('david.rusin@student.tuke.sk') THEN 'approved'
+    ELSE 'pending'
+  END AS status
+FROM auth.users
+ON CONFLICT (id) DO NOTHING;
+
 

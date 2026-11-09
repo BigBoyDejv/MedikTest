@@ -308,3 +308,61 @@ export async function importQuestionsFromJsonAction(
   }
 }
 
+export async function updateUserApprovalStatusAction(
+  userId: string,
+  newStatus: "approved" | "rejected" | "pending"
+) {
+  try {
+    const { supabase } = await requireAdminSupabase();
+
+    const { error } = await supabase
+      .from("profiles")
+      .update({
+        status: newStatus,
+        updated_at: new Date().toISOString(),
+      })
+      .eq("id", userId);
+
+    if (error) {
+      return { error: `Chyba pri aktualizácii stavu: ${error.message}` };
+    }
+
+    revalidatePath("/admin");
+    revalidatePath("/pending-approval");
+
+    const statusLabels: Record<string, string> = {
+      approved: "schválený",
+      rejected: "zamietnutý",
+      pending: "vrátený medzi čakajúce",
+    };
+
+    return {
+      success: `Používateľ bol úspešne ${statusLabels[newStatus] ?? newStatus}.`,
+    };
+  } catch (err) {
+    return {
+      error: err instanceof Error ? err.message : "Nastala neočakávaná chyba.",
+    };
+  }
+}
+
+export async function deleteUserProfileAction(userId: string) {
+  try {
+    const { supabase } = await requireAdminSupabase();
+
+    const { error } = await supabase.from("profiles").delete().eq("id", userId);
+
+    if (error) {
+      return { error: `Chyba pri odstraňovaní profilu: ${error.message}` };
+    }
+
+    revalidatePath("/admin");
+    return { success: "Používateľský záznam bol odstránený." };
+  } catch (err) {
+    return {
+      error: err instanceof Error ? err.message : "Nastala neočakávaná chyba.",
+    };
+  }
+}
+
+

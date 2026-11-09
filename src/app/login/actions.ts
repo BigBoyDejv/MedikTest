@@ -46,13 +46,28 @@ export async function loginAction(formData: FormData) {
     };
   }
 
-  const { error } = await supabase.auth.signInWithPassword({
+  const { data, error } = await supabase.auth.signInWithPassword({
     email,
     password,
   });
 
   if (error) {
     return { error: translateAuthError(error.message) };
+  }
+
+  // Ak prihlásený používateľ nie je administrátor, skontrolujeme schválenie
+  const isAdmin = email === "david.rusin@student.tuke.sk";
+  if (!isAdmin && data.user) {
+    const { data: profile } = await supabase
+      .from("profiles")
+      .select("status")
+      .eq("id", data.user.id)
+      .maybeSingle();
+
+    if (profile && profile.status !== "approved") {
+      revalidatePath("/", "layout");
+      redirect("/pending-approval");
+    }
   }
 
   revalidatePath("/", "layout");
@@ -99,15 +114,32 @@ export async function signupAction(formData: FormData) {
     };
   }
 
-  // Ak je v Supabase vypnuté email confirmation, používateľ je rovno prihlásený
+  // Zabezpečíme zápis do profiles so statusom 'pending' (alebo 'approved' pre admina)
+  if (data.user) {
+    try {
+      await supabase.from("profiles").upsert({
+        id: data.user.id,
+        email: data.user.email ?? email,
+        status: email === "david.rusin@student.tuke.sk" ? "approved" : "pending",
+      });
+    } catch {
+      // Ignorovať, ak záznam vložil trigger
+    }
+  }
+
+  // Ak je používateľ prihlásený, presmerujeme ho podľa stavu
   if (data.session) {
     revalidatePath("/", "layout");
-    redirect("/dashboard");
+    if (email === "david.rusin@student.tuke.sk") {
+      redirect("/admin");
+    } else {
+      redirect("/pending-approval");
+    }
   }
 
   return {
     success:
-      "Registrácia prebehla úspešne! Ak máte v Supabase zapnuté potvrdenie e-mailu, skontrolujte si schránku, alebo sa rovno prihláste.",
+      "Registrácia prebehla úspešne! Váš účet čaká na schválenie administrátorom (david.rusin). Hneď po schválení získate plný prístup.",
   };
 }
 
