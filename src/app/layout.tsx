@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "@/components/navbar";
+import { AgentationProvider } from "@/components/agentation-provider";
 
 const inter = Inter({ subsets: ["latin", "latin-ext"] });
 
@@ -29,6 +30,7 @@ export default function RootLayout({
           <Navbar />
           <div className="flex-1">{children}</div>
         </div>
+        <AgentationProvider />
       </body>
     </html>
   );
