@@ -6,6 +6,7 @@ import {
   generateTestQuestionsAction,
   type ActiveTestQuestion,
   type QuestionFilterMode,
+  type QuestionOrderMode,
   type TestEvaluationSummary,
 } from "@/app/test/actions";
 import { Button } from "@/components/ui/button";
@@ -29,12 +30,15 @@ import {
   ClipboardCheck,
   Clock,
   Filter,
+  Hash,
   HelpCircle,
   Layers,
+  ListOrdered,
   Loader2,
   Pause,
   Play,
   RotateCcw,
+  Shuffle,
   Sparkles,
   Timer,
   Trophy,
@@ -139,14 +143,18 @@ export function TestSuite({
   const [filterMode, setFilterMode] = React.useState<QuestionFilterMode>(
     initialFilterMode ?? "all"
   );
+  const [orderMode, setOrderMode] = React.useState<QuestionOrderMode>("random");
+  const [startQuestionNumber, setStartQuestionNumber] = React.useState<number>(1);
 
   // Nastavenie odporúčaného času pri zmene počtu otázok (ak používateľ nezvolil Bez limitu)
   function handleQuestionCountSelect(count: number) {
     setQuestionCount(count);
     if (timeLimitMinutes > 0) {
-      if (count === 10) setTimeLimitMinutes(10);
-      else if (count === 20) setTimeLimitMinutes(20);
-      else if (count === 50) setTimeLimitMinutes(45);
+      if (count <= 10) setTimeLimitMinutes(10);
+      else if (count <= 20) setTimeLimitMinutes(20);
+      else if (count <= 30) setTimeLimitMinutes(30);
+      else if (count <= 50) setTimeLimitMinutes(45);
+      else setTimeLimitMinutes(60);
     }
   }
 
@@ -304,6 +312,9 @@ export function TestSuite({
         categoryIds: selectedCategoryIds,
         questionCount,
         filterMode,
+        orderMode,
+        startQuestionNumber:
+          orderMode === "sequential" ? startQuestionNumber : undefined,
       });
 
       if (response.error || !response.questions) {
@@ -497,47 +508,139 @@ export function TestSuite({
 
         {/* Krok 2 a 3: Počet otázok a Časovač */}
         <div className="grid gap-6 md:grid-cols-2">
-          {/* Krok 2: Počet otázok */}
+          {/* Krok 2: Spôsob výberu a Počet otázok */}
           <Card>
             <CardHeader className="p-4 sm:p-6">
               <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
                 <HelpCircle className="h-5 w-5 shrink-0 text-primary" />
-                2. Počet otázok v teste
+                2. Spôsob výberu a počet otázok
               </CardTitle>
               <CardDescription className="text-xs sm:text-sm">
-                Zvoľte koľko otázok sa má vygenerovať do testu.
+                Zvoľte náhodné premiešanie alebo precvičovanie konkrétneho rozsahu z testovnice.
               </CardDescription>
             </CardHeader>
-            <CardContent className="p-4 pt-0 sm:p-6 sm:pt-0">
-              <div className="grid grid-cols-3 gap-2.5 sm:gap-3">
-                {QUESTION_COUNT_OPTIONS.map((count) => {
-                  const isSelected = questionCount === count;
-                  return (
-                    <button
-                      key={count}
-                      type="button"
-                      onClick={() => handleQuestionCountSelect(count)}
-                      className={`flex min-h-[72px] touch-manipulation flex-col items-center justify-center rounded-xl border p-3 transition-all active:scale-[0.98] sm:p-4 ${
-                        isSelected
-                          ? "border-primary bg-primary text-primary-foreground shadow-sm"
-                          : "border-border bg-background hover:bg-accent"
-                      }`}
+            <CardContent className="space-y-4 p-4 pt-0 sm:p-6 sm:pt-0">
+              {/* Prepínač: Náhodný výber vs. Od konkrétnej otázky */}
+              <div className="grid grid-cols-2 gap-2 rounded-xl bg-muted/40 p-1">
+                <button
+                  type="button"
+                  onClick={() => setOrderMode("random")}
+                  className={`flex items-center justify-center gap-2 rounded-lg py-2 text-xs font-semibold sm:text-sm transition-all ${
+                    orderMode === "random"
+                      ? "bg-background text-foreground shadow-sm ring-1 ring-border"
+                      : "text-muted-foreground hover:text-foreground"
+                  }`}
+                >
+                  <Shuffle className="h-4 w-4 shrink-0 text-primary" />
+                  <span>Náhodný výber</span>
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setOrderMode("sequential")}
+                  className={`flex items-center justify-center gap-2 rounded-lg py-2 text-xs font-semibold sm:text-sm transition-all ${
+                    orderMode === "sequential"
+                      ? "bg-background text-foreground shadow-sm ring-1 ring-border"
+                      : "text-muted-foreground hover:text-foreground"
+                  }`}
+                >
+                  <ListOrdered className="h-4 w-4 shrink-0 text-primary" />
+                  <span>Od otázky (rozsah)</span>
+                </button>
+              </div>
+
+              {/* Sekcia: Začať od otázky číslo (zobrazí sa pri sekvenčnom výbere) */}
+              {orderMode === "sequential" && (
+                <div className="space-y-2.5 rounded-xl border border-primary/25 bg-primary/5 p-3.5 sm:p-4">
+                  <div className="flex items-center justify-between gap-3">
+                    <label
+                      htmlFor="startQInput"
+                      className="flex items-center gap-1.5 text-xs font-semibold text-foreground sm:text-sm"
                     >
-                      <span className="text-xl font-bold sm:text-2xl">
-                        {count}
-                      </span>
-                      <span
-                        className={`text-xs ${
-                          isSelected
-                            ? "text-primary-foreground/80"
-                            : "text-muted-foreground"
+                      <Hash className="h-4 w-4 text-primary" />
+                      Začať od otázky číslo:
+                    </label>
+                    <input
+                      id="startQInput"
+                      type="number"
+                      min={1}
+                      max={1500}
+                      value={startQuestionNumber}
+                      onChange={(e) => {
+                        const val = parseInt(e.target.value, 10);
+                        setStartQuestionNumber(
+                          isNaN(val) ? 1 : Math.max(1, val)
+                        );
+                      }}
+                      className="w-24 rounded-lg border bg-background px-3 py-1.5 text-right text-base font-bold text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-primary"
+                    />
+                  </div>
+
+                  {/* Rýchle tlačidlá čísel */}
+                  <div className="flex flex-wrap items-center gap-1.5 pt-1">
+                    <span className="text-[11px] font-medium text-muted-foreground">
+                      Rýchly výber:
+                    </span>
+                    {[1, 50, 100, 150, 200, 250].map((num) => (
+                      <button
+                        key={num}
+                        type="button"
+                        onClick={() => setStartQuestionNumber(num)}
+                        className={`rounded-md border px-2.5 py-0.5 text-xs font-medium transition-colors ${
+                          startQuestionNumber === num
+                            ? "border-primary bg-primary text-primary-foreground"
+                            : "border-border bg-background text-muted-foreground hover:bg-accent"
                         }`}
                       >
-                        otázok
-                      </span>
-                    </button>
-                  );
-                })}
+                        č. {num}
+                      </button>
+                    ))}
+                  </div>
+
+                  <div className="rounded-lg bg-background/80 p-2 text-xs text-primary/90 border border-primary/10">
+                    Spustí sa test od otázky <strong>č. {startQuestionNumber}</strong> po otázku{" "}
+                    <strong>
+                      č. {startQuestionNumber + questionCount - 1}
+                    </strong>{" "}
+                    ({questionCount} otázok v poradí podľa knihy).
+                  </div>
+                </div>
+              )}
+
+              {/* Počet otázok */}
+              <div className="space-y-2">
+                <span className="text-xs font-semibold text-muted-foreground">
+                  Počet otázok:
+                </span>
+                <div className="grid grid-cols-4 gap-2 sm:gap-2.5">
+                  {[10, 20, 30, 50].map((count) => {
+                    const isSelected = questionCount === count;
+                    return (
+                      <button
+                        key={count}
+                        type="button"
+                        onClick={() => handleQuestionCountSelect(count)}
+                        className={`flex min-h-[58px] touch-manipulation flex-col items-center justify-center rounded-xl border p-2 transition-all active:scale-[0.98] ${
+                          isSelected
+                            ? "border-primary bg-primary text-primary-foreground shadow-sm"
+                            : "border-border bg-background hover:bg-accent"
+                        }`}
+                      >
+                        <span className="text-lg font-bold sm:text-xl">
+                          {count}
+                        </span>
+                        <span
+                          className={`text-[11px] ${
+                            isSelected
+                              ? "text-primary-foreground/80"
+                              : "text-muted-foreground"
+                          }`}
+                        >
+                          otázok
+                        </span>
+                      </button>
+                    );
+                  })}
+                </div>
               </div>
             </CardContent>
           </Card>
@@ -648,6 +751,14 @@ export function TestSuite({
               Počet otázok:{" "}
               <strong className="text-foreground">{questionCount}</strong>
             </span>
+            {orderMode === "sequential" && (
+              <span>
+                Rozsah:{" "}
+                <strong className="text-primary font-semibold">
+                  č. {startQuestionNumber} – {startQuestionNumber + questionCount - 1}
+                </strong>
+              </span>
+            )}
             <span>
               Časovač:{" "}
               <strong className="text-foreground">
@@ -816,11 +927,21 @@ export function TestSuite({
         >
           <CardHeader className="space-y-2.5 p-4 sm:space-y-3 sm:p-6">
             <div className="flex flex-wrap items-center justify-between gap-2">
-              {meta && (
-                <Badge variant="outline" className="max-w-full truncate text-xs">
-                  {meta.subjectName} • {meta.categoryName}
-                </Badge>
-              )}
+              <div className="flex flex-wrap items-center gap-2">
+                {meta && (
+                  <Badge variant="outline" className="max-w-full truncate text-xs">
+                    {meta.subjectName} • {meta.categoryName}
+                  </Badge>
+                )}
+                {currentQuestion.questionNumber && (
+                  <Badge
+                    variant="secondary"
+                    className="border border-primary/25 bg-primary/10 text-xs font-semibold text-primary"
+                  >
+                    Otázka číslo {currentQuestion.questionNumber}
+                  </Badge>
+                )}
+              </div>
 
               <Badge
                 variant={
@@ -941,7 +1062,10 @@ export function TestSuite({
                   key={q.id}
                   type="button"
                   onClick={() => setCurrentIndex(idx)}
-                  className={`flex h-9 w-9 shrink-0 touch-manipulation items-center justify-center rounded-lg border text-xs font-semibold transition-all ${
+                  title={`Otázka ${idx + 1}${
+                    q.questionNumber ? ` (č. ${q.questionNumber})` : ""
+                  }`}
+                  className={`flex h-9 min-w-9 px-1.5 shrink-0 touch-manipulation items-center justify-center rounded-lg border text-xs font-semibold transition-all ${
                     isCurrent
                       ? "border-primary bg-primary text-primary-foreground shadow-sm"
                       : hasAnswer
@@ -949,7 +1073,7 @@ export function TestSuite({
                         : "border-border bg-card text-muted-foreground hover:bg-accent"
                   }`}
                 >
-                  {idx + 1}
+                  {q.questionNumber ?? idx + 1}
                 </button>
               );
             })}

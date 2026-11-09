@@ -5,6 +5,7 @@ import { createClient } from "@/utils/supabase/server";
 import type { Question, QuestionOption, RawQuestionOption } from "@/types/database";
 
 export type QuestionFilterMode = "all" | "incorrect" | "unseen";
+export type QuestionOrderMode = "random" | "sequential";
 
 export interface ActiveTestQuestion {
   id: string;
@@ -14,6 +15,7 @@ export interface ActiveTestQuestion {
   content: string;
   options: QuestionOption[];
   isMultipleChoice: boolean;
+  questionNumber?: number | null;
 }
 
 export interface TestSubmissionItem {
@@ -60,17 +62,25 @@ function shuffleArray<T>(items: T[]): T[] {
   return copy;
 }
 
+function parseQuestionNumber(content: string): number | null {
+  const match = content.trim().match(/^(\d+)[\.\)]/);
+  return match ? parseInt(match[1], 10) : null;
+}
+
 /**
  * 1. Načíta a vyfiltruje otázky pre Test Builder podľa:
  *    - zvolených kategórií (categoryIds)
  *    - filtra ("all" | "incorrect" | "unseen") s využitím tabuľky `user_progress`
  *    - počtu otázok (limit: napr. 10, 20, 50)
+ *    - režimu zoradenia ("random" | "sequential") a počiatočnej otázky (startQuestionNumber)
  * Nevracia správne odpovede ani vysvetlenia počas samotného testu.
  */
 export async function generateTestQuestionsAction(params: {
   categoryIds: string[];
   questionCount: number;
   filterMode: QuestionFilterMode;
+  orderMode?: QuestionOrderMode;
+  startQuestionNumber?: number;
 }): Promise<{
   questions?: ActiveTestQuestion[];
   error?: string;
@@ -86,7 +96,13 @@ export async function generateTestQuestionsAction(params: {
       return { error: "Pre spustenie testu sa musíte prihlásiť." };
     }
 
-    const { categoryIds, questionCount, filterMode } = params;
+    const {
+      categoryIds,
+      questionCount,
+      filterMode,
+      orderMode = "random",
+      startQuestionNumber,
+    } = params;
 
     if (!Array.isArray(categoryIds) || categoryIds.length === 0) {
       return { error: "Vyberte aspoň jednu kategóriu otázok." };
@@ -169,11 +185,37 @@ export async function generateTestQuestionsAction(params: {
       };
     }
 
-    // Náhodne premiešame otázky a orežeme na požadovaný počet
-    const selectedQuestions = shuffleArray(filteredQuestions).slice(
-      0,
-      validLimit
-    );
+    let selectedQuestions: typeof filteredQuestions = [];
+
+    // Ak je zapnutý sekvenčný výber alebo je zadané číslo začiatočnej otázky
+    if (
+      orderMode === "sequential" ||
+      (typeof startQuestionNumber === "number" && startQuestionNumber > 0)
+    ) {
+      const startNum = Math.max(1, Number(startQuestionNumber) || 1);
+
+      // Zoradíme otázky podľa čísla z textu otázky vzostupne
+      const sorted = [...filteredQuestions].sort((a, b) => {
+        const numA = parseQuestionNumber(a.content) ?? 999999;
+        const numB = parseQuestionNumber(b.content) ?? 999999;
+        return numA - numB;
+      });
+
+      // Vyfiltrujeme otázky začínajúce od požadovaného čísla (napr. >= 50)
+      const fromStart = sorted.filter((q) => {
+        const num = parseQuestionNumber(q.content);
+        return num !== null ? num >= startNum : true;
+      });
+
+      const pool = fromStart.length > 0 ? fromStart : sorted;
+      selectedQuestions = pool.slice(0, validLimit);
+    } else {
+      // Náhodne premiešame otázky a orežeme na požadovaný počet
+      selectedQuestions = shuffleArray(filteredQuestions).slice(
+        0,
+        validLimit
+      );
+    }
 
     const activeQuestions: ActiveTestQuestion[] = selectedQuestions.map((q) => {
       const correctArr = Array.isArray(q.correct_answers)
@@ -185,6 +227,7 @@ export async function generateTestQuestionsAction(params: {
         content: q.content,
         options: normalizeOptions(q.options),
         isMultipleChoice: correctArr.length > 1,
+        questionNumber: parseQuestionNumber(q.content),
       };
     });
 
