@@ -382,12 +382,12 @@
       }
     ],
     "correct_answers": [
-      "b",
-      "c",
+      "a",
+      "d",
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
   },
   {
     "subject": "Chémia",
@@ -454,12 +454,12 @@
       }
     ],
     "correct_answers": [
-      "b",
+      "c",
       "d",
-      "e",
+      "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, H."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G, H."
   },
   {
     "subject": "Chémia",
@@ -1881,12 +1881,12 @@
       }
     ],
     "correct_answers": [
-      "a",
-      "d",
-      "g",
+      "b",
+      "c",
+      "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
   },
   {
     "subject": "Chémia",
@@ -10121,12 +10121,12 @@
       }
     ],
     "correct_answers": [
-      "b",
-      "e",
+      "c",
+      "d",
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, H."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
   },
   {
     "subject": "Chémia",
@@ -10305,12 +10305,12 @@
       }
     ],
     "correct_answers": [
-      "b",
       "c",
-      "f",
-      "g"
+      "e",
+      "g",
+      "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, G, H."
   },
   {
     "subject": "Chémia",
@@ -10351,12 +10351,12 @@
       }
     ],
     "correct_answers": [
-      "a",
+      "b",
       "c",
       "f",
-      "h"
+      "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F, H."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
   },
   {
     "subject": "Chémia",
@@ -10399,9 +10399,10 @@
     "correct_answers": [
       "a",
       "c",
-      "d"
+      "f",
+      "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F, H."
   },
   {
     "subject": "Chémia",
@@ -10483,11 +10484,12 @@
       }
     ],
     "correct_answers": [
-      "d",
+      "a",
+      "b",
       "e",
-      "h"
+      "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, H."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
   },
   {
     "subject": "Chémia",
@@ -10575,10 +10577,10 @@
     "correct_answers": [
       "a",
       "c",
-      "e",
-      "f"
+      "d",
+      "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E."
   },
   {
     "subject": "Chémia",
@@ -10611,12 +10613,12 @@
       }
     ],
     "correct_answers": [
-      "b",
+      "a",
       "c",
-      "f",
-      "h"
+      "e",
+      "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
   },
   {
     "subject": "Chémia",
@@ -10703,12 +10705,12 @@
       }
     ],
     "correct_answers": [
-      "a",
       "b",
       "c",
-      "g"
+      "d",
+      "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, G."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, H."
   },
   {
     "subject": "Chémia",
@@ -10749,12 +10751,12 @@
       }
     ],
     "correct_answers": [
+      "a",
+      "b",
       "c",
-      "f",
-      "g",
-      "h"
+      "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G, H."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, G."
   },
   {
     "subject": "Chémia",
@@ -10772,11 +10774,11 @@
     ],
     "correct_answers": [
       "c",
-      "e",
       "f",
-      "g"
+      "g",
+      "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G, H."
   },
   {
     "subject": "Chémia",
@@ -10817,12 +10819,12 @@
       }
     ],
     "correct_answers": [
-      "a",
+      "c",
       "e",
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
   },
   {
     "subject": "Chémia",
@@ -10893,12 +10895,13 @@
       }
     ],
     "correct_answers": [
+      "a",
+      "b",
       "c",
-      "d",
-      "f",
-      "g"
+      "e",
+      "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, G."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E, H."
   },
   {
     "subject": "Chémia",
@@ -10931,12 +10934,12 @@
       }
     ],
     "correct_answers": [
-      "a",
-      "b",
+      "c",
+      "d",
       "f",
-      "h"
+      "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, G."
   },
   {
     "subject": "Chémia",
@@ -10973,12 +10976,12 @@
       }
     ],
     "correct_answers": [
-      "c",
-      "e",
+      "a",
+      "b",
       "f",
-      "g"
+      "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
   },
   {
     "subject": "Chémia",
@@ -11061,12 +11064,12 @@
       }
     ],
     "correct_answers": [
+      "b",
       "d",
       "e",
-      "f",
-      "h"
+      "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F, H."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, F."
   },
   {
     "subject": "Chémia",
@@ -11187,12 +11190,13 @@
       }
     ],
     "correct_answers": [
-      "b",
+      "a",
       "c",
-      "f",
-      "h"
+      "d",
+      "e",
+      "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E, G."
   },
   {
     "subject": "Chémia",
@@ -11263,12 +11267,12 @@
       }
     ],
     "correct_answers": [
-      "a",
+      "b",
       "d",
       "e",
-      "g"
+      "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, H."
   },
   {
     "subject": "Chémia",
@@ -12006,12 +12010,12 @@
       }
     ],
     "correct_answers": [
-      "c",
+      "a",
+      "d",
       "e",
-      "f",
-      "g"
+      "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, F."
   },
   {
     "subject": "Chémia",
@@ -12144,12 +12148,12 @@
       }
     ],
     "correct_answers": [
-      "a",
-      "f",
+      "d",
+      "e",
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, G, H."
   },
   {
     "subject": "Chémia",
@@ -12236,12 +12240,12 @@
       }
     ],
     "correct_answers": [
-      "b",
+      "a",
+      "d",
       "e",
-      "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, G."
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
   },
   {
     "subject": "Chémia",
