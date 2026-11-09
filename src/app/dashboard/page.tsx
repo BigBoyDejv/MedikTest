@@ -215,27 +215,28 @@ export default async function DashboardPage() {
   const overallColors = getAccuracyColorClasses(overallAccuracy);
 
   return (
-    <main className="mx-auto max-w-6xl space-y-8 px-4 py-8 sm:px-6">
+    <main className="mx-auto max-w-6xl space-y-6 px-3.5 py-6 sm:space-y-8 sm:px-6 sm:py-8">
       {/* Hlavička Dashboardu */}
-      <div className="flex flex-col justify-between gap-4 md:flex-row md:items-center">
+      <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-center">
         <div>
           <Badge variant="secondary" className="gap-1.5">
             <BarChart3 className="h-3.5 w-3.5 text-primary" />
             Študentský Dashboard &amp; Analytika
           </Badge>
-          <h1 className="mt-2 text-3xl font-bold tracking-tight">
+          <h1 className="mt-2 text-2xl font-bold tracking-tight sm:text-3xl">
             Prehľad vašej prípravy
           </h1>
-          <p className="mt-1 text-sm text-muted-foreground">
-            Prihlásený účet: <strong className="text-foreground">{user.email}</strong>
+          <p className="mt-1 truncate text-xs text-muted-foreground sm:text-sm">
+            Prihlásený účet:{" "}
+            <strong className="text-foreground">{user.email}</strong>
           </p>
         </div>
 
-        <div className="flex flex-wrap items-center gap-3">
-          <Button asChild variant="outline">
+        <div className="flex flex-wrap items-center gap-2.5 sm:gap-3">
+          <Button asChild variant="outline" className="w-full sm:w-auto">
             <Link href="/test">
               <ClipboardList className="h-4 w-4" />
-              Vlastný test
+              Vlastný test s časovačom
             </Link>
           </Button>
         </div>
@@ -532,8 +533,13 @@ export default async function DashboardPage() {
                               />
                             </div>
 
-                            <div className="shrink-0">
-                              <Button asChild variant="ghost" size="sm">
+                              <div className="w-full shrink-0 sm:w-auto">
+                              <Button
+                                asChild
+                                variant="outline"
+                                size="sm"
+                                className="w-full sm:w-auto sm:variant-ghost"
+                              >
                                 <Link href={`/test?categories=${cat.id}`}>
                                   Precvičiť
                                   <ArrowRight className="h-3.5 w-3.5" />

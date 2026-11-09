@@ -27,13 +27,16 @@ import {
   CheckCheck,
   CheckCircle2,
   ClipboardCheck,
+  Clock,
   Filter,
   HelpCircle,
   Layers,
   Loader2,
+  Pause,
   Play,
   RotateCcw,
   Sparkles,
+  Timer,
   Trophy,
   XCircle,
 } from "lucide-react";
@@ -59,6 +62,18 @@ interface TestSuiteProps {
 
 const QUESTION_COUNT_OPTIONS = [10, 20, 50] as const;
 
+const TIME_LIMIT_OPTIONS: {
+  minutes: number;
+  label: string;
+  sublabel: string;
+}[] = [
+  { minutes: 0, label: "Bez limitu", sublabel: "Stopky" },
+  { minutes: 10, label: "10 min", sublabel: "Rýchly test" },
+  { minutes: 20, label: "20 min", sublabel: "Štandard" },
+  { minutes: 45, label: "45 min", sublabel: "Dlhší test" },
+  { minutes: 60, label: "60 min", sublabel: "Prijímačky" },
+];
+
 const FILTER_OPTIONS: {
   value: QuestionFilterMode;
   label: string;
@@ -83,6 +98,21 @@ const FILTER_OPTIONS: {
   },
 ];
 
+function formatSecondsToMMSS(totalSeconds: number): string {
+  const safe = Math.max(0, Math.floor(totalSeconds));
+  const hours = Math.floor(safe / 3600);
+  const minutes = Math.floor((safe % 3600) / 60);
+  const seconds = safe % 60;
+
+  const mm = String(minutes).padStart(2, "0");
+  const ss = String(seconds).padStart(2, "0");
+
+  if (hours > 0) {
+    return `${hours}:${mm}:${ss}`;
+  }
+  return `${mm}:${ss}`;
+}
+
 export function TestSuite({
   subjectGroups,
   initialSelectedCategoryIds,
@@ -105,12 +135,23 @@ export function TestSuite({
       : allCategoryIds
   );
   const [questionCount, setQuestionCount] = React.useState<number>(10);
+  const [timeLimitMinutes, setTimeLimitMinutes] = React.useState<number>(15);
   const [filterMode, setFilterMode] = React.useState<QuestionFilterMode>(
     initialFilterMode ?? "all"
   );
 
+  // Nastavenie odporúčaného času pri zmene počtu otázok (ak používateľ nezvolil Bez limitu)
+  function handleQuestionCountSelect(count: number) {
+    setQuestionCount(count);
+    if (timeLimitMinutes > 0) {
+      if (count === 10) setTimeLimitMinutes(10);
+      else if (count === 20) setTimeLimitMinutes(20);
+      else if (count === 50) setTimeLimitMinutes(45);
+    }
+  }
+
   // ==========================================================================
-  // STAV TESTOVACIEHO ENGINU A VYHODNOTENIA
+  // STAV TESTOVACIEHO ENGINU, ČASOVAČA A VYHODNOTENIA
   // ==========================================================================
   const [stage, setStage] = React.useState<"builder" | "running" | "results">(
     "builder"
@@ -119,17 +160,26 @@ export function TestSuite({
     ActiveTestQuestion[]
   >([]);
   const [currentIndex, setCurrentIndex] = React.useState<number>(0);
-  // Mapa questionId -> pole zvolených option.id
   const [answersMap, setAnswersMap] = React.useState<Record<string, string[]>>(
     {}
   );
   const [evaluation, setEvaluation] =
     React.useState<TestEvaluationSummary | null>(null);
 
+  // Časovač (v sekundách)
+  const [elapsedSeconds, setElapsedSeconds] = React.useState<number>(0);
+  const [remainingSeconds, setRemainingSeconds] = React.useState<number | null>(
+    null
+  );
+  const [isTimerPaused, setIsTimerPaused] = React.useState<boolean>(false);
+  const [timedOut, setTimedOut] = React.useState<boolean>(false);
+
   const [isLoading, setIsLoading] = React.useState(false);
   const [errorMessage, setErrorMessage] = React.useState<string | null>(null);
 
-  // Mapa pre rýchle zobrazenie názvu kategórie a predmetu pri otázke
+  // Ref pre automatické odoslanie pri vypršaní časovača
+  const autoSubmitTriggeredRef = React.useRef(false);
+
   const categoryMetaMap = React.useMemo(() => {
     const map = new Map<string, { categoryName: string; subjectName: string }>();
     for (const group of subjectGroups) {
@@ -168,6 +218,76 @@ export function TestSuite({
     }
   }
 
+  // Odoslanie celého testu na vyhodnotenie a uloženie do user_progress
+  const submitTestEvaluation = React.useCallback(
+    async (isTimeout = false) => {
+      if (isLoading) return;
+      setErrorMessage(null);
+      setIsLoading(true);
+      if (isTimeout) {
+        setTimedOut(true);
+      }
+
+      try {
+        const submissions = activeQuestions.map((q) => ({
+          questionId: q.id,
+          selectedOptionIds: answersMap[q.id] ?? [],
+        }));
+
+        const response = await evaluateTestAction(submissions);
+
+        if (response.error || !response.evaluation) {
+          setErrorMessage(response.error ?? "Nepodarilo sa vyhodnotiť test.");
+          autoSubmitTriggeredRef.current = false;
+          return;
+        }
+
+        setEvaluation(response.evaluation);
+        setStage("results");
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      } finally {
+        setIsLoading(false);
+      }
+    },
+    [activeQuestions, answersMap, isLoading]
+  );
+
+  // Interval časovača počas behu testu
+  React.useEffect(() => {
+    if (stage !== "running" || isTimerPaused || isLoading) {
+      return;
+    }
+
+    const interval = window.setInterval(() => {
+      setElapsedSeconds((prev) => prev + 1);
+
+      if (timeLimitMinutes > 0) {
+        setRemainingSeconds((prev) => {
+          if (prev === null) return null;
+          if (prev <= 1) {
+            return 0;
+          }
+          return prev - 1;
+        });
+      }
+    }, 1000);
+
+    return () => window.clearInterval(interval);
+  }, [stage, isTimerPaused, isLoading, timeLimitMinutes]);
+
+  // Automatické vyhodnotenie pri dosiahnutí 00:00
+  React.useEffect(() => {
+    if (
+      stage === "running" &&
+      timeLimitMinutes > 0 &&
+      remainingSeconds === 0 &&
+      !autoSubmitTriggeredRef.current
+    ) {
+      autoSubmitTriggeredRef.current = true;
+      void submitTestEvaluation(true);
+    }
+  }, [stage, timeLimitMinutes, remainingSeconds, submitTestEvaluation]);
+
   // Spustenie testu
   async function handleStartTest(event: React.FormEvent) {
     event.preventDefault();
@@ -193,22 +313,33 @@ export function TestSuite({
         return;
       }
 
+      autoSubmitTriggeredRef.current = false;
+      setTimedOut(false);
+      setElapsedSeconds(0);
+      setIsTimerPaused(false);
+      setRemainingSeconds(
+        timeLimitMinutes > 0 ? timeLimitMinutes * 60 : null
+      );
+
       setActiveQuestions(response.questions);
       setAnswersMap({});
       setCurrentIndex(0);
       setEvaluation(null);
       setStage("running");
+      window.scrollTo({ top: 0, behavior: "smooth" });
     } finally {
       setIsLoading(false);
     }
   }
 
-  // Výber odpovede počas testu (Checkbox pre Multiple Choice, Rádio pre Single Choice)
+  // Výber odpovede počas testu
   function handleOptionChange(
     questionId: string,
     optionId: string,
     isMultipleChoice: boolean
   ) {
+    if (isTimerPaused) return;
+
     setAnswersMap((prev) => {
       const currentSelected = prev[questionId] ?? [];
       if (isMultipleChoice) {
@@ -223,34 +354,6 @@ export function TestSuite({
     });
   }
 
-  // Odoslanie celého testu na vyhodnotenie a uloženie do user_progress
-  async function handleEvaluateTest() {
-    setErrorMessage(null);
-    setIsLoading(true);
-
-    try {
-      const submissions = activeQuestions.map((q) => ({
-        questionId: q.id,
-        selectedOptionIds: answersMap[q.id] ?? [],
-      }));
-
-      const response = await evaluateTestAction(submissions);
-
-      if (response.error || !response.evaluation) {
-        setErrorMessage(
-          response.error ?? "Nepodarilo sa vyhodnotiť test."
-        );
-        return;
-      }
-
-      setEvaluation(response.evaluation);
-      setStage("results");
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    } finally {
-      setIsLoading(false);
-    }
-  }
-
   function handleResetToBuilder() {
     setStage("builder");
     setActiveQuestions([]);
@@ -258,6 +361,7 @@ export function TestSuite({
     setCurrentIndex(0);
     setEvaluation(null);
     setErrorMessage(null);
+    setTimedOut(false);
   }
 
   // ==========================================================================
@@ -265,7 +369,7 @@ export function TestSuite({
   // ==========================================================================
   if (stage === "builder") {
     return (
-      <form onSubmit={handleStartTest} className="space-y-6">
+      <form onSubmit={handleStartTest} className="space-y-6 pb-8">
         {errorMessage && (
           <Alert variant="destructive">
             <AlertCircle className="h-4 w-4" />
@@ -276,14 +380,14 @@ export function TestSuite({
 
         {/* Krok 1: Výber kategórií */}
         <Card>
-          <CardHeader>
-            <div className="flex flex-wrap items-center justify-between gap-2">
+          <CardHeader className="p-4 sm:p-6">
+            <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
               <div>
-                <CardTitle className="flex items-center gap-2 text-lg">
-                  <Layers className="h-5 w-5 text-primary" />
+                <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
+                  <Layers className="h-5 w-5 shrink-0 text-primary" />
                   1. Vyberte kategórie otázok
                 </CardTitle>
-                <CardDescription className="mt-1">
+                <CardDescription className="mt-1 text-xs sm:text-sm">
                   Zaškrtnite tematické okruhy, z ktorých chcete zostaviť test.
                 </CardDescription>
               </div>
@@ -293,6 +397,7 @@ export function TestSuite({
                   type="button"
                   variant="outline"
                   size="sm"
+                  className="flex-1 sm:flex-none"
                   onClick={() => setSelectedCategoryIds(allCategoryIds)}
                 >
                   <CheckCheck className="h-4 w-4" />
@@ -302,6 +407,7 @@ export function TestSuite({
                   type="button"
                   variant="ghost"
                   size="sm"
+                  className="flex-1 sm:flex-none"
                   onClick={() => setSelectedCategoryIds([])}
                 >
                   Zrušiť výber
@@ -310,7 +416,7 @@ export function TestSuite({
             </div>
           </CardHeader>
 
-          <CardContent className="space-y-6">
+          <CardContent className="space-y-4 p-4 pt-0 sm:space-y-6 sm:p-6 sm:pt-0">
             {subjectGroups.length === 0 ? (
               <div className="rounded-lg border border-dashed p-6 text-center text-sm text-muted-foreground">
                 V databáze sa zatiaľ nenachádzajú žiadne kategórie ani otázky.
@@ -326,12 +432,14 @@ export function TestSuite({
                 return (
                   <div
                     key={subject.id}
-                    className="space-y-3 rounded-xl border bg-muted/20 p-4"
+                    className="space-y-3 rounded-xl border bg-muted/20 p-3.5 sm:p-4"
                   >
-                    <div className="flex items-center justify-between border-b pb-2.5">
+                    <div className="flex flex-wrap items-center justify-between gap-2 border-b pb-2.5">
                       <div className="flex items-center gap-2 font-semibold">
-                        <BookOpen className="h-4 w-4 text-primary" />
-                        <span>{subject.name}</span>
+                        <BookOpen className="h-4 w-4 shrink-0 text-primary" />
+                        <span className="text-sm sm:text-base">
+                          {subject.name}
+                        </span>
                         <Badge variant="secondary" className="text-xs">
                           {subject.categories.length} okruhov
                         </Badge>
@@ -352,26 +460,26 @@ export function TestSuite({
                       )}
                     </div>
 
-                    <div className="grid gap-2.5 sm:grid-cols-2 md:grid-cols-3">
+                    <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-3">
                       {subject.categories.map((cat) => {
                         const isChecked = selectedCategoryIds.includes(cat.id);
                         return (
                           <label
                             key={cat.id}
-                            className={`flex cursor-pointer items-center justify-between gap-3 rounded-lg border p-3 text-sm transition-colors ${
+                            className={`flex min-h-[48px] cursor-pointer touch-manipulation items-center justify-between gap-3 rounded-lg border p-3 text-sm transition-colors active:scale-[0.99] ${
                               isChecked
                                 ? "border-primary bg-primary/5 font-medium"
                                 : "border-border bg-background hover:bg-accent/50"
                             }`}
                           >
-                            <div className="flex items-center gap-2.5">
+                            <div className="flex min-w-0 items-center gap-2.5">
                               <input
                                 type="checkbox"
                                 checked={isChecked}
                                 onChange={() => toggleCategory(cat.id)}
-                                className="h-4 w-4 rounded border-input text-primary focus:ring-primary"
+                                className="h-4 w-4 shrink-0 rounded border-input text-primary focus:ring-primary"
                               />
-                              <span>{cat.name}</span>
+                              <span className="truncate">{cat.name}</span>
                             </div>
                             <Badge variant="outline" className="shrink-0">
                               {cat.questionCount}
@@ -387,35 +495,37 @@ export function TestSuite({
           </CardContent>
         </Card>
 
-        {/* Krok 2 a 3: Počet otázok a Filter */}
+        {/* Krok 2 a 3: Počet otázok a Časovač */}
         <div className="grid gap-6 md:grid-cols-2">
           {/* Krok 2: Počet otázok */}
           <Card>
-            <CardHeader>
-              <CardTitle className="flex items-center gap-2 text-lg">
-                <HelpCircle className="h-5 w-5 text-primary" />
+            <CardHeader className="p-4 sm:p-6">
+              <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
+                <HelpCircle className="h-5 w-5 shrink-0 text-primary" />
                 2. Počet otázok v teste
               </CardTitle>
-              <CardDescription>
+              <CardDescription className="text-xs sm:text-sm">
                 Zvoľte koľko otázok sa má vygenerovať do testu.
               </CardDescription>
             </CardHeader>
-            <CardContent>
-              <div className="grid grid-cols-3 gap-3">
+            <CardContent className="p-4 pt-0 sm:p-6 sm:pt-0">
+              <div className="grid grid-cols-3 gap-2.5 sm:gap-3">
                 {QUESTION_COUNT_OPTIONS.map((count) => {
                   const isSelected = questionCount === count;
                   return (
                     <button
                       key={count}
                       type="button"
-                      onClick={() => setQuestionCount(count)}
-                      className={`flex flex-col items-center justify-center rounded-xl border p-4 transition-all ${
+                      onClick={() => handleQuestionCountSelect(count)}
+                      className={`flex min-h-[72px] touch-manipulation flex-col items-center justify-center rounded-xl border p-3 transition-all active:scale-[0.98] sm:p-4 ${
                         isSelected
                           ? "border-primary bg-primary text-primary-foreground shadow-sm"
                           : "border-border bg-background hover:bg-accent"
                       }`}
                     >
-                      <span className="text-2xl font-bold">{count}</span>
+                      <span className="text-xl font-bold sm:text-2xl">
+                        {count}
+                      </span>
                       <span
                         className={`text-xs ${
                           isSelected
@@ -432,67 +542,126 @@ export function TestSuite({
             </CardContent>
           </Card>
 
-          {/* Krok 3: Filter otázok podľa user_progress */}
+          {/* Krok 3: Časovač (Časový limit) */}
           <Card>
-            <CardHeader>
-              <CardTitle className="flex items-center gap-2 text-lg">
-                <Filter className="h-5 w-5 text-primary" />
-                3. Filter otázok
+            <CardHeader className="p-4 sm:p-6">
+              <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
+                <Timer className="h-5 w-5 shrink-0 text-primary" />
+                3. Časovač testu
               </CardTitle>
-              <CardDescription>
-                Filtrovanie otázok na základe vašej histórie odpovedí (
-                <code>user_progress</code>).
+              <CardDescription className="text-xs sm:text-sm">
+                Nastavte si odpočítavanie času ako na prijímačkách alebo režim
+                stopiek bez limitu.
               </CardDescription>
             </CardHeader>
-            <CardContent className="space-y-2.5">
-              {FILTER_OPTIONS.map((option) => {
-                const isSelected = filterMode === option.value;
-                return (
-                  <label
-                    key={option.value}
-                    className={`flex cursor-pointer items-start gap-3 rounded-lg border p-3 text-sm transition-colors ${
-                      isSelected
-                        ? "border-primary bg-primary/5 ring-1 ring-primary"
-                        : "border-border bg-background hover:bg-accent/50"
-                    }`}
-                  >
-                    <input
-                      type="radio"
-                      name="filterMode"
-                      value={option.value}
-                      checked={isSelected}
-                      onChange={() => setFilterMode(option.value)}
-                      className="mt-0.5 h-4 w-4 border-input text-primary focus:ring-primary"
-                    />
-                    <div className="space-y-0.5">
-                      <div className="font-medium text-foreground">
-                        {option.label}
-                      </div>
-                      <p className="text-xs text-muted-foreground">
-                        {option.description}
-                      </p>
-                    </div>
-                  </label>
-                );
-              })}
+            <CardContent className="p-4 pt-0 sm:p-6 sm:pt-0">
+              <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-5">
+                {TIME_LIMIT_OPTIONS.map((item) => {
+                  const isSelected = timeLimitMinutes === item.minutes;
+                  return (
+                    <button
+                      key={item.minutes}
+                      type="button"
+                      onClick={() => setTimeLimitMinutes(item.minutes)}
+                      className={`flex min-h-[68px] touch-manipulation flex-col items-center justify-center rounded-xl border p-2.5 text-center transition-all active:scale-[0.98] ${
+                        isSelected
+                          ? "border-primary bg-primary text-primary-foreground shadow-sm"
+                          : "border-border bg-background hover:bg-accent"
+                      }`}
+                    >
+                      <span className="text-sm font-bold sm:text-base">
+                        {item.label}
+                      </span>
+                      <span
+                        className={`mt-0.5 text-[11px] leading-tight ${
+                          isSelected
+                            ? "text-primary-foreground/85"
+                            : "text-muted-foreground"
+                        }`}
+                      >
+                        {item.sublabel}
+                      </span>
+                    </button>
+                  );
+                })}
+              </div>
             </CardContent>
           </Card>
         </div>
 
-        {/* Tlačidlo na spustenie testu */}
-        <div className="flex items-center justify-between rounded-xl border bg-card p-4 shadow-sm">
-          <div className="text-sm text-muted-foreground">
-            Zvolených kategórií:{" "}
-            <strong className="text-foreground">
-              {selectedCategoryIds.length}
-            </strong>{" "}
-            | Max. počet otázok:{" "}
-            <strong className="text-foreground">{questionCount}</strong>
+        {/* Krok 4: Filter otázok podľa user_progress */}
+        <Card>
+          <CardHeader className="p-4 sm:p-6">
+            <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
+              <Filter className="h-5 w-5 shrink-0 text-primary" />
+              4. Filter otázok podľa vašej histórie
+            </CardTitle>
+            <CardDescription className="text-xs sm:text-sm">
+              Filtrovanie otázok na základe vašich predchádzajúcich odpovedí v{" "}
+              <code>user_progress</code>.
+            </CardDescription>
+          </CardHeader>
+          <CardContent className="grid gap-2.5 p-4 pt-0 sm:grid-cols-3 sm:p-6 sm:pt-0">
+            {FILTER_OPTIONS.map((option) => {
+              const isSelected = filterMode === option.value;
+              return (
+                <label
+                  key={option.value}
+                  className={`flex cursor-pointer touch-manipulation items-start gap-3 rounded-xl border p-3.5 text-sm transition-colors active:scale-[0.99] ${
+                    isSelected
+                      ? "border-primary bg-primary/5 ring-1 ring-primary"
+                      : "border-border bg-background hover:bg-accent/50"
+                  }`}
+                >
+                  <input
+                    type="radio"
+                    name="filterMode"
+                    value={option.value}
+                    checked={isSelected}
+                    onChange={() => setFilterMode(option.value)}
+                    className="mt-0.5 h-4 w-4 shrink-0 border-input text-primary focus:ring-primary"
+                  />
+                  <div className="space-y-1">
+                    <div className="font-semibold text-foreground">
+                      {option.label}
+                    </div>
+                    <p className="text-xs leading-relaxed text-muted-foreground">
+                      {option.description}
+                    </p>
+                  </div>
+                </label>
+              );
+            })}
+          </CardContent>
+        </Card>
+
+        {/* Tlačidlo na spustenie testu (responzívne pre mobil aj desktop) */}
+        <div className="sticky bottom-3 z-20 flex flex-col gap-3 rounded-xl border bg-card/95 p-4 shadow-lg backdrop-blur sm:static sm:flex-row sm:items-center sm:justify-between sm:shadow-sm">
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-muted-foreground sm:text-sm">
+            <span>
+              Kategórie:{" "}
+              <strong className="text-foreground">
+                {selectedCategoryIds.length}
+              </strong>
+            </span>
+            <span>
+              Počet otázok:{" "}
+              <strong className="text-foreground">{questionCount}</strong>
+            </span>
+            <span>
+              Časovač:{" "}
+              <strong className="text-foreground">
+                {timeLimitMinutes > 0
+                  ? `${timeLimitMinutes} min`
+                  : "Bez limitu (Stopky)"}
+              </strong>
+            </span>
           </div>
 
           <Button
             type="submit"
             size="lg"
+            className="w-full sm:w-auto"
             disabled={isLoading || selectedCategoryIds.length === 0}
           >
             {isLoading ? (
@@ -513,7 +682,7 @@ export function TestSuite({
   }
 
   // ==========================================================================
-  // 2. OBRAZOVKA: TESTOVACÍ ENGINE (JEDNA OTÁZKA NARAZ)
+  // 2. OBRAZOVKA: TESTOVACÍ ENGINE (JEDNA OTÁZKA NARAZ + ČASOVAČ)
   // ==========================================================================
   if (stage === "running") {
     const currentQuestion = activeQuestions[currentIndex];
@@ -531,8 +700,26 @@ export function TestSuite({
       ((currentIndex + 1) / totalQuestions) * 100
     );
 
+    // Štýlovanie časovača podľa zostávajúceho času
+    const isLowTime =
+      remainingSeconds !== null &&
+      remainingSeconds <= 120 &&
+      remainingSeconds > 30;
+    const isCriticalTime =
+      remainingSeconds !== null && remainingSeconds <= 30;
+
+    let timerBadgeClasses =
+      "border-border bg-card text-foreground";
+    if (isCriticalTime) {
+      timerBadgeClasses =
+        "border-red-500 bg-red-500/10 text-red-600 animate-pulse font-bold";
+    } else if (isLowTime) {
+      timerBadgeClasses =
+        "border-amber-500 bg-amber-500/10 text-amber-700 font-semibold";
+    }
+
     return (
-      <div className="space-y-6">
+      <div className="space-y-4 pb-24 sm:space-y-6 sm:pb-8">
         {errorMessage && (
           <Alert variant="destructive">
             <AlertCircle className="h-4 w-4" />
@@ -541,17 +728,58 @@ export function TestSuite({
           </Alert>
         )}
 
-        {/* Horný progres bar a prehľad otázok */}
-        <div className="space-y-2">
-          <div className="flex flex-wrap items-center justify-between gap-2 text-sm">
-            <span className="font-semibold">
-              Otázka {currentIndex + 1} z {totalQuestions}
-            </span>
-            <span className="text-muted-foreground">
-              Zodpovedané: {answeredCount} / {totalQuestions}
-            </span>
+        {/* Sticky horná lišta s Časovačom a Progresom (výborné na mobil a tablet) */}
+        <div className="sticky top-14 z-30 -mx-4 border-b bg-background/95 px-4 py-3 backdrop-blur sm:top-16 sm:mx-0 sm:rounded-xl sm:border sm:p-4 sm:shadow-sm">
+          <div className="flex flex-wrap items-center justify-between gap-2">
+            <div className="flex items-center gap-2 sm:gap-3">
+              <span className="text-sm font-bold sm:text-base">
+                Otázka {currentIndex + 1} / {totalQuestions}
+              </span>
+              <Badge variant="secondary" className="text-xs">
+                Zodpovedané: {answeredCount}/{totalQuestions}
+              </Badge>
+            </div>
+
+            {/* Časovač + tlačidlo Pauza */}
+            <div className="flex items-center gap-2">
+              <div
+                className={`inline-flex items-center gap-1.5 rounded-lg border px-2.5 py-1 text-xs font-mono sm:px-3 sm:py-1.5 sm:text-sm ${timerBadgeClasses}`}
+              >
+                <Clock className="h-3.5 w-3.5 shrink-0 sm:h-4 sm:w-4" />
+                <span>
+                  {remainingSeconds !== null
+                    ? formatSecondsToMMSS(remainingSeconds)
+                    : formatSecondsToMMSS(elapsedSeconds)}
+                </span>
+              </div>
+
+              <Button
+                type="button"
+                variant="outline"
+                size="sm"
+                className="h-8 px-2.5 text-xs"
+                onClick={() => setIsTimerPaused((prev) => !prev)}
+                title={
+                  isTimerPaused ? "Pokračovať v teste" : "Pozastaviť časovač"
+                }
+              >
+                {isTimerPaused ? (
+                  <>
+                    <Play className="h-3.5 w-3.5 text-emerald-600" />
+                    <span className="hidden sm:inline">Pokračovať</span>
+                  </>
+                ) : (
+                  <>
+                    <Pause className="h-3.5 w-3.5" />
+                    <span className="hidden sm:inline">Pauza</span>
+                  </>
+                )}
+              </Button>
+            </div>
           </div>
-          <div className="h-2 w-full overflow-hidden rounded-full bg-secondary">
+
+          {/* Progres bar */}
+          <div className="mt-2.5 h-1.5 w-full overflow-hidden rounded-full bg-secondary sm:h-2">
             <div
               className="h-full bg-primary transition-all duration-300"
               style={{ width: `${progressPercent}%` }}
@@ -559,43 +787,67 @@ export function TestSuite({
           </div>
         </div>
 
+        {/* Info baner pri pozastavenom časovači */}
+        {isTimerPaused && (
+          <Alert>
+            <Pause className="h-4 w-4" />
+            <AlertTitle>Test je pozastavený</AlertTitle>
+            <AlertDescription className="flex flex-wrap items-center justify-between gap-2">
+              <span>
+                Časovač je momentálne zastavený. Kliknite na Pokračovať pre
+                návrat k odpovedaniu.
+              </span>
+              <Button
+                type="button"
+                size="sm"
+                onClick={() => setIsTimerPaused(false)}
+              >
+                Pokračovať v teste
+              </Button>
+            </AlertDescription>
+          </Alert>
+        )}
+
         {/* Karta aktuálnej otázky */}
-        <Card className="shadow-sm">
-          <CardHeader className="space-y-3">
+        <Card
+          className={`shadow-sm transition-opacity ${
+            isTimerPaused ? "pointer-events-none opacity-50" : ""
+          }`}
+        >
+          <CardHeader className="space-y-2.5 p-4 sm:space-y-3 sm:p-6">
             <div className="flex flex-wrap items-center justify-between gap-2">
-              <div className="flex flex-wrap items-center gap-2">
-                {meta && (
-                  <Badge variant="outline">
-                    {meta.subjectName} • {meta.categoryName}
-                  </Badge>
-                )}
-              </div>
+              {meta && (
+                <Badge variant="outline" className="max-w-full truncate text-xs">
+                  {meta.subjectName} • {meta.categoryName}
+                </Badge>
+              )}
 
               <Badge
                 variant={
                   currentQuestion.isMultipleChoice ? "default" : "secondary"
                 }
+                className="text-xs"
               >
                 {currentQuestion.isMultipleChoice
-                  ? "Viac správnych odpovedí (Checkbox)"
-                  : "Jedna správna odpoveď (Rádio)"}
+                  ? "Viac správnych (Checkbox)"
+                  : "1 správna (Rádio)"}
               </Badge>
             </div>
 
-            <CardTitle className="text-xl leading-relaxed">
+            <CardTitle className="text-base leading-relaxed sm:text-xl">
               {currentQuestion.content}
             </CardTitle>
           </CardHeader>
 
-          <CardContent className="space-y-3">
+          <CardContent className="space-y-2.5 p-4 pt-0 sm:space-y-3 sm:p-6 sm:pt-0">
             {currentQuestion.options.map((option) => {
               const isChecked = selectedForCurrent.includes(option.id);
               return (
                 <label
                   key={option.id}
-                  className={`flex cursor-pointer items-center gap-3.5 rounded-xl border p-4 text-sm transition-all ${
+                  className={`flex min-h-[52px] cursor-pointer touch-manipulation items-center gap-3 rounded-xl border p-3.5 text-sm transition-all active:scale-[0.99] sm:gap-3.5 sm:p-4 ${
                     isChecked
-                      ? "border-primary bg-primary/5 ring-1 ring-primary font-medium"
+                      ? "border-primary bg-primary/5 font-medium ring-1 ring-primary"
                       : "border-border bg-background hover:bg-accent/50"
                   }`}
                 >
@@ -613,18 +865,21 @@ export function TestSuite({
                         currentQuestion.isMultipleChoice
                       )
                     }
-                    className="h-4 w-4 shrink-0 border-input text-primary focus:ring-primary"
+                    className="h-4 w-4 shrink-0 border-input text-primary focus:ring-primary sm:h-5 sm:w-5"
                   />
-                  <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded border bg-muted/50 text-xs font-semibold uppercase">
+                  <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded border bg-muted/50 text-xs font-semibold uppercase sm:h-7 sm:w-7">
                     {option.id}
                   </span>
-                  <span className="text-base">{option.text}</span>
+                  <span className="text-sm leading-snug sm:text-base">
+                    {option.text}
+                  </span>
                 </label>
               );
             })}
           </CardContent>
 
-          <CardFooter className="flex flex-wrap items-center justify-between gap-3 border-t pt-4">
+          {/* Desktop/Tablet pätička s tlačidlami */}
+          <CardFooter className="hidden items-center justify-between gap-3 border-t p-6 pt-4 sm:flex">
             <Button
               type="button"
               variant="outline"
@@ -651,7 +906,7 @@ export function TestSuite({
               ) : (
                 <Button
                   type="button"
-                  onClick={handleEvaluateTest}
+                  onClick={() => void submitTestEvaluation(false)}
                   disabled={isLoading}
                   className="bg-emerald-600 text-white hover:bg-emerald-700"
                 >
@@ -672,79 +927,166 @@ export function TestSuite({
           </CardFooter>
         </Card>
 
-        {/* Rýchla navigácia medzi číslami otázok */}
-        <div className="flex flex-wrap items-center gap-2">
-          {activeQuestions.map((q, idx) => {
-            const hasAnswer = (answersMap[q.id]?.length ?? 0) > 0;
-            const isCurrent = idx === currentIndex;
-            return (
-              <button
-                key={q.id}
-                type="button"
-                onClick={() => setCurrentIndex(idx)}
-                className={`flex h-9 w-9 items-center justify-center rounded-lg border text-xs font-semibold transition-all ${
-                  isCurrent
-                    ? "border-primary bg-primary text-primary-foreground"
-                    : hasAnswer
-                      ? "border-primary/40 bg-primary/10 text-primary"
-                      : "border-border bg-card text-muted-foreground hover:bg-accent"
-                }`}
-              >
-                {idx + 1}
-              </button>
-            );
-          })}
+        {/* Rýchla navigácia medzi číslami otázok (horizontálny scroll na mobile, mriežka na tablete/desktope) */}
+        <div className="space-y-1.5">
+          <span className="text-xs font-medium text-muted-foreground">
+            Rýchly prechod na otázku:
+          </span>
+          <div className="flex items-center gap-1.5 overflow-x-auto pb-2 sm:flex-wrap sm:overflow-visible sm:pb-0">
+            {activeQuestions.map((q, idx) => {
+              const hasAnswer = (answersMap[q.id]?.length ?? 0) > 0;
+              const isCurrent = idx === currentIndex;
+              return (
+                <button
+                  key={q.id}
+                  type="button"
+                  onClick={() => setCurrentIndex(idx)}
+                  className={`flex h-9 w-9 shrink-0 touch-manipulation items-center justify-center rounded-lg border text-xs font-semibold transition-all ${
+                    isCurrent
+                      ? "border-primary bg-primary text-primary-foreground shadow-sm"
+                      : hasAnswer
+                        ? "border-primary/40 bg-primary/10 text-primary"
+                        : "border-border bg-card text-muted-foreground hover:bg-accent"
+                  }`}
+                >
+                  {idx + 1}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+
+        {/* Spodná fixná lišta pre pohodlné ovládanie palcom na mobile */}
+        <div className="fixed inset-x-0 bottom-0 z-40 flex items-center justify-between gap-2 border-t bg-card/95 p-3 shadow-lg backdrop-blur sm:hidden">
+          <Button
+            type="button"
+            variant="outline"
+            size="default"
+            className="flex-1"
+            onClick={() => setCurrentIndex((prev) => Math.max(0, prev - 1))}
+            disabled={isFirstQuestion || isLoading}
+          >
+            <ArrowLeft className="h-4 w-4" />
+            Predchádzajúca
+          </Button>
+
+          {!isLastQuestion ? (
+            <Button
+              type="button"
+              size="default"
+              className="flex-1"
+              onClick={() =>
+                setCurrentIndex((prev) =>
+                  Math.min(totalQuestions - 1, prev + 1)
+                )
+              }
+            >
+              Ďalšia
+              <ArrowRight className="h-4 w-4" />
+            </Button>
+          ) : (
+            <Button
+              type="button"
+              size="default"
+              onClick={() => void submitTestEvaluation(false)}
+              disabled={isLoading}
+              className="flex-1 bg-emerald-600 text-white hover:bg-emerald-700"
+            >
+              {isLoading ? (
+                <>
+                  <Loader2 className="h-4 w-4 animate-spin" />
+                  Ukladám...
+                </>
+              ) : (
+                <>
+                  <ClipboardCheck className="h-4 w-4" />
+                  Vyhodnotiť
+                </>
+              )}
+            </Button>
+          )}
         </div>
       </div>
     );
   }
 
   // ==========================================================================
-  // 3. OBRAZOVKA: VYHODNOTENIE TESTU (RESULTS)
+  // 3. OBRAZOVKA: VYHODNOTENIE TESTU (RESULTS + ŠTATISTIKA ČASU)
   // ==========================================================================
   if (stage === "results" && evaluation) {
     const { totalQuestions, correctCount, scorePercentage, results } =
       evaluation;
     const incorrectCount = totalQuestions - correctCount;
+    const avgSecondsPerQuestion =
+      totalQuestions > 0 ? Math.round(elapsedSeconds / totalQuestions) : 0;
 
     return (
-      <div className="space-y-8">
+      <div className="space-y-6 pb-8 sm:space-y-8">
+        {timedOut && (
+          <Alert variant="destructive">
+            <Clock className="h-4 w-4" />
+            <AlertTitle>Časový limit vypršal!</AlertTitle>
+            <AlertDescription>
+              Váš čas na vypracovanie testu uplynul, preto bol test automaticky
+              ukončený a vyhodnotený.
+            </AlertDescription>
+          </Alert>
+        )}
+
         {/* Súhrnná karta výsledku */}
         <Card className="border-primary/20 shadow-sm">
-          <CardHeader className="text-center">
-            <div className="mx-auto mb-2 flex h-14 w-14 items-center justify-center rounded-full bg-primary/10 text-primary">
-              <Trophy className="h-7 w-7" />
+          <CardHeader className="p-5 text-center sm:p-6">
+            <div className="mx-auto mb-2 flex h-12 w-12 items-center justify-center rounded-full bg-primary/10 text-primary sm:h-14 sm:w-14">
+              <Trophy className="h-6 w-6 sm:h-7 sm:w-7" />
             </div>
-            <CardTitle className="text-3xl font-bold">
+            <CardTitle className="text-2xl font-bold sm:text-3xl">
               Úspešnosť testu: {scorePercentage} %
             </CardTitle>
-            <CardDescription className="text-base">
+            <CardDescription className="text-xs sm:text-base">
               Všetky odpovede boli uložené do vašej histórie v{" "}
               <code>user_progress</code>.
             </CardDescription>
           </CardHeader>
 
-          <CardContent>
-            <div className="mx-auto grid max-w-xl grid-cols-3 gap-4 text-center">
-              <div className="rounded-xl border bg-muted/30 p-4">
-                <div className="text-2xl font-bold">{totalQuestions}</div>
+          <CardContent className="p-4 pt-0 sm:p-6 sm:pt-0">
+            <div className="mx-auto grid max-w-2xl grid-cols-2 gap-3 text-center sm:grid-cols-4 sm:gap-4">
+              <div className="rounded-xl border bg-muted/30 p-3 sm:p-4">
+                <div className="text-xl font-bold sm:text-2xl">
+                  {totalQuestions}
+                </div>
                 <div className="text-xs text-muted-foreground">
                   Celkovo otázok
                 </div>
               </div>
-              <div className="rounded-xl border border-emerald-500/30 bg-emerald-50/70 p-4 text-emerald-900">
-                <div className="text-2xl font-bold">{correctCount}</div>
+              <div className="rounded-xl border border-emerald-500/30 bg-emerald-50/70 p-3 text-emerald-900 sm:p-4">
+                <div className="text-xl font-bold sm:text-2xl">
+                  {correctCount}
+                </div>
                 <div className="text-xs">Správne</div>
               </div>
-              <div className="rounded-xl border border-red-500/30 bg-red-50/70 p-4 text-red-900">
-                <div className="text-2xl font-bold">{incorrectCount}</div>
+              <div className="rounded-xl border border-red-500/30 bg-red-50/70 p-3 text-red-900 sm:p-4">
+                <div className="text-xl font-bold sm:text-2xl">
+                  {incorrectCount}
+                </div>
                 <div className="text-xs">Nesprávne</div>
+              </div>
+              <div className="rounded-xl border bg-primary/5 p-3 sm:p-4">
+                <div className="text-xl font-bold text-primary sm:text-2xl">
+                  {formatSecondsToMMSS(elapsedSeconds)}
+                </div>
+                <div className="text-xs text-muted-foreground">
+                  Čas ({avgSecondsPerQuestion}s / otázka)
+                </div>
               </div>
             </div>
           </CardContent>
 
-          <CardFooter className="flex justify-center border-t pt-4">
-            <Button onClick={handleResetToBuilder} size="lg">
+          <CardFooter className="flex justify-center border-t p-4 sm:p-6 sm:pt-4">
+            <Button
+              onClick={handleResetToBuilder}
+              size="lg"
+              className="w-full sm:w-auto"
+            >
               <RotateCcw className="h-4 w-4" />
               Vytvoriť nový test
             </Button>
@@ -753,7 +1095,7 @@ export function TestSuite({
 
         {/* Prehľad všetkých otázok z testu s farebným označením (zelená/červená) a explanation */}
         <div className="space-y-4">
-          <h2 className="text-xl font-bold tracking-tight">
+          <h2 className="text-lg font-bold tracking-tight sm:text-xl">
             Podrobný prehľad otázok a vysvetlení
           </h2>
 
@@ -770,29 +1112,29 @@ export function TestSuite({
                     : "border-2 border-red-500/60 bg-red-50/20"
                 }
               >
-                <CardHeader className="pb-3">
+                <CardHeader className="p-4 pb-3 sm:p-6 sm:pb-3">
                   <div className="flex flex-wrap items-center justify-between gap-2">
-                    <span className="text-sm font-semibold text-muted-foreground">
+                    <span className="text-xs font-semibold text-muted-foreground sm:text-sm">
                       Otázka #{idx + 1}
                     </span>
                     {item.isCorrect ? (
-                      <Badge className="gap-1 bg-emerald-600 text-white hover:bg-emerald-600">
+                      <Badge className="gap-1 bg-emerald-600 text-xs text-white hover:bg-emerald-600">
                         <CheckCircle2 className="h-3.5 w-3.5" />
                         Správne zodpovedané
                       </Badge>
                     ) : (
-                      <Badge variant="destructive" className="gap-1">
+                      <Badge variant="destructive" className="gap-1 text-xs">
                         <XCircle className="h-3.5 w-3.5" />
                         Nesprávne zodpovedané
                       </Badge>
                     )}
                   </div>
-                  <CardTitle className="pt-1 text-lg leading-snug">
+                  <CardTitle className="pt-1 text-base leading-snug sm:text-lg">
                     {item.content}
                   </CardTitle>
                 </CardHeader>
 
-                <CardContent className="space-y-4">
+                <CardContent className="space-y-4 p-4 pt-0 sm:p-6 sm:pt-0">
                   {/* Zoznam možností s farebným vyznačením */}
                   <div className="grid gap-2">
                     {item.options.map((opt) => {
@@ -811,16 +1153,16 @@ export function TestSuite({
                       return (
                         <div
                           key={opt.id}
-                          className={`flex items-center justify-between gap-3 rounded-lg border p-3 text-sm ${rowClass}`}
+                          className={`flex flex-col justify-between gap-2 rounded-lg border p-3 text-sm sm:flex-row sm:items-center sm:gap-3 ${rowClass}`}
                         >
-                          <div className="flex items-center gap-3">
+                          <div className="flex items-start gap-2.5 sm:items-center sm:gap-3">
                             <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded border bg-white/80 text-xs font-semibold uppercase">
                               {opt.id}
                             </span>
-                            <span>{opt.text}</span>
+                            <span className="leading-snug">{opt.text}</span>
                           </div>
 
-                          <div className="flex shrink-0 items-center gap-2 text-xs">
+                          <div className="flex shrink-0 items-center justify-end gap-2 text-xs">
                             {wasSelected && (
                               <Badge
                                 variant="outline"
@@ -842,12 +1184,12 @@ export function TestSuite({
                   </div>
 
                   {/* Vysvetlenie z databázy (explanation) */}
-                  <div className="rounded-lg border bg-card p-4 text-sm">
+                  <div className="rounded-lg border bg-card p-3.5 text-sm sm:p-4">
                     <div className="mb-1 flex items-center gap-1.5 font-semibold text-foreground">
                       <Sparkles className="h-4 w-4 text-primary" />
                       Vysvetlenie:
                     </div>
-                    <p className="text-muted-foreground leading-relaxed">
+                    <p className="text-xs leading-relaxed text-muted-foreground sm:text-sm">
                       {item.explanation
                         ? item.explanation
                         : "Pre túto otázku nie je v databáze uvedené podrobné vysvetlenie."}
@@ -864,4 +1206,3 @@ export function TestSuite({
 
   return null;
 }
-

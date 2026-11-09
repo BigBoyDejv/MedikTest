@@ -37,66 +37,89 @@ export async function Navbar() {
   const isAdmin = isAdminEmail(userEmail);
 
   return (
-    <header className="sticky top-0 z-30 border-b bg-card/85 backdrop-blur">
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
-        <div className="flex items-center gap-6">
-          <Link
-            href={userEmail ? "/dashboard" : "/"}
-            className="flex items-center gap-2.5 font-semibold tracking-tight text-foreground"
-          >
-            <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary text-primary-foreground">
-              <GraduationCap className="h-5 w-5" />
-            </span>
-            <span>Doktorský Edukátor</span>
-            <Badge variant="secondary" className="hidden sm:inline-flex">
-              Bezplatná EdTech platforma
-            </Badge>
-          </Link>
-        </div>
+    <header className="sticky top-0 z-40 border-b bg-card/90 backdrop-blur supports-[backdrop-filter]:bg-card/80">
+      <div className="mx-auto flex h-14 max-w-6xl items-center justify-between gap-2 px-3 sm:h-16 sm:px-6">
+        {/* Logo */}
+        <Link
+          href={userEmail ? "/dashboard" : "/"}
+          className="flex min-w-0 items-center gap-2 font-semibold tracking-tight text-foreground sm:gap-2.5"
+        >
+          <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-primary text-primary-foreground sm:h-9 sm:w-9">
+            <GraduationCap className="h-4 w-4 sm:h-5 sm:w-5" />
+          </span>
+          <span className="truncate text-sm sm:text-base">
+            Doktorský Edukátor
+          </span>
+          <Badge variant="secondary" className="hidden lg:inline-flex">
+            Bezplatná EdTech platforma
+          </Badge>
+        </Link>
 
-        <nav className="flex items-center gap-2.5">
+        {/* Navigácia prispôsobená pre mobil, tablet aj desktop */}
+        <nav className="flex shrink-0 items-center gap-1.5 sm:gap-2.5">
           {userEmail && (
             <>
-              <Button asChild variant="ghost" size="sm">
-                <Link href="/dashboard">
+              <Button
+                asChild
+                variant="ghost"
+                size="sm"
+                className="h-9 px-2.5 sm:px-3"
+              >
+                <Link href="/dashboard" title="Dashboard">
                   <BarChart3 className="h-4 w-4 text-primary" />
-                  <span>Dashboard</span>
+                  <span className="hidden sm:inline">Dashboard</span>
                 </Link>
               </Button>
 
-              <Button asChild variant="default" size="sm">
-                <Link href="/test">
+              <Button
+                asChild
+                variant="default"
+                size="sm"
+                className="h-9 px-2.5 sm:px-3"
+              >
+                <Link href="/test" title="Spustiť test">
                   <ClipboardList className="h-4 w-4" />
-                  <span>Spustiť test</span>
+                  <span className="text-xs sm:text-sm">Test</span>
                 </Link>
               </Button>
             </>
           )}
 
           {isAdmin && (
-            <Button asChild variant="outline" size="sm">
-              <Link href="/admin">
+            <Button
+              asChild
+              variant="outline"
+              size="sm"
+              className="h-9 px-2.5 sm:px-3"
+            >
+              <Link href="/admin" title="Admin CMS">
                 <ShieldCheck className="h-4 w-4 text-primary" />
-                <span>Admin CMS</span>
+                <span className="hidden md:inline">Admin CMS</span>
               </Link>
             </Button>
           )}
 
           {userEmail ? (
-            <div className="flex items-center gap-3">
-              <div className="hidden items-center gap-1.5 text-sm text-muted-foreground md:flex">
-                <User className="h-4 w-4" />
-                <span>{userEmail}</span>
+            <div className="flex items-center gap-1.5 sm:gap-2.5">
+              <div className="hidden items-center gap-1.5 text-xs text-muted-foreground xl:flex">
+                <User className="h-3.5 w-3.5" />
+                <span className="max-w-[180px] truncate">{userEmail}</span>
               </div>
               <form action={signOutAction}>
-                <Button type="submit" variant="ghost" size="sm">
+                <Button
+                  type="submit"
+                  variant="ghost"
+                  size="sm"
+                  className="h-9 px-2 text-muted-foreground hover:text-foreground sm:px-3"
+                  title="Odhlásiť sa"
+                >
                   <LogOut className="h-4 w-4" />
-                  <span>Odhlásiť</span>
+                  <span className="hidden md:inline">Odhlásiť</span>
                 </Button>
               </form>
             </div>
           ) : (
-            <Button asChild size="sm">
+            <Button asChild size="sm" className="h-9">
               <Link href="/login">Prihlásiť sa</Link>
             </Button>
           )}

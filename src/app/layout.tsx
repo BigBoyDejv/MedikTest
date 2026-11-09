@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "@/components/navbar";
@@ -11,6 +11,12 @@ export const metadata: Metadata = {
     "Bezplatná open-access EdTech aplikácia na prípravu na prijímacie skúšky na medicínu (Biológia, Chémia).",
 };
 
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -18,8 +24,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="sk">
-      <body className={inter.className}>
-        <div className="min-h-screen flex flex-col">
+      <body className={`${inter.className} overflow-x-hidden`}>
+        <div className="flex min-h-screen flex-col">
           <Navbar />
           <div className="flex-1">{children}</div>
         </div>
@@ -27,4 +33,3 @@ export default function RootLayout({
     </html>
   );
 }
-

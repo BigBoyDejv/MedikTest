@@ -95,18 +95,18 @@ export default async function TestPage({ searchParams }: TestPageProps) {
       : undefined;
 
   return (
-    <main className="mx-auto max-w-5xl space-y-8 px-4 py-8 sm:px-6">
+    <main className="mx-auto max-w-5xl space-y-6 px-3.5 py-6 sm:space-y-8 sm:px-6 sm:py-8">
       <div>
         <Badge variant="secondary" className="gap-1.5">
           <ClipboardList className="h-3.5 w-3.5 text-primary" />
           Testovací modul
         </Badge>
-        <h1 className="mt-2 text-3xl font-bold tracking-tight">
+        <h1 className="mt-2 text-2xl font-bold tracking-tight sm:text-3xl">
           Konfigurátor testov &amp; Testovací Engine
         </h1>
-        <p className="mt-1 text-sm text-muted-foreground">
-          Zostavte si cvičný test na mieru podľa okruhov, počtu otázok a vašej
-          doterajšej úspešnosti.
+        <p className="mt-1 text-xs text-muted-foreground sm:text-sm">
+          Zostavte si cvičný test na mieru s časovačom, výberom okruhov a
+          filtrovaním podľa vašej doterajšej úspešnosti.
         </p>
       </div>
 
