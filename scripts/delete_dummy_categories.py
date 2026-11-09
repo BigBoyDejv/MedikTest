@@ -38,3 +38,4 @@ with urllib.request.urlopen(req_all) as resp:
     print("Aktuálne kategórie v DB:")
     for c in cats:
         print(f" - {c['name']}")
+
