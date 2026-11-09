@@ -88,12 +88,16 @@ export default async function DashboardPage() {
   const [
     { data: subjects },
     { data: categories },
-    { data: questions },
+    { data: qBatch1 },
+    { data: qBatch2 },
+    { data: qBatch3 },
     { data: progressRows },
   ] = await Promise.all([
     supabase.from("subjects").select("id, name").order("name"),
     supabase.from("categories").select("id, subject_id, name").order("name"),
-    supabase.from("questions").select("id, category_id"),
+    supabase.from("questions").select("id, category_id").range(0, 999),
+    supabase.from("questions").select("id, category_id").range(1000, 1999),
+    supabase.from("questions").select("id, category_id").range(2000, 2999),
     supabase
       .from("user_progress")
       .select("id, question_id, is_correct, created_at")
@@ -103,7 +107,11 @@ export default async function DashboardPage() {
 
   const safeSubjects = subjects ?? [];
   const safeCategories = categories ?? [];
-  const safeQuestions = questions ?? [];
+  const safeQuestions = [
+    ...(qBatch1 ?? []),
+    ...(qBatch2 ?? []),
+    ...(qBatch3 ?? []),
+  ];
   const safeProgress = progressRows ?? [];
 
   // Mapovanie question_id -> category_id

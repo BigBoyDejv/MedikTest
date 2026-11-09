@@ -30,15 +30,28 @@ export default async function TestPage({ searchParams }: TestPageProps) {
     redirect("/login?next=/test");
   }
 
-  const [{ data: subjects }, { data: categories }, { data: questionRows }] =
-    await Promise.all([
-      supabase.from("subjects").select("id, name").order("name"),
-      supabase
-        .from("categories")
-        .select("id, subject_id, name")
-        .order("name"),
-      supabase.from("questions").select("id, category_id"),
-    ]);
+  const [
+    { data: subjects },
+    { data: categories },
+    { data: qBatch1 },
+    { data: qBatch2 },
+    { data: qBatch3 },
+  ] = await Promise.all([
+    supabase.from("subjects").select("id, name").order("name"),
+    supabase
+      .from("categories")
+      .select("id, subject_id, name")
+      .order("name"),
+    supabase.from("questions").select("id, category_id").range(0, 999),
+    supabase.from("questions").select("id, category_id").range(1000, 1999),
+    supabase.from("questions").select("id, category_id").range(2000, 2999),
+  ]);
+
+  const questionRows = [
+    ...(qBatch1 ?? []),
+    ...(qBatch2 ?? []),
+    ...(qBatch3 ?? []),
+  ];
 
   // Spočítame počet otázok v každej kategórii
   const countByCategoryId = new Map<string, number>();

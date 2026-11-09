@@ -110,11 +110,31 @@ export async function generateTestQuestionsAction(params: {
 
     const validLimit = Math.max(1, Math.min(200, Number(questionCount) || 10));
 
-    // Načítanie kandidátskych otázok z vybraných kategórií
-    const { data: rawQuestions, error: questionsError } = await supabase
-      .from("questions")
-      .select("id, category_id, content, options, correct_answers")
-      .in("category_id", categoryIds);
+    // Načítanie kandidátskych otázok z vybraných kategórií (podpora pre >1000 otázok cez range)
+    const [batch1, batch2, batch3] = await Promise.all([
+      supabase
+        .from("questions")
+        .select("id, category_id, content, options, correct_answers")
+        .in("category_id", categoryIds)
+        .range(0, 999),
+      supabase
+        .from("questions")
+        .select("id, category_id, content, options, correct_answers")
+        .in("category_id", categoryIds)
+        .range(1000, 1999),
+      supabase
+        .from("questions")
+        .select("id, category_id, content, options, correct_answers")
+        .in("category_id", categoryIds)
+        .range(2000, 2999),
+    ]);
+
+    const questionsError = batch1.error || batch2.error || batch3.error;
+    const rawQuestions = [
+      ...(batch1.data ?? []),
+      ...(batch2.data ?? []),
+      ...(batch3.data ?? []),
+    ];
 
     if (questionsError) {
       return {
