@@ -3,6 +3,7 @@
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { createClient } from "@/utils/supabase/server";
+import { isAdminEmail } from "@/lib/admin";
 
 function isValidEmail(email: string): boolean {
   return /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/.test(email);
@@ -56,7 +57,7 @@ export async function loginAction(formData: FormData) {
   }
 
   // Ak prihlásený používateľ nie je administrátor, skontrolujeme schválenie
-  const isAdmin = email === "david.rusin@student.tuke.sk";
+  const isAdmin = isAdminEmail(email);
   if (!isAdmin && data.user) {
     const { data: profile } = await supabase
       .from("profiles")
@@ -120,7 +121,7 @@ export async function signupAction(formData: FormData) {
       await supabase.from("profiles").upsert({
         id: data.user.id,
         email: data.user.email ?? email,
-        status: email === "david.rusin@student.tuke.sk" ? "approved" : "pending",
+        status: isAdminEmail(email) ? "approved" : "pending",
       });
     } catch {
       // Ignorovať, ak záznam vložil trigger
@@ -130,7 +131,7 @@ export async function signupAction(formData: FormData) {
   // Ak je používateľ prihlásený, presmerujeme ho podľa stavu
   if (data.session) {
     revalidatePath("/", "layout");
-    if (email === "david.rusin@student.tuke.sk") {
+    if (isAdminEmail(email)) {
       redirect("/admin");
     } else {
       redirect("/pending-approval");
