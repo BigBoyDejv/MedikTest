@@ -280,77 +280,78 @@ all_processed = {}
 for f in files:
     all_processed[f] = process_file(f)
 
-# Upload updated questions to Supabase
-print("\nUploading updated Chemistry questions with restored diacritics to Supabase...")
-SUPABASE_URL = "https://wuklewurydjemuoxuhoq.supabase.co"
-API_KEY = "sb_publishable_OHecNnlYu1zLQ1JnbIn9gQ_ebbcnscl"
+if __name__ == "__main__":
+    # Upload updated questions to Supabase
+    print("\nUploading updated Chemistry questions with restored diacritics to Supabase...")
+    SUPABASE_URL = "https://wuklewurydjemuoxuhoq.supabase.co"
+    API_KEY = "sb_publishable_OHecNnlYu1zLQ1JnbIn9gQ_ebbcnscl"
 
-def get_admin_token():
-    auth_url = f"{SUPABASE_URL}/auth/v1/token?grant_type=password"
-    headers = {"apikey": API_KEY, "Content-Type": "application/json"}
-    payload = json.dumps({
-        "email": "david.rusin@student.tuke.sk",
-        "password": "Gow79206"
-    }).encode("utf-8")
-    req = urllib.request.Request(auth_url, data=payload, headers=headers)
-    with urllib.request.urlopen(req) as resp:
-        return json.loads(resp.read().decode("utf-8"))["access_token"]
-
-token = get_admin_token()
-auth_headers = {"apikey": API_KEY, "Authorization": f"Bearer {token}"}
-
-# Get subject and categories
-req_sub = urllib.request.Request(f"{SUPABASE_URL}/rest/v1/subjects?select=id,name", headers=auth_headers)
-with urllib.request.urlopen(req_sub) as r:
-    subs = {s["name"]: s["id"] for s in json.loads(r.read().decode("utf-8"))}
-
-chem_id = subs["Chémia"]
-
-req_cat = urllib.request.Request(f"{SUPABASE_URL}/rest/v1/categories?select=id,name&subject_id=eq.{chem_id}", headers=auth_headers)
-with urllib.request.urlopen(req_cat) as r:
-    cats = {c["name"]: c["id"] for c in json.loads(r.read().decode("utf-8"))}
-
-print("Chemistry categories in Supabase:", cats)
-
-# Delete existing chemistry questions in Supabase
-for cat_name, cat_id in cats.items():
-    print(f"Clearing old questions for category '{cat_name}'...")
-    del_req = urllib.request.Request(
-        f"{SUPABASE_URL}/rest/v1/questions?category_id=eq.{cat_id}",
-        headers=auth_headers,
-        method="DELETE"
-    )
-    with urllib.request.urlopen(del_req) as _:
-        pass
-
-# Insert updated questions
-insert_url = f"{SUPABASE_URL}/rest/v1/questions"
-insert_headers = {
-    "apikey": API_KEY,
-    "Authorization": f"Bearer {token}",
-    "Content-Type": "application/json",
-    "Prefer": "return=minimal"
-}
-
-total_uploaded = 0
-for fname, qlist in all_processed.items():
-    print(f"Uploading {len(qlist)} questions from {fname}...")
-    batch_size = 100
-    for i in range(0, len(qlist), batch_size):
-        batch = qlist[i:i+batch_size]
-        records = [{
-            "category_id": cats[q["category"]],
-            "content": q["content"],
-            "options": q["options"],
-            "correct_answers": q["correct_answers"],
-            "explanation": q.get("explanation", "")
-        } for q in batch]
-        payload = json.dumps(records).encode("utf-8")
-        req = urllib.request.Request(insert_url, data=payload, headers=insert_headers)
+    def get_admin_token():
+        auth_url = f"{SUPABASE_URL}/auth/v1/token?grant_type=password"
+        headers = {"apikey": API_KEY, "Content-Type": "application/json"}
+        payload = json.dumps({
+            "email": "david.rusin@student.tuke.sk",
+            "password": "Gow79206"
+        }).encode("utf-8")
+        req = urllib.request.Request(auth_url, data=payload, headers=headers)
         with urllib.request.urlopen(req) as resp:
-            pass
-        total_uploaded += len(batch)
-        print(f"  Uploaded {total_uploaded} / 1260 questions...")
+            return json.loads(resp.read().decode("utf-8"))["access_token"]
 
-print(f"\nALL DONE! Successfully restored diacritics and uploaded {total_uploaded} chemistry questions to Supabase!")
+    token = get_admin_token()
+    auth_headers = {"apikey": API_KEY, "Authorization": f"Bearer {token}"}
+
+    # Get subject and categories
+    req_sub = urllib.request.Request(f"{SUPABASE_URL}/rest/v1/subjects?select=id,name", headers=auth_headers)
+    with urllib.request.urlopen(req_sub) as r:
+        subs = {s["name"]: s["id"] for s in json.loads(r.read().decode("utf-8"))}
+
+    chem_id = subs["Chémia"]
+
+    req_cat = urllib.request.Request(f"{SUPABASE_URL}/rest/v1/categories?select=id,name&subject_id=eq.{chem_id}", headers=auth_headers)
+    with urllib.request.urlopen(req_cat) as r:
+        cats = {c["name"]: c["id"] for c in json.loads(r.read().decode("utf-8"))}
+
+    print("Chemistry categories in Supabase:", cats)
+
+    # Delete existing chemistry questions in Supabase
+    for cat_name, cat_id in cats.items():
+        print(f"Clearing old questions for category '{cat_name}'...")
+        del_req = urllib.request.Request(
+            f"{SUPABASE_URL}/rest/v1/questions?category_id=eq.{cat_id}",
+            headers=auth_headers,
+            method="DELETE"
+        )
+        with urllib.request.urlopen(del_req) as _:
+            pass
+
+    # Insert updated questions
+    insert_url = f"{SUPABASE_URL}/rest/v1/questions"
+    insert_headers = {
+        "apikey": API_KEY,
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json",
+        "Prefer": "return=minimal"
+    }
+
+    total_uploaded = 0
+    for fname, qlist in all_processed.items():
+        print(f"Uploading {len(qlist)} questions from {fname}...")
+        batch_size = 100
+        for i in range(0, len(qlist), batch_size):
+            batch = qlist[i:i+batch_size]
+            records = [{
+                "category_id": cats[q["category"]],
+                "content": q["content"],
+                "options": q["options"],
+                "correct_answers": q["correct_answers"],
+                "explanation": q.get("explanation", "")
+            } for q in batch]
+            payload = json.dumps(records).encode("utf-8")
+            req = urllib.request.Request(insert_url, data=payload, headers=insert_headers)
+            with urllib.request.urlopen(req) as resp:
+                pass
+            total_uploaded += len(batch)
+            print(f"  Uploaded {total_uploaded} / 1260 questions...")
+
+    print(f"\nALL DONE! Successfully restored diacritics and uploaded {total_uploaded} chemistry questions to Supabase!")
 

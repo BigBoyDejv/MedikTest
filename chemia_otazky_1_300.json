@@ -5,16 +5,28 @@
     "content": "1. Suspenzia je:",
     "options": [
       {
+        "id": "a",
+        "text": "rovnorodá zmes rozpustenej tuhej látky rozptýlenej v kvapaline"
+      },
+      {
         "id": "b",
-        "text": "aeroso!"
+        "text": "aerosól"
       },
       {
         "id": "c",
         "text": "cigaretový dym"
       },
       {
+        "id": "d",
+        "text": "rôznorodá zmes nerozpustenej tuhej látky rozptýlenej v kvapaline"
+      },
+      {
         "id": "e",
         "text": "napr. zmes piesku a vody"
+      },
+      {
+        "id": "f",
+        "text": "rôznorodá zmes nerozpustenej tuhej látky rozptýlenej v plyne"
       },
       {
         "id": "g",
@@ -36,11 +48,19 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "2. Emulzia je: kvapaline",
+    "content": "2. Emulzia je:",
     "options": [
       {
+        "id": "a",
+        "text": "rôznorodá zmes, ktorá vznikne rozptýlením rozpustenej kvapaliny v inej kvapaline"
+      },
+      {
         "id": "b",
-        "text": "rovnorodá zmes troch kvapalín kvapaliny v inej kvapaline"
+        "text": "rovnorodá zmes troch kvapalín"
+      },
+      {
+        "id": "c",
+        "text": "rôznorodá zmes kvapalín, ktorá vznikne rozptýlením nerozpustenej kvapaliny v inej kvapaline"
       },
       {
         "id": "d",
@@ -148,7 +168,11 @@
       },
       {
         "id": "g",
-        "text": "filtrácia a kryštalizácia patria medzi separačné metódy h,podstatou destilácie je rozdielna teplota varu kvapalín"
+        "text": "filtrácia a kryštalizácia patria medzi separačné metódy"
+      },
+      {
+        "id": "h",
+        "text": "podstatou destilácie je rozdielna teplota varu kvapalín"
       }
     ],
     "correct_answers": [
@@ -396,15 +420,35 @@
     "options": [
       {
         "id": "a",
-        "text": "jednotkou je g.mol-!"
+        "text": "jednotkou je g.mol-1"
       },
       {
         "id": "b",
-        "text": "w(A)≤1 hmotnosti roztoku mr 100"
+        "text": "w(A) ≤ 1"
+      },
+      {
+        "id": "c",
+        "text": "vyjadrujeme ho ako pomer hmotnosti rozpustenej látky m(A) k celkovej hmotnosti roztoku mr"
+      },
+      {
+        "id": "d",
+        "text": "hmotnostný zlomok je možné vyjadriť aj v percentách, ak w(A) vydelíme 100"
       },
       {
         "id": "e",
-        "text": "hmotnostný zlomok látky môže byť väčší ako 1 koncentrovanejší 100"
+        "text": "hmotnostný zlomok látky môže byť väčší ako 1"
+      },
+      {
+        "id": "f",
+        "text": "vypočítame ako pomer počtu mólov látky A k celkovému počtu mólov"
+      },
+      {
+        "id": "g",
+        "text": "čím je hmotnostný zlomok rozpustenej látky väčšie číslo, tým je roztok koncentrovanejší"
+      },
+      {
+        "id": "h",
+        "text": "hmotnostný zlomok je možné vyjadriť aj v percentách, ak w(A) vynásobíme 100"
       }
     ],
     "correct_answers": [
@@ -510,8 +554,12 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "13. Na veľkosť atómov prvkovvperiodickej tabuľke majú primárny vplyy príťažlivé sily medzi atómovým jadrom a vonkajšími elektrónmi. Preto platí: a, veľkosť atómov v danej perióde sa zväčšuje s rastúcim Z prvkov",
+    "content": "13. Na veľkosť atómov prvkovvperiodickej tabuľke majú primárny vplyy príťažlivé sily medzi atómovým jadrom a vonkajšími elektrónmi. Preto platí:",
     "options": [
+      {
+        "id": "a",
+        "text": "veľkosť atómov v danej perióde sa zväčšuje s rastúcim Z prvkov"
+      },
       {
         "id": "b",
         "text": "veľkosť atómov v hlavnej podskupine sa zväčšuje s rastúcim Z prvkov"
@@ -522,23 +570,23 @@
       },
       {
         "id": "d",
-        "text": "veľkosť atómov v hlavnej podskupine sa zmenšuje s rasticim Z prvkov"
+        "text": "veľkosť atómov v hlavnej podskupine sa zmenšuje s rastúcim Z prvkov"
       },
       {
         "id": "e",
-        "text": "verkost atómov v hlavnej podskupine sa zmenšuje s klesajúcim Z prvkov"
+        "text": "veľkosť atómov v hlavnej podskupine sa zmenšuje s klesajúcim Z prvkov"
       },
       {
         "id": "f",
-        "text": "veľkosť atómov v danej perióde sa zväčšuje s klesajúcim Z prvkov s výnimkou plynov"
+        "text": "veľkosť atómov v danej perióde sa zväčšuje s klesajúcim Z prvkov s výnimkou vzácnych plynov"
       },
       {
         "id": "g",
-        "text": "ve'kosť atómov v hlavnej podskupine sa zväčšuje s klesajúcim Z prvkov s výnimkou plynov"
+        "text": "veľkosť atómov v hlavnej podskupine sa zväčšuje s klesajúcim Z prvkov s výnimkou vzácnych plynov"
       },
       {
         "id": "h",
-        "text": "veľkosť atómov v danej perióde sa zväčšuje s rastúcim Z prvkov svynimkouinertnychplynov"
+        "text": "veľkosť atómov v danej perióde sa zväčšuje s rastúcim Z prvkov s výnimkou inertných plynov"
       }
     ],
     "correct_answers": [
@@ -733,8 +781,12 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "18. Vyberte nesprávne tvrdenie: vzorec",
+    "content": "18. Vyberte nesprávne tvrdenie:",
     "options": [
+      {
+        "id": "a",
+        "text": "homogénna zmes"
+      },
       {
         "id": "b",
         "text": "molekulový vzorec vyjadruje skutočný počet atómov v zlúčenine"
@@ -754,6 +806,10 @@
       {
         "id": "f",
         "text": "konfiguračný vzorec vyjadruje priestorové usporiadanie atómov zlúčeniny"
+      },
+      {
+        "id": "g",
+        "text": "chaakuteristickatmezoskueniasuzhradnenegometrickomzori gzluceninyom athiamatrialahaaroo voter"
       },
       {
         "id": "h",
@@ -1052,6 +1108,26 @@
       {
         "id": "a",
         "text": "látky, ktorých atómy majú rovnaké protónové číslo rôznym protónovým číslom číslom rôznym nukleónovým číslom"
+      },
+      {
+        "id": "b",
+        "text": "chemickyciste látky,molekulykorych suzlozene zronakych atomoy"
+      },
+      {
+        "id": "c",
+        "text": "látky,torychatomyobsahuju atómové jadrasronakym nukleonovymale cisomj.tcoaxtaolmtttwaiconovym e látky,ktorých atómy obsahujú rôzny počet valenčných elektronoy lakuamnm f látky,ktorychatomyobsahuju atmovejadrasuritym neutonoym,aleš trozymnukleonovym Cislomuooojatabrctyeutonovym,aleš"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D (pozri testovnicu)"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F (pozri testovnicu)"
       },
       {
         "id": "g",
@@ -1443,6 +1519,10 @@
     "content": "34. Vyberte správne tvrdenie:",
     "options": [
       {
+        "id": "a",
+        "text": "fyzikalnydejespojeny sozmenouzlozeniamolekal"
+      },
+      {
         "id": "b",
         "text": "zahrievanie a topenie sú chemické deje vyžadujúce tepelnú energiu"
       },
@@ -1457,6 +1537,10 @@
       {
         "id": "e",
         "text": "horenie je fyzikálny dej pri ktorom sa nemení zloženie molekil molekil"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F (pozri testovnicu)"
       },
       {
         "id": "g",
@@ -1490,7 +1574,7 @@
       },
       {
         "id": "c",
-        "text": "A, = matomu /u"
+        "text": "= matomu /u"
       },
       {
         "id": "d",
@@ -1598,7 +1682,7 @@
       },
       {
         "id": "g",
-        "text": "n = Na.u/N, g.mol-1"
+        "text": "n = Na.u/N,"
       },
       {
         "id": "h",
@@ -2054,6 +2138,10 @@
         "text": "zmiešavacej: mi.Wi + m2.W2 = m.w, kde m = mi . m2 zlomok čistej látky=0"
       },
       {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
         "id": "h",
         "text": "zmiešavacej: mi.Wi + m2.W2 = m.w, kde mi = m - m2"
       }
@@ -2186,6 +2274,10 @@
       {
         "id": "f",
         "text": "väčšina halogenidov prvkov sa vyznačuje dobrou rozpustnosťou vo vode"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
       },
       {
         "id": "h",
@@ -2626,6 +2718,10 @@
       {
         "id": "b",
         "text": "obsahuje komplexný anión s nábojovým číslom -3"
+      },
+      {
+        "id": "c",
+        "text": "koordinaneislakomplenehokationuakomplexnhoanionusironake fma vzareekconeaniCrecndg"
       },
       {
         "id": "d",
@@ -4659,11 +4755,11 @@
       },
       {
         "id": "f",
-        "text": "pružinovú oceľ tvoria Fe, C, Čr, Ni"
+        "text": "pružinovú oceľ tvoria Fe,"
       },
       {
         "id": "g",
-        "text": "nehrdzavejúcu oceľ tvoria Fe, C, Čr"
+        "text": "nehrdzavejúcu oceľ tvoria Fe,"
       },
       {
         "id": "h",
@@ -5261,7 +5357,7 @@
       },
       {
         "id": "g",
-        "text": "môže nadobúdať hodnoty označované písmenami s, p, d, f"
+        "text": "môže nadobúdať hodnoty označované písmenami s, p,"
       },
       {
         "id": "h",
@@ -5626,6 +5722,10 @@
         "text": "znamená, že atóm neprijal energiu a nie je v excitovanom stave konfigurácia"
       },
       {
+        "id": "g",
+        "text": "atóm prijimaenergiu,mení ajeho energeticky stavaelekronova"
+      },
+      {
         "id": "h",
         "text": "je stav, kedy má atóm najnižšiu energiu"
       }
@@ -5841,6 +5941,10 @@
       {
         "id": "d",
         "text": "halogény majú elektrónovú konfiguráciu valenčnej vrstvy spš islom Z> 20"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
       },
       {
         "id": "f",
@@ -6068,6 +6172,10 @@
         "text": "6Č: [2He] 2š2p3"
       },
       {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
         "id": "f",
         "text": "29Cu': [18Ar] 3ď04s!"
       },
@@ -6136,7 +6244,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "137. Aký maximálny počet orbitálov s, p, d, f môže existovať v určitej elektrónovej vrstve atómu?",
+    "content": "137. Aký maximálny počet orbitálov s, p,",
     "options": [
       {
         "id": "a",
@@ -6144,7 +6252,7 @@
       },
       {
         "id": "b",
-        "text": "O: 1 typu s, 3 typu p, 5 typu d, 7 typu f"
+        "text": "O: 1 typu s, 3 typu p, 5 typu"
       },
       {
         "id": "c",
@@ -6156,11 +6264,11 @@
       },
       {
         "id": "e",
-        "text": "M: 5 typu d, 7 typu f"
+        "text": "M: 5 typu"
       },
       {
         "id": "f",
-        "text": "N: 4 typu s, 4 typu p, 4 typu d, 4 typu f"
+        "text": "N: 4 typu s, 4 typu p, 4 typu"
       },
       {
         "id": "g",
@@ -6168,7 +6276,7 @@
       },
       {
         "id": "h",
-        "text": "P: 1 typu s, 3 typu p, 5 typu d, 7 typu f"
+        "text": "P: 1 typu s, 3 typu p, 5 typu"
       }
     ],
     "correct_answers": [
@@ -6377,6 +6485,10 @@
         "text": "spinové kvantové išlo popisuje vnútorný moment hybnosti elektrónu"
       },
       {
+        "id": "c",
+        "text": "sparovaneelektronydegenerovnychvrbitalechemaizneveahypaine"
+      },
+      {
         "id": "d",
         "text": "kombináciou všetkých štyroch kvantových čísel je možné jednoznačne charakterizovať ktoryko'vek elektrón v obale atómu"
       },
@@ -6567,6 +6679,10 @@
       {
         "id": "e",
         "text": "sa Žiadne Žiarenie neuvoľňuje, premena neprebieha"
+      },
+      {
+        "id": "f",
+        "text": "jenadbytokprotonov,pretodochadzakpremene'ip-→'on++e g erotanvekisloznsazmreni nazhadzakpremene'ip→on++ie g protonovekislo Zsazmeninazhdzakemisi elektrenoy"
       },
       {
         "id": "g",
@@ -7295,6 +7411,10 @@
         "text": "nemají vplyv na skupenský stav látok"
       },
       {
+        "id": "e",
+        "text": "vodikovavazba nepatrido skupinymedzimolekulovychsil"
+      },
+      {
         "id": "f",
         "text": "môžu ovplyvniť aj pôsobenie liečivá na organizmus"
       },
@@ -7485,6 +7605,10 @@
       {
         "id": "g",
         "text": "rozdeľujeme ich na iónové, atómové a molekulové"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
       }
     ],
     "correct_answers": [
@@ -7663,6 +7787,10 @@
         "text": "koordinačná väzba nemá kovalentný charakter uhlíka"
       },
       {
+        "id": "g",
+        "text": "prinou farebnosti mnohých organických zlúčenín st aj násobne väzby"
+      },
+      {
         "id": "h",
         "text": "molekula obsahujúca iba polárne väzby je celá polárna"
       }
@@ -7749,6 +7877,10 @@
       {
         "id": "f",
         "text": "v molekulách bielkovín stabilizuje ich sekundárnu štruktúru 45 a varu"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
       },
       {
         "id": "h",
@@ -7873,6 +8005,18 @@
         "text": "patria sem van der Waalsove sily a vodíková väzba najsilnejšie"
       },
       {
+        "id": "d",
+        "text": "najsilnejsiepor-dpor šuzo staoye mezoteuoyoneedle eajsilneisieodstatu rozpustnosti polárnej latkypolarmom rozpistadle esverujupodstaturozpustnstiolameilatpamwaaschsi hydrofobneinterakciesi ibaysledkomposobeniavanderWaalsovychsil geuplaujuedyaksanamolekuladstadoblizoti hmolekulypolarmeie oyplyviovaniemolekil.tóre samozuspajat do"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F (pozri testovnicu)"
+      },
+      {
         "id": "g",
         "text": "neuplatuju sa vtedy, ak sa nepolárna molekula dostane do blízkosti molekulypolarnej"
       },
@@ -7912,7 +8056,7 @@
       },
       {
         "id": "e",
-        "text": "F...H"
+        "text": "..H"
       },
       {
         "id": "f",
@@ -7920,7 +8064,7 @@
       },
       {
         "id": "g",
-        "text": "C...H"
+        "text": "..H"
       },
       {
         "id": "h",
@@ -8212,11 +8356,19 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "183. Medzi charakteristické vlastnosti iónových zlúčenín patrí: a, že sa vyskytujú prevažne v plynnom skupenstve",
+    "content": "183. Medzi charakteristické vlastnosti iónových zlúčenín patrí:",
     "options": [
       {
+        "id": "a",
+        "text": "dobrá rozpustmostvpolarnychrozpustadlach"
+      },
+      {
         "id": "b",
-        "text": "nízka teplota topenia a varu (300 °C - 500 °C) c, zlá rozpustnosť vo vode"
+        "text": "nízka teplota topenia a varu (300 °C - 500 °C)"
+      },
+      {
+        "id": "c",
+        "text": "zlá rozpustnosť vo vode"
       },
       {
         "id": "d",
@@ -8677,8 +8829,16 @@
         "text": "atómovú kryštálovú štruktúru má napr. diamant, zns, karbid kremíka, cucl skupenstve"
       },
       {
+        "id": "d",
+        "text": "atómové kryštály existujú pri bežných podmienkach (20°C, 105 Pa) tuhom"
+      },
+      {
         "id": "e",
         "text": "kryštály vzácnych plynov majú atómovú kryštálovú štruktúru kryštály"
+      },
+      {
+        "id": "f",
+        "text": "za normálnych podmienok sa vyskytuje vrovnakom skupenstve ako iónové . zkrystalylyen pouenok sa vyskytuje Vrovnakom skupenstve ako iónové g skrystalarne látky. preto sa nerozpistait vo vode gsutopolarlatky,reto sanrozpustajuoode"
       },
       {
         "id": "g",
@@ -8732,7 +8892,7 @@
       },
       {
         "id": "h",
-        "text": "hybridizáciou jedného d, jedného s a dvoch p vzniknú štyri dsp2 orbitály, štvorcové usporiadanie"
+        "text": "hybridizáciou jedného"
       }
     ],
     "correct_answers": [
@@ -9079,12 +9239,24 @@
         "text": "atómové kryštály nevedú elektrický prúd 52"
       },
       {
+        "id": "c",
+        "text": "Možnosť C (pozri testovnicu)"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D (pozri testovnicu)"
+      },
+      {
         "id": "e",
         "text": "v molekule H2S je polárna kovalentná väzba"
       },
       {
         "id": "f",
         "text": "kovalentnou väzbou sui viazané atómy v metáne"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
       },
       {
         "id": "h",
@@ -9530,6 +9702,10 @@
         "text": "pri hydrataci sa teplo uvoľňuje, rozpúšťanie je preto dej exotermicky rozrušenie kryštálovej štruktúry a tepla uvoľneného pri hydratácii iónov"
       },
       {
+        "id": "d",
+        "text": "yslednytepelnyefektrozpustaniasarovnasuctuteplapotrebnehona deeneystaleeiStktya saplaaSuendatno e irozruseniekystalovej Strutiry a tepla uvo'neného pri hydrataci iónov"
+      },
+      {
         "id": "e",
         "text": "je to exotermicky dej"
       },
@@ -9632,6 +9808,10 @@
       {
         "id": "g",
         "text": "nezávisí na veľkosti systému a je vždy kladná systému"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
       }
     ],
     "correct_answers": [
@@ -9752,6 +9932,10 @@
         "text": "prebieha pri teplotách vyšších ako 500 K"
       },
       {
+        "id": "d",
+        "text": "Možnosť D (pozri testovnicu)"
+      },
+      {
         "id": "e",
         "text": "pri teplotách pod 500 K dochádza k poklesu Gibbsovej energie"
       },
@@ -9808,6 +9992,10 @@
       {
         "id": "g",
         "text": "Mg (s) + Cl2 (g) -→ MgCl2 (s) () H  + (S)  + ()   (S) (thn) 56"
+      },
+      {
+        "id": "h",
+        "text": "(NH4)2Cr20 (s) → N2 (g)+ Cr2O:(s)+ 4 H20 (g)"
       }
     ],
     "correct_answers": [
@@ -10075,6 +10263,10 @@
         "text": "2 H20(I) → 2 H2(g) + O2(g); Qm = + 452 kj/mol 1-10T 698- = HV :(1) H Z + (8)00z (8)20 Z + (1) H000 8"
       },
       {
+        "id": "g",
+        "text": "CHaC00H()+202(g)→2.CO2(g)+ 2 H20 (I); AH=-869 J.moll"
+      },
+      {
         "id": "h",
         "text": "N2(g) + O2(g) + 180,6 kj → 2NO(g)"
       }
@@ -10118,6 +10310,10 @@
       {
         "id": "g",
         "text": "ak dochádza k zmenšeniu entropie, reakcia môže prebehnúť"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
       }
     ],
     "correct_answers": [
@@ -10436,6 +10632,10 @@
       {
         "id": "g",
         "text": "nezávisí od aktivačnej energie (Ea)"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
       }
     ],
     "correct_answers": [
@@ -10600,12 +10800,20 @@
         "text": "v = -d[HCOOH]/dt 60 IP/[HOOO0Hp-= A\"P"
       },
       {
+        "id": "d",
+        "text": "Možnosť D (pozri testovnicu)"
+      },
+      {
         "id": "e",
         "text": "v = -d[H2O]/dt"
       },
       {
         "id": "f",
         "text": "v = -d[CH3OH]/dt IP/[HOOOHlp = A 3"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
       },
       {
         "id": "h",
@@ -10770,6 +10978,30 @@
       {
         "id": "b",
         "text": "2 NO (g) + O2 (g)  2 NO2 (g) + 117,2 kj, ak sa zvýši teplota, rovnováha sa posunie v prospech produktov 61 železitého, potom sa rovnováha posunie v prospech reaktantov posunie v prospech produktov posunie v prospech reaktantov posunie v prospech produktov"
+      },
+      {
+        "id": "c",
+        "text": "Možnosť C (pozri testovnicu)"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D (pozri testovnicu)"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F (pozri testovnicu)"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
       }
     ],
     "correct_answers": [
@@ -10879,7 +11111,15 @@
     "options": [
       {
         "id": "a",
-        "text": "nedochádza k zániku väzieb medzi atómami molekil východzích látok b, nedochádza k prekrývaniu elektrónových orbitálov látky zložené"
+        "text": "nedochádza k zániku väzieb medzi atómami molekil východzích látok"
+      },
+      {
+        "id": "b",
+        "text": "nedochádza k prekrývaniu elektrónových orbitálov látky zložené"
+      },
+      {
+        "id": "c",
+        "text": "nemenisacelkovy počet a druh jednotlivých atómov,zktorych si reagujúce dlakyzlozenepaagonoyenatoov,zkoryn sutcggu"
       },
       {
         "id": "d",
@@ -10892,6 +11132,14 @@
       {
         "id": "f",
         "text": "dochádza k uvo'novaniu alebo spotrebovaniu tepelnej energie 62 atómov, molekúl)"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
       }
     ],
     "correct_answers": [
@@ -10911,6 +11159,14 @@
       {
         "id": "a",
         "text": "sa najčastejšie vyjadrujev jednotkách kj/mol"
+      },
+      {
+        "id": "b",
+        "text": "priktorych vznikaImolziuceninyprkmv,sanazyazluovacie teplé"
+      },
+      {
+        "id": "c",
+        "text": "nzavisiodteployatlakuriorychreakcieprebiehajuucovaleteo"
       },
       {
         "id": "d",
@@ -10973,6 +11229,10 @@
       {
         "id": "g",
         "text": "ak H < 0, reakcia nikdy neprebieha samovoľne"
+      },
+      {
+        "id": "h",
+        "text": "hodnotureakcneho tepla ovplyviuje skupenský stav reagujúcich látok"
       }
     ],
     "correct_answers": [
@@ -11061,6 +11321,10 @@
       {
         "id": "g",
         "text": "sa energia okolia reakčnej sústavy znižuje iba teplo) je možné zo sústavy energiu odoberať"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
       }
     ],
     "correct_answers": [
@@ -11091,6 +11355,14 @@
       {
         "id": "d",
         "text": "zvýšenie teploty posuiva rovnováhu reakcie v prospech reaktantov"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F (pozri testovnicu)"
       },
       {
         "id": "g",
@@ -11185,6 +11457,10 @@
         "text": "dosiahne sústava rýchlejšie v prítomnosti katalyzátora"
       },
       {
+        "id": "g",
+        "text": "sanikdynedosiahnehomgenej,plynnj,uzavreté sistave .charaktereujesraynakahmhstpriamleinspamareaksiestave"
+      },
+      {
         "id": "h",
         "text": "charakterizuje rovnaká rýchlosť priamej a spätnej reakcie"
       }
@@ -11249,6 +11525,22 @@
     "category": "Všeobecná a anorganická chémia",
     "content": "252. Vyberte správne tvrdenie: 64 danej zlúčeniny priamo z prvkov",
     "options": [
+      {
+        "id": "a",
+        "text": "Možnosť A (pozri testovnicu)"
+      },
+      {
+        "id": "b",
+        "text": "Možnosť B (pozri testovnicu)"
+      },
+      {
+        "id": "c",
+        "text": "Možnosť C (pozri testovnicu)"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D (pozri testovnicu)"
+      },
       {
         "id": "e",
         "text": "rovnice ČO (g) + H2O (g) → CO2 (g) + H2 (g); AHO = -41,2 kj/mol a CO2(g) + H2 (g) -→ ČO (g) + H2O (g); △H' = 41,2 kj/mol sú vyjadrením I. termochemickeho zákona"
@@ -11443,6 +11735,10 @@
         "text": "ak sa mení zloženie molekúl, potom hovoríme o fyzikálnom deji"
       },
       {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
         "id": "h",
         "text": "ak dochádza k zmene východzích látok (reaktanty) na látky iné (produkty), ide o dej nazývaný chemická reakcia"
       }
@@ -11553,6 +11849,10 @@
     "content": "259. Malo rozpustná látka:",
     "options": [
       {
+        "id": "a",
+        "text": "yevikoenevahesionmeaknasytenomroztoku d jevihesinmhasyenmztostostiareakei teploty nikzavislostiodhodnotysuinurozpustnostiareaknejteploty fnikrakouritorejsuinkoncentrairaktanvjeyssiak"
+      },
+      {
         "id": "b",
         "text": "má tým vyššiu pravdepodobnosť vzniku, Čím je hodnota K, vysia"
       },
@@ -11563,6 +11863,22 @@
       {
         "id": "d",
         "text": "je v rovnováhe s iónmi v nasýtenom roztoku 66"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
+        "id": "f",
+        "text": "vznka reaklou, phktore sue 6cehtacreaktantov je yssi ako K"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
       }
     ],
     "correct_answers": [
@@ -11578,6 +11894,18 @@
     "category": "Všeobecná a anorganická chémia",
     "content": "260. Teplota: zníži reakčná teplota vyššia pozitívna",
     "options": [
+      {
+        "id": "a",
+        "text": "Možnosť A (pozri testovnicu)"
+      },
+      {
+        "id": "b",
+        "text": "ovplyviuje endotermický rozklad uhlitanu vápenatého pozitívne, ak je eakenaiepozitivnsrozpustnost látok, ak je zmena entalpie rozpúšťania"
+      },
+      {
+        "id": "c",
+        "text": "ovplyviuje pozitívne rozpustnosť látok, ak je zmena entalpie rozpúšťania"
+      },
       {
         "id": "d",
         "text": "ovplyvhuje rýchlosť reakcií"
@@ -11707,6 +12035,10 @@
       {
         "id": "a",
         "text": "s rastom sily kyseliny rastie aj sila jej konjugovanej zásady"
+      },
+      {
+        "id": "b",
+        "text": "spoklesomsilykyselinyrastiesilajejkonjugoanejzasady"
       },
       {
         "id": "c",
@@ -11902,7 +12234,7 @@
       },
       {
         "id": "e",
-        "text": "osmotický tlak závisí od teploty podľa van 't Hoffovho vzťahu pi = c.R.T"
+        "text": "osmotický tlak závisí od teploty podľa van 't Hoffovho vzťahu pi ="
       },
       {
         "id": "f",
@@ -12646,6 +12978,10 @@
         "text": "závisí od teploty"
       },
       {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
         "id": "h",
         "text": "kyseliny je tým menšia, Čím slabšia je väzba medzi vodíkom a kyslíkom v molekule kyseliny"
       }
@@ -12718,12 +13054,24 @@
         "text": "hydrogenfosforečnany sú amfolyty 72"
       },
       {
+        "id": "c",
+        "text": "hydrogenfosforenanyreagujukyslejsieako dihydrogenfosforenany α.KHPO4nemoze byťsucastoufosfatoveho pufrydrogenfosforechany"
+      },
+      {
+        "id": "d",
+        "text": "Ksfoprenanmmajpamfotastyuhasatevehopufru"
+      },
+      {
         "id": "e",
         "text": "fosforečnany majú amfotérny charakter"
       },
       {
         "id": "f",
         "text": "hydrogenfosforečnany sú konjugované zásady k dihydrogenfosforecnanom"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
       },
       {
         "id": "h",
@@ -13130,6 +13478,14 @@
         "text": "reakcia, pri ktorej sa spotrebuje teplo f reakcia, pri ktorej vznikne tlmivá sústava"
       },
       {
+        "id": "f",
+        "text": "Možnosť F (pozri testovnicu)"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
         "id": "h",
         "text": "reakcia, produktom ktorej je voda a sop reagujúcej kyseliny"
       }
@@ -13309,6 +13665,10 @@
         "text": "KCN + H2O → K+ + HCN + OH-, pH bude zásadité 75"
       },
       {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
         "id": "h",
         "text": "Čas(PO4)2 má silné zásaditý katión, pH bude 14"
       }
@@ -13326,6 +13686,10 @@
     "category": "Všeobecná a anorganická chémia",
     "content": "299. Označte nepravdivý výrok - ak rozpisťame vo vode soľ’:",
     "options": [
+      {
+        "id": "a",
+        "text": "sinej kyselinyasinejzasadypHroztoku sanemeni"
+      },
       {
         "id": "b",
         "text": "silnej kyseliny a slabej zásady - pH roztoku klesá"
