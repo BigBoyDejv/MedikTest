@@ -7,9 +7,9 @@ import { AgentationProvider } from "@/components/agentation-provider";
 const inter = Inter({ subsets: ["latin", "latin-ext"] });
 
 export const metadata: Metadata = {
-  title: "Doktorský Edukátor | Bezplatná príprava na prijímačky",
+  title: "educore | Príprava na prijímačky na VŠ",
   description:
-    "Bezplatná open-access EdTech aplikácia na prípravu na prijímacie skúšky na medicínu (Biológia, Chémia).",
+    "Príprava na prijímacie skúšky na vysoké školy (Biológia, Chémia).",
 };
 
 export const viewport: Viewport = {

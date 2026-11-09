@@ -3,7 +3,6 @@ import { createClient } from "@/utils/supabase/server";
 import { isAdminEmail } from "@/lib/admin";
 import { signOutAction } from "@/app/login/actions";
 import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
 import {
   BarChart3,
   ClipboardList,
@@ -47,12 +46,9 @@ export async function Navbar() {
           <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-primary text-primary-foreground sm:h-9 sm:w-9">
             <GraduationCap className="h-4 w-4 sm:h-5 sm:w-5" />
           </span>
-          <span className="truncate text-sm sm:text-base">
-            Doktorský Edukátor
+          <span className="truncate text-sm sm:text-base font-bold">
+            educore
           </span>
-          <Badge variant="secondary" className="hidden lg:inline-flex">
-            Bezplatná EdTech platforma
-          </Badge>
         </Link>
 
         {/* Navigácia prispôsobená pre mobil, tablet aj desktop */}

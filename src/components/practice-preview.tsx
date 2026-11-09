@@ -12,7 +12,6 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
 import { CheckCircle2, HelpCircle, XCircle } from "lucide-react";
 
 function normalizeOptions(options: Question["options"]): QuestionOption[] {
@@ -96,18 +95,11 @@ export function PracticePreview({
   return (
     <Card>
       <CardHeader>
-        <div className="flex flex-wrap items-center justify-between gap-2">
-          <div className="flex items-center gap-2">
-            <HelpCircle className="h-5 w-5 text-primary" />
-            <CardTitle className="text-lg">
-              Rýchle precvičovanie ({currentIndex + 1} / {questions.length})
-            </CardTitle>
-          </div>
-          <Badge variant={isMultipleChoice ? "default" : "secondary"}>
-            {isMultipleChoice
-              ? "Multiple Choice (viac správnych)"
-              : "Single Choice (1 správna)"}
-          </Badge>
+        <div className="flex items-center gap-2">
+          <HelpCircle className="h-5 w-5 text-primary" />
+          <CardTitle className="text-lg">
+            Rýchle precvičovanie ({currentIndex + 1} / {questions.length})
+          </CardTitle>
         </div>
         <CardDescription className="pt-2 text-base font-medium text-foreground">
           {question.content}

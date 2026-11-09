@@ -18,7 +18,6 @@ import {
   CheckCircle2,
   ClipboardList,
   ShieldCheck,
-  Sparkles,
   Trophy,
 } from "lucide-react";
 import type { Question } from "@/types/database";
@@ -88,12 +87,8 @@ export default async function HomePage() {
       <section className="rounded-2xl border bg-card p-6 shadow-sm sm:p-8">
         <div className="flex flex-col justify-between gap-6 md:flex-row md:items-center">
           <div className="space-y-2">
-            <Badge variant="secondary" className="gap-1.5">
-              <Sparkles className="h-3.5 w-3.5 text-primary" />
-              100 % bezplatná príprava na prijímačky
-            </Badge>
             <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">
-              Doktorský Edukátor
+              Príprava na prijímačky na VŠ
             </h1>
             <p className="max-w-2xl text-muted-foreground">
               Interaktívna databáza testových otázok (Single &amp; Multiple
