@@ -353,3 +353,4 @@ for fname, qlist in all_processed.items():
         print(f"  Uploaded {total_uploaded} / 1260 questions...")
 
 print(f"\nALL DONE! Successfully restored diacritics and uploaded {total_uploaded} chemistry questions to Supabase!")
+
