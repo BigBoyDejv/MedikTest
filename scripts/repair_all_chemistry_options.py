@@ -196,3 +196,4 @@ all_have_8 = all(len(q["options"]) == 8 for q in questions_1_300)
 all_ids_valid = all([o["id"] for o in q["options"]] == ["a", "b", "c", "d", "e", "f", "g", "h"] for q in questions_1_300)
 print(f"Verification: all questions have 8 options = {all_have_8}")
 print(f"Verification: all option IDs strictly a..h = {all_ids_valid}")
+
