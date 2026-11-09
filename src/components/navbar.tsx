@@ -86,11 +86,12 @@ export async function Navbar() {
               asChild
               variant="outline"
               size="sm"
-              className="h-9 px-2.5 sm:px-3"
+              className="h-9 px-2 sm:px-3 gap-1.5"
             >
               <Link href="/admin" title="Admin CMS">
                 <ShieldCheck className="h-4 w-4 text-primary" />
-                <span className="hidden md:inline">Admin CMS</span>
+                <span className="hidden sm:inline">Admin CMS</span>
+                <span className="sm:hidden text-xs">Admin</span>
               </Link>
             </Button>
           )}
