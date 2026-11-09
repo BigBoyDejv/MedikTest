@@ -39,3 +39,5 @@ next-env.d.ts
 # Study materials & PDFs
 *.pdf
 /data/
+temp_pages/
+temp_*.json
