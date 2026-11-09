@@ -22,3 +22,4 @@ export function AgentationProvider() {
   // Render in development or whenever requested
   return <AgentationToolbar />;
 }
+
