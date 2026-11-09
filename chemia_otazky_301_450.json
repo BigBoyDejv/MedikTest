@@ -2,7 +2,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "301. Neutralne pH ma vodny roztok:",
+    "content": "301. Neutrálne pH má vodný roztok:",
     "options": [
       {
         "id": "a",
@@ -48,7 +48,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "302. Ktora sustava po pridani mensieho mnozstva silnej kyseliny, zarui stalost' pH?",
+    "content": "302. Ktorá sústava po pridaní menšieho množstvá silnej kyseliny, zarui stálosť pH?",
     "options": [
       {
         "id": "a",
@@ -56,7 +56,7 @@
       },
       {
         "id": "b",
-        "text": "kyselina trichloroctova a NaCl"
+        "text": "kyselina trichloroctova a nacl"
       },
       {
         "id": "c",
@@ -64,7 +64,7 @@
       },
       {
         "id": "d",
-        "text": "H2SO4 a NaOH"
+        "text": "H2SO4 a naoh"
       },
       {
         "id": "e",
@@ -72,15 +72,15 @@
       },
       {
         "id": "f",
-        "text": "NaCI a HC1O4"
+        "text": "náci a HC1O4"
       },
       {
         "id": "g",
-        "text": "kyselina borita a borax"
+        "text": "kyselina boritá a bórax"
       },
       {
         "id": "h",
-        "text": "octan sodny a kyselina octova"
+        "text": "octan sodný a kyselina octová"
       }
     ],
     "correct_answers": [
@@ -94,7 +94,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "303. Malym pridavkom kyseliny sa hodnota pH vyraznejsie nezmeni v roztoku:",
+    "content": "303. Malým prídavkom kyseliny sa hodnota pH výraznejšie nezmení v roztoku:",
     "options": [
       {
         "id": "a",
@@ -106,7 +106,7 @@
       },
       {
         "id": "c",
-        "text": "HBr/NaBr"
+        "text": "hbr/nabr"
       },
       {
         "id": "d",
@@ -118,7 +118,7 @@
       },
       {
         "id": "f",
-        "text": "kyselina citronova/citronan sodny"
+        "text": "kyselina citrónová/citrónan sodný"
       },
       {
         "id": "g",
@@ -140,7 +140,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "304. Urete konjugovane pary protolytickej reakcie: CH3COOH + CoHsNH2 -→ C6HsNH3+ + CH3CO0-",
+    "content": "304. Urete konjugované páry protolytickej reakcie: CH3COOH + CoHsNH2 -→ C6HsNH3+ + CH3CO0-",
     "options": [
       {
         "id": "a",
@@ -156,11 +156,11 @@
       },
       {
         "id": "d",
-        "text": "kyselina octova a octan"
+        "text": "kyselina octová a octan"
       },
       {
         "id": "e",
-        "text": "anilin a CoHsNH3+"
+        "text": "anilín a CoHsNH3+"
       },
       {
         "id": "f",
@@ -168,7 +168,7 @@
       },
       {
         "id": "g",
-        "text": "kyselina etanova a CoHsNH+"
+        "text": "kyselina etánová a CoHsNH+"
       },
       {
         "id": "h",
@@ -186,23 +186,23 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "305. Sila kyselin stupa v poradi HCIO, HCIO2, HCIO3, HCIO4. Potom v tomto poradi:",
+    "content": "305. Sila kyselín stúpa v poradí HCIO, HCIO2, HCIO3, HCIO4. Potom v tomto poradí:",
     "options": [
       {
         "id": "a",
-        "text": "klesa hodnota pKa"
+        "text": "klesá hodnota pKa"
       },
       {
         "id": "b",
-        "text": "zvacsuje sa polarita vazby O-H"
+        "text": "zväčšuje sa polarita väzby O-H"
       },
       {
         "id": "c",
-        "text": "stupen disociacie klesa"
+        "text": "stupeň disociácie klesá"
       },
       {
         "id": "d",
-        "text": "klesa hodnota disociacnej konstanty"
+        "text": "klesá hodnota disociačnej konštanty"
       },
       {
         "id": "e",
@@ -210,11 +210,11 @@
       },
       {
         "id": "f",
-        "text": "stupen disociacievzrasta"
+        "text": "stupeň disociacievzrasta"
       },
       {
         "id": "g",
-        "text": "hodnota pKa sa nemeni"
+        "text": "hodnota pKa sa nemení"
       },
       {
         "id": "h",
@@ -232,7 +232,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "306. Sila kyselin a zasad je urcena hodnotou:",
+    "content": "306. Sila kyselín a zásad je určená hodnotou:",
     "options": [
       {
         "id": "a",
@@ -240,7 +240,7 @@
       },
       {
         "id": "b",
-        "text": "koncentracie"
+        "text": "koncentrácie"
       },
       {
         "id": "c",
@@ -256,7 +256,7 @@
       },
       {
         "id": "f",
-        "text": "disociacnej konstanty"
+        "text": "disociačnej konštanty"
       },
       {
         "id": "g",
@@ -264,7 +264,7 @@
       },
       {
         "id": "h",
-        "text": "poctom Ht, resp. OH- skupin"
+        "text": "počtom Ht, resp. OH- skupín"
       }
     ],
     "correct_answers": [
@@ -278,7 +278,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "307. Zasaditu reakciu maju vodné roztoky soli:",
+    "content": "307. Zásaditú reakciu majú vodné roztoky soli:",
     "options": [
       {
         "id": "a",
@@ -302,7 +302,7 @@
       },
       {
         "id": "f",
-        "text": "BaSO4; vinan draselny"
+        "text": "BaSO4; vínan draselný"
       },
       {
         "id": "g",
@@ -323,7 +323,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "308. Kyslu reakciu maju vodne roztoky soli:",
+    "content": "308. Kyslú reakciu majú vodné roztoky soli:",
     "options": [
       {
         "id": "a",
@@ -369,7 +369,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "309. V ktorych reakciach vystupuje voda ako kyselina?",
+    "content": "309. V ktorých reakciách vystupuje voda ako kyselina?",
     "options": [
       {
         "id": "a",
@@ -415,39 +415,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "310. Vyberte spravne tvrdenie:",
+    "content": "310. Vyberte správne tvrdenie:",
     "options": [
       {
         "id": "a",
-        "text": "pri riedeni roztoku HCI (c = 1 mol/l) vodou sa znizuje pH roztoku"
+        "text": "pri riedení roztoku HCI (c = 1 mol/l) vodou sa znižuje pH roztoku"
       },
       {
         "id": "b",
-        "text": "pri riedeni roztoku HCl (c = 1 mol/l) vodou sa zvysuje pH roztoku"
+        "text": "pri riedení roztoku hcl (c = 1 mol/l) vodou sa zvyšuje pH roztoku"
       },
       {
         "id": "c",
-        "text": "pri riedeni roztoku NaOH (c = 1 mol/) vodou sa znizuje pH roztoku"
+        "text": "pri riedení roztoku naoh (c = 1 mol/) vodou sa znižuje pH roztoku"
       },
       {
         "id": "d",
-        "text": "pri riedeni roztoku NaOH (c = 1 mol/l) vodou sa zvysuje pH roztoku"
+        "text": "pri riedení roztoku naoh (c = 1 mol/l) vodou sa zvyšuje pH roztoku"
       },
       {
         "id": "e",
-        "text": "sila kyseliny sa znizuje so stupajicou hodnotou disociacnej konstanty"
+        "text": "sila kyseliny sa znižuje so stupajicou hodnotou disociačnej konštanty"
       },
       {
         "id": "f",
-        "text": "sila kyseliny sa znizuje s klesajucou hodnotou disociacnej konstanty"
+        "text": "sila kyseliny sa znižuje s klesajúcou hodnotou disociačnej konštanty"
       },
       {
         "id": "g",
-        "text": "vodny roztok K2CO3 vykazuje kyslu reakciu"
+        "text": "vodný roztok K2CO3 vykazuje kyslú reakciu"
       },
       {
         "id": "h",
-        "text": "vodny roztok K2CO3 vykazuje zasaditu reakciu"
+        "text": "vodný roztok K2CO3 vykazuje zásaditú reakciu"
       }
     ],
     "correct_answers": [
@@ -461,39 +461,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "311. Pre silne kyseliny plati:",
+    "content": "311. Pre silné kyseliny platí:",
     "options": [
       {
         "id": "a",
-        "text": "protony uvol'nuju vel'mi tazko"
+        "text": "protóny uvoľňujú veľmi ťažko"
       },
       {
         "id": "b",
-        "text": "koncentracia nedisociovanych molekul sa blizi nule"
+        "text": "koncentrácia nedisociovanych molekúl sa blíži nule"
       },
       {
         "id": "c",
-        "text": "su napr. HCIO4 a HNO3"
+        "text": "sú napr. HCIO4 a HNO3"
       },
       {
         "id": "d",
-        "text": "maju vysoke hodnoty disociacnych konstant"
+        "text": "majú vysoké hodnoty disociačných konštánt"
       },
       {
         "id": "e",
-        "text": "ich disociacné konstanty su nizke"
+        "text": "ich disociačné konštanty sú nízke"
       },
       {
         "id": "f",
-        "text": "su napr. kyseliny mravcia a octova"
+        "text": "sú napr. kyseliny mravčia a octová"
       },
       {
         "id": "g",
-        "text": "protony uvoPnuju vel'mi Pahko"
+        "text": "protóny uvoPnuju veľmi Pahko"
       },
       {
         "id": "h",
-        "text": "cim je kyselina silnejsia, tym je vo vode menej disociovana"
+        "text": "čím je kyselina silnejšia, tým je vo vode menej disociovaná"
       }
     ],
     "correct_answers": [
@@ -507,7 +507,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "312. Vyberte nespravne tvrdenie o hydrolyze soli:",
+    "content": "312. Vyberte nesprávne tvrdenie o hydrolýze soli:",
     "options": [
       {
         "id": "a",
@@ -539,7 +539,7 @@
       },
       {
         "id": "h",
-        "text": "CI-"
+        "text": "ČI-"
       }
     ],
     "correct_answers": [
@@ -553,11 +553,11 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "313. Medzi silne kyseliny zaradujeme:",
+    "content": "313. Medzi silné kyseliny zaraďujeme:",
     "options": [
       {
         "id": "a",
-        "text": "kyselinu citronovu"
+        "text": "kyselinu citrónovú"
       },
       {
         "id": "b",
@@ -569,7 +569,7 @@
       },
       {
         "id": "d",
-        "text": "kyselinu chlornu"
+        "text": "kyselinu chlórnu"
       },
       {
         "id": "e",
@@ -577,15 +577,15 @@
       },
       {
         "id": "f",
-        "text": "kyselinu siricitu"
+        "text": "kyselinu siričitú"
       },
       {
         "id": "g",
-        "text": "kyselinu kyanovodikovu"
+        "text": "kyselinu kyanovodíkovú"
       },
       {
         "id": "h",
-        "text": "kyselinu chloristu"
+        "text": "kyselinu chloristú"
       }
     ],
     "correct_answers": [
@@ -599,7 +599,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "314. Ktoré castice mozu vo vodnom prostredi posobit len ako bazy?",
+    "content": "314. Ktoré častice môžu vo vodnom prostredí pôsobiť len ako bázy?",
     "options": [
       {
         "id": "a",
@@ -645,7 +645,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "315. Vyberte slabu zasadu:",
+    "content": "315. Vyberte slabú zásadu:",
     "options": [
       {
         "id": "a",
@@ -665,7 +665,7 @@
       },
       {
         "id": "e",
-        "text": "NaOH"
+        "text": "naoh"
       },
       {
         "id": "f",
@@ -707,7 +707,7 @@
       },
       {
         "id": "d",
-        "text": "disociacia kyseliny uhlicitej vo vode"
+        "text": "disociácia kyseliny uhličitej vo vode"
       },
       {
         "id": "e",
@@ -715,7 +715,7 @@
       },
       {
         "id": "f",
-        "text": "disociacia kyseliny chlorovodikovej vo vode"
+        "text": "disociácia kyseliny chlorovodíkovej vo vode"
       },
       {
         "id": "g",
@@ -737,7 +737,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "317. Ktore reakcie za normalnych podmienok nebudi prebiehat?",
+    "content": "317. Ktoré reakcie za normálnych podmienok nebudí prebiehať?",
     "options": [
       {
         "id": "a",
@@ -745,15 +745,15 @@
       },
       {
         "id": "b",
-        "text": "2 KCl (s) + 3 O2 (g) → 2 KCIO3 (s) 79"
+        "text": "2 kcl (s) + 3 O2 (g) → 2 KCIO3 (s) 79"
       },
       {
         "id": "c",
-        "text": "Br2 (I) + 2 Nal (s) → 2 NaBr (s) + I2 (s)"
+        "text": "Br2 (I) + 2 Nál (s) → 2 nabr (s) + I2 (s)"
       },
       {
         "id": "d",
-        "text": "AgNO3 (aq) + NaCI (aq)→ AgCl (s) + NaNO3 (aq)"
+        "text": "AgNO3 (aq) + náci (aq)→ agcl (s) + NaNO3 (aq)"
       },
       {
         "id": "e",
@@ -769,7 +769,7 @@
       },
       {
         "id": "h",
-        "text": "BaSO4 (s) + NaCl (aq) → BaCl2 (aq) + Na2SO4 (aq)"
+        "text": "BaSO4 (s) + nacl (aq) → BaCl2 (aq) + Na2SO4 (aq)"
       }
     ],
     "correct_answers": [
@@ -783,7 +783,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "318. Vyberte zrazacie reakcie:",
+    "content": "318. Vyberte zrážacie reakcie:",
     "options": [
       {
         "id": "a",
@@ -795,7 +795,7 @@
       },
       {
         "id": "c",
-        "text": "Cu(NO3)2 + 2 NaOH → Cu(OH)2 + 2 NaNO3"
+        "text": "Cu(NO3)2 + 2 naoh → Cu(OH)2 + 2 NaNO3"
       },
       {
         "id": "d",
@@ -807,7 +807,7 @@
       },
       {
         "id": "f",
-        "text": "CaO + CO2 → CaCO3"
+        "text": "cao + CO2 → CaCO3"
       },
       {
         "id": "g",
@@ -815,7 +815,7 @@
       },
       {
         "id": "h",
-        "text": "Na2SO4 + BaCl2 → BaSO4 + 2 NaCl"
+        "text": "Na2SO4 + BaCl2 → BaSO4 + 2 nacl"
       }
     ],
     "correct_answers": [
@@ -830,11 +830,11 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "319. Disproporcionacia je reakcia:",
+    "content": "319. Disproporcionácia je reakcia:",
     "options": [
       {
         "id": "a",
-        "text": "acidobazicka"
+        "text": "acidobázická"
       },
       {
         "id": "b",
@@ -850,11 +850,11 @@
       },
       {
         "id": "e",
-        "text": "Zn + 2 HCl →ZnCl2+H2"
+        "text": "Zn + 2 hcl →ZnCl2+H2"
       },
       {
         "id": "f",
-        "text": "pri ktorej ten isty prvok prijima i odovzdava elektrony"
+        "text": "pri ktorej ten istý prvok prijíma i odovzdáva elektróny"
       },
       {
         "id": "g",
@@ -876,11 +876,11 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "320. Oxidaciu nemozeme charakterizovat'ako:",
+    "content": "320. Oxidáciu nemôžeme charakterizovaťako:",
     "options": [
       {
         "id": "a",
-        "text": "zlucovanie prvkov s kyslikom"
+        "text": "zlučovanie prvkov s kyslíkom"
       },
       {
         "id": "b",
@@ -888,27 +888,27 @@
       },
       {
         "id": "c",
-        "text": "hydrogenaciu"
+        "text": "hydrogenáciu"
       },
       {
         "id": "d",
-        "text": "prijatie elektronov"
+        "text": "prijatie elektrónov"
       },
       {
         "id": "e",
-        "text": "zlucovanie prvkov s vodikom"
+        "text": "zlučovanie prvkov s vodíkom"
       },
       {
         "id": "f",
-        "text": "stratu elektronov"
+        "text": "stratu elektrónov"
       },
       {
         "id": "g",
-        "text": "dehydrataciu"
+        "text": "dehydratáciu"
       },
       {
         "id": "h",
-        "text": "zvysovanie oxidacneho isla"
+        "text": "zvyšovanie oxidačného išla"
       }
     ],
     "correct_answers": [
@@ -922,11 +922,11 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "321. Ktoré reakcie si oxidacno-redukcne?",
+    "content": "321. Ktoré reakcie si oxidačno-redukčné?",
     "options": [
       {
         "id": "a",
-        "text": "hydrogenaciu"
+        "text": "hydrogenáciu"
       },
       {
         "id": "b",
@@ -934,27 +934,27 @@
       },
       {
         "id": "c",
-        "text": "stratu elektronov"
+        "text": "stratu elektrónov"
       },
       {
         "id": "d",
-        "text": "hydrataciu"
+        "text": "hydratáciu"
       },
       {
         "id": "e",
-        "text": "priberanie elektronov"
+        "text": "priberanie elektrónov"
       },
       {
         "id": "f",
-        "text": "zvysovanie oxidacneho cisla"
+        "text": "zvyšovanie oxidačného čísla"
       },
       {
         "id": "g",
-        "text": "adiciu vodika"
+        "text": "adíciu vodíka"
       },
       {
         "id": "h",
-        "text": "zmensovanie oxidaneho cisla"
+        "text": "zmenšovanie oxidaneho čísla"
       }
     ],
     "correct_answers": [
@@ -968,7 +968,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "322. Pri redukcii latka:",
+    "content": "322. Pri redukcii látka:",
     "options": [
       {
         "id": "a",
@@ -988,19 +988,19 @@
       },
       {
         "id": "e",
-        "text": "meni svoje oxidacne cislo"
+        "text": "mení svoje oxidačné číslo"
       },
       {
         "id": "f",
-        "text": "nemeni svoje oxidacne cislo"
+        "text": "nemení svoje oxidačné číslo"
       },
       {
         "id": "g",
-        "text": "prijima elektrony"
+        "text": "prijíma elektróny"
       },
       {
         "id": "h",
-        "text": "odovzdava elektrony"
+        "text": "odovzdáva elektróny"
       }
     ],
     "correct_answers": [
@@ -1014,39 +1014,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "323. Oxidacia je dej, pri ktorom dochadza k:",
+    "content": "323. Oxidácia je dej, pri ktorom dochádza k:",
     "options": [
       {
         "id": "a",
-        "text": "odovzdavaniu elektronov"
+        "text": "odovzdávaniu elektrónov"
       },
       {
         "id": "b",
-        "text": "prijimaniu elektronov"
+        "text": "prijímaniu elektrónov"
       },
       {
         "id": "c",
-        "text": "zvyseniu oxidacneho cisla"
+        "text": "zvýšeniu oxidačného čísla"
       },
       {
         "id": "d",
-        "text": "znizeniu oxidacneho cisla"
+        "text": "zníženiu oxidačného čísla"
       },
       {
         "id": "e",
-        "text": "redukcii danej latky"
+        "text": "redukcii danej látky"
       },
       {
         "id": "f",
-        "text": "oxidacii danej latky"
+        "text": "oxidácii danej látky"
       },
       {
         "id": "g",
-        "text": "adiciu kyslika"
+        "text": "adíciu kyslíka"
       },
       {
         "id": "h",
-        "text": "zmensovaniu oxidacneho cisla"
+        "text": "zmenšovaniu oxidačného čísla"
       }
     ],
     "correct_answers": [
@@ -1060,15 +1060,15 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "324. V reakcii 2 H202 → 2 H20 + 02:",
+    "content": "324. V reakcií 2 H202 → 2 H20 + 02:",
     "options": [
       {
         "id": "a",
-        "text": "kyslik sa len oxiduje"
+        "text": "kyslík sa len oxiduje"
       },
       {
         "id": "b",
-        "text": "kyslik sa len redukuje"
+        "text": "kyslík sa len redukuje"
       },
       {
         "id": "c",
@@ -1076,23 +1076,23 @@
       },
       {
         "id": "d",
-        "text": "kyslik podlieha disproporcionacii"
+        "text": "kyslík podlieha disproporcionácii"
       },
       {
         "id": "e",
-        "text": "pri vzniku kyslika sa peroxid oxiduje"
+        "text": "pri vzniku kyslíka sa peroxid oxiduje"
       },
       {
         "id": "f",
-        "text": "ide o hydrolyzu"
+        "text": "ide o hydrolýzu"
       },
       {
         "id": "g",
-        "text": "ide o hydrataciu"
+        "text": "ide o hydratáciu"
       },
       {
         "id": "h",
-        "text": "dochadza k vymene elektronov"
+        "text": "dochádza k výmene elektrónov"
       }
     ],
     "correct_answers": [
@@ -1106,7 +1106,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "325. Vyberte chemicke reakcie, v ktorych sa prejavuju len oxidacne ucinky peroxidu vodika:",
+    "content": "325. Vyberte chemické reakcie, v ktorých sa prejavujú len oxidačné účinky peroxidu vodíka:",
     "options": [
       {
         "id": "a",
@@ -1152,39 +1152,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "326. Pre chemicku reakciu Fe + CuSO4 -→ FeSO4 + Cu plati:",
+    "content": "326. Pre chemickú reakciu Fe + CuSO4 -→ FeSO4 + Cu platí:",
     "options": [
       {
         "id": "a",
-        "text": "zelezo sa redukuje"
+        "text": "železo sa redukuje"
       },
       {
         "id": "b",
-        "text": "med' je schopna redukovat zelezo"
+        "text": "meď je schopná redukovať železo"
       },
       {
         "id": "c",
-        "text": "zelezo a med' tvoria redoxny par"
+        "text": "železo a meď tvoria redoxný pár"
       },
       {
         "id": "d",
-        "text": "dochadza k vymene 2 elektronov 81"
+        "text": "dochádza k výmene 2 elektrónov 81"
       },
       {
         "id": "e",
-        "text": "med' sa oxiduje"
+        "text": "meď sa oxiduje"
       },
       {
         "id": "f",
-        "text": "uplathuje sa rad napatia kovov"
+        "text": "uplathuje sa rád napätia kovov"
       },
       {
         "id": "g",
-        "text": "med' a zelezo sa nelisia hodnotou svojho oxidacneho Cisla, preto tvoria redoxny par"
+        "text": "meď a železo sa nelíšia hodnotou svojho oxidačného Čísla, preto tvoria redoxný pár"
       },
       {
         "id": "h",
-        "text": "med' sa redukuje"
+        "text": "meď sa redukuje"
       }
     ],
     "correct_answers": [
@@ -1198,39 +1198,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "327. V reakci CuS + 10 HNO3 -→ Cu(NO3)2 + H2SO4 + 8 NO2 + 4 H20:",
+    "content": "327. V reakci čuš + 10 HNO3 -→ Cu(NO3)2 + H2SO4 + 8 NO2 + 4 H20:",
     "options": [
       {
         "id": "a",
-        "text": "med' sa oxiduje"
+        "text": "meď sa oxiduje"
       },
       {
         "id": "b",
-        "text": "sira sa oxiduje"
+        "text": "síra sa oxiduje"
       },
       {
         "id": "c",
-        "text": "med' nemeni svoje oxidacne cislo"
+        "text": "meď nemení svoje oxidačné číslo"
       },
       {
         "id": "d",
-        "text": "dusik znizuje svoje oxidacne cislo"
+        "text": "dusík znižuje svoje oxidačné číslo"
       },
       {
         "id": "e",
-        "text": "vznika plynny oxid dusnaty"
+        "text": "vzniká plynný oxid dusnatý"
       },
       {
         "id": "f",
-        "text": "dochadza k oxidacii i redukcii dusika"
+        "text": "dochádza k oxidácii i redukcii dusíka"
       },
       {
         "id": "g",
-        "text": "vodik sa redukuje"
+        "text": "vodík sa redukuje"
       },
       {
         "id": "h",
-        "text": "sa vymiena 8 elektronov"
+        "text": "sa vymieňa 8 elektrónov"
       }
     ],
     "correct_answers": [
@@ -1244,35 +1244,35 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "328. V reakcii 4 HCI + MnO2 → Cl2 + MnCl2 + 2 H2O:",
+    "content": "328. V reakcií 4 HCI + MnO2 → Cl2 + MnCl2 + 2 H2O:",
     "options": [
       {
         "id": "a",
-        "text": "mangan prijima 2 elektrony"
+        "text": "mangán prijíma 2 elektróny"
       },
       {
         "id": "b",
-        "text": "mangan odovzdava 2 elektrony"
+        "text": "mangán odovzdáva 2 elektróny"
       },
       {
         "id": "c",
-        "text": "mangan nemeni oxidacne cislo"
+        "text": "mangán nemení oxidačné číslo"
       },
       {
         "id": "d",
-        "text": "mangan vystupuje ako redukovadlo"
+        "text": "mangán vystupuje ako redukovadlo"
       },
       {
         "id": "e",
-        "text": "dochadza k oxidacii chloru"
+        "text": "dochádza k oxidácii chlóru"
       },
       {
         "id": "f",
-        "text": "mangan vystupuje ako oxidovadlo, teda sa sam oxiduje"
+        "text": "mangán vystupuje ako oxidovadlo, teda sa sám oxiduje"
       },
       {
         "id": "g",
-        "text": "vznika plynny chlor"
+        "text": "vzniká plynný chlór"
       },
       {
         "id": "h",
@@ -1298,31 +1298,31 @@
       },
       {
         "id": "b",
-        "text": "je arzen oxidovadlo"
+        "text": "je arzén oxidovadlo"
       },
       {
         "id": "c",
-        "text": "brom sa redukuje, a preto je redukovadlo"
+        "text": "bróm sa redukuje, a preto je redukovadlo"
       },
       {
         "id": "d",
-        "text": "vymiena sa 8 elektronov"
+        "text": "vymieňa sa 8 elektrónov"
       },
       {
         "id": "e",
-        "text": "vymiena sa 6 elektronov"
+        "text": "vymieňa sa 6 elektrónov"
       },
       {
         "id": "f",
-        "text": "dochadza k redukcii bromu"
+        "text": "dochádza k redukcii brómu"
       },
       {
         "id": "g",
-        "text": "BrV- 6e- → Br-"
+        "text": "bŕv- 6e- → Br-"
       },
       {
         "id": "h",
-        "text": "dochadza k oxidaci arzenu"
+        "text": "dochádza k oxidaci arzénu"
       }
     ],
     "correct_answers": [
@@ -1336,7 +1336,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "330. Redukenym cinidlom moze byt':",
+    "content": "330. Redukenym činidlom môže byť:",
     "options": [
       {
         "id": "a",
@@ -1352,11 +1352,11 @@
       },
       {
         "id": "d",
-        "text": "ozon"
+        "text": "ozón"
       },
       {
         "id": "e",
-        "text": "co"
+        "text": "čo"
       },
       {
         "id": "f",
@@ -1382,11 +1382,11 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "331. Ktora z uvedenych rovnic nie je oxidacno-redukcna?",
+    "content": "331. Ktorá z uvedených rovníc nie je oxidačno-redukčná?",
     "options": [
       {
         "id": "a",
-        "text": "PbO2 + 4 HCl → PbCl2 + Cl2 + 2 H2O 82"
+        "text": "PbO2 + 4 hcl → PbCl2 + Cl2 + 2 H2O 82"
       },
       {
         "id": "b",
@@ -1414,7 +1414,7 @@
       },
       {
         "id": "h",
-        "text": "2 NaOH + H2SO4 -→ Na2SO4 + 2 H20"
+        "text": "2 naoh + H2SO4 -→ Na2SO4 + 2 H20"
       }
     ],
     "correct_answers": [
@@ -1428,39 +1428,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "332. Pri oxidacii prvok:",
+    "content": "332. Pri oxidácii prvok:",
     "options": [
       {
         "id": "a",
-        "text": "ziskava elektrony"
+        "text": "získava elektróny"
       },
       {
         "id": "b",
-        "text": "zvysuje svoje oxidacne islo"
+        "text": "zvyšuje svoje oxidačné išlo"
       },
       {
         "id": "c",
-        "text": "znizuje svoje zaporne oxidacne cislo (v absolutnej hodnote)"
+        "text": "znižuje svoje záporné oxidačné číslo (v absolútnej hodnote)"
       },
       {
         "id": "d",
-        "text": "znizuje svoje oxidacne islo"
+        "text": "znižuje svoje oxidačné išlo"
       },
       {
         "id": "e",
-        "text": "zvysuje pocet svojich valencnych elektronov"
+        "text": "zvyšuje počet svojich valenčných elektrónov"
       },
       {
         "id": "f",
-        "text": "straca elektrony"
+        "text": "stráca elektróny"
       },
       {
         "id": "g",
-        "text": "nemusi vzdy reagovat s kyslikom"
+        "text": "nemusí vždy reagovať s kyslíkom"
       },
       {
         "id": "h",
-        "text": "meni sa z kationu na neutralnu molekulu"
+        "text": "mení sa z katiónu na neutrálnu molekulu"
       }
     ],
     "correct_answers": [
@@ -1478,35 +1478,35 @@
     "options": [
       {
         "id": "a",
-        "text": "ziskava elektrony"
+        "text": "získava elektróny"
       },
       {
         "id": "b",
-        "text": "zvysuje svoje oxidacne cislo"
+        "text": "zvyšuje svoje oxidačné číslo"
       },
       {
         "id": "c",
-        "text": "znizuje pocet svojich valencnych elektronov"
+        "text": "znižuje počet svojich valenčných elektrónov"
       },
       {
         "id": "d",
-        "text": "znizuje svoje oxidacne cislo"
+        "text": "znižuje svoje oxidačné číslo"
       },
       {
         "id": "e",
-        "text": "zvysuje svoje zaporne oxidacne cislo (v absolutnej hodnote)"
+        "text": "zvyšuje svoje záporné oxidačné číslo (v absolútnej hodnote)"
       },
       {
         "id": "f",
-        "text": "straca elektrony"
+        "text": "stráca elektróny"
       },
       {
         "id": "g",
-        "text": "moze sa z neutralnej molekuly zmenit na anion"
+        "text": "môže sa z neutrálnej molekuly zmeniť na anión"
       },
       {
         "id": "h",
-        "text": "meni sa z neutralnej molekuly na kation"
+        "text": "mení sa z neutrálnej molekuly na katión"
       }
     ],
     "correct_answers": [
@@ -1520,39 +1520,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "334. Vyberte spravne tvrdenie:",
+    "content": "334. Vyberte správne tvrdenie:",
     "options": [
       {
         "id": "a",
-        "text": "dehydrogenacia je typicka adicna reakcia"
+        "text": "dehydrogenácia je typická adičná reakcia"
       },
       {
         "id": "b",
-        "text": "redukcné cinidla maju malu afinitu k elektronom"
+        "text": "redukčné činidlá majú malú afinitu k elektrónom"
       },
       {
         "id": "c",
-        "text": "oxidacne cinidla prejavuju vyraznu nukleofilnost"
+        "text": "oxidačné činidlá prejavujú výraznú nukleofilnost"
       },
       {
         "id": "d",
-        "text": "redukcne cinidla maju vysoke hodnoty ionizacnych potencialov"
+        "text": "redukčné činidlá majú vysoké hodnoty ionizačných potenciálov"
       },
       {
         "id": "e",
-        "text": "oxidacne cinidla maju vzdy vel'ku afinitu k elektronom"
+        "text": "oxidačné činidlá majú vždy veľkú afinitu k elektrónom"
       },
       {
         "id": "f",
-        "text": "dehydrogenacia je zvlastnym prikladom oxidacie"
+        "text": "dehydrogenácia je zvláštnym príkladom oxidácie"
       },
       {
         "id": "g",
-        "text": "redukne Cinidlo v reakcii odovzdava svoje elektrony inej latke"
+        "text": "redukne Činidlo v reakcií odovzdáva svoje elektróny inej látke"
       },
       {
         "id": "h",
-        "text": "oxidacne cinidlo v reakci Iahko poskytuje elektrony"
+        "text": "oxidačné činidlo v reakci Iahko poskytuje elektróny"
       }
     ],
     "correct_answers": [
@@ -1566,35 +1566,35 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "335. Vyberte zodpovedajuce Ciastkove reakcie a spravne stechiometrické koeficienty oxidacno-redukcnej reakcie HNO3 + H2S -→ NO + S + H2O:",
+    "content": "335. Vyberte zodpovedajúce Čiastkové reakcie a správne stechiometrické koeficienty oxidačno-redukčnej reakcie HNO3 + H2S -→ NO + S + H2O:",
     "options": [
       {
         "id": "a",
-        "text": "su koeficienty 6, 1, 12 → 6, 2, 3"
+        "text": "sú koeficienty 6, 1, 12 → 6, 2, 3"
       },
       {
         "id": "b",
-        "text": "su koeficienty 3, 1, 6 → 3, 1, 2"
+        "text": "sú koeficienty 3, 1, 6 → 3, 1, 2"
       },
       {
         "id": "c",
-        "text": "je Ciastkova reakcia AsVI + 3e- -→ AslI"
+        "text": "je Čiastková reakcia AsVI + 3e- -→ AslI"
       },
       {
         "id": "d",
-        "text": "vznikaju 3 moly vody"
+        "text": "vznikajú 3 moly vody"
       },
       {
         "id": "e",
-        "text": "sa vymiena 6 elektronov"
+        "text": "sa vymieňa 6 elektrónov"
       },
       {
         "id": "f",
-        "text": "je Ciastkova reakcia Zno - 2e- → Zn'"
+        "text": "je Čiastková reakcia Zno - 2e- → Zn'"
       },
       {
         "id": "g",
-        "text": "je ciastkova reakcia Zn° + 2e- → Znll"
+        "text": "je čiastková reakcia Zn° + 2e- → Znll"
       },
       {
         "id": "h",
@@ -1612,39 +1612,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "336. Vyberte zodpovedajuce ciastkove reakcie a spravne stechiometricke koeficienty oxidacno-redukcnej reakcie As2O3 + Zn + H2SO4 → AsH3 + ZnSO4 + H2O:",
+    "content": "336. Vyberte zodpovedajúce čiastkové reakcie a správne stechiometricke koeficienty oxidačno-redukčnej reakcie As2O3 + Zn + H2SO4 → AsH3 + ZnSO4 + H2O:",
     "options": [
       {
         "id": "a",
-        "text": "su koeficienty 6, 1, 12 → 6, 2, 3"
+        "text": "sú koeficienty 6, 1, 12 → 6, 2, 3"
       },
       {
         "id": "b",
-        "text": "su koeficienty 1, 6, 6 → 2, 6, 3"
+        "text": "sú koeficienty 1, 6, 6 → 2, 6, 3"
       },
       {
         "id": "c",
-        "text": "je ciastkova reakcia AsIII + 6e- → As-III"
+        "text": "je čiastková reakcia AsIII + 6e- → As-III"
       },
       {
         "id": "d",
-        "text": "vznikaju 3 moly vody"
+        "text": "vznikajú 3 moly vody"
       },
       {
         "id": "e",
-        "text": "sa vymiena 12 elektronov"
+        "text": "sa vymieňa 12 elektrónov"
       },
       {
         "id": "f",
-        "text": "je ciastkova reakcia Zn0 - 2e- → ZnII"
+        "text": "je čiastková reakcia Zn0 - 2e- → ZnII"
       },
       {
         "id": "g",
-        "text": "je ciastkova reakcia Zn0 + 2e- → ZnII"
+        "text": "je čiastková reakcia Zn0 + 2e- → ZnII"
       },
       {
         "id": "h",
-        "text": "arzen sa redukuje"
+        "text": "arzén sa redukuje"
       }
     ],
     "correct_answers": [
@@ -1658,7 +1658,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "337. V ktorej oxidacno-redukenej reakcii sa vymiena 6 elektronov?",
+    "content": "337. V ktorej oxidačno-redukenej reakcií sa vymieňa 6 elektrónov?",
     "options": [
       {
         "id": "a",
@@ -1666,11 +1666,11 @@
       },
       {
         "id": "b",
-        "text": "4 Zn + 10 HNO3 (zried.) → 4 Zn(NO3)2+ 3 H2O + NH4NO3"
+        "text": "4 Zn + 10 HNO3 (zrieď.) → 4 Zn(NO3)2+ 3 H2O + NH4NO3"
       },
       {
         "id": "c",
-        "text": "3 Cu + 8 HNO3 (zried.) → 3 Cu(NO3)2 + 4 H2O + 2 NO"
+        "text": "3 Cu + 8 HNO3 (zrieď.) → 3 Cu(NO3)2 + 4 H2O + 2 NO"
       },
       {
         "id": "d",
@@ -1678,7 +1678,7 @@
       },
       {
         "id": "e",
-        "text": "3 CuO + 2 NH3 → 3 Cu + N2 + 3 H20"
+        "text": "3 cuo + 2 NH3 → 3 Cu + N2 + 3 H20"
       },
       {
         "id": "f",
@@ -1704,11 +1704,11 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "338. Ktore reakcie za normalnych (laboratornych) podmienok nebudi prebiehat?",
+    "content": "338. Ktoré reakcie za normálnych (laboratórnych) podmienok nebudí prebiehať?",
     "options": [
       {
         "id": "a",
-        "text": "H2O + NaC1 → HC1 + NaOH"
+        "text": "H2O + NaC1 → HC1 + naoh"
       },
       {
         "id": "b",
@@ -1728,11 +1728,11 @@
       },
       {
         "id": "f",
-        "text": "Cu+ H2SO4 → SO2 + H2O + CuO"
+        "text": "Cu+ H2SO4 → SO2 + H2O + cuo"
       },
       {
         "id": "g",
-        "text": "NH4CI + NaOH -→ NH3 + NaCI + H20"
+        "text": "NH4CI + naoh -→ NH3 + náci + H20"
       },
       {
         "id": "h",
@@ -1796,11 +1796,11 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "340. Ktore reakcie patria k obidvom uvedenym typom?",
+    "content": "340. Ktoré reakcie patria k obidvom uvedeným typom?",
     "options": [
       {
         "id": "a",
-        "text": "NH4OH + HCI -→ NH4CI + H2O protolyticka aj zrazacia reakcia 84"
+        "text": "NH4OH + HCI -→ NH4CI + H2O protolytická aj zrazacia reakcia 84"
       },
       {
         "id": "b",
@@ -1812,7 +1812,7 @@
       },
       {
         "id": "d",
-        "text": "3Ag + 4HNO3→ 3AgNO3 +NO +2H2O protolyticka aj redoxna reakcia"
+        "text": "3Ag + 4HNO3→ 3AgNO3 +NO +2H2O protolytická aj redoxná reakcia"
       },
       {
         "id": "e",
@@ -1820,7 +1820,7 @@
       },
       {
         "id": "f",
-        "text": "4Au +8(CN) +O2 +2H20 -→ 4[Au(CN)2] + 4(OH)- komplexotvorna aj redoxna reakcia reakcia oxidacno-redukenych reakcii:"
+        "text": "4Au +8(CN) +O2 +2H20 -→ 4[Au(CN)2] + 4(OH)- komplexotvorna aj redoxná reakcia reakcia oxidačno-redukenych reakcií:"
       },
       {
         "id": "g",
@@ -1846,35 +1846,35 @@
     "options": [
       {
         "id": "a",
-        "text": "su prvky iba s jednym elektronom s"
+        "text": "sú prvky iba s jedným elektrónom s"
       },
       {
         "id": "b",
-        "text": "su prvky podskupin I.A az VIII.A"
+        "text": "sú prvky podskupín I.A až VIII.A"
       },
       {
         "id": "c",
-        "text": "su prvky podskupin I.A az II.A"
+        "text": "sú prvky podskupín I.A až II.A"
       },
       {
         "id": "d",
-        "text": "tvoria iba nepolarne kovalentnu vazbu"
+        "text": "tvoria iba nepolárne kovalentnú väzbu"
       },
       {
         "id": "e",
-        "text": "su typicke kovy"
+        "text": "sú typické kovy"
       },
       {
         "id": "f",
-        "text": "su silne redukovadla"
+        "text": "sú silné redukovadla"
       },
       {
         "id": "g",
-        "text": "maju o 1, resp. 2 e- menej ako predchadzajuci vzacny plyn"
+        "text": "majú o 1, resp. 2 e- menej ako predchádzajúci vzácny plyn"
       },
       {
         "id": "h",
-        "text": "maju o 1, resp. 2 e- viac ako predchadzajuci vzacny plyn"
+        "text": "majú o 1, resp. 2 e- viac ako predchádzajúci vzácny plyn"
       }
     ],
     "correct_answers": [
@@ -1892,35 +1892,35 @@
     "options": [
       {
         "id": "a",
-        "text": "maju pocet valencnych elektronov zhodny s cislom podskupiny"
+        "text": "majú počet valenčných elektrónov zhodný s číslom podskupiny"
       },
       {
         "id": "b",
-        "text": "maju pocet valencnych elektronov zhodny s cislom periody"
+        "text": "majú počet valenčných elektrónov zhodný s číslom periódy"
       },
       {
         "id": "c",
-        "text": "su prvky podskupin B"
+        "text": "sú prvky podskupín B"
       },
       {
         "id": "d",
-        "text": "su prvky podskupin A"
+        "text": "sú prvky podskupín A"
       },
       {
         "id": "e",
-        "text": "tvoria iba π vazbu"
+        "text": "tvoria iba π väzbu"
       },
       {
         "id": "f",
-        "text": "maju valencne elektrony v p orbitaloch"
+        "text": "majú valenčné elektróny v p orbitáloch"
       },
       {
         "id": "g",
-        "text": "su prvky podskupin III.A az VIII.A"
+        "text": "sú prvky podskupín III.A až VIII.A"
       },
       {
         "id": "h",
-        "text": "su prvky podskupin II.A az VIII.A (okrem He)"
+        "text": "sú prvky podskupín II.A až VIII.A (okrem He)"
       }
     ],
     "correct_answers": [
@@ -1938,31 +1938,31 @@
     "options": [
       {
         "id": "a",
-        "text": "nazyvaju sa prechodne"
+        "text": "nazývajú sa prechodne"
       },
       {
         "id": "b",
-        "text": "maju valencne elektrony v d orbitaloch"
+        "text": "majú valenčné elektróny v d orbitáloch"
       },
       {
         "id": "c",
-        "text": "vsetky su biogenne"
+        "text": "všetky sú biogénne"
       },
       {
         "id": "d",
-        "text": "mozu mat najvyssie kladne oxidacne cislo +VIII"
+        "text": "môžu mať najvyššie kladné oxidačné číslo +VIII"
       },
       {
         "id": "e",
-        "text": "nazyvaju sa aj neprechodne"
+        "text": "nazývajú sa aj neprechodné"
       },
       {
         "id": "f",
-        "text": "ich atomove polomery su relativne vacsie ako pri prvkoch s"
+        "text": "ich atómové polomery sú relatívne väčšie ako pri prvkoch s"
       },
       {
         "id": "g",
-        "text": "Iahko tvoria koordinacne zluceniny h, su vsetky prirodzene radioaktivne"
+        "text": "Iahko tvoria koordinačné zlúčeniny h, sú všetky prirodzene rádioaktívne"
       },
       {
         "id": "h",
@@ -1984,35 +1984,35 @@
     "options": [
       {
         "id": "a",
-        "text": "maju 14 valenenych elektronov"
+        "text": "majú 14 valenenych elektrónov"
       },
       {
         "id": "b",
-        "text": "su reprezentovane aktinoidmi a lantanoidmi"
+        "text": "sú reprezentované aktinoidmi a lantanoidmi"
       },
       {
         "id": "c",
-        "text": "nazyvaju sa aj vnutorne prechodne"
+        "text": "nazývajú sa aj vnútorné prechodne"
       },
       {
         "id": "d",
-        "text": "mozno najst v 6. a 7. periode"
+        "text": "možno nájsť v 6. a 7. perióde"
       },
       {
         "id": "e",
-        "text": "v prirode sa nachadzaju vo vel'kych mnozstvach 87"
+        "text": "v prírode sa nachádzajú vo veľkých množstvách 87"
       },
       {
         "id": "f",
-        "text": "chemicky sa lisia vel'mi vyrazne"
+        "text": "chemický sa líšia veľmi výrazne"
       },
       {
         "id": "g",
-        "text": "patria medzi biogenne prvky"
+        "text": "patria medzi biogénne prvky"
       },
       {
         "id": "h",
-        "text": "maju najcastejsie oxidacne cislo +III"
+        "text": "majú najčastejšie oxidačné číslo +III"
       }
     ],
     "correct_answers": [
@@ -2026,39 +2026,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "395. Prvky s? v porovnani s prvkami s':",
+    "content": "395. Prvky s? v porovnaní s prvkami s:",
     "options": [
       {
         "id": "a",
-        "text": "su viac reaktivne"
+        "text": "sú viac reaktívne"
       },
       {
         "id": "b",
-        "text": "su menej reaktivne"
+        "text": "sú menej reaktívne"
       },
       {
         "id": "c",
-        "text": "su rovnako reaktivne"
+        "text": "sú rovnako reaktívne"
       },
       {
         "id": "d",
-        "text": "maju vacsie atomove polomery"
+        "text": "majú väčšie atómové polomery"
       },
       {
         "id": "e",
-        "text": "maju mensie atomove polomery"
+        "text": "majú menšie atómové polomery"
       },
       {
         "id": "f",
-        "text": "tvoria rozpustnejsie zluceniny"
+        "text": "tvoria rozpustnejšie zlúčeniny"
       },
       {
         "id": "g",
-        "text": "maju vyssie teploty topenia"
+        "text": "majú vyššie teploty topenia"
       },
       {
         "id": "h",
-        "text": "su tvrdsie"
+        "text": "sú tvrdšie"
       }
     ],
     "correct_answers": [
@@ -2072,39 +2072,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "396. 0 prvkoch p' plati:",
+    "content": "396. 0 prvkoch p' platí:",
     "options": [
       {
         "id": "a",
-        "text": "maju iba jeden elektron na orbitale p"
+        "text": "majú iba jeden elektrón na orbitále p"
       },
       {
         "id": "b",
-        "text": "vsetky su kovy"
+        "text": "všetky sú kovy"
       },
       {
         "id": "c",
-        "text": "maju 3 valencné elektrony"
+        "text": "majú 3 valenčné elektróny"
       },
       {
         "id": "d",
-        "text": "s klesajucim Z prvku stupa bazicita hydroxidov"
+        "text": "s klesajúcim Z prvku stúpa bazicita hydroxidov"
       },
       {
         "id": "e",
-        "text": "so stupajucim Z prvku stipa bazicita oxidov"
+        "text": "so stúpajúcim Z prvku stipa bazicita oxidov"
       },
       {
         "id": "f",
-        "text": "najcastejsie oxidacne cislo je +II"
+        "text": "najčastejšie oxidačné číslo je +II"
       },
       {
         "id": "g",
-        "text": "bor tvori kovalentne zluceniny"
+        "text": "bor tvorí kovalentné zlúčeniny"
       },
       {
         "id": "h",
-        "text": "okrem boru vsetky su biogenne"
+        "text": "okrem bóru všetky sú biogénne"
       }
     ],
     "correct_answers": [
@@ -2118,39 +2118,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "397. 0 prvkoch p? neplati:",
+    "content": "397. 0 prvkoch p? neplatí:",
     "options": [
       {
         "id": "a",
-        "text": "s rastucim cislom Z prvku sa schopnost tvorby kovalentnych hydridov zvysuje"
+        "text": "s rastúcim číslom Z prvku sa schopnosť tvorby kovalentných hydridov zvyšuje"
       },
       {
         "id": "b",
-        "text": "uhlik, cin a olovo sa nachadzaju v prirode aj v elementarnej forme"
+        "text": "uhlík, čin a olovo sa nachádzajú v prírode aj v elementárnej forme"
       },
       {
         "id": "c",
-        "text": "ionovy charakter vazieb prevlada u zlucenin dvojmocneho cinu a olova"
+        "text": "iónový charakter väzieb prevláda u zlúčenín dvojmocného činu a olova"
       },
       {
         "id": "d",
-        "text": "Si, Ge a Sn su biogenne mikroprvky"
+        "text": "Si, Ge a Sn sú biogénne mikroprvky"
       },
       {
         "id": "e",
-        "text": "vsetky prvky tejto podskupiny su schopne tvorit polymery"
+        "text": "všetky prvky tejto podskupiny sú schopné tvoriť polyméry"
       },
       {
         "id": "f",
-        "text": "vsetky prvky tejto podskupiny maju 4 valencne elektrony"
+        "text": "všetky prvky tejto podskupiny majú 4 valenčné elektróny"
       },
       {
         "id": "g",
-        "text": "oxidy Pb a Sn su iba kyselinotvorne"
+        "text": "oxidy Pb a Sn sú iba kyselinotvorné"
       },
       {
         "id": "h",
-        "text": "stalost zlucenin s oxidacnym cislom +II stupa so Z prvkov v tejto skupine"
+        "text": "stálosť zlúčenín s oxidačným číslom +II stúpa so Z prvkov v tejto skupine"
       }
     ],
     "correct_answers": [
@@ -2164,39 +2164,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "398. Vyznacte pravdivy vyrok o prvkoch p3:",
+    "content": "398. Vyznačte pravdivý výrok o prvkoch p3:",
     "options": [
       {
         "id": "a",
-        "text": "vsetky sa nachadzaju v podskupine V.A"
+        "text": "všetky sa nachádzajú v podskupine V.A"
       },
       {
         "id": "b",
-        "text": "vsetky sa v prirode nachadzaju v hojnom mnozstve"
+        "text": "všetky sa v prírode nachádzajú v hojnom množstve"
       },
       {
         "id": "c",
-        "text": "maju elektronovu konfiguraciu valencnej sfery s'p3"
+        "text": "majú elektrónovú konfiguráciu valenčnej sféry šp3"
       },
       {
         "id": "d",
-        "text": "vsetky maju oxidacné cisla -III, +III, + V"
+        "text": "všetky majú oxidačné čísla -III, +III, + V"
       },
       {
         "id": "e",
-        "text": "vsetky su biogénne"
+        "text": "všetky sú biogénne"
       },
       {
         "id": "f",
-        "text": "vsetky su nekovy"
+        "text": "všetky sú nekovy"
       },
       {
         "id": "g",
-        "text": "N, P a As su biogenne"
+        "text": "N, P a As sú biogénne"
       },
       {
         "id": "h",
-        "text": "iba Bi je stabilny kov"
+        "text": "iba Bi je stabilný kov"
       }
     ],
     "correct_answers": [
@@ -2210,15 +2210,15 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "399. O hydroxidoch prvkov II.A podskupiny plati:",
+    "content": "399. O hydroxidoch prvkov II.A podskupiny platí:",
     "options": [
       {
         "id": "a",
-        "text": "su horsie rozpustne vo vode ako hydroxidy alkalickych kovov"
+        "text": "sú horšie rozpustné vo vode ako hydroxidy alkalických kovov"
       },
       {
         "id": "b",
-        "text": "su lepsie rozpustne vo vode ako hydroxidy alkalickych kovov 88"
+        "text": "sú lepšie rozpustné vo vode ako hydroxidy alkalických kovov 88"
       },
       {
         "id": "c",
@@ -2256,7 +2256,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "400. O prvkoch II.A podskupiny neplati:",
+    "content": "400. O prvkoch II.A podskupiny neplatí:",
     "options": [
       {
         "id": "a",
@@ -2268,27 +2268,27 @@
       },
       {
         "id": "c",
-        "text": "hydroxidy hlinika a galia su amfoterne"
+        "text": "hydroxidy hliníka a galia sú amfotérne"
       },
       {
         "id": "d",
-        "text": "ich elektronova konfiguracia je ns'np!"
+        "text": "ich elektrónová konfigurácia je nšnp!"
       },
       {
         "id": "e",
-        "text": "V prirode su hojne"
+        "text": "V prírode sú hojne"
       },
       {
         "id": "f",
-        "text": "tvoria iba kovalentne zluceniny"
+        "text": "tvoria iba kovalentné zlúčeniny"
       },
       {
         "id": "g",
-        "text": "so stupajucim Z tychto prvkov stupa bazicky charakter ich oxidov"
+        "text": "so stúpajúcim Z týchto prvkov stúpa bázický charakter ich oxidov"
       },
       {
         "id": "h",
-        "text": "kovovy charakter stupa s klesajucim Z tychto prvkov"
+        "text": "kovový charakter stúpa s klesajúcim Z týchto prvkov"
       }
     ],
     "correct_answers": [
@@ -2302,23 +2302,23 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "401. O prvkoch IV.A podskupiny plati:",
+    "content": "401. O prvkoch IV.A podskupiny platí:",
     "options": [
       {
         "id": "a",
-        "text": "ich elektronegativita rovnomerne klesa s rastucim Z prvkov"
+        "text": "ich elektronegativita rovnomerne klesá s rastúcim Z prvkov"
       },
       {
         "id": "b",
-        "text": "ich kovovy charakter stupa s rastucim Z prvkov"
+        "text": "ich kovový charakter stúpa s rastúcim Z prvkov"
       },
       {
         "id": "c",
-        "text": "iba uhlik je maximalne stvorvazbovy"
+        "text": "iba uhlík je maximálne štvorväzbový"
       },
       {
         "id": "d",
-        "text": "v zluceninach prvkov p? s oxidacnym cislom +IV prevlada kovalentna vazba"
+        "text": "v zlúčeninách prvkov p? s oxidačným číslom +IV prevláda kovalentná väzba"
       },
       {
         "id": "e",
@@ -2326,15 +2326,15 @@
       },
       {
         "id": "f",
-        "text": "vsetky mozu byt kladne dvojmocne"
+        "text": "všetky môžu byť kladné dvojmocné"
       },
       {
         "id": "g",
-        "text": "vsetky mozu byt zaporne dvojmocne"
+        "text": "všetky môžu byť záporné dvojmocné"
       },
       {
         "id": "h",
-        "text": "ich elektronegativita rastie s rastucim Z prvkov"
+        "text": "ich elektronegativita rastie s rastúcim Z prvkov"
       }
     ],
     "correct_answers": [
@@ -2348,39 +2348,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "402. Pre prvky podskupiny V.A plati:",
+    "content": "402. Pre prvky podskupiny V.A platí:",
     "options": [
       {
         "id": "a",
-        "text": "vsetky mozu dosiahnut konfiguraciu nasledujuceho vzacneho plynu"
+        "text": "všetky môžu dosiahnuť konfiguráciu nasledujúceho vzácneho plynu"
       },
       {
         "id": "b",
-        "text": "nekovovy charakter stupa s klesajucim cislom Z prvku"
+        "text": "nekovový charakter stúpa s klesajúcim číslom Z prvku"
       },
       {
         "id": "c",
-        "text": "vsetky su stvorvazbove"
+        "text": "všetky sú stvorvazbove"
       },
       {
         "id": "d",
-        "text": "so stupajucim Cislom Z prvku rastie ich reaktivita"
+        "text": "so stúpajúcim Číslom Z prvku rastie ich reaktivita"
       },
       {
         "id": "e",
-        "text": "stalost zlucenin prvkov V.A podskupiny s oxidacnym cislom +III klesa s ich cislom Z prvku"
+        "text": "stálosť zlúčenín prvkov V.A podskupiny s oxidačným číslom +III klesá s ich číslom Z prvku"
       },
       {
         "id": "f",
-        "text": "stalost zlucenin prvkov V.A podskupiny s oxidacnym cislom +V klesa s rastucim cislom Zprvku"
+        "text": "stálosť zlúčenín prvkov V.A podskupiny s oxidačným číslom +V klesá s rastúcim číslom Zprvku"
       },
       {
         "id": "g",
-        "text": "s rastucim cislom Z prvku klesa kysly charakter ich oxidov"
+        "text": "s rastúcim číslom Z prvku klesá kyslý charakter ich oxidov"
       },
       {
         "id": "h",
-        "text": "vsetky prvky tejto podskupiny su polokovy"
+        "text": "všetky prvky tejto podskupiny sú polokovy"
       }
     ],
     "correct_answers": [
@@ -2398,35 +2398,35 @@
     "options": [
       {
         "id": "a",
-        "text": "vsetky su nekovy"
+        "text": "všetky sú nekovy"
       },
       {
         "id": "b",
-        "text": "vzhl'adom na svoju reaktivitu vytvaraju dvojatomove molekuly"
+        "text": "vzhľadom na svoju reaktivitu vytvárajú dvojatómové molekuly"
       },
       {
         "id": "c",
-        "text": "vzhl'adom na svoju malu reaktivitu vytvaraju iba jednoatomove plyny"
+        "text": "vzhľadom na svoju malú reaktivitu vytvárajú iba jednoatómové plyny"
       },
       {
         "id": "d",
-        "text": "nazyvaju sa aj vzacne (inertne) plyny"
+        "text": "nazývajú sa aj vzácne (inertné) plyny"
       },
       {
         "id": "e",
-        "text": "vo vzduchu su najviac zastupene xenon a radon"
+        "text": "vo vzduchu sú najviac zastúpené xenón a radón"
       },
       {
         "id": "f",
-        "text": "vo vzduchu najmenej zastupeny je argon"
+        "text": "vo vzduchu najmenej zastúpený je argón"
       },
       {
         "id": "g",
-        "text": "nachadzaju sa vo vzduchu a tvoria asi 1 % 89"
+        "text": "nachádzajú sa vo vzduchu a tvoria asi 1 % 89"
       },
       {
         "id": "h",
-        "text": "nachadzaju sa vo vzduchu a tvoria asi 0,1 %"
+        "text": "nachádzajú sa vo vzduchu a tvoria asi 0,1 %"
       }
     ],
     "correct_answers": [
@@ -2444,19 +2444,19 @@
     "options": [
       {
         "id": "a",
-        "text": "rastie zasaditost ich hydroxidov"
+        "text": "rastie zásaditosť ich hydroxidov"
       },
       {
         "id": "b",
-        "text": "rastie kyslost ich kyselin"
+        "text": "rastie kyslosť ich kyselín"
       },
       {
         "id": "c",
-        "text": "rastie ich oxidacny ucinok"
+        "text": "rastie ich oxidačný účinok"
       },
       {
         "id": "d",
-        "text": "rastie ich redukeny ucinok"
+        "text": "rastie ich redukeny účinok"
       },
       {
         "id": "e",
@@ -2464,15 +2464,15 @@
       },
       {
         "id": "f",
-        "text": "klesa ich reaktivita"
+        "text": "klesá ich reaktivita"
       },
       {
         "id": "g",
-        "text": "stupa ich hustota"
+        "text": "stúpa ich hustota"
       },
       {
         "id": "h",
-        "text": "stupa ich elektronegativita"
+        "text": "stúpa ich elektronegativita"
       }
     ],
     "correct_answers": [
@@ -2486,39 +2486,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "405. So zvacsujucim sa Z prvkov VII.A podskupiny:",
+    "content": "405. So zväčšujúcim sa Z prvkov VII.A podskupiny:",
     "options": [
       {
         "id": "a",
-        "text": "vzrasta ich redukcny ucinok"
+        "text": "vzrastá ich redukčný účinok"
       },
       {
         "id": "b",
-        "text": "klesa kyslost ich oxidov"
+        "text": "klesá kyslosť ich oxidov"
       },
       {
         "id": "c",
-        "text": "stupa ich elektronegativita"
+        "text": "stúpa ich elektronegativita"
       },
       {
         "id": "d",
-        "text": "zmensuje sa ich hustota"
+        "text": "zmenšuje sa ich hustota"
       },
       {
         "id": "e",
-        "text": "sytost ich sfarbenia sa prehlbuje"
+        "text": "sýtosť ich sfarbenia sa prehlbuje"
       },
       {
         "id": "f",
-        "text": "zmensuje sa ich teplota topenia a varu"
+        "text": "zmenšuje sa ich teplota topenia a varu"
       },
       {
         "id": "g",
-        "text": "meni sa ich skupenstvo"
+        "text": "mení sa ich skupenstvo"
       },
       {
         "id": "h",
-        "text": "klesa ich polomer atomov"
+        "text": "klesá ich polomer atómov"
       }
     ],
     "correct_answers": [
@@ -2532,7 +2532,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "406. O prvkoch I.B podskupiny plati:",
+    "content": "406. O prvkoch I.B podskupiny platí:",
     "options": [
       {
         "id": "a",
@@ -2540,7 +2540,7 @@
       },
       {
         "id": "b",
-        "text": "mozu vytvarat az stvormocne kationy"
+        "text": "môžu vytvárať až štvormocné katióny"
       },
       {
         "id": "c",
@@ -2548,11 +2548,11 @@
       },
       {
         "id": "d",
-        "text": "v Beketovom rade napatia sa nachadzaju vl'avo od vodika"
+        "text": "v Beketovom rade napätia sa nachádzajú vľavo od vodíka"
       },
       {
         "id": "e",
-        "text": "v prirode sa mozu nachadzat v elementarnej forme"
+        "text": "v prírode sa môžu nachádzať v elementárnej forme"
       },
       {
         "id": "f",
@@ -2560,11 +2560,11 @@
       },
       {
         "id": "g",
-        "text": "maju elektronovu konfiguraciu (n-1)dl0 nsl"
+        "text": "majú elektrónovú konfiguráciu (n-1)dl0 nsl"
       },
       {
         "id": "h",
-        "text": "su reaktivnejsie ako prvky I.A podskupiny"
+        "text": "sú reaktívnejšie ako prvky I.A podskupiny"
       }
     ],
     "correct_answers": [
@@ -2578,39 +2578,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "407. Prvky podskupiny II.B v porovnani s prvkami podskupiny II.A:",
+    "content": "407. Prvky podskupiny II.B v porovnaní s prvkami podskupiny II.A:",
     "options": [
       {
         "id": "a",
-        "text": "maju vacsie atomove polomery"
+        "text": "majú väčšie atómové polomery"
       },
       {
         "id": "b",
-        "text": "su reaktivnejsie"
+        "text": "sú reaktívnejšie"
       },
       {
         "id": "c",
-        "text": "maju vyssie teploty topenia"
+        "text": "majú vyššie teploty topenia"
       },
       {
         "id": "d",
-        "text": "maju vacsi naboj jadra"
+        "text": "majú väčší náboj jadra"
       },
       {
         "id": "e",
-        "text": "tiez maju len jedno oxidacné cislo a to +II"
+        "text": "tiež majú len jedno oxidačné číslo a to +II"
       },
       {
         "id": "f",
-        "text": "maju zaplnene d orbitaly"
+        "text": "majú zaplnené d orbitály"
       },
       {
         "id": "g",
-        "text": "maju nizsie teploty topenia"
+        "text": "majú nižšie teploty topenia"
       },
       {
         "id": "h",
-        "text": "maju mensie atomove polomery"
+        "text": "majú menšie atómové polomery"
       }
     ],
     "correct_answers": [
@@ -2624,39 +2624,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "408. 0 vodiku plati:",
+    "content": "408. 0 vodíku platí:",
     "options": [
       {
         "id": "a",
-        "text": "ma tri izotopy"
+        "text": "má tri izotopy"
       },
       {
         "id": "b",
-        "text": "s alkalickymi kovmi vytvara kovalentne hydridy"
+        "text": "s alkalickými kovmi vytvára kovalentné hydridy"
       },
       {
         "id": "c",
-        "text": "ma redukcne vlastnosti"
+        "text": "má redukčné vlastnosti"
       },
       {
         "id": "d",
-        "text": "s prechodnymi kovmi vytvara kovove hydridy"
+        "text": "s prechodnými kovmi vytvára kovové hydridy"
       },
       {
         "id": "e",
-        "text": "pre svoju reaktivnost sa v prirode vol'ny nenachadza 90"
+        "text": "pre svoju reaktívnosť sa v prírode voľný nenachádza 90"
       },
       {
         "id": "f",
-        "text": "je biogenny prvok"
+        "text": "je biogénny prvok"
       },
       {
         "id": "g",
-        "text": "s vodou reaguje za vzniku peroxidu vodika"
+        "text": "s vodou reaguje za vzniku peroxidu vodíka"
       },
       {
         "id": "h",
-        "text": "ziskava sa pri stuzovani tukov"
+        "text": "získava sa pri stužovaní tukov"
       }
     ],
     "correct_answers": [
@@ -2670,39 +2670,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "409. Pre alkalicke kovy neplati:",
+    "content": "409. Pre alkalické kovy neplatí:",
     "options": [
       {
         "id": "a",
-        "text": "su malo reaktivne"
+        "text": "sú malo reaktívne"
       },
       {
         "id": "b",
-        "text": "s rastucim Z prvkov klesa teplota ich topenia"
+        "text": "s rastúcim Z prvkov klesá teplota ich topenia"
       },
       {
         "id": "c",
-        "text": "s rastucim Z prvkov klesa ich hustota"
+        "text": "s rastúcim Z prvkov klesá ich hustota"
       },
       {
         "id": "d",
-        "text": "maju male atomove polomery"
+        "text": "majú malé atómové polomery"
       },
       {
         "id": "e",
-        "text": "vzhl'adom na svoju reaktivitu, sa uskladnuju pod vodou"
+        "text": "vzhľadom na svoju reaktivitu, sa uskladňujú pod vodou"
       },
       {
         "id": "f",
-        "text": "su silne redukovadla"
+        "text": "sú silné redukovadla"
       },
       {
         "id": "g",
-        "text": "sodik a draslik patria medzi najrozsirenejsie prvky zemskej kory"
+        "text": "sodík a draslík patria medzi najrozšírenejšie prvky zemskej kôry"
       },
       {
         "id": "h",
-        "text": "su dobre vodice tepla"
+        "text": "sú dobre vodiče tepla"
       }
     ],
     "correct_answers": [
@@ -2716,39 +2716,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "410. Hydroxid sodny:",
+    "content": "410. Hydroxid sodný:",
     "options": [
       {
         "id": "a",
-        "text": "je vel'mi dobre rozpustny vo vode"
+        "text": "je veľmi dobre rozpustný vo vode"
       },
       {
         "id": "b",
-        "text": "je hygroskopicky"
+        "text": "je hygroskopický"
       },
       {
         "id": "c",
-        "text": "lepta sklo"
+        "text": "leptá sklo"
       },
       {
         "id": "d",
-        "text": "laboratorne mozno pripravit z kovoveho sodika"
+        "text": "laboratórne možno pripraviť z kovového sodíka"
       },
       {
         "id": "e",
-        "text": "neabsorbuje vzdusny oxid uhlicity"
+        "text": "neabsorbuje vzdušný oxid uhličitý"
       },
       {
         "id": "f",
-        "text": "neabsorbuje vzdusne vodne pary"
+        "text": "neabsorbuje vzdušné vodné páry"
       },
       {
         "id": "g",
-        "text": "v krystalickej forme je zlty"
+        "text": "v kryštalickej forme je žltý"
       },
       {
         "id": "h",
-        "text": "priemyselne sa vyraba zo siranu sodneho"
+        "text": "priemyselné sa vyrába zo síranu sodného"
       }
     ],
     "correct_answers": [
@@ -2762,39 +2762,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "411. Soda:",
+    "content": "411. Sóda:",
     "options": [
       {
         "id": "a",
-        "text": "ma vzorec NaHCO3"
+        "text": "má vzorec NaHCO3"
       },
       {
         "id": "b",
-        "text": "ma vzorec Na2CO3"
+        "text": "má vzorec Na2CO3"
       },
       {
         "id": "c",
-        "text": "vyraba sa Solvayovym sposobom"
+        "text": "vyrába sa Solvayovym spôsobom"
       },
       {
         "id": "d",
-        "text": "vyraba sa elektrolyzou sodovej vody"
+        "text": "vyrába sa elektrolýzou sódovej vody"
       },
       {
         "id": "e",
-        "text": "pouziva sa ako liecivo"
+        "text": "používa sa ako liečivo"
       },
       {
         "id": "f",
-        "text": "pouziva sa pri vyrobe skla"
+        "text": "používa sa pri výrobe skla"
       },
       {
         "id": "g",
-        "text": "s vodou sa hydrolyzuje a dava kyslu reakciu"
+        "text": "s vodou sa hydrolyzuje a dáva kyslú reakciu"
       },
       {
         "id": "h",
-        "text": "s vodou sa hydrolyzuje a dava zasaditu reakciu"
+        "text": "s vodou sa hydrolyzuje a dáva zásaditú reakciu"
       }
     ],
     "correct_answers": [
@@ -2808,39 +2808,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "412. Jedla soda:",
+    "content": "412. Jedla sóda:",
     "options": [
       {
         "id": "a",
-        "text": "ma vzorec NaHCO3"
+        "text": "má vzorec NaHCO3"
       },
       {
         "id": "b",
-        "text": "ma vzorec Na2CO3"
+        "text": "má vzorec Na2CO3"
       },
       {
         "id": "c",
-        "text": "vyraba sa Solvayovym sposobom"
+        "text": "vyrába sa Solvayovym spôsobom"
       },
       {
         "id": "d",
-        "text": "vyraba sa elektrolyzou sodovej vody"
+        "text": "vyrába sa elektrolýzou sódovej vody"
       },
       {
         "id": "e",
-        "text": "pouziva sa ako antacidum"
+        "text": "používa sa ako antacidum"
       },
       {
         "id": "f",
-        "text": "pouziva sa ako prasok do peciva"
+        "text": "používa sa ako prášok do pečiva"
       },
       {
         "id": "g",
-        "text": "s vodou sa hydrolyzuje a dava kyslu reakciu"
+        "text": "s vodou sa hydrolyzuje a dáva kyslú reakciu"
       },
       {
         "id": "h",
-        "text": "s vodou sa nehydrolyzuje a dava neutralnu reakciu"
+        "text": "s vodou sa nehydrolyzuje a dáva neutrálnu reakciu"
       }
     ],
     "correct_answers": [
@@ -2854,31 +2854,31 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "413. 0 sodiku plati:",
+    "content": "413. 0 sodíku platí:",
     "options": [
       {
         "id": "a",
-        "text": "sodikovy kation je intracelularny"
+        "text": "sodíkový katión je intracelulárny"
       },
       {
         "id": "b",
-        "text": "da sa krajat nozom"
+        "text": "dá sa krájať nožom"
       },
       {
         "id": "c",
-        "text": "s vodou reaguje spontanne 16"
+        "text": "s vodou reaguje spontánne 16"
       },
       {
         "id": "d",
-        "text": "sodikovy kation je extracelularny"
+        "text": "sodíkový katión je extracelulárny"
       },
       {
         "id": "e",
-        "text": "farbi plamen na zlto"
+        "text": "farbí plameň na žlto"
       },
       {
         "id": "f",
-        "text": "pouziva sa na legovanie oceli"
+        "text": "používa sa na legovanie ocelí"
       },
       {
         "id": "g",
@@ -2886,7 +2886,7 @@
       },
       {
         "id": "h",
-        "text": "jeho najdolezitejsou zluceninou je potas"
+        "text": "jeho najdôležitejšou zlúčeninou je potaš"
       }
     ],
     "correct_answers": [
@@ -2900,39 +2900,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "414. Horcik je:",
+    "content": "414. Horčík je:",
     "options": [
       {
         "id": "a",
-        "text": "sucastou vitaminu B12"
+        "text": "súčasťou vitamínu B12"
       },
       {
         "id": "b",
-        "text": "sucast'ou chlorofylu"
+        "text": "súčasťou chlorofylu"
       },
       {
         "id": "c",
-        "text": "intracelularny prvok"
+        "text": "intracelulárny prvok"
       },
       {
         "id": "d",
-        "text": "extracelularny prvok"
+        "text": "extracelulárny prvok"
       },
       {
         "id": "e",
-        "text": "sucastou malachitu"
+        "text": "súčasťou malachitu"
       },
       {
         "id": "f",
-        "text": "sucast'ou magnezitu"
+        "text": "súčasťou magnezitu"
       },
       {
         "id": "g",
-        "text": "sucastou dolomitu"
+        "text": "súčasťou dolomitu"
       },
       {
         "id": "h",
-        "text": "najreaktivnejsi prvok II.A podskupiny"
+        "text": "najreaktívnejší prvok II.A podskupiny"
       }
     ],
     "correct_answers": [
@@ -2946,39 +2946,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "415. Vapnik:",
+    "content": "415. Vápnik:",
     "options": [
       {
         "id": "a",
-        "text": "je biogennym makroprvkom"
+        "text": "je biogénnym makroprvkom"
       },
       {
         "id": "b",
-        "text": "je typicky intracelularny ion"
+        "text": "je typický intracelulárny ión"
       },
       {
         "id": "c",
-        "text": "na vzduchu nehori"
+        "text": "na vzduchu nehorí"
       },
       {
         "id": "d",
-        "text": "Iahko tvori peroxidy s kyslikom"
+        "text": "Iahko tvorí peroxidy s kyslíkom"
       },
       {
         "id": "e",
-        "text": "ma vyznam pre svalovu pracu"
+        "text": "má význam pre svalovú prácu"
       },
       {
         "id": "f",
-        "text": "je sucast'ou vitaminu C"
+        "text": "je súčasťou vitamínu C"
       },
       {
         "id": "g",
-        "text": "rozklada vodu uz pri laboratornej teplote"
+        "text": "rozkladá vodu už pri laboratórnej teplote"
       },
       {
         "id": "h",
-        "text": "neutralizuje zaludocnu stavu"
+        "text": "neutralizuje žalúdočnú stavu"
       }
     ],
     "correct_answers": [
@@ -2996,35 +2996,35 @@
     "options": [
       {
         "id": "a",
-        "text": "ma vzorec CaSO4"
+        "text": "má vzorec CaSO4"
       },
       {
         "id": "b",
-        "text": "ma vzorec CaSO4 . 2 H2O"
+        "text": "má vzorec CaSO4 . 2 H2O"
       },
       {
         "id": "c",
-        "text": "pouziva sa v zdravotnictve"
+        "text": "používa sa v zdravotníctve"
       },
       {
         "id": "d",
-        "text": "ma vzorec CaSO4 . 0,5 H2O"
+        "text": "má vzorec CaSO4 . 0,5 H2O"
       },
       {
         "id": "e",
-        "text": "je hemihydrat siranu vapenateho"
+        "text": "je hemihydrát síranu vápenatého"
       },
       {
         "id": "f",
-        "text": "pripravuje sa zo sadrovca prazenim"
+        "text": "pripravuje sa zo sadrovca pražením"
       },
       {
         "id": "g",
-        "text": "sposobuje tvrdost vody"
+        "text": "spôsobuje tvrdosť vody"
       },
       {
         "id": "h",
-        "text": "je hlavnou zlozkou kosti"
+        "text": "je hlavnou zložkou kosti"
       }
     ],
     "correct_answers": [
@@ -3038,39 +3038,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "417. 0 oxide hlinitom plati:",
+    "content": "417. 0 oxide hlinitom platí:",
     "options": [
       {
         "id": "a",
-        "text": "vznika pri vysokych teplotach z Al a O2"
+        "text": "vzniká pri vysokých teplotách z Al a O2"
       },
       {
         "id": "b",
-        "text": "v malych mnozstvach vznika aj pri nizkych teplotach"
+        "text": "v malých množstvách vzniká aj pri nízkych teplotách"
       },
       {
         "id": "c",
-        "text": "v prirode sa nachadza ako mineral beryl"
+        "text": "v prírode sa nachádza ako minerál beryl"
       },
       {
         "id": "d",
-        "text": "tvori jeden z najtvrdsich mineralov, korund"
+        "text": "tvorí jeden z najtvrdších minerálov, korund"
       },
       {
         "id": "e",
-        "text": "nerozpusta sa v roztokoch kyselin a hydroxidov"
+        "text": "nerozpúšťa sa v roztokoch kyselín a hydroxidov"
       },
       {
         "id": "f",
-        "text": "pre svoje adsorpene schopnosti sa pouziva v chromatografi"
+        "text": "pre svoje adsorpene schopnosti sa používa v chromatografi"
       },
       {
         "id": "g",
-        "text": "vo vode je dobre rozpustny"
+        "text": "vo vode je dobre rozpustný"
       },
       {
         "id": "h",
-        "text": "je Pahko tavitel'ny"
+        "text": "je Pahko taviteľný"
       }
     ],
     "correct_answers": [
@@ -3084,15 +3084,15 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "418. 0 hliniku plati:",
+    "content": "418. 0 hliníku platí:",
     "options": [
       {
         "id": "a",
-        "text": "vyraba sa elektrolyticky 92"
+        "text": "vyrába sa elektrolyticky 92"
       },
       {
         "id": "b",
-        "text": "je biogenny prvok"
+        "text": "je biogénny prvok"
       },
       {
         "id": "c",
@@ -3100,11 +3100,11 @@
       },
       {
         "id": "d",
-        "text": "'ahko tvori kamence"
+        "text": "'ahko tvorí kamence"
       },
       {
         "id": "e",
-        "text": "dural je zliatinou hlinika a cinu"
+        "text": "dural je zliatinou hliníka a činu"
       },
       {
         "id": "f",
@@ -3116,7 +3116,7 @@
       },
       {
         "id": "h",
-        "text": "v prirode sa vyskytuje vol'ny"
+        "text": "v prírode sa vyskytuje voľný"
       }
     ],
     "correct_answers": [
@@ -3130,31 +3130,31 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "419. 0 uhliku plati:",
+    "content": "419. 0 uhlíku platí:",
     "options": [
       {
         "id": "a",
-        "text": "je biogenny makroprvok"
+        "text": "je biogénny makroprvok"
       },
       {
         "id": "b",
-        "text": "v prirode sa nenachadza vol'ny"
+        "text": "v prírode sa nenachádza voľný"
       },
       {
         "id": "c",
-        "text": "grafit ma polymernu strukturu"
+        "text": "grafit má polymérnu štruktúru"
       },
       {
         "id": "d",
-        "text": "je schopny vytvarat ret'azce"
+        "text": "je schopný vytvárať reťazce"
       },
       {
         "id": "e",
-        "text": "diamant je najtvrdsi nerast"
+        "text": "diamant je najtvrdší nerast"
       },
       {
         "id": "f",
-        "text": "diamant je dobry vodic elektriny"
+        "text": "diamant je dobrý vodič elektriny"
       },
       {
         "id": "g",
@@ -3162,7 +3162,7 @@
       },
       {
         "id": "h",
-        "text": "Zivocisne uhlie sa vyuziva v medicine"
+        "text": "Živočíšne uhlie sa využíva v medicíne"
       }
     ],
     "correct_answers": [
@@ -3176,39 +3176,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "420. Pre 0oxid uhlicity plati:",
+    "content": "420. Pre 0oxid uhličitý platí:",
     "options": [
       {
         "id": "a",
-        "text": "je I'ahsi ako vzduch"
+        "text": "je I'ahší ako vzduch"
       },
       {
         "id": "b",
-        "text": "vznika rozkladom vapenca"
+        "text": "vzniká rozkladom vápenca"
       },
       {
         "id": "c",
-        "text": "vznika pri spa'ovani uhlia"
+        "text": "vzniká pri spa'ovani uhlia"
       },
       {
         "id": "d",
-        "text": "vznika pri redukcii CO"
+        "text": "vzniká pri redukcii ČO"
       },
       {
         "id": "e",
-        "text": "uvol'nuje sa pri kvaseni"
+        "text": "uvoľňuje sa pri kvasení"
       },
       {
         "id": "f",
-        "text": "je prudko jedovaty"
+        "text": "je prudko jedovatý"
       },
       {
         "id": "g",
-        "text": "vznika pri oxidacii CO"
+        "text": "vzniká pri oxidácii ČO"
       },
       {
         "id": "h",
-        "text": "vo vode sa nerozpusta"
+        "text": "vo vode sa nerozpúšťa"
       }
     ],
     "correct_answers": [
@@ -3222,39 +3222,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "421. Oxid uhol'naty:",
+    "content": "421. Oxid uhoľnatý:",
     "options": [
       {
         "id": "a",
-        "text": "je iba oxidacne cinidlo"
+        "text": "je iba oxidačné činidlo"
       },
       {
         "id": "b",
-        "text": "je bez zapachu"
+        "text": "je bez zápachu"
       },
       {
         "id": "c",
-        "text": "s vodou dava H2CO3"
+        "text": "s vodou dáva H2CO3"
       },
       {
         "id": "d",
-        "text": "vznika oxidaciou CO2"
+        "text": "vzniká oxidáciou CO2"
       },
       {
         "id": "e",
-        "text": "je prchava kvapalina"
+        "text": "je prchavá kvapalina"
       },
       {
         "id": "f",
-        "text": "vznika pri nedokonalom spal'ovani"
+        "text": "vzniká pri nedokonalom spaľovaní"
       },
       {
         "id": "g",
-        "text": "je vel'mi jedovaty"
+        "text": "je veľmi jedovatý"
       },
       {
         "id": "h",
-        "text": "vznika reakciou C + CO2"
+        "text": "vzniká reakciou C + CO2"
       }
     ],
     "correct_answers": [
@@ -3272,7 +3272,7 @@
     "options": [
       {
         "id": "a",
-        "text": "CO"
+        "text": "ČO"
       },
       {
         "id": "b",
@@ -3314,7 +3314,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "423. Kyselina kyanovodikova:",
+    "content": "423. Kyselina kyanovodíková:",
     "options": [
       {
         "id": "a",
@@ -3322,11 +3322,11 @@
       },
       {
         "id": "b",
-        "text": "vo vode sa dobre rozpust'a"
+        "text": "vo vode sa dobre rozpúšťa"
       },
       {
         "id": "c",
-        "text": "je prudko jedovata"
+        "text": "je prudko jedovatá"
       },
       {
         "id": "d",
@@ -3334,7 +3334,7 @@
       },
       {
         "id": "e",
-        "text": "je I'ahko prchava pevna latka"
+        "text": "je I'ahko prchavá pevná látka"
       },
       {
         "id": "f",
@@ -3346,7 +3346,7 @@
       },
       {
         "id": "h",
-        "text": "priemyselne sa vyraba z C, N2 a H2"
+        "text": "priemyselné sa vyrába z C, N2 a H2"
       }
     ],
     "correct_answers": [
@@ -3360,39 +3360,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "424. 0 kremiku plati:",
+    "content": "424. 0 kremíku platí:",
     "options": [
       {
         "id": "a",
-        "text": "elementarny kremik sa nachadza v prirode"
+        "text": "elementárny kremík sa nachádza v prírode"
       },
       {
         "id": "b",
-        "text": "je biogenny makroprvok"
+        "text": "je biogénny makroprvok"
       },
       {
         "id": "c",
-        "text": "je najrozsirenejsim prvkom v prirode"
+        "text": "je najrozšírenejším prvkom v prírode"
       },
       {
         "id": "d",
-        "text": "je vel'mi tvrdy, ale krehky"
+        "text": "je veľmi tvrdý, ale krehký"
       },
       {
         "id": "e",
-        "text": "vyraba sa redukciou oxidu kremiciteho uhlikom"
+        "text": "vyrába sa redukciou oxidu kremičitého uhlíkom"
       },
       {
         "id": "f",
-        "text": "pouziva sa v mikroelektronike"
+        "text": "používa sa v mikroelektronike"
       },
       {
         "id": "g",
-        "text": "jeho nerasty sa pouzivaju na vyrobu skla"
+        "text": "jeho nerasty sa používajú na výrobu skla"
       },
       {
         "id": "h",
-        "text": "svojou strukturou sa podoba grafitu"
+        "text": "svojou štruktúrou sa podobá grafitu"
       }
     ],
     "correct_answers": [
@@ -3406,39 +3406,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "425. Pre dusik plati:",
+    "content": "425. Pre dusík platí:",
     "options": [
       {
         "id": "a",
-        "text": "v prirode sa nachadza len vol'ny"
+        "text": "v prírode sa nachádza len voľný"
       },
       {
         "id": "b",
-        "text": "je maximalne stvorvazbovy"
+        "text": "je maximálne štvorväzbový"
       },
       {
         "id": "c",
-        "text": "molekulovy dusik obsahuje ve'mi stabilnu stvoritu vazbu"
+        "text": "molekulový dusík obsahuje ve'mi stabilnú štvoritú väzbu"
       },
       {
         "id": "d",
-        "text": "molekulovy dusik je malo reaktivny"
+        "text": "molekulový dusík je malo reaktívny"
       },
       {
         "id": "e",
-        "text": "je I'ahsi ako vzduch"
+        "text": "je I'ahší ako vzduch"
       },
       {
         "id": "f",
-        "text": "je tazsi ako vzduch"
+        "text": "je ťažší ako vzduch"
       },
       {
         "id": "g",
-        "text": "patri k biogennym mikroprvkom"
+        "text": "patrí k biogénnym mikroprvkom"
       },
       {
         "id": "h",
-        "text": "s vacsinou latok reaguje az pri vysokej teplote"
+        "text": "s väčšinou látok reaguje až pri vysokej teplote"
       }
     ],
     "correct_answers": [
@@ -3452,39 +3452,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "426. Pre amoniak plati:",
+    "content": "426. Pre amoniak platí:",
     "options": [
       {
         "id": "a",
-        "text": "vo vode sa slabo rozpusta"
+        "text": "vo vode sa slabo rozpúšťa"
       },
       {
         "id": "b",
-        "text": "vystupuje ako akceptor v komplexnych zluceninach"
+        "text": "vystupuje ako akceptor v komplexných zlúčeninách"
       },
       {
         "id": "c",
-        "text": "na atome dusika ma jeden vol'ny elektronovy par"
+        "text": "na atóme dusíka má jeden voľný elektrónový pár"
       },
       {
         "id": "d",
-        "text": "s vodou tvori slaby hydroxid"
+        "text": "s vodou tvorí slabý hydroxid"
       },
       {
         "id": "e",
-        "text": "je bezfarebny plyn"
+        "text": "je bezfarebný plyn"
       },
       {
         "id": "f",
-        "text": "je nepolarna zlucenina"
+        "text": "je nepolárna zlúčenina"
       },
       {
         "id": "g",
-        "text": "v koordinacnych zluceninach vystupuje ako donor"
+        "text": "v koordinačných zlúčeninách vystupuje ako donor"
       },
       {
         "id": "h",
-        "text": "I'ahko tvori kation NH3+"
+        "text": "I'ahko tvorí katión NH3+"
       }
     ],
     "correct_answers": [
@@ -3498,15 +3498,15 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "427. Pre oxidy dusika plati:",
+    "content": "427. Pre oxidy dusíka platí:",
     "options": [
       {
         "id": "a",
-        "text": "oxid dusny je bezfarebny plyn"
+        "text": "oxid dusný je bezfarebný plyn"
       },
       {
         "id": "b",
-        "text": "oxid dusnaty je anhydridom kyseliny dusnatej"
+        "text": "oxid dusnatý je anhydridom kyseliny dusnatej"
       },
       {
         "id": "c",
@@ -3518,19 +3518,19 @@
       },
       {
         "id": "e",
-        "text": "NO2 je vel'mi toxicky"
+        "text": "NO2 je veľmi toxický"
       },
       {
         "id": "f",
-        "text": "anhydridom kyseliny dusnej je oxid dusny"
+        "text": "anhydridom kyseliny dusnej je oxid dusný"
       },
       {
         "id": "g",
-        "text": "oxid dusny sa pouziva v sIahackovych sprejoch 94"
+        "text": "oxid dusný sa používa v sIahackovych sprejoch 94"
       },
       {
         "id": "h",
-        "text": "neznecist'uju zivotne prostredie"
+        "text": "neznecisťuju životné prostredie"
       }
     ],
     "correct_answers": [
@@ -3544,11 +3544,11 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "428. Kyselina dusicna:",
+    "content": "428. Kyselina dusičná:",
     "options": [
       {
         "id": "a",
-        "text": "priemyselne sa vyraba z N2Os"
+        "text": "priemyselné sa vyrába z N2Os"
       },
       {
         "id": "b",
@@ -3560,23 +3560,23 @@
       },
       {
         "id": "d",
-        "text": "s vodou tvori azeotropnu zmes"
+        "text": "s vodou tvorí azeotropnu zmes"
       },
       {
         "id": "e",
-        "text": "je silnym redukovadlom"
+        "text": "je silným redukovadlom"
       },
       {
         "id": "f",
-        "text": "je silnou jednosytnou kyselinou"
+        "text": "je silnou jednosýtnou kyselinou"
       },
       {
         "id": "g",
-        "text": "je slabsou kyselinou ako kyselina dusita"
+        "text": "je slabšou kyselinou ako kyselina dusitá"
       },
       {
         "id": "h",
-        "text": "je silnym oxidovadlom"
+        "text": "je silným oxidovadlom"
       }
     ],
     "correct_answers": [
@@ -3590,39 +3590,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "429. Pre fosfor plati:",
+    "content": "429. Pre fosfor platí:",
     "options": [
       {
         "id": "a",
-        "text": "v prirode sa nachadza v elementarnej forme"
+        "text": "v prírode sa nachádza v elementárnej forme"
       },
       {
         "id": "b",
-        "text": "vsetky tri jeho modifikacie su prudko toxické"
+        "text": "všetky tri jeho modifikácie sú prudko toxické"
       },
       {
         "id": "c",
-        "text": "cierny fosfor ma polokovove vlastnosti"
+        "text": "čierny fosfor má polokovové vlastnosti"
       },
       {
         "id": "d",
-        "text": "cerveny fosfor je na vzduchu samozapalny"
+        "text": "červený fosfor je na vzduchu samozápalný"
       },
       {
         "id": "e",
-        "text": "V prirode sa najcastejsie nachadza v mineraloch obsahujucich fosforecnany"
+        "text": "V prírode sa najčastejšie nachádza v mineráloch obsahujúcich fosforečnany"
       },
       {
         "id": "f",
-        "text": "iba biely fosfor je toxicky"
+        "text": "iba biely fosfor je toxický"
       },
       {
         "id": "g",
-        "text": "je prikladom vzajomnej samovol'nej premeny vsetkych troch modifikacii"
+        "text": "je príkladom vzájomnej samovoľnej premeny všetkých troch modifikácií"
       },
       {
         "id": "h",
-        "text": "cervena modifikacia je tvorena z polymernych ret'azcov kovalentne viazaneho fosforu"
+        "text": "červená modifikácia je tvorená z polymérnych reťazcov kovalentné viazaného fosforu"
       }
     ],
     "correct_answers": [
@@ -3636,23 +3636,23 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "430. Oxid fosforecny:",
+    "content": "430. Oxid fosforečný:",
     "options": [
       {
         "id": "a",
-        "text": "vyskytuje sa ako dimer molekuly P2Os"
+        "text": "vyskytuje sa ako dimér molekuly P2Os"
       },
       {
         "id": "b",
-        "text": "ma silne hygroskopicke vlastnosti"
+        "text": "má silné hygroskopické vlastnosti"
       },
       {
         "id": "c",
-        "text": "je cerveny, farbou pripomina krv"
+        "text": "je červený, farbou pripomína krv"
       },
       {
         "id": "d",
-        "text": "vznika nedokonalym spal'ovanim fosforu"
+        "text": "vzniká nedokonalým spaľovaním fosforu"
       },
       {
         "id": "e",
@@ -3660,15 +3660,15 @@
       },
       {
         "id": "f",
-        "text": "pri jeho reakcii s vodou vznika kyselina trihydrogenfosforecna"
+        "text": "pri jeho reakcií s vodou vzniká kyselina trihydrogenfosforečná"
       },
       {
         "id": "g",
-        "text": "netvori dimer"
+        "text": "netvorí dimér"
       },
       {
         "id": "h",
-        "text": "vznika dokonalym spal'ovanim fosforu"
+        "text": "vzniká dokonalým spaľovaním fosforu"
       }
     ],
     "correct_answers": [
@@ -3681,39 +3681,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "431. Kyselina fosforecna H3PO4:",
+    "content": "431. Kyselina fosforečná H3PO4:",
     "options": [
       {
         "id": "a",
-        "text": "bezvoda je bezfarebna krystalicka latka"
+        "text": "bezvodá je bezfarebná kryštalická látka"
       },
       {
         "id": "b",
-        "text": "bezvoda je bezfarebna kvapalina"
+        "text": "bezvodá je bezfarebná kvapalina"
       },
       {
         "id": "c",
-        "text": "podobne ako HNO3 ma silné oxidacné vlastnosti"
+        "text": "podobne ako HNO3 má silné oxidačné vlastnosti"
       },
       {
         "id": "d",
-        "text": "je silne hygroskopicka"
+        "text": "je silné hygroskopická"
       },
       {
         "id": "e",
-        "text": "je vel'mi stala stredne silna kyselina"
+        "text": "je veľmi stala stredne silná kyselina"
       },
       {
         "id": "f",
-        "text": "pri zvysenej teplote reaguje s vacsinou kovov za vzniku fosforecnanov"
+        "text": "pri zvýšenej teplote reaguje s väčšinou kovov za vzniku fosforečnanov"
       },
       {
         "id": "g",
-        "text": "je schopna tvorit polyfosforecne kyseliny"
+        "text": "je schopná tvoriť polyfosforečné kyseliny"
       },
       {
         "id": "h",
-        "text": "vytvara tri druhy soli"
+        "text": "vytvára tri druhý soli"
       }
     ],
     "correct_answers": [
@@ -3728,39 +3728,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "432. Kyslik:",
+    "content": "432. Kyslík:",
     "options": [
       {
         "id": "a",
-        "text": "je prevazne oxidovadlo"
+        "text": "je prevažne oxidovadlo"
       },
       {
         "id": "b",
-        "text": "je prevazne redukovadlo"
+        "text": "je prevažne redukovadlo"
       },
       {
         "id": "c",
-        "text": "je malo reaktivny prvok"
+        "text": "je malo reaktívny prvok"
       },
       {
         "id": "d",
-        "text": "moze sa redukovat' 95"
+        "text": "môže sa redukovať 95"
       },
       {
         "id": "e",
-        "text": "vo vode sa ciastocne rozpust'a"
+        "text": "vo vode sa čiastočne rozpúšťa"
       },
       {
         "id": "f",
-        "text": "vo vode sa nerozpust'a"
+        "text": "vo vode sa nerozpúšťa"
       },
       {
         "id": "g",
-        "text": "moze mat' najvyssie oxidacne cislo +VI"
+        "text": "môže mať najvyššie oxidačné číslo +VI"
       },
       {
         "id": "h",
-        "text": "mozeme pripravit rozkladom chloristanu draselneho"
+        "text": "môžeme pripraviť rozkladom chloristanu draselného"
       }
     ],
     "correct_answers": [
@@ -3774,39 +3774,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "433. Ozon:",
+    "content": "433. Ozón:",
     "options": [
       {
         "id": "a",
-        "text": "ma redukene vlastnosti"
+        "text": "má redukene vlastnosti"
       },
       {
         "id": "b",
-        "text": "ma oxidacne vlastnosti"
+        "text": "má oxidačné vlastnosti"
       },
       {
         "id": "c",
-        "text": "vznika v atmosfere pri burkach"
+        "text": "vzniká v atmosfére pri búrkach"
       },
       {
         "id": "d",
-        "text": "ma vzorec (O3)"
+        "text": "má vzorec (O3)"
       },
       {
         "id": "e",
-        "text": "Iahko uvo'nuje atom kyslika"
+        "text": "Iahko uvo'ňuje atóm kyslíka"
       },
       {
         "id": "f",
-        "text": "vznika z peroxidu vodika"
+        "text": "vzniká z peroxidu vodíka"
       },
       {
         "id": "g",
-        "text": "pouziva sa na sterilizaciu"
+        "text": "používa sa na sterilizáciu"
       },
       {
         "id": "h",
-        "text": "sam sa 'ahko oxiduje"
+        "text": "sám sa 'ahko oxiduje"
       }
     ],
     "correct_answers": [
@@ -3820,15 +3820,15 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "434. Vyznacte nepravdivy vyrok o sire:",
+    "content": "434. Vyznačte nepravdivý výrok o sire:",
     "options": [
       {
         "id": "a",
-        "text": "patri medzi halogeny"
+        "text": "patrí medzi halogény"
       },
       {
         "id": "b",
-        "text": "krystalizuje"
+        "text": "kryštalizuje"
       },
       {
         "id": "c",
@@ -3836,23 +3836,23 @@
       },
       {
         "id": "d",
-        "text": "je biogenny mikroprvok"
+        "text": "je biogénny mikroprvok"
       },
       {
         "id": "e",
-        "text": "je nerozpustna vo vode"
+        "text": "je nerozpustná vo vode"
       },
       {
         "id": "f",
-        "text": "zahrievanim tmavne"
+        "text": "zahrievaním tmavne"
       },
       {
         "id": "g",
-        "text": "ma elektronovu konfiguraciu [Ne]3s?3p3"
+        "text": "má elektrónovú konfiguráciu [Ne]3s?3p3"
       },
       {
         "id": "h",
-        "text": "ma kovovy charakter"
+        "text": "má kovový charakter"
       }
     ],
     "correct_answers": [
@@ -3866,39 +3866,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "435. Sulfan:",
+    "content": "435. Sulfán:",
     "options": [
       {
         "id": "a",
-        "text": "ma oxidacné i redukcne ucinky"
+        "text": "má oxidačné i redukčné účinky"
       },
       {
         "id": "b",
-        "text": "vo vode tvori slabu dvojsytnu kyselinu"
+        "text": "vo vode tvorí slabú dvojsýtnu kyselinu"
       },
       {
         "id": "c",
-        "text": "vo vode je nerozpustny"
+        "text": "vo vode je nerozpustný"
       },
       {
         "id": "d",
-        "text": "zhori pri nedostatku vzduchu na siru"
+        "text": "zhorí pri nedostatku vzduchu na síru"
       },
       {
         "id": "e",
-        "text": "s vodou dava alkalicku reakciu"
+        "text": "s vodou dáva alkalickú reakciu"
       },
       {
         "id": "f",
-        "text": "s vodou tvori silnu dvojsytnu kyselinu"
+        "text": "s vodou tvorí silnú dvojsýtnu kyselinu"
       },
       {
         "id": "g",
-        "text": "je pre cloveka toxicky"
+        "text": "je pre človeka toxický"
       },
       {
         "id": "h",
-        "text": "zapacha po skazenych vajciach"
+        "text": "zapácha po skazených vajciach"
       }
     ],
     "correct_answers": [
@@ -3912,39 +3912,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "436. 0 kyseline sirovej plati:",
+    "content": "436. 0 kyseline sírovej platí:",
     "options": [
       {
         "id": "a",
-        "text": "oleum je roztok kyseliny sirovej v oleji"
+        "text": "oleum je roztok kyseliny sírovej v oleji"
       },
       {
         "id": "b",
-        "text": "ma redukné vlastnosti"
+        "text": "má redukné vlastnosti"
       },
       {
         "id": "c",
-        "text": "bezvoda kyselina sirova je olejovita, bezfarebna kvapalina"
+        "text": "bezvodá kyselina sírová je olejovitá, bezfarebná kvapalina"
       },
       {
         "id": "d",
-        "text": "koncentrovana kyselina sirova ma hygroskopicke vlastnosti"
+        "text": "koncentrovaná kyselina sírová má hygroskopické vlastnosti"
       },
       {
         "id": "e",
-        "text": "oleum je dymiva kyselina sirova"
+        "text": "oleum je dymivá kyselina sírová"
       },
       {
         "id": "f",
-        "text": "zriedena kyselina sirova reaguje len s neusPachtilymi kovmi"
+        "text": "zriedená kyselina sírová reaguje len s neusPachtilymi kovmi"
       },
       {
         "id": "g",
-        "text": "koncentrovana kyselina sirova dobre rozpusta zelezo"
+        "text": "koncentrovaná kyselina sírová dobre rozpúšťa železo"
       },
       {
         "id": "h",
-        "text": "pri zried'ovani H2SO4 vodou lejeme zasadne vodu do kyseliny"
+        "text": "pri zrieďovaní H2SO4 vodou lejeme zásadne vodu do kyseliny"
       }
     ],
     "correct_answers": [
@@ -3962,15 +3962,15 @@
     "options": [
       {
         "id": "a",
-        "text": "nachadza sa v prirode vo'ny"
+        "text": "nachádza sa v prírode vo'ny"
       },
       {
         "id": "b",
-        "text": "je jedovaty plyn 96"
+        "text": "je jedovatý plyn 96"
       },
       {
         "id": "c",
-        "text": "v prirode sa nachadza v kazivci"
+        "text": "v prírode sa nachádza v kazivci"
       },
       {
         "id": "d",
@@ -3978,7 +3978,7 @@
       },
       {
         "id": "e",
-        "text": "je biogenny makroprvok"
+        "text": "je biogénny makroprvok"
       },
       {
         "id": "f",
@@ -4008,35 +4008,35 @@
     "options": [
       {
         "id": "a",
-        "text": "je biogenny makroprvok"
+        "text": "je biogénny makroprvok"
       },
       {
         "id": "b",
-        "text": "je z halogenov prirode najviac rozsireny"
+        "text": "je z halogénov prírode najviac rozšírený"
       },
       {
         "id": "c",
-        "text": "nachadza sa v prirode ako volny prvok"
+        "text": "nachádza sa v prírode ako voľný prvok"
       },
       {
         "id": "d",
-        "text": "pripravuje sa redukciou chlorovodiku"
+        "text": "pripravuje sa redukciou chlorovodíku"
       },
       {
         "id": "e",
-        "text": "nereaguje s uhlikom pri laboratornej teplote"
+        "text": "nereaguje s uhlíkom pri laboratórnej teplote"
       },
       {
         "id": "f",
-        "text": "v plynnom chlorovodiku tvori chlor vodikove vazby"
+        "text": "v plynnom chlorovodíku tvorí chlór vodíkové väzby"
       },
       {
         "id": "g",
-        "text": "reaguje s vodikom iba za tmy"
+        "text": "reaguje s vodíkom iba za tmy"
       },
       {
         "id": "h",
-        "text": "je pre cloveka jedovaty"
+        "text": "je pre človeka jedovatý"
       }
     ],
     "correct_answers": [
@@ -4050,39 +4050,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "439. Brom:",
+    "content": "439. Bróm:",
     "options": [
       {
         "id": "a",
-        "text": "je v prirode vel'mi rozsireny"
+        "text": "je v prírode veľmi rozšírený"
       },
       {
         "id": "b",
-        "text": "je biogenny makroprvok"
+        "text": "je biogénny makroprvok"
       },
       {
         "id": "c",
-        "text": "vo forme bromidov je vyuzivany hlavne vo fotografi"
+        "text": "vo forme bromidov je využívaný hlavne vo fotografi"
       },
       {
         "id": "d",
-        "text": "reaguje s vodikom pri laboratornej teplote a bez katalyzatora"
+        "text": "reaguje s vodíkom pri laboratórnej teplote a bez katalyzátora"
       },
       {
         "id": "e",
-        "text": "je Cervenohneda kvapalina"
+        "text": "je Červenohnedá kvapalina"
       },
       {
         "id": "f",
-        "text": "vyraba sa z morskej vody oxidaciou"
+        "text": "vyrába sa z morskej vody oxidáciou"
       },
       {
         "id": "g",
-        "text": "je sucastou Ajatinu"
+        "text": "je súčasťou Ajatinu"
       },
       {
         "id": "h",
-        "text": "ma elektronovu konfiguraciu 4s25ps"
+        "text": "má elektrónovú konfiguráciu 4s25ps"
       }
     ],
     "correct_answers": [
@@ -4096,27 +4096,27 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "440. Jod:",
+    "content": "440. Jód:",
     "options": [
       {
         "id": "a",
-        "text": "je biogenny mikroprvok"
+        "text": "je biogénny mikroprvok"
       },
       {
         "id": "b",
-        "text": "cisti sa destilaciou"
+        "text": "čistí sa destiláciou"
       },
       {
         "id": "c",
-        "text": "vo vode sa dobre rozpust'a"
+        "text": "vo vode sa dobre rozpúšťa"
       },
       {
         "id": "d",
-        "text": "pouziva sa v medicine vo forme Lugolovho roztoku"
+        "text": "používa sa v medicíne vo forme Lugolovho roztoku"
       },
       {
         "id": "e",
-        "text": "reaguje aj s borom pri laboratornej teplote"
+        "text": "reaguje aj s bórom pri laboratórnej teplote"
       },
       {
         "id": "f",
@@ -4124,11 +4124,11 @@
       },
       {
         "id": "g",
-        "text": "nie je pre cloveka esencialny"
+        "text": "nie je pre človeka esenciálny"
       },
       {
         "id": "h",
-        "text": "tvori fialove krystaliky"
+        "text": "tvorí fialové kryštáliky"
       }
     ],
     "correct_answers": [
@@ -4142,7 +4142,7 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "441. Medzi biogenne mikroprvky nepatri:",
+    "content": "441. Medzi biogénne mikroprvky nepatrí:",
     "options": [
       {
         "id": "a",
@@ -4170,7 +4170,7 @@
       },
       {
         "id": "g",
-        "text": "Co"
+        "text": "Čo"
       },
       {
         "id": "h",
@@ -4188,15 +4188,15 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "442. 0 zeleze neplati: 97",
+    "content": "442. 0 železe neplatí: 97",
     "options": [
       {
         "id": "a",
-        "text": "je sucast'ou chlorofylu"
+        "text": "je súčasťou chlorofylu"
       },
       {
         "id": "b",
-        "text": "dobre sa rozpusta v koncentrovanej kyseline sirovej"
+        "text": "dobre sa rozpúšťa v koncentrovanej kyseline sírovej"
       },
       {
         "id": "c",
@@ -4204,11 +4204,11 @@
       },
       {
         "id": "d",
-        "text": "v I'udskom tele sa nachadza len v hemoglobine"
+        "text": "v I'udskom tele sa nachádza len v hemoglobíne"
       },
       {
         "id": "e",
-        "text": "najvyssie oxidacne cislo Zeleza je +VI"
+        "text": "najvyššie oxidačné číslo Železa je +VI"
       },
       {
         "id": "f",
@@ -4216,11 +4216,11 @@
       },
       {
         "id": "g",
-        "text": "ako nahrada hemoglobinu sa pouziva zlta krvna sop"
+        "text": "ako náhrada hemoglobínu sa používa žltá krvná sop"
       },
       {
         "id": "h",
-        "text": "heptahydrat siranu zeleznateho sa nazyva zelena skalica"
+        "text": "heptahydrát síranu železnatého sa nazýva zelená skalica"
       }
     ],
     "correct_answers": [
@@ -4238,35 +4238,35 @@
     "options": [
       {
         "id": "a",
-        "text": "je biogenny mikroprvok"
+        "text": "je biogénny mikroprvok"
       },
       {
         "id": "b",
-        "text": "je v roztokoch bezfarebny"
+        "text": "je v roztokoch bezfarebný"
       },
       {
         "id": "c",
-        "text": "ma najstabilnejsie oxidacne cislo v roztokoch +III"
+        "text": "má najstabilnejšie oxidačné číslo v roztokoch +III"
       },
       {
         "id": "d",
-        "text": "tvori dichromany, ktore su oranzove"
+        "text": "tvorí dichromany, ktoré sú oranžové"
       },
       {
         "id": "e",
-        "text": "tvori dichromany, ktore su zlte"
+        "text": "tvorí dichromany, ktoré sú žlté"
       },
       {
         "id": "f",
-        "text": "tvori chromany, ktore su oranzové"
+        "text": "tvorí chromany, ktoré sú oranžové"
       },
       {
         "id": "g",
-        "text": "tvori chromany a dichromany, ktore su silne redukcne cinidla"
+        "text": "tvorí chromany a dichromany, ktoré sú silné redukčné činidlá"
       },
       {
         "id": "h",
-        "text": "tvori chromany a dichromany, ktore su silne oxidacne cinidla"
+        "text": "tvorí chromany a dichromany, ktoré sú silné oxidačné činidlá"
       }
     ],
     "correct_answers": [
@@ -4280,39 +4280,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "444. Mangan:",
+    "content": "444. Mangán:",
     "options": [
       {
         "id": "a",
-        "text": "je biogenny mikroprvok"
+        "text": "je biogénny mikroprvok"
       },
       {
         "id": "b",
-        "text": "vyraba sa aluminotermicky"
+        "text": "vyrába sa aluminotermicky"
       },
       {
         "id": "c",
-        "text": "je v Beketovom rade napatia napravo od vodika"
+        "text": "je v Beketovom rade napätia napravo od vodíka"
       },
       {
         "id": "d",
-        "text": "sa nachadza v I'udskom tele"
+        "text": "sa nachádza v I'udskom tele"
       },
       {
         "id": "e",
-        "text": "jeho sol’ KMnO4 sa v medicine pouziva ako antiseptikum"
+        "text": "jeho soľ’ KMnO4 sa v medicíne používa ako antiseptikum"
       },
       {
         "id": "f",
-        "text": "vo forme burelu nema oxidacne ucinky"
+        "text": "vo forme burelu nemá oxidačné účinky"
       },
       {
         "id": "g",
-        "text": "V prirode sa nenachadza vol'ny"
+        "text": "V prírode sa nenachádza voľný"
       },
       {
         "id": "h",
-        "text": "ma stabilne len jedno oxidacne cislo a to +IV"
+        "text": "má stabilné len jedno oxidačné číslo a to +IV"
       }
     ],
     "correct_answers": [
@@ -4326,39 +4326,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "445. 0 zluceninach zeleza plati:",
+    "content": "445. 0 zlúčeninách železa platí:",
     "options": [
       {
         "id": "a",
-        "text": "najstabilnejsia zlucenina Fe2+ je Mohrova sol (NH4)2Fe(SO4)2 . 6 H20"
+        "text": "najstabilnejšia zlúčenina Fe2+ je Mohrova soľ (NH4)2Fe(SO4)2 . 6 H20"
       },
       {
         "id": "b",
-        "text": "Mohrova sol' patri ku kamencom"
+        "text": "Mohrova soľ patrí ku kamencom"
       },
       {
         "id": "c",
-        "text": "iony Fe2+ su v roztokoch vel'mi stabilné"
+        "text": "ióny Fe2+ sú v roztokoch veľmi stabilné"
       },
       {
         "id": "d",
-        "text": "ferrikyanid draselny je zlta krvna sol"
+        "text": "ferrikyanid draselný je žltá krvná soľ"
       },
       {
         "id": "e",
-        "text": "ferrokyanid draselny je zlta krvna sol"
+        "text": "ferrokyanid draselný je žltá krvná soľ"
       },
       {
         "id": "f",
-        "text": "Uffelmannovo cinidlo obsahuje komplexne viazane Fe3+"
+        "text": "Uffelmannovo činidlo obsahuje komplexné viazané Fe3+"
       },
       {
         "id": "g",
-        "text": "vo'ne iony Fe3+ vo vodnych roztokoch hydrolyzuju uz pri pH = 4"
+        "text": "vo'ne ióny Fe3+ vo vodných roztokoch hydrolyzujú už pri pH = 4"
       },
       {
         "id": "h",
-        "text": "siran zelezity s krystalickou vodou sa nazyva zelena skalica"
+        "text": "síran železitý s kryštalickou vodou sa nazýva zelená skalica"
       }
     ],
     "correct_answers": [
@@ -4372,39 +4372,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "446. Med':",
+    "content": "446. Meď:",
     "options": [
       {
         "id": "a",
-        "text": "Ag je biogenny makroprvok"
+        "text": "Ag je biogénny makroprvok"
       },
       {
         "id": "b",
-        "text": "Ag sa pouziva na vyrobu zrkadiel"
+        "text": "Ag sa používa na výrobu zrkadiel"
       },
       {
         "id": "c",
-        "text": "Ag je reaktivnejsie ako med'"
+        "text": "Ag je reaktívnejšie ako meď"
       },
       {
         "id": "d",
-        "text": "je znama od doby bronzovej"
+        "text": "je známa od doby bronzovej"
       },
       {
         "id": "e",
-        "text": "v prirode sa nachadza len v zluceninach"
+        "text": "v prírode sa nachádza len v zlúčeninách"
       },
       {
         "id": "f",
-        "text": "reaguje s vodikom pri laboratornej teplote"
+        "text": "reaguje s vodíkom pri laboratórnej teplote"
       },
       {
         "id": "g",
-        "text": "kyselinu dusicnu redukuje"
+        "text": "kyselinu dusičnú redukuje"
       },
       {
         "id": "h",
-        "text": "reaguje s koncentrovanou kyselinou dusicnou"
+        "text": "reaguje s koncentrovanou kyselinou dusičnou"
       }
     ],
     "correct_answers": [
@@ -4422,35 +4422,35 @@
     "options": [
       {
         "id": "a",
-        "text": "Ag je biogenny makroprvok"
+        "text": "Ag je biogénny makroprvok"
       },
       {
         "id": "b",
-        "text": "Ag sa pouziva na vyrobu zrkadiel"
+        "text": "Ag sa používa na výrobu zrkadiel"
       },
       {
         "id": "c",
-        "text": "Ag je reaktivnejsie ako med"
+        "text": "Ag je reaktívnejšie ako meď"
       },
       {
         "id": "d",
-        "text": "reaguje s kyselinou chlorovodikovou"
+        "text": "reaguje s kyselinou chlorovodíkovou"
       },
       {
         "id": "e",
-        "text": "vytvara zliatinu amalgam"
+        "text": "vytvára zliatinu amalgám"
       },
       {
         "id": "f",
-        "text": "je najlepsim vodicom elektrickeho prudu"
+        "text": "je najlepším vodičom elektrického prúdu"
       },
       {
         "id": "g",
-        "text": "v zluceninach ma najcastejsie oxidacne cislo +I"
+        "text": "v zlúčeninách má najčastejšie oxidačné číslo +I"
       },
       {
         "id": "h",
-        "text": "reaguje s koncentrovanou kyselinou dusicnou"
+        "text": "reaguje s koncentrovanou kyselinou dusičnou"
       }
     ],
     "correct_answers": [
@@ -4480,23 +4480,23 @@
       },
       {
         "id": "d",
-        "text": "ma najstabilnejsie oxidacne cislo +I"
+        "text": "má najstabilnejšie oxidačné číslo +I"
       },
       {
         "id": "e",
-        "text": "jeho obsah sa udava aj v karatoch"
+        "text": "jeho obsah sa udáva aj v karátoch"
       },
       {
         "id": "f",
-        "text": "je vel'mi tvrdy kov"
+        "text": "je veľmi tvrdý kov"
       },
       {
         "id": "g",
-        "text": "z kovov skupiny medi je najreaktivnejsi"
+        "text": "z kovov skupiny medi je najreaktívnejší"
       },
       {
         "id": "h",
-        "text": "je ho mozne ziskat aj tzv. ryzovanim"
+        "text": "je ho možné získať aj tzv. ryžovaním"
       }
     ],
     "correct_answers": [
@@ -4514,35 +4514,35 @@
     "options": [
       {
         "id": "a",
-        "text": "je biogenny mikroprvok"
+        "text": "je biogénny mikroprvok"
       },
       {
         "id": "b",
-        "text": "V prirode sa nachadza vol'ny"
+        "text": "V prírode sa nachádza voľný"
       },
       {
         "id": "c",
-        "text": "pouziva sa na galvanicke pokovovanie"
+        "text": "používa sa na galvanické pokovovanie"
       },
       {
         "id": "d",
-        "text": "ma len jedno stabilne oxidacné cislo +II"
+        "text": "má len jedno stabilné oxidačné číslo +II"
       },
       {
         "id": "e",
-        "text": "so zriedenymi kyselinami nereaguje"
+        "text": "so zriedenými kyselinami nereaguje"
       },
       {
         "id": "f",
-        "text": "na vzduchu hori na ZnO"
+        "text": "na vzduchu horí na zno"
       },
       {
         "id": "g",
-        "text": "s hydroxidmi alkalickych kovov nereaguje"
+        "text": "s hydroxidmi alkalických kovov nereaguje"
       },
       {
         "id": "h",
-        "text": "nenachadza sa v krvi"
+        "text": "nenachádza sa v krvi"
       }
     ],
     "correct_answers": [
@@ -4556,39 +4556,39 @@
   {
     "subject": "Chémia",
     "category": "Všeobecná a anorganická chémia",
-    "content": "450. 0rtut':",
+    "content": "450. 0rtuť:",
     "options": [
       {
         "id": "a",
-        "text": "je biogenny mikroprvok"
+        "text": "je biogénny mikroprvok"
       },
       {
         "id": "b",
-        "text": "ma len jedno stabilné oxidacné cislo +II"
+        "text": "má len jedno stabilné oxidačné číslo +II"
       },
       {
         "id": "c",
-        "text": "je kvapalina pri laboratornej teplote"
+        "text": "je kvapalina pri laboratórnej teplote"
       },
       {
         "id": "d",
-        "text": "je napravo od vodika v Beketovom rade napatia"
+        "text": "je napravo od vodíka v Beketovom rade napätia"
       },
       {
         "id": "e",
-        "text": "je nal'avo od vodika v Beketovom rade napatia"
+        "text": "je naľavo od vodíka v Beketovom rade napätia"
       },
       {
         "id": "f",
-        "text": "je pre cloveka toxicka"
+        "text": "je pre človeka toxická"
       },
       {
         "id": "g",
-        "text": "ma schopnost' rozpust'at ine kovy"
+        "text": "má schopnosť rozpúšťať iné kovy"
       },
       {
         "id": "h",
-        "text": "reaguje so zriedenymi kyselinami za tvorby prislusnych soli"
+        "text": "reaguje so zriedenými kyselinami za tvorby príslušných soli"
       }
     ],
     "correct_answers": [
