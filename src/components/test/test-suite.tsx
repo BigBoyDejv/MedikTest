@@ -32,6 +32,7 @@ import {
   ClipboardCheck,
   Clock,
   Filter,
+  GraduationCap,
   Hash,
   HelpCircle,
   Layers,
@@ -67,7 +68,7 @@ interface TestSuiteProps {
   initialFilterMode?: QuestionFilterMode;
 }
 
-export type TestEvaluationMode = "end" | "instant";
+export type TestMode = "training" | "exam";
 
 const QUESTION_COUNT_OPTIONS = [10, 20, 30, 50, 100] as const;
 
@@ -151,8 +152,7 @@ export function TestSuite({
   );
   const [orderMode, setOrderMode] = React.useState<QuestionOrderMode>("random");
   const [startQuestionNumber, setStartQuestionNumber] = React.useState<number>(1);
-  const [evaluationMode, setEvaluationMode] =
-    React.useState<TestEvaluationMode>("instant");
+  const [testMode, setTestMode] = React.useState<TestMode>("training");
 
   // Nastavenie odporúčaného času pri zmene počtu otázok (ak používateľ nezvolil Bez limitu)
   function handleQuestionCountSelect(count: number) {
@@ -455,14 +455,89 @@ export function TestSuite({
           </Alert>
         )}
 
-        {/* Krok 1: Výber kategórií */}
+        {/* Krok 1: Výber režimu (Trénovací vs Testovací) */}
+        <div className="space-y-2">
+          <div className="flex items-center gap-2">
+            <Sparkles className="h-5 w-5 text-primary shrink-0" />
+            <h2 className="text-base sm:text-lg font-bold">1. Zvoľte režim</h2>
+          </div>
+          <div className="grid gap-3 sm:grid-cols-2">
+            <button
+              type="button"
+              onClick={() => setTestMode("training")}
+              className={`flex items-start gap-3.5 rounded-2xl border p-4 sm:p-5 text-left transition-all active:scale-[0.99] ${
+                testMode === "training"
+                  ? "border-primary bg-primary/5 ring-2 ring-primary shadow-sm"
+                  : "border-border bg-card hover:bg-accent/40"
+              }`}
+            >
+              <div
+                className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-xl ${
+                  testMode === "training"
+                    ? "bg-primary text-primary-foreground shadow-sm"
+                    : "bg-muted text-muted-foreground"
+                }`}
+              >
+                <GraduationCap className="h-6 w-6" />
+              </div>
+              <div className="space-y-1">
+                <div className="flex items-center gap-2 font-bold text-base sm:text-lg">
+                  <span>Trénovací režim</span>
+                  {testMode === "training" && (
+                    <Badge className="bg-primary text-primary-foreground text-xs py-0.5 px-2">
+                      Zvolené
+                    </Badge>
+                  )}
+                </div>
+                <p className="text-xs sm:text-sm text-muted-foreground leading-relaxed">
+                  Ideálne na učenie. Po označení odpovedí sa vám otázka ihneď vyhodnotí, keď pôjdete na ďalšiu otázku, aby ste videli správne odpovede aj oficiálne vysvetlenie.
+                </p>
+              </div>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setTestMode("exam")}
+              className={`flex items-start gap-3.5 rounded-2xl border p-4 sm:p-5 text-left transition-all active:scale-[0.99] ${
+                testMode === "exam"
+                  ? "border-primary bg-primary/5 ring-2 ring-primary shadow-sm"
+                  : "border-border bg-card hover:bg-accent/40"
+              }`}
+            >
+              <div
+                className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-xl ${
+                  testMode === "exam"
+                    ? "bg-primary text-primary-foreground shadow-sm"
+                    : "bg-muted text-muted-foreground"
+                }`}
+              >
+                <ClipboardCheck className="h-6 w-6" />
+              </div>
+              <div className="space-y-1">
+                <div className="flex items-center gap-2 font-bold text-base sm:text-lg">
+                  <span>Testovací režim</span>
+                  {testMode === "exam" && (
+                    <Badge className="bg-primary text-primary-foreground text-xs py-0.5 px-2">
+                      Zvolené
+                    </Badge>
+                  )}
+                </div>
+                <p className="text-xs sm:text-sm text-muted-foreground leading-relaxed">
+                  Reálna simulácia prijímačiek. Počas testu sa odpovede nezobrazujú – kompletné detailné vyhodnotenie a percento úspešnosti uvidíte až úplne na konci testu.
+                </p>
+              </div>
+            </button>
+          </div>
+        </div>
+
+        {/* Krok 2: Výber kategórií */}
         <Card>
           <CardHeader className="p-4 sm:p-6">
             <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
               <div>
                 <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
                   <Layers className="h-5 w-5 shrink-0 text-primary" />
-                  1. Vyberte kategórie otázok
+                  2. Vyberte kategórie otázok
                 </CardTitle>
                 <CardDescription className="mt-1 text-xs sm:text-sm">
                   Zaškrtnite tematické okruhy, z ktorých chcete zostaviť test.
@@ -579,7 +654,7 @@ export function TestSuite({
             <CardHeader className="p-4 sm:p-6">
               <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
                 <HelpCircle className="h-5 w-5 shrink-0 text-primary" />
-                2. Spôsob výberu a počet otázok
+                3. Spôsob výberu a počet otázok
               </CardTitle>
               <CardDescription className="text-xs sm:text-sm">
                 Zvoľte náhodné premiešanie alebo precvičovanie konkrétneho rozsahu z testovnice.
@@ -716,7 +791,7 @@ export function TestSuite({
             <CardHeader className="p-4 sm:p-6">
               <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
                 <Timer className="h-5 w-5 shrink-0 text-primary" />
-                3. Časovač testu
+                4. Časovač testu
               </CardTitle>
               <CardDescription className="text-xs sm:text-sm">
                 Nastavte si odpočítavanie času ako na prijímačkách alebo režim
@@ -757,68 +832,6 @@ export function TestSuite({
             </CardContent>
           </Card>
         </div>
-
-        {/* Krok 4: Spôsob vyhodnocovania */}
-        <Card>
-          <CardHeader className="p-4 sm:p-6">
-            <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
-              <Sparkles className="h-5 w-5 shrink-0 text-primary" />
-              4. Spôsob vyhodnocovania odpovedí
-            </CardTitle>
-            <CardDescription className="text-xs sm:text-sm">
-              Zvoľte, či chcete vidieť správne odpovede okamžite po každej otázke, alebo až po dokončení celého testu.
-            </CardDescription>
-          </CardHeader>
-          <CardContent className="p-4 pt-0 sm:p-6 sm:pt-0">
-            <div className="grid gap-3 sm:grid-cols-2">
-              <button
-                type="button"
-                onClick={() => setEvaluationMode("instant")}
-                className={`flex flex-col items-start rounded-xl border p-4 text-left transition-all active:scale-[0.99] ${
-                  evaluationMode === "instant"
-                    ? "border-primary bg-primary/5 ring-1 ring-primary shadow-sm"
-                    : "border-border bg-background hover:bg-accent/50"
-                }`}
-              >
-                <div className="flex items-center gap-2 font-semibold text-sm sm:text-base">
-                  <Zap className="h-4 w-4 text-amber-500" />
-                  <span>Po každej otázke (Okamžitá kontrola)</span>
-                  {evaluationMode === "instant" && (
-                    <Badge variant="default" className="ml-auto text-[10px] py-0 px-1.5">
-                      Aktívne
-                    </Badge>
-                  )}
-                </div>
-                <p className="mt-1.5 text-xs text-muted-foreground leading-relaxed">
-                  Ideálne na precvičovanie a učenie. Hneď pri každej otázke si môžete overiť svoje odpovede, zistiť či sú správne a prečítať si oficiálne vysvetlenie.
-                </p>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setEvaluationMode("end")}
-                className={`flex flex-col items-start rounded-xl border p-4 text-left transition-all active:scale-[0.99] ${
-                  evaluationMode === "end"
-                    ? "border-primary bg-primary/5 ring-1 ring-primary shadow-sm"
-                    : "border-border bg-background hover:bg-accent/50"
-                }`}
-              >
-                <div className="flex items-center gap-2 font-semibold text-sm sm:text-base">
-                  <ClipboardCheck className="h-4 w-4 text-primary" />
-                  <span>Až na konci testu (Simulácia skúšky)</span>
-                  {evaluationMode === "end" && (
-                    <Badge variant="default" className="ml-auto text-[10px] py-0 px-1.5">
-                      Aktívne
-                    </Badge>
-                  )}
-                </div>
-                <p className="mt-1.5 text-xs text-muted-foreground leading-relaxed">
-                  Simulácia reálnych prijímačiek. Otázky vypĺňate v stanovenom čase a kompletné podrobné vyhodnotenie uvidíte až po odovzdaní celého testu.
-                </p>
-              </button>
-            </div>
-          </CardContent>
-        </Card>
 
         {/* Krok 5: Filter otázok podľa user_progress */}
         <Card>
@@ -880,9 +893,9 @@ export function TestSuite({
               <strong className="text-foreground">{questionCount}</strong>
             </span>
             <span>
-              Vyhodnotenie:{" "}
+              Režim:{" "}
               <strong className="text-foreground">
-                {evaluationMode === "instant" ? "Po každej otázke" : "Na konci testu"}
+                {testMode === "training" ? "Trénovací režim" : "Testovací režim"}
               </strong>
             </span>
             {orderMode === "sequential" && (
@@ -912,12 +925,12 @@ export function TestSuite({
             {isLoading ? (
               <>
                 <Loader2 className="h-4 w-4 animate-spin" />
-                Pripravujem test...
+                Pripravujem {testMode === "training" ? "tréning" : "test"}...
               </>
             ) : (
               <>
                 <Play className="h-4 w-4" />
-                Spustiť test
+                {testMode === "training" ? "Spustiť tréning" : "Spustiť test"}
               </>
             )}
           </Button>
@@ -941,16 +954,43 @@ export function TestSuite({
       (q) => (answersMap[q.id]?.length ?? 0) > 0
     ).length;
 
+    const isTrainingMode = testMode === "training";
+
     const evaluatedList = Object.values(evaluatedQuestionsMap);
     const evaluatedCount = evaluatedList.length;
     const evaluatedCorrectCount = evaluatedList.filter((e) => e.isCorrect).length;
 
-    const currentEval = evaluatedQuestionsMap[currentQuestion.id];
+    // V testovacom režime (exam) nikdy nezobrazujeme správne odpovede počas testu
+    const currentEval = isTrainingMode ? evaluatedQuestionsMap[currentQuestion.id] : undefined;
     const isCurrentEvaluated = Boolean(currentEval);
 
     const progressPercent = Math.round(
       ((currentIndex + 1) / totalQuestions) * 100
     );
+
+    // Prechod na ďalšiu otázku (v trénovacom režime po označení odpovedí najprv overí a zobrazí vysvetlenie)
+    const handleNextQuestion = async () => {
+      if (isLoading || isTimerPaused || isEvaluatingSingle) return;
+
+      if (isTrainingMode) {
+        const isAlreadyEvaluated = Boolean(evaluatedQuestionsMap[currentQuestion.id]);
+        const hasSelectedAnswers = selectedForCurrent.length > 0;
+
+        // V trénovacom režime: po označení odpovedí sa pri prechode na ďalšiu otázku
+        // otázka najprv vyhodnotí, aby si študent mohol pozrieť správne odpovede a oficiálne vysvetlenie.
+        if (!isAlreadyEvaluated && hasSelectedAnswers) {
+          await handleEvaluateSingleQuestion(currentQuestion.id);
+          return;
+        }
+      }
+
+      if (!isLastQuestion) {
+        setCurrentIndex((prev) => Math.min(totalQuestions - 1, prev + 1));
+      } else if (isTrainingMode) {
+        // Na poslednej otázke po vyhodnotení uzavrieme a vyhodnotíme celý tréning
+        void submitTestEvaluation(false);
+      }
+    };
 
     // Štýlovanie časovača podľa zostávajúceho času
     const isLowTime =
@@ -990,7 +1030,7 @@ export function TestSuite({
               <Badge variant="secondary" className="text-xs">
                 Zodpovedané: {answeredCount}/{totalQuestions}
               </Badge>
-              {evaluatedCount > 0 && (
+              {isTrainingMode && evaluatedCount > 0 && (
                 <Badge
                   variant="outline"
                   className="hidden xs:inline-flex text-xs border-emerald-500/40 text-emerald-700 bg-emerald-50/50 dark:bg-emerald-950/40 dark:text-emerald-300 font-semibold"
@@ -1300,18 +1340,18 @@ export function TestSuite({
               type="button"
               variant="outline"
               onClick={() => setCurrentIndex((prev) => Math.max(0, prev - 1))}
-              disabled={isFirstQuestion || isLoading}
+              disabled={isFirstQuestion || isLoading || isEvaluatingSingle}
             >
               <ArrowLeft className="h-4 w-4" />
               Predchádzajúca
             </Button>
 
             <div className="flex items-center gap-3">
-              {/* Tlačidlo Skontrolovať otázku (ak ešte nebola vyhodnotená) */}
-              {!isCurrentEvaluated && (
+              {/* Tlačidlo Skontrolovať otázku (len v trénovacom režime a ak ešte nebola vyhodnotená) */}
+              {isTrainingMode && !isCurrentEvaluated && (
                 <Button
                   type="button"
-                  variant={evaluationMode === "instant" ? "default" : "secondary"}
+                  variant="outline"
                   onClick={() => handleEvaluateSingleQuestion(currentQuestion.id)}
                   disabled={
                     isEvaluatingSingle ||
@@ -1319,11 +1359,7 @@ export function TestSuite({
                     isTimerPaused ||
                     selectedForCurrent.length === 0
                   }
-                  className={
-                    evaluationMode === "instant"
-                      ? "bg-amber-600 hover:bg-amber-700 text-white font-semibold shadow-sm"
-                      : "gap-1.5"
-                  }
+                  className="gap-1.5 border-amber-500/40 text-amber-600 hover:bg-amber-50 hover:text-amber-700 dark:border-amber-500/30 dark:text-amber-400 dark:hover:bg-amber-950/30"
                 >
                   {isEvaluatingSingle ? (
                     <>
@@ -1342,38 +1378,59 @@ export function TestSuite({
               {!isLastQuestion ? (
                 <Button
                   type="button"
-                  variant={
-                    !isCurrentEvaluated && evaluationMode === "instant"
-                      ? "outline"
-                      : "default"
-                  }
-                  onClick={() =>
-                    setCurrentIndex((prev) =>
-                      Math.min(totalQuestions - 1, prev + 1)
-                    )
+                  onClick={handleNextQuestion}
+                  disabled={isLoading || isEvaluatingSingle}
+                  className={
+                    isTrainingMode && !isCurrentEvaluated && selectedForCurrent.length > 0
+                      ? "bg-amber-600 hover:bg-amber-700 text-white font-semibold shadow-sm"
+                      : ""
                   }
                 >
-                  {!isCurrentEvaluated && evaluationMode === "instant"
-                    ? "Preskočiť"
-                    : "Ďalšia"}
-                  <ArrowRight className="h-4 w-4" />
+                  {isEvaluatingSingle ? (
+                    <>
+                      <Loader2 className="h-4 w-4 animate-spin" />
+                      Vyhodnocujem...
+                    </>
+                  ) : isTrainingMode && !isCurrentEvaluated && selectedForCurrent.length > 0 ? (
+                    <>
+                      <Zap className="h-4 w-4" />
+                      Vyhodnotiť a pokračovať
+                      <ArrowRight className="h-4 w-4" />
+                    </>
+                  ) : (
+                    <>
+                      Ďalšia otázka
+                      <ArrowRight className="h-4 w-4" />
+                    </>
+                  )}
                 </Button>
               ) : (
                 <Button
                   type="button"
-                  onClick={() => void submitTestEvaluation(false)}
-                  disabled={isLoading}
+                  onClick={
+                    isTrainingMode && !isCurrentEvaluated && selectedForCurrent.length > 0
+                      ? handleNextQuestion
+                      : () => void submitTestEvaluation(false)
+                  }
+                  disabled={isLoading || isEvaluatingSingle}
                   className="bg-emerald-600 text-white hover:bg-emerald-700 font-semibold"
                 >
-                  {isLoading ? (
+                  {isLoading || isEvaluatingSingle ? (
                     <>
                       <Loader2 className="h-4 w-4 animate-spin" />
-                      Vyhodnocujem a ukladám...
+                      Vyhodnocujem...
+                    </>
+                  ) : isTrainingMode && !isCurrentEvaluated && selectedForCurrent.length > 0 ? (
+                    <>
+                      <Zap className="h-4 w-4" />
+                      Vyhodnotiť poslednú otázku
                     </>
                   ) : (
                     <>
                       <ClipboardCheck className="h-4 w-4" />
-                      Vyhodnotiť test ({totalQuestions} otázok)
+                      {isTrainingMode
+                        ? "Ukončiť tréning a zobraziť výsledky"
+                        : `Vyhodnotiť test (${totalQuestions} otázok)`}
                     </>
                   )}
                 </Button>
@@ -1385,14 +1442,20 @@ export function TestSuite({
         {/* Rýchla navigácia medzi číslami otázok (horizontálny scroll na mobile, mriežka na tablete/desktope) */}
         <div className="space-y-1.5">
           <div className="flex items-center justify-between text-xs text-muted-foreground">
-            <span className="font-medium">Prehľad otázok testu ({totalQuestions} otázok):</span>
+            <span className="font-medium">
+              Prehľad otázok testu ({totalQuestions} otázok):
+            </span>
             <div className="flex items-center gap-3 text-[11px]">
-              <span className="flex items-center gap-1">
-                <span className="h-2 w-2 rounded-full bg-emerald-500" /> Správne
-              </span>
-              <span className="flex items-center gap-1">
-                <span className="h-2 w-2 rounded-full bg-red-500" /> Nesprávne
-              </span>
+              {isTrainingMode && (
+                <>
+                  <span className="flex items-center gap-1">
+                    <span className="h-2 w-2 rounded-full bg-emerald-500" /> Správne
+                  </span>
+                  <span className="flex items-center gap-1">
+                    <span className="h-2 w-2 rounded-full bg-red-500" /> Nesprávne
+                  </span>
+                </>
+              )}
               <span className="flex items-center gap-1">
                 <span className="h-2 w-2 rounded-full bg-primary" /> Označené
               </span>
@@ -1402,7 +1465,7 @@ export function TestSuite({
             {activeQuestions.map((q, idx) => {
               const hasAnswer = (answersMap[q.id]?.length ?? 0) > 0;
               const isCurrent = idx === currentIndex;
-              const evalRes = evaluatedQuestionsMap[q.id];
+              const evalRes = isTrainingMode ? evaluatedQuestionsMap[q.id] : undefined;
 
               let btnClass =
                 "border-border bg-card text-muted-foreground hover:bg-accent";
@@ -1427,6 +1490,8 @@ export function TestSuite({
                       ? evalRes.isCorrect
                         ? " - Správne"
                         : " - Nesprávne"
+                      : hasAnswer
+                      ? " - Označená"
                       : ""
                   }`}
                   className={`flex h-8.5 min-w-8.5 px-1.5 shrink-0 touch-manipulation items-center justify-center rounded-lg border text-xs font-semibold transition-all ${
@@ -1449,27 +1514,22 @@ export function TestSuite({
             variant="outline"
             size="sm"
             onClick={() => setCurrentIndex((prev) => Math.max(0, prev - 1))}
-            disabled={isFirstQuestion || isLoading}
+            disabled={isFirstQuestion || isLoading || isEvaluatingSingle}
           >
             <ArrowLeft className="h-4 w-4" />
           </Button>
 
-          {!isCurrentEvaluated && (
+          {isTrainingMode && !isCurrentEvaluated && selectedForCurrent.length > 0 && (
             <Button
               type="button"
-              variant={evaluationMode === "instant" ? "default" : "secondary"}
+              variant="outline"
               size="default"
-              className={`flex-1 ${
-                evaluationMode === "instant"
-                  ? "bg-amber-600 hover:bg-amber-700 text-white font-semibold"
-                  : ""
-              }`}
+              className="border-amber-500/40 text-amber-600 hover:bg-amber-50 hover:text-amber-700 dark:border-amber-500/30 dark:text-amber-400 dark:hover:bg-amber-950/30"
               onClick={() => handleEvaluateSingleQuestion(currentQuestion.id)}
               disabled={
                 isEvaluatingSingle ||
                 isLoading ||
-                isTimerPaused ||
-                selectedForCurrent.length === 0
+                isTimerPaused
               }
             >
               {isEvaluatingSingle ? (
@@ -1477,7 +1537,7 @@ export function TestSuite({
               ) : (
                 <>
                   <Zap className="h-4 w-4" />
-                  Skontrolovať
+                  Overiť
                 </>
               )}
             </Button>
@@ -1486,45 +1546,59 @@ export function TestSuite({
           {!isLastQuestion ? (
             <Button
               type="button"
-              variant={
-                !isCurrentEvaluated && evaluationMode === "instant"
-                  ? "outline"
-                  : "default"
-              }
               size="default"
-              className={
-                isCurrentEvaluated || evaluationMode !== "instant"
-                  ? "flex-1"
+              className={`flex-1 ${
+                isTrainingMode && !isCurrentEvaluated && selectedForCurrent.length > 0
+                  ? "bg-amber-600 hover:bg-amber-700 text-white font-semibold"
                   : ""
-              }
-              onClick={() =>
-                setCurrentIndex((prev) =>
-                  Math.min(totalQuestions - 1, prev + 1)
-                )
-              }
+              }`}
+              onClick={handleNextQuestion}
+              disabled={isLoading || isEvaluatingSingle}
             >
-              {!isCurrentEvaluated && evaluationMode === "instant"
-                ? "Ďalej"
-                : "Ďalšia"}
-              <ArrowRight className="h-4 w-4" />
+              {isEvaluatingSingle ? (
+                <>
+                  <Loader2 className="h-4 w-4 animate-spin" />
+                  Overujem...
+                </>
+              ) : isTrainingMode && !isCurrentEvaluated && selectedForCurrent.length > 0 ? (
+                <>
+                  <Zap className="h-4 w-4" />
+                  Vyhodnotiť a ďalej
+                  <ArrowRight className="h-4 w-4" />
+                </>
+              ) : (
+                <>
+                  Ďalšia
+                  <ArrowRight className="h-4 w-4" />
+                </>
+              )}
             </Button>
           ) : (
             <Button
               type="button"
               size="default"
-              onClick={() => void submitTestEvaluation(false)}
-              disabled={isLoading}
+              onClick={
+                isTrainingMode && !isCurrentEvaluated && selectedForCurrent.length > 0
+                  ? handleNextQuestion
+                  : () => void submitTestEvaluation(false)
+              }
+              disabled={isLoading || isEvaluatingSingle}
               className="flex-1 bg-emerald-600 text-white hover:bg-emerald-700 font-semibold"
             >
-              {isLoading ? (
+              {isLoading || isEvaluatingSingle ? (
                 <>
                   <Loader2 className="h-4 w-4 animate-spin" />
                   Ukladám...
                 </>
+              ) : isTrainingMode && !isCurrentEvaluated && selectedForCurrent.length > 0 ? (
+                <>
+                  <Zap className="h-4 w-4" />
+                  Vyhodnotiť
+                </>
               ) : (
                 <>
                   <ClipboardCheck className="h-4 w-4" />
-                  Vyhodnotiť test
+                  {isTrainingMode ? "Dokončiť tréning" : "Vyhodnotiť test"}
                 </>
               )}
             </Button>
