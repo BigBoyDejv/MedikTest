@@ -177,13 +177,9 @@
       }
     ],
     "correct_answers": [
-      "c",
-      "e",
-      "f",
-      "g",
-      "h"
+      "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G, H."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
   },
   {
     "subject": "Biológia",
@@ -224,11 +220,9 @@
       }
     ],
     "correct_answers": [
-      "a",
-      "b",
-      "h"
+      "b"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, H."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: B."
   },
   {
     "subject": "Biológia",
@@ -318,7 +312,7 @@
     "correct_answers": [
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
   },
   {
     "subject": "Biológia",
@@ -1139,7 +1133,7 @@
     "correct_answers": [
       "c"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
   },
   {
     "subject": "Biológia",
@@ -1942,7 +1936,7 @@
       },
       {
         "id": "f",
-        "text": "spôsobuje odde'ovanie plazmatickej membrány od bunkovej steny"
+        "text": "spôsobuje oddeľovanie plazmatickej membrány od bunkovej steny"
       },
       {
         "id": "g",
@@ -3198,7 +3192,7 @@
     "correct_answers": [
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: H."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: H."
   },
   {
     "subject": "Biológia",
@@ -4011,7 +4005,7 @@
     "correct_answers": [
       "c"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
   },
   {
     "subject": "Biológia",
@@ -4100,7 +4094,7 @@
     "correct_answers": [
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
   },
   {
     "subject": "Biológia",
@@ -4867,7 +4861,7 @@
     "correct_answers": [
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
   },
   {
     "subject": "Biológia",
@@ -4876,7 +4870,7 @@
     "options": [
       {
         "id": "a",
-        "text": "fyziológia loveka"
+        "text": "fyziológia človeka"
       },
       {
         "id": "b",
@@ -5140,7 +5134,7 @@
     "correct_answers": [
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
   },
   {
     "subject": "Biológia",
@@ -5509,7 +5503,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "122. Vírusy spôsobujú u loveka:",
+    "content": "122. Vírusy spôsobujú u človeka:",
     "options": [
       {
         "id": "a",
@@ -5687,7 +5681,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "126. Vírusy spôsobujú u loveka:",
+    "content": "126. Vírusy spôsobujú u človeka:",
     "options": [
       {
         "id": "a",
@@ -6233,7 +6227,7 @@
     "correct_answers": [
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
   },
   {
     "subject": "Biológia",
@@ -6276,7 +6270,7 @@
     "correct_answers": [
       "a"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
   },
   {
     "subject": "Biológia",
@@ -6485,7 +6479,7 @@
       },
       {
         "id": "e",
-        "text": "vírusy spôsobujúce závažné ochorenia loveka"
+        "text": "vírusy spôsobujúce závažné ochorenia človeka"
       },
       {
         "id": "f",
@@ -6700,7 +6694,7 @@
       },
       {
         "id": "b",
-        "text": "spôsobujú ochorenia loveka"
+        "text": "spôsobujú ochorenia človeka"
       },
       {
         "id": "c",
@@ -6724,7 +6718,7 @@
       },
       {
         "id": "h",
-        "text": "spôsobujú pohlavné choroby u loveka"
+        "text": "spôsobujú pohlavné choroby u človeka"
       }
     ],
     "correct_answers": [
@@ -6739,7 +6733,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "149. Baktérie spôsobujú u loveka:",
+    "content": "149. Baktérie spôsobujú u človeka:",
     "options": [
       {
         "id": "a",
@@ -7004,7 +6998,7 @@
     "correct_answers": [
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: F."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: F."
   },
   {
     "subject": "Biológia",
@@ -7961,7 +7955,7 @@
     "correct_answers": [
       "a"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
   },
   {
     "subject": "Biológia",
@@ -8742,7 +8736,7 @@
     "correct_answers": [
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
   },
   {
     "subject": "Biológia",
@@ -9237,7 +9231,7 @@
     "correct_answers": [
       "a"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
   },
   {
     "subject": "Biológia",
@@ -9646,7 +9640,7 @@
     "correct_answers": [
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: F."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: F."
   },
   {
     "subject": "Biológia",
@@ -10338,7 +10332,7 @@
       },
       {
         "id": "b",
-        "text": "urych'uje prítomnosť kyslíka"
+        "text": "urýchľuje prítomnosť kyslíka"
       },
       {
         "id": "c",
@@ -10362,7 +10356,7 @@
       },
       {
         "id": "h",
-        "text": "v bunkách živočíchov a loveka konci vznikom kyseliny mliečnej"
+        "text": "v bunkách živočíchov a človeka konci vznikom kyseliny mliečnej"
       }
     ],
     "correct_answers": [
@@ -11423,7 +11417,7 @@
     "correct_answers": [
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
   },
   {
     "subject": "Biológia",
@@ -11629,7 +11623,7 @@
       },
       {
         "id": "e",
-        "text": "cievna sistava"
+        "text": "cievna sústava"
       },
       {
         "id": "f",
@@ -11948,7 +11942,7 @@
       },
       {
         "id": "e",
-        "text": "kožné žazy"
+        "text": "kožné žľazy"
       },
       {
         "id": "f",
@@ -12324,11 +12318,9 @@
       }
     ],
     "correct_answers": [
-      "a",
-      "d",
-      "h"
+      "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, H."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
   },
   {
     "subject": "Biológia",
@@ -13022,7 +13014,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "287. V koži stavovcov sa môžu nachádzať žazy:",
+    "content": "287. V koži stavovcov sa môžu nachádzať žľazy:",
     "options": [
       {
         "id": "a",
@@ -13991,15 +13983,15 @@
       },
       {
         "id": "b",
-        "text": "spracúva v žaznatom zalidku vtákov"
+        "text": "spracúva v žaznatom žalúdku vtákov"
       },
       {
         "id": "c",
-        "text": "rozkladá za pomoci bakteri v bachore prezivavcov"
+        "text": "rozkladá za pomoci bakteri v bachore prežúvavcov"
       },
       {
         "id": "d",
-        "text": "rozomieľa v svalnatom zalidku vtákov"
+        "text": "rozomieľa v svalnatom žalúdku vtákov"
       },
       {
         "id": "e",
@@ -14027,7 +14019,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "309. Tráviaca sistava pŕhlivcov:",
+    "content": "309. Tráviaca sústava pŕhlivcov:",
     "options": [
       {
         "id": "a",
@@ -14143,7 +14135,7 @@
       },
       {
         "id": "f",
-        "text": "sú napr. medveď a lovek"
+        "text": "sú napr. medveď a človek"
       },
       {
         "id": "g",
@@ -14209,7 +14201,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "313. Hepatopankreas je zPaza tráviacej sistavy:",
+    "content": "313. Hepatopankreas je žľaza tráviacej sústavy:",
     "options": [
       {
         "id": "a",
@@ -14241,13 +14233,13 @@
       },
       {
         "id": "h",
-        "text": "loveka"
+        "text": "človeka"
       }
     ],
     "correct_answers": [
       "a"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
   },
   {
     "subject": "Biológia",
@@ -14272,7 +14264,7 @@
       },
       {
         "id": "e",
-        "text": "v hrubom Čreve"
+        "text": "v hrubom čreve"
       },
       {
         "id": "f",
@@ -14288,14 +14280,14 @@
       }
     ],
     "correct_answers": [
-      "c"
+      "b"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: B."
   },
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "315. Vtáky majú zalidok:",
+    "content": "315. Vtáky majú žalúdok:",
     "options": [
       {
         "id": "a",
@@ -14340,7 +14332,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "316. Zalidok prezivavcov pozostáva:",
+    "content": "316. Zalidok prežúvavcov pozostáva:",
     "options": [
       {
         "id": "a",
@@ -14356,7 +14348,7 @@
       },
       {
         "id": "d",
-        "text": "z 3 predzaludkov: slez, kniha, čepiec a z vlastného zalidka: bachor"
+        "text": "z 3 predzaludkov: slez, kniha, čepiec a z vlastného žalúdka: bachor"
       },
       {
         "id": "e",
@@ -14376,9 +14368,9 @@
       }
     ],
     "correct_answers": [
-      "d"
+      "a"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
   },
   {
     "subject": "Biológia",
@@ -14399,11 +14391,11 @@
       },
       {
         "id": "d",
-        "text": "v tenkom Čreve pôsobením žlče"
+        "text": "v tenkom čreve pôsobením žlče"
       },
       {
         "id": "e",
-        "text": "v tenkom Čreve pôsobením amyláz"
+        "text": "v tenkom čreve pôsobením amyláz"
       },
       {
         "id": "f",
@@ -14419,15 +14411,14 @@
       }
     ],
     "correct_answers": [
-      "b",
       "c"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
   },
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "318. ZPazy v sliznici zalidka cicavcov produkujú:",
+    "content": "318. ZPazy v sliznici žalúdka cicavcov produkujú:",
     "options": [
       {
         "id": "a",
@@ -14488,11 +14479,11 @@
       },
       {
         "id": "d",
-        "text": "tenké Črevo"
+        "text": "tenké črevo"
       },
       {
         "id": "e",
-        "text": "hrubé revo"
+        "text": "hrubé črevo"
       },
       {
         "id": "f",
@@ -14500,7 +14491,7 @@
       },
       {
         "id": "g",
-        "text": "podžalúdková zPaza"
+        "text": "podžalúdková žľaza"
       },
       {
         "id": "h",
@@ -14508,11 +14499,9 @@
       }
     ],
     "correct_answers": [
-      "c",
-      "f",
-      "g"
+      "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
   },
   {
     "subject": "Biológia",
@@ -14553,11 +14542,9 @@
       }
     ],
     "correct_answers": [
-      "a",
-      "e",
-      "g"
+      "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, G."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
   },
   {
     "subject": "Biológia",
@@ -14574,7 +14561,7 @@
       },
       {
         "id": "c",
-        "text": "v tenkom Čreve pôsobením žlče a lipázy"
+        "text": "v tenkom čreve pôsobením žlče a lipázy"
       },
       {
         "id": "d",
@@ -14611,7 +14598,7 @@
     "options": [
       {
         "id": "a",
-        "text": "navlhčujú potravu, Čím uľahčujú hltanie"
+        "text": "navlhčujú potravu, čím uľahčujú hltanie"
       },
       {
         "id": "b",
@@ -14701,7 +14688,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "324. 21:",
+    "content": "324. Žlč:",
     "options": [
       {
         "id": "a",
@@ -14733,7 +14720,7 @@
       },
       {
         "id": "h",
-        "text": "alkalizuje prostredie v tenkom Čreve"
+        "text": "alkalizuje prostredie v tenkom čreve"
       }
     ],
     "correct_answers": [
@@ -14756,7 +14743,7 @@
       },
       {
         "id": "b",
-        "text": "podžalúdková zaza, produkujúca pankreasovu stavu"
+        "text": "podžalúdková žľaza, produkujúca pankreasovu stavu"
       },
       {
         "id": "c",
@@ -14772,7 +14759,7 @@
       },
       {
         "id": "f",
-        "text": "žľazy tenkého Čreva produkujúce Črevnú stavu"
+        "text": "žľazy tenkého čreva produkujúce Črevnú stavu"
       },
       {
         "id": "g",
@@ -14780,7 +14767,7 @@
       },
       {
         "id": "h",
-        "text": "podžalúdková zPaza, produkujúca bilirubín a biliverdín"
+        "text": "podžalúdková žľaza, produkujúca bilirubín a biliverdín"
       }
     ],
     "correct_answers": [
@@ -14810,7 +14797,7 @@
       },
       {
         "id": "d",
-        "text": "žľazami tenkého Čreva"
+        "text": "žľazami tenkého čreva"
       },
       {
         "id": "e",
@@ -15247,7 +15234,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "336. Najefektívnejšiu dýchaciu sistavu medzi stavovcami máj:",
+    "content": "336. Najefektívnejšiu dýchaciu sústavu medzi stavovcami máj:",
     "options": [
       {
         "id": "a",
@@ -15283,9 +15270,9 @@
       }
     ],
     "correct_answers": [
-      "a"
+      "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
   },
   {
     "subject": "Biológia",
@@ -15372,7 +15359,7 @@
     "correct_answers": [
       "c"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
   },
   {
     "subject": "Biológia",
@@ -15594,7 +15581,7 @@
     "correct_answers": [
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
   },
   {
     "subject": "Biológia",
@@ -15682,7 +15669,7 @@
     "correct_answers": [
       "a"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
   },
   {
     "subject": "Biológia",
@@ -15875,7 +15862,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "350. Vylučovacia sistava zabezpečuje:",
+    "content": "350. Vylučovacia sústava zabezpečuje:",
     "options": [
       {
         "id": "a",
@@ -15921,7 +15908,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "351. Do Čreva vyúsťujú:",
+    "content": "351. Do čreva vyúsťujú:",
     "options": [
       {
         "id": "a",
@@ -15937,7 +15924,7 @@
       },
       {
         "id": "d",
-        "text": "tykadlove žazy ploskavcov"
+        "text": "tykadlove žľazy ploskavcov"
       },
       {
         "id": "e",
@@ -15945,7 +15932,7 @@
       },
       {
         "id": "f",
-        "text": "tykadlove žazy kôrovcov"
+        "text": "tykadlove žľazy kôrovcov"
       },
       {
         "id": "g",
@@ -15957,12 +15944,9 @@
       }
     ],
     "correct_answers": [
-      "a",
-      "b",
-      "f",
-      "h"
+      "c"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
   },
   {
     "subject": "Biológia",
@@ -16003,9 +15987,9 @@
       }
     ],
     "correct_answers": [
-      "c"
+      "b"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: B."
   },
   {
     "subject": "Biológia",
@@ -16026,7 +16010,7 @@
       },
       {
         "id": "d",
-        "text": "tykadlove žazy"
+        "text": "tykadlove žľazy"
       },
       {
         "id": "e",
@@ -16046,9 +16030,9 @@
       }
     ],
     "correct_answers": [
-      "b"
+      "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
   },
   {
     "subject": "Biológia",
@@ -16129,7 +16113,7 @@
       },
       {
         "id": "h",
-        "text": "Malpighiho zaza 77"
+        "text": "Malpighiho žľaza 77"
       }
     ],
     "correct_answers": [
@@ -16235,7 +16219,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "358. Otvorená obehová sistava sa vyskytuje pri:",
+    "content": "358. Otvorená obehová sústava sa vyskytuje pri:",
     "options": [
       {
         "id": "a",
@@ -16372,7 +16356,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "361. Obehová sistava stavovcov:",
+    "content": "361. Obehová sústava stavovcov:",
     "options": [
       {
         "id": "a",
@@ -16565,41 +16549,41 @@
     "options": [
       {
         "id": "a",
-        "text": "močovina"
+        "text": "červených krvinkách"
       },
       {
         "id": "b",
-        "text": "nukleové kyseliny"
+        "text": "slezine"
       },
       {
         "id": "c",
-        "text": "glukóza"
+        "text": "kostnej dreni"
       },
       {
         "id": "d",
-        "text": "monosacharidy"
+        "text": "srdci"
       },
       {
         "id": "e",
-        "text": "bielkoviny"
+        "text": "pečeni"
       },
       {
         "id": "f",
-        "text": "voda"
+        "text": "tkanivovom moku"
       },
       {
         "id": "g",
-        "text": "lipidy"
+        "text": "lymfatických uzlinách"
       },
       {
         "id": "h",
-        "text": "kreatín"
+        "text": "bunkách cievnych stien"
       }
     ],
     "correct_answers": [
-      "c"
+      "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
   },
   {
     "subject": "Biológia",
@@ -16640,10 +16624,9 @@
       }
     ],
     "correct_answers": [
-      "b",
-      "c"
+      "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
   },
   {
     "subject": "Biológia",
@@ -17099,7 +17082,7 @@
     "correct_answers": [
       "a"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
   },
   {
     "subject": "Biológia",
@@ -17482,7 +17465,7 @@
       },
       {
         "id": "c",
-        "text": "červovitý prívesok slepého Čreva"
+        "text": "červovitý prívesok slepého čreva"
       },
       {
         "id": "d",
@@ -17516,7 +17499,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "386. Lymfatickí sistavu máji:",
+    "content": "386. Lymfatickí sústavu máji:",
     "options": [
       {
         "id": "a",
@@ -17562,7 +17545,7 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "387. Aký je význam lymfatickej sistavy?",
+    "content": "387. Aký je význam lymfatickej sústavy?",
     "options": [
       {
         "id": "a",
@@ -17822,7 +17805,7 @@
     "correct_answers": [
       "c"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
   },
   {
     "subject": "Biológia",
@@ -18092,7 +18075,7 @@
     "correct_answers": [
       "c"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
   },
   {
     "subject": "Biológia",
@@ -18228,7 +18211,7 @@
     "correct_answers": [
       "a"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
   },
   {
     "subject": "Biológia",
@@ -18869,45 +18852,45 @@
   {
     "subject": "Biológia",
     "category": "Biológia bunky, rastlín a živočíchov",
-    "content": "416. ObjaviteP fagocytózy bol:",
+    "content": "416. Objaviteľ fagocytózy bol:",
     "options": [
       {
         "id": "a",
-        "text": "mačkovité mäsožravce"
+        "text": "P. Ehrlich"
       },
       {
         "id": "b",
-        "text": "netopiere"
+        "text": "I. I. Mečnikov"
       },
       {
         "id": "c",
-        "text": "veľryby"
+        "text": "I. M. Sečenov"
       },
       {
         "id": "d",
-        "text": "psovité mäsožravce"
+        "text": "I. P. Pavlov"
       },
       {
         "id": "e",
-        "text": "ryby"
+        "text": "N. Tinbergen"
       },
       {
         "id": "f",
-        "text": "larvy obojživelníkov"
+        "text": "L. Pasteur"
       },
       {
         "id": "g",
-        "text": "hmyz"
+        "text": "W. Harvey"
       },
       {
         "id": "h",
-        "text": "obrúčkavce"
+        "text": "S. W. Fox"
       }
     ],
     "correct_answers": [
       "b"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: B."
   },
   {
     "subject": "Biológia",
@@ -19202,7 +19185,7 @@
       },
       {
         "id": "e",
-        "text": "všetkých typov má dokonale vyvinuté lovek"
+        "text": "všetkých typov má dokonale vyvinuté človek"
       },
       {
         "id": "f",
@@ -19585,7 +19568,7 @@
     "correct_answers": [
       "c"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
   },
   {
     "subject": "Biológia",
@@ -19606,7 +19589,7 @@
       },
       {
         "id": "d",
-        "text": "pôsobením hormónov štítnej žazy"
+        "text": "pôsobením hormónov štítnej žľazy"
       },
       {
         "id": "e",
@@ -19701,7 +19684,7 @@
       },
       {
         "id": "e",
-        "text": "sú endokrinné žazy"
+        "text": "sú endokrinné žľazy"
       },
       {
         "id": "f",
@@ -19719,7 +19702,7 @@
     "correct_answers": [
       "c"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
   },
   {
     "subject": "Biológia",
@@ -19988,7 +19971,7 @@
     "correct_answers": [
       "c"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C."
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
   },
   {
     "subject": "Biológia",
