@@ -36,3 +36,4 @@ for cat_name in ["Biológia bunky, rastlín a živočíchov", "Všeobecná a ano
         print("  Q:", q["content"][:60])
         print("    Correct:", q["correct_answers"])
         print("    Explanation:", q["explanation"])
+

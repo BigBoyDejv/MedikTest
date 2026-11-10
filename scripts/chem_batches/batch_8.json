@@ -1,0 +1,2302 @@
+[
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "401. O prvkoch IV.A podskupiny platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ich elektronegativita rovnomerne klesá s rastúcim Z prvkov"
+      },
+      {
+        "id": "b",
+        "text": "ich kovový charakter stúpa s rastúcim Z prvkov"
+      },
+      {
+        "id": "c",
+        "text": "iba uhlík je maximálne štvorväzbový"
+      },
+      {
+        "id": "d",
+        "text": "v zlúčeninách prvkov p? s oxidačným číslom +IV prevláda kovalentná väzba"
+      },
+      {
+        "id": "e",
+        "text": "k polokovom patria Si, Ge a Sn"
+      },
+      {
+        "id": "f",
+        "text": "všetky môžu byť kladné dvojmocné"
+      },
+      {
+        "id": "g",
+        "text": "všetky môžu byť záporné dvojmocné"
+      },
+      {
+        "id": "h",
+        "text": "ich elektronegativita rastie s rastúcim Z prvkov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "402. Pre prvky podskupiny V.A platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "všetky môžu dosiahnuť konfiguráciu nasledujúceho vzácneho plynu"
+      },
+      {
+        "id": "b",
+        "text": "nekovový charakter stúpa s klesajúcim číslom Z prvku"
+      },
+      {
+        "id": "c",
+        "text": "všetky sú stvorvazbove"
+      },
+      {
+        "id": "d",
+        "text": "so stúpajúcim Číslom Z prvku rastie ich reaktivita"
+      },
+      {
+        "id": "e",
+        "text": "stálosť zlúčenín prvkov V.A podskupiny s oxidačným číslom +III klesá s ich číslom Z prvku"
+      },
+      {
+        "id": "f",
+        "text": "stálosť zlúčenín prvkov V.A podskupiny s oxidačným číslom +V klesá s rastúcim číslom Zprvku"
+      },
+      {
+        "id": "g",
+        "text": "s rastúcim číslom Z prvku klesá kyslý charakter ich oxidov"
+      },
+      {
+        "id": "h",
+        "text": "všetky prvky tejto podskupiny sú polokovy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "403. Prvky VIII.A podskupiny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "všetky sú nekovy"
+      },
+      {
+        "id": "b",
+        "text": "vzhľadom na svoju reaktivitu vytvárajú dvojatómové molekuly"
+      },
+      {
+        "id": "c",
+        "text": "vzhľadom na svoju malú reaktivitu vytvárajú iba jednoatómové plyny"
+      },
+      {
+        "id": "d",
+        "text": "nazývajú sa aj vzácne (inertné) plyny"
+      },
+      {
+        "id": "e",
+        "text": "vo vzduchu sú najviac zastúpené xenón a radón"
+      },
+      {
+        "id": "f",
+        "text": "vo vzduchu najmenej zastúpený je argón"
+      },
+      {
+        "id": "g",
+        "text": "nachádzajú sa vo vzduchu a tvoria asi 1 % 89"
+      },
+      {
+        "id": "h",
+        "text": "nachádzajú sa vo vzduchu a tvoria asi 0,1 %"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "404. So stipajicim Z prvkov I.A podskupiny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rastie zásaditosť ich hydroxidov"
+      },
+      {
+        "id": "b",
+        "text": "rastie kyslosť ich kyselín"
+      },
+      {
+        "id": "c",
+        "text": "rastie ich oxidačný účinok"
+      },
+      {
+        "id": "d",
+        "text": "rastie ich redukeny účinok"
+      },
+      {
+        "id": "e",
+        "text": "rastie ich reaktivita"
+      },
+      {
+        "id": "f",
+        "text": "klesá ich reaktivita"
+      },
+      {
+        "id": "g",
+        "text": "stúpa ich hustota"
+      },
+      {
+        "id": "h",
+        "text": "stúpa ich elektronegativita"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "405. So zväčšujúcim sa Z prvkov VII.A podskupiny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vzrastá ich redukčný účinok"
+      },
+      {
+        "id": "b",
+        "text": "klesá kyslosť ich oxidov"
+      },
+      {
+        "id": "c",
+        "text": "stúpa ich elektronegativita"
+      },
+      {
+        "id": "d",
+        "text": "zmenšuje sa ich hustota"
+      },
+      {
+        "id": "e",
+        "text": "sýtosť ich sfarbenia sa prehlbuje"
+      },
+      {
+        "id": "f",
+        "text": "zmenšuje sa ich teplota topenia a varu"
+      },
+      {
+        "id": "g",
+        "text": "mení sa ich skupenstvo"
+      },
+      {
+        "id": "h",
+        "text": "klesá ich polomer atómov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "406. O prvkoch I.B podskupiny platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "patria sem Cu, Ag, Au"
+      },
+      {
+        "id": "b",
+        "text": "môžu vytvárať až štvormocné katióny"
+      },
+      {
+        "id": "c",
+        "text": "patria medzi f prvky"
+      },
+      {
+        "id": "d",
+        "text": "v Beketovom rade napätia sa nachádzajú vľavo od vodíka"
+      },
+      {
+        "id": "e",
+        "text": "v prírode sa môžu nachádzať v elementárnej forme"
+      },
+      {
+        "id": "f",
+        "text": "patria medzi d prvky"
+      },
+      {
+        "id": "g",
+        "text": "majú elektrónovú konfiguráciu (n-1)dl0 nsl"
+      },
+      {
+        "id": "h",
+        "text": "sú reaktívnejšie ako prvky I.A podskupiny"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "407. Prvky podskupiny II.B v porovnaní s prvkami podskupiny II.A:",
+    "options": [
+      {
+        "id": "a",
+        "text": "majú väčšie atómové polomery"
+      },
+      {
+        "id": "b",
+        "text": "sú reaktívnejšie"
+      },
+      {
+        "id": "c",
+        "text": "majú vyššie teploty topenia"
+      },
+      {
+        "id": "d",
+        "text": "majú väčší náboj jadra"
+      },
+      {
+        "id": "e",
+        "text": "tiež majú len jedno oxidačné číslo a to +II"
+      },
+      {
+        "id": "f",
+        "text": "majú zaplnené d orbitály"
+      },
+      {
+        "id": "g",
+        "text": "majú nižšie teploty topenia"
+      },
+      {
+        "id": "h",
+        "text": "majú menšie atómové polomery"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "408. 0 vodíku platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má tri izotopy"
+      },
+      {
+        "id": "b",
+        "text": "s alkalickými kovmi vytvára kovalentné hydridy"
+      },
+      {
+        "id": "c",
+        "text": "má redukčné vlastnosti"
+      },
+      {
+        "id": "d",
+        "text": "s prechodnými kovmi vytvára kovové hydridy"
+      },
+      {
+        "id": "e",
+        "text": "pre svoju reaktívnosť sa v prírode voľný nenachádza 90"
+      },
+      {
+        "id": "f",
+        "text": "je biogénny prvok"
+      },
+      {
+        "id": "g",
+        "text": "s vodou reaguje za vzniku peroxidu vodíka"
+      },
+      {
+        "id": "h",
+        "text": "získava sa pri stužovaní tukov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "409. Pre alkalické kovy neplatí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú malo reaktívne"
+      },
+      {
+        "id": "b",
+        "text": "s rastúcim Z prvkov klesá teplota ich topenia"
+      },
+      {
+        "id": "c",
+        "text": "s rastúcim Z prvkov klesá ich hustota"
+      },
+      {
+        "id": "d",
+        "text": "majú malé atómové polomery"
+      },
+      {
+        "id": "e",
+        "text": "vzhľadom na svoju reaktivitu, sa uskladňujú pod vodou"
+      },
+      {
+        "id": "f",
+        "text": "sú silné redukovadla"
+      },
+      {
+        "id": "g",
+        "text": "sodík a draslík patria medzi najrozšírenejšie prvky zemskej kôry"
+      },
+      {
+        "id": "h",
+        "text": "sú dobre vodiče tepla"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "410. Hydroxid sodný:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je veľmi dobre rozpustný vo vode"
+      },
+      {
+        "id": "b",
+        "text": "je hygroskopický"
+      },
+      {
+        "id": "c",
+        "text": "leptá sklo"
+      },
+      {
+        "id": "d",
+        "text": "laboratórne možno pripraviť z kovového sodíka"
+      },
+      {
+        "id": "e",
+        "text": "neabsorbuje vzdušný oxid uhličitý"
+      },
+      {
+        "id": "f",
+        "text": "neabsorbuje vzdušné vodné páry"
+      },
+      {
+        "id": "g",
+        "text": "v kryštalickej forme je žltý"
+      },
+      {
+        "id": "h",
+        "text": "priemyselné sa vyrába zo síranu sodného"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "411. Sóda:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má vzorec NaHCO3"
+      },
+      {
+        "id": "b",
+        "text": "má vzorec Na2CO3"
+      },
+      {
+        "id": "c",
+        "text": "vyrába sa Solvayovym spôsobom"
+      },
+      {
+        "id": "d",
+        "text": "vyrába sa elektrolýzou sódovej vody"
+      },
+      {
+        "id": "e",
+        "text": "používa sa ako liečivo"
+      },
+      {
+        "id": "f",
+        "text": "používa sa pri výrobe skla"
+      },
+      {
+        "id": "g",
+        "text": "s vodou sa hydrolyzuje a dáva kyslú reakciu"
+      },
+      {
+        "id": "h",
+        "text": "s vodou sa hydrolyzuje a dáva zásaditú reakciu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "412. Jedla sóda:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má vzorec NaHCO3"
+      },
+      {
+        "id": "b",
+        "text": "má vzorec Na2CO3"
+      },
+      {
+        "id": "c",
+        "text": "vyrába sa Solvayovym spôsobom"
+      },
+      {
+        "id": "d",
+        "text": "vyrába sa elektrolýzou sódovej vody"
+      },
+      {
+        "id": "e",
+        "text": "používa sa ako antacidum"
+      },
+      {
+        "id": "f",
+        "text": "používa sa ako prášok do pečiva"
+      },
+      {
+        "id": "g",
+        "text": "s vodou sa hydrolyzuje a dáva kyslú reakciu"
+      },
+      {
+        "id": "h",
+        "text": "s vodou sa nehydrolyzuje a dáva neutrálnu reakciu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "413. 0 sodíku platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sodíkový katión je intracelulárny"
+      },
+      {
+        "id": "b",
+        "text": "dá sa krájať nožom"
+      },
+      {
+        "id": "c",
+        "text": "s vodou reaguje spontánne 16"
+      },
+      {
+        "id": "d",
+        "text": "sodíkový katión je extracelulárny"
+      },
+      {
+        "id": "e",
+        "text": "farbí plameň na žlto"
+      },
+      {
+        "id": "f",
+        "text": "používa sa na legovanie ocelí"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G"
+      },
+      {
+        "id": "h",
+        "text": "jeho najdôležitejšou zlúčeninou je potaš"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "414. Horčík je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "súčasťou vitamínu B12"
+      },
+      {
+        "id": "b",
+        "text": "súčasťou chlorofylu"
+      },
+      {
+        "id": "c",
+        "text": "intracelulárny prvok"
+      },
+      {
+        "id": "d",
+        "text": "extracelulárny prvok"
+      },
+      {
+        "id": "e",
+        "text": "súčasťou malachitu"
+      },
+      {
+        "id": "f",
+        "text": "súčasťou magnezitu"
+      },
+      {
+        "id": "g",
+        "text": "súčasťou dolomitu"
+      },
+      {
+        "id": "h",
+        "text": "najreaktívnejší prvok II.A podskupiny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "415. Vápnik:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je biogénnym makroprvkom"
+      },
+      {
+        "id": "b",
+        "text": "je typický intracelulárny ión"
+      },
+      {
+        "id": "c",
+        "text": "na vzduchu nehorí"
+      },
+      {
+        "id": "d",
+        "text": "Iahko tvorí peroxidy s kyslíkom"
+      },
+      {
+        "id": "e",
+        "text": "má význam pre svalovú prácu"
+      },
+      {
+        "id": "f",
+        "text": "je súčasťou vitamínu C"
+      },
+      {
+        "id": "g",
+        "text": "rozkladá vodu už pri laboratórnej teplote"
+      },
+      {
+        "id": "h",
+        "text": "neutralizuje žalúdočnú stavu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "416. Sadra:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má vzorec CaSO4"
+      },
+      {
+        "id": "b",
+        "text": "má vzorec CaSO4 . 2 H2O"
+      },
+      {
+        "id": "c",
+        "text": "používa sa v zdravotníctve"
+      },
+      {
+        "id": "d",
+        "text": "má vzorec CaSO4 . 0,5 H2O"
+      },
+      {
+        "id": "e",
+        "text": "je hemihydrát síranu vápenatého"
+      },
+      {
+        "id": "f",
+        "text": "pripravuje sa zo sadrovca pražením"
+      },
+      {
+        "id": "g",
+        "text": "spôsobuje tvrdosť vody"
+      },
+      {
+        "id": "h",
+        "text": "je hlavnou zložkou kosti"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "417. 0 oxide hlinitom platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vzniká pri vysokých teplotách z Al a O2"
+      },
+      {
+        "id": "b",
+        "text": "v malých množstvách vzniká aj pri nízkych teplotách"
+      },
+      {
+        "id": "c",
+        "text": "v prírode sa nachádza ako minerál beryl"
+      },
+      {
+        "id": "d",
+        "text": "tvorí jeden z najtvrdších minerálov, korund"
+      },
+      {
+        "id": "e",
+        "text": "nerozpúšťa sa v roztokoch kyselín a hydroxidov"
+      },
+      {
+        "id": "f",
+        "text": "pre svoje adsorpene schopnosti sa používa v chromatografi"
+      },
+      {
+        "id": "g",
+        "text": "vo vode je dobre rozpustný"
+      },
+      {
+        "id": "h",
+        "text": "je Pahko taviteľný"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "418. 0 hliníku platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vyrába sa elektrolyticky 92"
+      },
+      {
+        "id": "b",
+        "text": "je biogénny prvok"
+      },
+      {
+        "id": "c",
+        "text": "Možnosť C"
+      },
+      {
+        "id": "d",
+        "text": "'ahko tvorí kamence"
+      },
+      {
+        "id": "e",
+        "text": "dural je zliatinou hliníka a činu"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G"
+      },
+      {
+        "id": "h",
+        "text": "v prírode sa vyskytuje voľný"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "419. 0 uhlíku platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je biogénny makroprvok"
+      },
+      {
+        "id": "b",
+        "text": "v prírode sa nenachádza voľný"
+      },
+      {
+        "id": "c",
+        "text": "grafit má polymérnu štruktúru"
+      },
+      {
+        "id": "d",
+        "text": "je schopný vytvárať reťazce"
+      },
+      {
+        "id": "e",
+        "text": "diamant je najtvrdší nerast"
+      },
+      {
+        "id": "f",
+        "text": "diamant je dobrý vodič elektriny"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G"
+      },
+      {
+        "id": "h",
+        "text": "Živočíšne uhlie sa využíva v medicíne"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "420. Pre 0oxid uhličitý platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je I'ahší ako vzduch"
+      },
+      {
+        "id": "b",
+        "text": "vzniká rozkladom vápenca"
+      },
+      {
+        "id": "c",
+        "text": "vzniká pri spa'ovani uhlia"
+      },
+      {
+        "id": "d",
+        "text": "vzniká pri redukcii ČO"
+      },
+      {
+        "id": "e",
+        "text": "uvoľňuje sa pri kvasení"
+      },
+      {
+        "id": "f",
+        "text": "je prudko jedovatý"
+      },
+      {
+        "id": "g",
+        "text": "vzniká pri oxidácii ČO"
+      },
+      {
+        "id": "h",
+        "text": "vo vode sa nerozpúšťa"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "421. Oxid uhoľnatý:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je iba oxidačné činidlo"
+      },
+      {
+        "id": "b",
+        "text": "je bez zápachu"
+      },
+      {
+        "id": "c",
+        "text": "s vodou dáva H2CO3"
+      },
+      {
+        "id": "d",
+        "text": "vzniká oxidáciou CO2"
+      },
+      {
+        "id": "e",
+        "text": "je prchavá kvapalina"
+      },
+      {
+        "id": "f",
+        "text": "vzniká pri nedokonalom spaľovaní"
+      },
+      {
+        "id": "g",
+        "text": "je veľmi jedovatý"
+      },
+      {
+        "id": "h",
+        "text": "vzniká reakciou C + CO2"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "422. Pre organizmus je jedom:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ČO"
+      },
+      {
+        "id": "b",
+        "text": "KCN"
+      },
+      {
+        "id": "c",
+        "text": "H2CO3"
+      },
+      {
+        "id": "d",
+        "text": "CS2"
+      },
+      {
+        "id": "e",
+        "text": "CO2"
+      },
+      {
+        "id": "f",
+        "text": "NaHCO3"
+      },
+      {
+        "id": "g",
+        "text": "NH3"
+      },
+      {
+        "id": "h",
+        "text": "N2 93"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "423. Kyselina kyanovodíková:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je silnou kyselinou"
+      },
+      {
+        "id": "b",
+        "text": "vo vode sa dobre rozpúšťa"
+      },
+      {
+        "id": "c",
+        "text": "je prudko jedovatá"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D"
+      },
+      {
+        "id": "e",
+        "text": "je I'ahko prchavá pevná látka"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G"
+      },
+      {
+        "id": "h",
+        "text": "priemyselné sa vyrába z C, N2 a H2"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "424. 0 kremíku platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "elementárny kremík sa nachádza v prírode"
+      },
+      {
+        "id": "b",
+        "text": "je biogénny makroprvok"
+      },
+      {
+        "id": "c",
+        "text": "je najrozšírenejším prvkom v prírode"
+      },
+      {
+        "id": "d",
+        "text": "je veľmi tvrdý, ale krehký"
+      },
+      {
+        "id": "e",
+        "text": "vyrába sa redukciou oxidu kremičitého uhlíkom"
+      },
+      {
+        "id": "f",
+        "text": "používa sa v mikroelektronike"
+      },
+      {
+        "id": "g",
+        "text": "jeho nerasty sa používajú na výrobu skla"
+      },
+      {
+        "id": "h",
+        "text": "svojou štruktúrou sa podobá grafitu"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "425. Pre dusík platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v prírode sa nachádza len voľný"
+      },
+      {
+        "id": "b",
+        "text": "je maximálne štvorväzbový"
+      },
+      {
+        "id": "c",
+        "text": "molekulový dusík obsahuje ve'mi stabilnú štvoritú väzbu"
+      },
+      {
+        "id": "d",
+        "text": "molekulový dusík je malo reaktívny"
+      },
+      {
+        "id": "e",
+        "text": "je I'ahší ako vzduch"
+      },
+      {
+        "id": "f",
+        "text": "je ťažší ako vzduch"
+      },
+      {
+        "id": "g",
+        "text": "patrí k biogénnym mikroprvkom"
+      },
+      {
+        "id": "h",
+        "text": "s väčšinou látok reaguje až pri vysokej teplote"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "426. Pre amoniak platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vo vode sa slabo rozpúšťa"
+      },
+      {
+        "id": "b",
+        "text": "vystupuje ako akceptor v komplexných zlúčeninách"
+      },
+      {
+        "id": "c",
+        "text": "na atóme dusíka má jeden voľný elektrónový pár"
+      },
+      {
+        "id": "d",
+        "text": "s vodou tvorí slabý hydroxid"
+      },
+      {
+        "id": "e",
+        "text": "je bezfarebný plyn"
+      },
+      {
+        "id": "f",
+        "text": "je nepolárna zlúčenina"
+      },
+      {
+        "id": "g",
+        "text": "v koordinačných zlúčeninách vystupuje ako donor"
+      },
+      {
+        "id": "h",
+        "text": "I'ahko tvorí katión NH3+"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "427. Pre oxidy dusíka platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "oxid dusný je bezfarebný plyn"
+      },
+      {
+        "id": "b",
+        "text": "oxid dusnatý je anhydridom kyseliny dusnatej"
+      },
+      {
+        "id": "c",
+        "text": "Možnosť C"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D"
+      },
+      {
+        "id": "e",
+        "text": "NO2 je veľmi toxický"
+      },
+      {
+        "id": "f",
+        "text": "anhydridom kyseliny dusnej je oxid dusný"
+      },
+      {
+        "id": "g",
+        "text": "oxid dusný sa používa v sIahackovych sprejoch 94"
+      },
+      {
+        "id": "h",
+        "text": "neznecisťuju životné prostredie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "428. Kyselina dusičná:",
+    "options": [
+      {
+        "id": "a",
+        "text": "priemyselné sa vyrába z N2Os"
+      },
+      {
+        "id": "b",
+        "text": "Možnosť B"
+      },
+      {
+        "id": "c",
+        "text": "Možnosť C"
+      },
+      {
+        "id": "d",
+        "text": "s vodou tvorí azeotropnu zmes"
+      },
+      {
+        "id": "e",
+        "text": "je silným redukovadlom"
+      },
+      {
+        "id": "f",
+        "text": "je silnou jednosýtnou kyselinou"
+      },
+      {
+        "id": "g",
+        "text": "je slabšou kyselinou ako kyselina dusitá"
+      },
+      {
+        "id": "h",
+        "text": "je silným oxidovadlom"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "429. Pre fosfor platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v prírode sa nachádza v elementárnej forme"
+      },
+      {
+        "id": "b",
+        "text": "všetky tri jeho modifikácie sú prudko toxické"
+      },
+      {
+        "id": "c",
+        "text": "čierny fosfor má polokovové vlastnosti"
+      },
+      {
+        "id": "d",
+        "text": "červený fosfor je na vzduchu samozápalný"
+      },
+      {
+        "id": "e",
+        "text": "V prírode sa najčastejšie nachádza v mineráloch obsahujúcich fosforečnany"
+      },
+      {
+        "id": "f",
+        "text": "iba biely fosfor je toxický"
+      },
+      {
+        "id": "g",
+        "text": "je príkladom vzájomnej samovoľnej premeny všetkých troch modifikácií"
+      },
+      {
+        "id": "h",
+        "text": "červená modifikácia je tvorená z polymérnych reťazcov kovalentné viazaného fosforu"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "430. Oxid fosforečný:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vyskytuje sa ako dimér molekuly P2Os"
+      },
+      {
+        "id": "b",
+        "text": "má silné hygroskopické vlastnosti"
+      },
+      {
+        "id": "c",
+        "text": "je červený, farbou pripomína krv"
+      },
+      {
+        "id": "d",
+        "text": "vzniká nedokonalým spaľovaním fosforu"
+      },
+      {
+        "id": "e",
+        "text": "s vodou prakticky nereaguje"
+      },
+      {
+        "id": "f",
+        "text": "pri jeho reakcií s vodou vzniká kyselina trihydrogenfosforečná"
+      },
+      {
+        "id": "g",
+        "text": "netvorí dimér"
+      },
+      {
+        "id": "h",
+        "text": "vzniká dokonalým spaľovaním fosforu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "431. Kyselina fosforečná H3PO4:",
+    "options": [
+      {
+        "id": "a",
+        "text": "bezvodá je bezfarebná kryštalická látka"
+      },
+      {
+        "id": "b",
+        "text": "bezvodá je bezfarebná kvapalina"
+      },
+      {
+        "id": "c",
+        "text": "podobne ako HNO3 má silné oxidačné vlastnosti"
+      },
+      {
+        "id": "d",
+        "text": "je silné hygroskopická"
+      },
+      {
+        "id": "e",
+        "text": "je veľmi stala stredne silná kyselina"
+      },
+      {
+        "id": "f",
+        "text": "pri zvýšenej teplote reaguje s väčšinou kovov za vzniku fosforečnanov"
+      },
+      {
+        "id": "g",
+        "text": "je schopná tvoriť polyfosforečné kyseliny"
+      },
+      {
+        "id": "h",
+        "text": "vytvára tri druhý soli"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "432. Kyslík:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je prevažne oxidovadlo"
+      },
+      {
+        "id": "b",
+        "text": "je prevažne redukovadlo"
+      },
+      {
+        "id": "c",
+        "text": "je malo reaktívny prvok"
+      },
+      {
+        "id": "d",
+        "text": "môže sa redukovať 95"
+      },
+      {
+        "id": "e",
+        "text": "vo vode sa čiastočne rozpúšťa"
+      },
+      {
+        "id": "f",
+        "text": "vo vode sa nerozpúšťa"
+      },
+      {
+        "id": "g",
+        "text": "môže mať najvyššie oxidačné číslo +VI"
+      },
+      {
+        "id": "h",
+        "text": "môžeme pripraviť rozkladom chloristanu draselného"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "433. Ozón:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má redukene vlastnosti"
+      },
+      {
+        "id": "b",
+        "text": "má oxidačné vlastnosti"
+      },
+      {
+        "id": "c",
+        "text": "vzniká v atmosfére pri búrkach"
+      },
+      {
+        "id": "d",
+        "text": "má vzorec (O3)"
+      },
+      {
+        "id": "e",
+        "text": "Iahko uvo'ňuje atóm kyslíka"
+      },
+      {
+        "id": "f",
+        "text": "vzniká z peroxidu vodíka"
+      },
+      {
+        "id": "g",
+        "text": "používa sa na sterilizáciu"
+      },
+      {
+        "id": "h",
+        "text": "sám sa 'ahko oxiduje"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "434. Vyznačte nepravdivý výrok o sire:",
+    "options": [
+      {
+        "id": "a",
+        "text": "patrí medzi halogény"
+      },
+      {
+        "id": "b",
+        "text": "kryštalizuje"
+      },
+      {
+        "id": "c",
+        "text": "je alotropna"
+      },
+      {
+        "id": "d",
+        "text": "je biogénny mikroprvok"
+      },
+      {
+        "id": "e",
+        "text": "je nerozpustná vo vode"
+      },
+      {
+        "id": "f",
+        "text": "zahrievaním tmavne"
+      },
+      {
+        "id": "g",
+        "text": "má elektrónovú konfiguráciu [Ne]3s?3p3"
+      },
+      {
+        "id": "h",
+        "text": "má kovový charakter"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "435. Sulfán:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má oxidačné i redukčné účinky"
+      },
+      {
+        "id": "b",
+        "text": "vo vode tvorí slabú dvojsýtnu kyselinu"
+      },
+      {
+        "id": "c",
+        "text": "vo vode je nerozpustný"
+      },
+      {
+        "id": "d",
+        "text": "zhorí pri nedostatku vzduchu na síru"
+      },
+      {
+        "id": "e",
+        "text": "s vodou dáva alkalickú reakciu"
+      },
+      {
+        "id": "f",
+        "text": "s vodou tvorí silnú dvojsýtnu kyselinu"
+      },
+      {
+        "id": "g",
+        "text": "je pre človeka toxický"
+      },
+      {
+        "id": "h",
+        "text": "zapácha po skazených vajciach"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "436. 0 kyseline sírovej platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "oleum je roztok kyseliny sírovej v oleji"
+      },
+      {
+        "id": "b",
+        "text": "má redukné vlastnosti"
+      },
+      {
+        "id": "c",
+        "text": "bezvodá kyselina sírová je olejovitá, bezfarebná kvapalina"
+      },
+      {
+        "id": "d",
+        "text": "koncentrovaná kyselina sírová má hygroskopické vlastnosti"
+      },
+      {
+        "id": "e",
+        "text": "oleum je dymivá kyselina sírová"
+      },
+      {
+        "id": "f",
+        "text": "zriedená kyselina sírová reaguje len s neusPachtilymi kovmi"
+      },
+      {
+        "id": "g",
+        "text": "koncentrovaná kyselina sírová dobre rozpúšťa železo"
+      },
+      {
+        "id": "h",
+        "text": "pri zrieďovaní H2SO4 vodou lejeme zásadne vodu do kyseliny"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "437. Flu0r:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nachádza sa v prírode vo'ny"
+      },
+      {
+        "id": "b",
+        "text": "je jedovatý plyn 96"
+      },
+      {
+        "id": "c",
+        "text": "v prírode sa nachádza v kazivci"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D"
+      },
+      {
+        "id": "e",
+        "text": "je biogénny makroprvok"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F"
+      },
+      {
+        "id": "g",
+        "text": "oxiduje vodu"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "438. Chl6r:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je biogénny makroprvok"
+      },
+      {
+        "id": "b",
+        "text": "je z halogénov prírode najviac rozšírený"
+      },
+      {
+        "id": "c",
+        "text": "nachádza sa v prírode ako voľný prvok"
+      },
+      {
+        "id": "d",
+        "text": "pripravuje sa redukciou chlorovodíku"
+      },
+      {
+        "id": "e",
+        "text": "nereaguje s uhlíkom pri laboratórnej teplote"
+      },
+      {
+        "id": "f",
+        "text": "v plynnom chlorovodíku tvorí chlór vodíkové väzby"
+      },
+      {
+        "id": "g",
+        "text": "reaguje s vodíkom iba za tmy"
+      },
+      {
+        "id": "h",
+        "text": "je pre človeka jedovatý"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "439. Bróm:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je v prírode veľmi rozšírený"
+      },
+      {
+        "id": "b",
+        "text": "je biogénny makroprvok"
+      },
+      {
+        "id": "c",
+        "text": "vo forme bromidov je využívaný hlavne vo fotografi"
+      },
+      {
+        "id": "d",
+        "text": "reaguje s vodíkom pri laboratórnej teplote a bez katalyzátora"
+      },
+      {
+        "id": "e",
+        "text": "je Červenohnedá kvapalina"
+      },
+      {
+        "id": "f",
+        "text": "vyrába sa z morskej vody oxidáciou"
+      },
+      {
+        "id": "g",
+        "text": "je súčasťou Ajatinu"
+      },
+      {
+        "id": "h",
+        "text": "má elektrónovú konfiguráciu 4s25ps"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "440. Jód:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je biogénny mikroprvok"
+      },
+      {
+        "id": "b",
+        "text": "čistí sa destiláciou"
+      },
+      {
+        "id": "c",
+        "text": "vo vode sa dobre rozpúšťa"
+      },
+      {
+        "id": "d",
+        "text": "používa sa v medicíne vo forme Lugolovho roztoku"
+      },
+      {
+        "id": "e",
+        "text": "reaguje aj s bórom pri laboratórnej teplote"
+      },
+      {
+        "id": "f",
+        "text": "sublimuje"
+      },
+      {
+        "id": "g",
+        "text": "nie je pre človeka esenciálny"
+      },
+      {
+        "id": "h",
+        "text": "tvorí fialové kryštáliky"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "441. Medzi biogénne mikroprvky nepatrí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zn"
+      },
+      {
+        "id": "b",
+        "text": "Na"
+      },
+      {
+        "id": "c",
+        "text": "Ca"
+      },
+      {
+        "id": "d",
+        "text": "Cu"
+      },
+      {
+        "id": "e",
+        "text": "Pu"
+      },
+      {
+        "id": "f",
+        "text": "Se"
+      },
+      {
+        "id": "g",
+        "text": "Čo"
+      },
+      {
+        "id": "h",
+        "text": "Ar"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "442. 0 železe neplatí: 97",
+    "options": [
+      {
+        "id": "a",
+        "text": "je súčasťou chlorofylu"
+      },
+      {
+        "id": "b",
+        "text": "dobre sa rozpúšťa v koncentrovanej kyseline sírovej"
+      },
+      {
+        "id": "c",
+        "text": "I'ahko hrdzavie"
+      },
+      {
+        "id": "d",
+        "text": "v I'udskom tele sa nachádza len v hemoglobíne"
+      },
+      {
+        "id": "e",
+        "text": "najvyššie oxidačné číslo Železa je +VI"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F"
+      },
+      {
+        "id": "g",
+        "text": "ako náhrada hemoglobínu sa používa žltá krvná sop"
+      },
+      {
+        "id": "h",
+        "text": "heptahydrát síranu železnatého sa nazýva zelená skalica"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "443. Chr0m:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je biogénny mikroprvok"
+      },
+      {
+        "id": "b",
+        "text": "je v roztokoch bezfarebný"
+      },
+      {
+        "id": "c",
+        "text": "má najstabilnejšie oxidačné číslo v roztokoch +III"
+      },
+      {
+        "id": "d",
+        "text": "tvorí dichromany, ktoré sú oranžové"
+      },
+      {
+        "id": "e",
+        "text": "tvorí dichromany, ktoré sú žlté"
+      },
+      {
+        "id": "f",
+        "text": "tvorí chromany, ktoré sú oranžové"
+      },
+      {
+        "id": "g",
+        "text": "tvorí chromany a dichromany, ktoré sú silné redukčné činidlá"
+      },
+      {
+        "id": "h",
+        "text": "tvorí chromany a dichromany, ktoré sú silné oxidačné činidlá"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "444. Mangán:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je biogénny mikroprvok"
+      },
+      {
+        "id": "b",
+        "text": "vyrába sa aluminotermicky"
+      },
+      {
+        "id": "c",
+        "text": "je v Beketovom rade napätia napravo od vodíka"
+      },
+      {
+        "id": "d",
+        "text": "sa nachádza v I'udskom tele"
+      },
+      {
+        "id": "e",
+        "text": "jeho soľ’ KMnO4 sa v medicíne používa ako antiseptikum"
+      },
+      {
+        "id": "f",
+        "text": "vo forme burelu nemá oxidačné účinky"
+      },
+      {
+        "id": "g",
+        "text": "V prírode sa nenachádza voľný"
+      },
+      {
+        "id": "h",
+        "text": "má stabilné len jedno oxidačné číslo a to +IV"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "445. 0 zlúčeninách železa platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "najstabilnejšia zlúčenina Fe2+ je Mohrova soľ (NH4)2Fe(SO4)2 . 6 H20"
+      },
+      {
+        "id": "b",
+        "text": "Mohrova soľ patrí ku kamencom"
+      },
+      {
+        "id": "c",
+        "text": "ióny Fe2+ sú v roztokoch veľmi stabilné"
+      },
+      {
+        "id": "d",
+        "text": "ferrikyanid draselný je žltá krvná soľ"
+      },
+      {
+        "id": "e",
+        "text": "ferrokyanid draselný je žltá krvná soľ"
+      },
+      {
+        "id": "f",
+        "text": "Uffelmannovo činidlo obsahuje komplexné viazané Fe3+"
+      },
+      {
+        "id": "g",
+        "text": "vo'ne ióny Fe3+ vo vodných roztokoch hydrolyzujú už pri pH = 4"
+      },
+      {
+        "id": "h",
+        "text": "síran železitý s kryštalickou vodou sa nazýva zelená skalica"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "446. Meď:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ag je biogénny makroprvok"
+      },
+      {
+        "id": "b",
+        "text": "Ag sa používa na výrobu zrkadiel"
+      },
+      {
+        "id": "c",
+        "text": "Ag je reaktívnejšie ako meď"
+      },
+      {
+        "id": "d",
+        "text": "je známa od doby bronzovej"
+      },
+      {
+        "id": "e",
+        "text": "v prírode sa nachádza len v zlúčeninách"
+      },
+      {
+        "id": "f",
+        "text": "reaguje s vodíkom pri laboratórnej teplote"
+      },
+      {
+        "id": "g",
+        "text": "kyselinu dusičnú redukuje"
+      },
+      {
+        "id": "h",
+        "text": "reaguje s koncentrovanou kyselinou dusičnou"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "447. Striebro:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ag je biogénny makroprvok"
+      },
+      {
+        "id": "b",
+        "text": "Ag sa používa na výrobu zrkadiel"
+      },
+      {
+        "id": "c",
+        "text": "Ag je reaktívnejšie ako meď"
+      },
+      {
+        "id": "d",
+        "text": "reaguje s kyselinou chlorovodíkovou"
+      },
+      {
+        "id": "e",
+        "text": "vytvára zliatinu amalgám"
+      },
+      {
+        "id": "f",
+        "text": "je najlepším vodičom elektrického prúdu"
+      },
+      {
+        "id": "g",
+        "text": "v zlúčeninách má najčastejšie oxidačné číslo +I"
+      },
+      {
+        "id": "h",
+        "text": "reaguje s koncentrovanou kyselinou dusičnou"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "448. Zlato:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Možnosť A"
+      },
+      {
+        "id": "b",
+        "text": "Možnosť B"
+      },
+      {
+        "id": "c",
+        "text": "Možnosť C"
+      },
+      {
+        "id": "d",
+        "text": "má najstabilnejšie oxidačné číslo +I"
+      },
+      {
+        "id": "e",
+        "text": "jeho obsah sa udáva aj v karátoch"
+      },
+      {
+        "id": "f",
+        "text": "je veľmi tvrdý kov"
+      },
+      {
+        "id": "g",
+        "text": "z kovov skupiny medi je najreaktívnejší"
+      },
+      {
+        "id": "h",
+        "text": "je ho možné získať aj tzv. ryžovaním"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "449. Zinok:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je biogénny mikroprvok"
+      },
+      {
+        "id": "b",
+        "text": "V prírode sa nachádza voľný"
+      },
+      {
+        "id": "c",
+        "text": "používa sa na galvanické pokovovanie"
+      },
+      {
+        "id": "d",
+        "text": "má len jedno stabilné oxidačné číslo +II"
+      },
+      {
+        "id": "e",
+        "text": "so zriedenými kyselinami nereaguje"
+      },
+      {
+        "id": "f",
+        "text": "na vzduchu horí na zno"
+      },
+      {
+        "id": "g",
+        "text": "s hydroxidmi alkalických kovov nereaguje"
+      },
+      {
+        "id": "h",
+        "text": "nenachádza sa v krvi"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "450. 0rtuť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je biogénny mikroprvok"
+      },
+      {
+        "id": "b",
+        "text": "má len jedno stabilné oxidačné číslo +II"
+      },
+      {
+        "id": "c",
+        "text": "je kvapalina pri laboratórnej teplote"
+      },
+      {
+        "id": "d",
+        "text": "je napravo od vodíka v Beketovom rade napätia"
+      },
+      {
+        "id": "e",
+        "text": "je naľavo od vodíka v Beketovom rade napätia"
+      },
+      {
+        "id": "f",
+        "text": "je pre človeka toxická"
+      },
+      {
+        "id": "g",
+        "text": "má schopnosť rozpúšťať iné kovy"
+      },
+      {
+        "id": "h",
+        "text": "reaguje so zriedenými kyselinami za tvorby príslušných soli"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, G."
+  }
+]

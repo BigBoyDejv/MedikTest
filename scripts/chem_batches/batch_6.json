@@ -1,0 +1,2301 @@
+[
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "251. V uzavretej nádobe sa ustálila rovnováha 4 NH3 (g) + 5 O2  4 NO (g) + 6 H20 (g) + 906 kj. Zvýšenie koncentrácie 0xidu dusnatého môžeme dosiahnuť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "odstraňovaním vodnej páry zo systému"
+      },
+      {
+        "id": "b",
+        "text": "pridávaním vodnej páry do systému"
+      },
+      {
+        "id": "c",
+        "text": "ohrievaním systému"
+      },
+      {
+        "id": "d",
+        "text": "chladením systému"
+      },
+      {
+        "id": "e",
+        "text": "znížením tlaku"
+      },
+      {
+        "id": "f",
+        "text": "zvýšením tlaku"
+      },
+      {
+        "id": "g",
+        "text": "zväčšením objemu nádoby"
+      },
+      {
+        "id": "h",
+        "text": "pridaním katalyzátora"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "252. Vyberte správne tvrdenie: 64 danej zlúčeniny priamo z prvkov",
+    "options": [
+      {
+        "id": "a",
+        "text": "Možnosť A (pozri testovnicu)"
+      },
+      {
+        "id": "b",
+        "text": "Možnosť B (pozri testovnicu)"
+      },
+      {
+        "id": "c",
+        "text": "Možnosť C (pozri testovnicu)"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D (pozri testovnicu)"
+      },
+      {
+        "id": "e",
+        "text": "rovnice ČO (g) + H2O (g) → CO2 (g) + H2 (g); AHO = -41,2 kj/mol a CO2(g) + H2 (g) -→ ČO (g) + H2O (g); △H' = 41,2 kj/mol sú vyjadrením I. termochemickeho zákona"
+      },
+      {
+        "id": "f",
+        "text": "reakene teplo reakcie, pri ktorej 1 kg zlúčeniny zoxiduje na najstálejšie oxidy, sa nazýva zlučovacie teplo zlúčeniny"
+      },
+      {
+        "id": "g",
+        "text": "Gibsova energia G charakterizuje vratné izotermické deje"
+      },
+      {
+        "id": "h",
+        "text": "zmena G v sebe zahŕňa člen entalpicky a člen entropicky"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "253. Vyberte reakcie, ktoré môžu prebiehať samovoľne za normálnych podmienok:",
+    "options": [
+      {
+        "id": "a",
+        "text": "2 Fe2O3(s) + 3 C(s) -→ 4 Fe(s) + 3 CO2(g); AH > 0"
+      },
+      {
+        "id": "b",
+        "text": "2 Li(s) + 2 H20 → 2 Li OH(aq) + H2(g); △H < 0, △S > 0"
+      },
+      {
+        "id": "c",
+        "text": "CaCO3(s) + 2 hcl(aq) → CaCl2(aq) + H2O + CO2(g); △H = -16 kj/mol"
+      },
+      {
+        "id": "d",
+        "text": "naoh(aq) + HCI(aq) → nacl(aq) + H2O(I)"
+      },
+      {
+        "id": "e",
+        "text": "CO2(g) + H2(g) → ČO(g) + H2O(g); △H = 41,2 kj/mol"
+      },
+      {
+        "id": "f",
+        "text": "CaCO3(s) → cao(s) + CO2(g); Qm = 178 kj/mol"
+      },
+      {
+        "id": "g",
+        "text": "Zn (s) + H2SO4 (aq) -→ ZnSO4 (aq) + H2 (g)"
+      },
+      {
+        "id": "h",
+        "text": "Mg(s) + 2 hcl(g) -→ MgCl2(s) + H2(g); △H = -456 kj/mol"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "254. Vyberte nesprávne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "samovoľný izotermicko-izobarický dej sprevádza vzrast Gibbsovej energie"
+      },
+      {
+        "id": "b",
+        "text": "aby chemická reakcia mohla prebehnúť samovo'ne, musí dôjsť k poklesu Gibbsovej energie"
+      },
+      {
+        "id": "c",
+        "text": "endotermické syntézy (△H > 0, △S < 0) nie sú samovo'ne, pretože obidva leny prispievajú k zvýšeniu G"
+      },
+      {
+        "id": "d",
+        "text": "vždy samovoľne prebiehajú exotermické rozkladné reakcie (AH < O, △S > 0)"
+      },
+      {
+        "id": "e",
+        "text": "samovo'ny priebeh exotermických zlučovacích reakci (△H < 0, △S < 0) nezávisí od teploty"
+      },
+      {
+        "id": "f",
+        "text": "endotermické syntézy (△H > 0, △S < 0) sú samovoľne, pretože obidva leny prispievajú k zvýšeniu G"
+      },
+      {
+        "id": "g",
+        "text": "endotermické rozkladné reakcie (AH > 0, △S > 0) nikdy neprebiehajú samovoľne"
+      },
+      {
+        "id": "h",
+        "text": "endotermické rozkladné reakcie (△H > 0, △S > 0) môžu za určitých podmienok prebiehať aj samovoľne"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "255. Vyberte správne tvrdenie 0 chemických rovnováhach:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rovnovážna konštanta výslednej reakcie je daná súčtom rovnovážnych konštánt čiastkových reakcií"
+      },
+      {
+        "id": "b",
+        "text": "výsledná rýchlosť vrátnej reakcie je daná súčtom rýchlosti reakcií v oboch smeroch 65"
+      },
+      {
+        "id": "c",
+        "text": "pre spätnú reakciu je rovnovážna konštanta K' daná vzťahom K'= 1/K = K-1"
+      },
+      {
+        "id": "d",
+        "text": "ak je K > 104 reakcia prakticky jednoznačne prebieha smerom k reaktantom"
+      },
+      {
+        "id": "e",
+        "text": "ak je K < 10-4 reakcia takmer neprebieha"
+      },
+      {
+        "id": "f",
+        "text": "ak K < 10-4 reakcia prakticky jednoznačne prebieha smerom k produktom"
+      },
+      {
+        "id": "g",
+        "text": "ak K = 1, V rovnovážnej zmesi je viac produktov než východiskových látok"
+      },
+      {
+        "id": "h",
+        "text": "ak je △Go = O, potom je systém v rovnováhe"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "256. Vyberte správne tvrdenie o povahe uvedených procesov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "topenie je chemický dej, pri ktorom sa mení chemická povaha látok"
+      },
+      {
+        "id": "b",
+        "text": "miernym zahrievaním nemusí dôjsť k rozkladu molekúl"
+      },
+      {
+        "id": "c",
+        "text": "ak sa nemení zloženie molekil, potom hovoríme o fyzikálnom deji"
+      },
+      {
+        "id": "d",
+        "text": "horením sa nemení chemická povaha látok"
+      },
+      {
+        "id": "e",
+        "text": "ak sa mení zloženie molekúl, potom ide o dej chemický"
+      },
+      {
+        "id": "f",
+        "text": "ak sa mení zloženie molekúl, potom hovoríme o fyzikálnom deji"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "ak dochádza k zmene východzích látok (reaktanty) na látky iné (produkty), ide o dej nazývaný chemická reakcia"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "257. Tepelný efekt rozpúšťania:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je kladný pri rozpúšťaní kcl, roztok sa zahrieva"
+      },
+      {
+        "id": "b",
+        "text": "molové je také teplo, ktoré sa uvoľni alebo spotrebuje pri rozpustení 1 mólu látky"
+      },
+      {
+        "id": "c",
+        "text": "pri riedení NH4NO3 je kladný, roztok sa ochladí"
+      },
+      {
+        "id": "d",
+        "text": "pri riedení naoh vodou je kladný, roztok sa zahrieva"
+      },
+      {
+        "id": "e",
+        "text": "molové je také teplo, ktoré sa uvo'ni pri rozpustení 1 mólu látky"
+      },
+      {
+        "id": "f",
+        "text": "môže byť kladný i záporný"
+      },
+      {
+        "id": "g",
+        "text": "je kladný pri riedení kyseliny sírovej, roztok sa zahrieva"
+      },
+      {
+        "id": "h",
+        "text": "je záporný pri riedení hcl, roztok sa zahrieva"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "258. Rozpúšťanie kryštalických látok:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je vždy exotermicky proces"
+      },
+      {
+        "id": "b",
+        "text": "je spojené s rozrušením kryštálovej štruktúry"
+      },
+      {
+        "id": "c",
+        "text": "je spojené s hydratáciou Častíc"
+      },
+      {
+        "id": "d",
+        "text": "je exotermicky alebo endotermický proces"
+      },
+      {
+        "id": "e",
+        "text": "je exotermicky proces, ak entalpia potrebná na rozrušenie kryštálovej Štruktúry je menšia ako zmena entalpie pri hydrataci"
+      },
+      {
+        "id": "f",
+        "text": "je endotermický proces, ak zmena entalpie pri hydrataci je vasia ako zmena entalpie pri rozrušení kryštálovej štruktúry"
+      },
+      {
+        "id": "g",
+        "text": "zníži koncentráciu danej látky v roztoku"
+      },
+      {
+        "id": "h",
+        "text": "nezávisí od danej látky, len od teploty, pri ktorej rozpúšťanie prebieha"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "259. Malo rozpustná látka:",
+    "options": [
+      {
+        "id": "a",
+        "text": "yevikoenevahesionmeaknasytenomroztoku d jevihesinmhasyenmztostostiareakei teploty nikzavislostiodhodnotysuinurozpustnostiareaknejteploty fnikrakouritorejsuinkoncentrairaktanvjeyssiak"
+      },
+      {
+        "id": "b",
+        "text": "má tým vyššiu pravdepodobnosť vzniku, Čím je hodnota K, vysia"
+      },
+      {
+        "id": "c",
+        "text": "vznikne nezávisle od reakenej teploty"
+      },
+      {
+        "id": "d",
+        "text": "je v rovnováhe s iónmi v nasýtenom roztoku 66"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
+        "id": "f",
+        "text": "vznka reaklou, phktore sue 6cehtacreaktantov je yssi ako K"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "260. Teplota: zníži reakčná teplota vyššia pozitívna",
+    "options": [
+      {
+        "id": "a",
+        "text": "Možnosť A (pozri testovnicu)"
+      },
+      {
+        "id": "b",
+        "text": "ovplyviuje endotermický rozklad uhlitanu vápenatého pozitívne, ak je eakenaiepozitivnsrozpustnost látok, ak je zmena entalpie rozpúšťania"
+      },
+      {
+        "id": "c",
+        "text": "ovplyviuje pozitívne rozpustnosť látok, ak je zmena entalpie rozpúšťania"
+      },
+      {
+        "id": "d",
+        "text": "ovplyvhuje rýchlosť reakcií"
+      },
+      {
+        "id": "e",
+        "text": "ovplyviuje negatívne exotermickí syntézu amoniaku, ak je teplota vyššia"
+      },
+      {
+        "id": "f",
+        "text": "posunie rovnováhu exotermickej reakcie v smere produktov, ak sa teplota zvýši"
+      },
+      {
+        "id": "g",
+        "text": "neovplyviuje rovnovážnu konštantu zrážacích reakci"
+      },
+      {
+        "id": "h",
+        "text": "nemá vplyv na tvorbu nasýteného roztoku"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "261. Ak roztok HCI s koncentráciou 0,1 mol.I-I 1000-násobne zriedime, tak sa hodnota pH vzniknutého roztoku:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nezmení, mení sa iba koncentrácia roztoku hcl"
+      },
+      {
+        "id": "b",
+        "text": "bude sa rovnať 3"
+      },
+      {
+        "id": "c",
+        "text": "zmenší sa 1000- násobne oproti pôvodnej hodnote pH"
+      },
+      {
+        "id": "d",
+        "text": "bude sa rovnať 4"
+      },
+      {
+        "id": "e",
+        "text": "zväčší sa o 3 oproti pôvodnej hodnote pH"
+      },
+      {
+        "id": "f",
+        "text": "bude rovnať hodnote pOH"
+      },
+      {
+        "id": "g",
+        "text": "bude menšia ako hodnota pOH"
+      },
+      {
+        "id": "h",
+        "text": "zmení, so zmenou koncentrácie roztoku sa mení aj hodnota pH"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "262. Z uvedených zlúčenín medzi slabé elektrolyty patria vodné roztoky:",
+    "options": [
+      {
+        "id": "a",
+        "text": "H2SO4, Na2SO4"
+      },
+      {
+        "id": "b",
+        "text": "CHCOOH, HCOOH"
+      },
+      {
+        "id": "c",
+        "text": "CuSO4, Ca(OH)2"
+      },
+      {
+        "id": "d",
+        "text": "HNO2, H2S"
+      },
+      {
+        "id": "e",
+        "text": "NH4OH, HCN"
+      },
+      {
+        "id": "f",
+        "text": "HPO42-, H2O"
+      },
+      {
+        "id": "g",
+        "text": "NH4CI, HCI"
+      },
+      {
+        "id": "h",
+        "text": "Na2CO3, H2CO3"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "263. Vyberte nesprávne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "s rastom sily kyseliny rastie aj sila jej konjugovanej zásady"
+      },
+      {
+        "id": "b",
+        "text": "spoklesomsilykyselinyrastiesilajejkonjugoanejzasady"
+      },
+      {
+        "id": "c",
+        "text": "silné a slabé zásady sa líšia počtom -OH skupín v molekule"
+      },
+      {
+        "id": "d",
+        "text": "neutralizácia je exotermická reakcia s nízkou aktivačnou energiou"
+      },
+      {
+        "id": "e",
+        "text": "neutralizácia je pomalá reakcia, v ktorej jedným z reaktantov je voda"
+      },
+      {
+        "id": "f",
+        "text": "s rastom sily kyseliny klesá sila jej konjugovanej zásady"
+      },
+      {
+        "id": "g",
+        "text": "s poklesom sily kyseliny klesá aj sila jej konjugovanej zásady"
+      },
+      {
+        "id": "h",
+        "text": "silné a slabé zásady sa líšia schopnosťou prijať proton 67"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "264. Pre disociáciu vody platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vlastná ionizácia vody sa nazýva autoprotolýza"
+      },
+      {
+        "id": "b",
+        "text": "disociačná konštanta je vysoká, voda výrazne disociuje"
+      },
+      {
+        "id": "c",
+        "text": "na základe slabej disociácie vody je koncentrácia vody považovaná za konštantnú"
+      },
+      {
+        "id": "d",
+        "text": "voda je silný elektrolyt"
+      },
+      {
+        "id": "e",
+        "text": "disociácia vody je veľmi slabá, disociačná konštanta má nízku hodnotu"
+      },
+      {
+        "id": "f",
+        "text": "je to endotermický dej, s rastom teploty hodnota iónového súčinu vody rastie"
+      },
+      {
+        "id": "g",
+        "text": "voda nedisociuje"
+      },
+      {
+        "id": "h",
+        "text": "je to dej exotermicky, s rastom teploty hodnota iónového súčinu rastie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "265. Vyberte odpovedajúce dvojice koncentrácie iónov autoprotolyzy vody:",
+    "options": [
+      {
+        "id": "a",
+        "text": "[H30*] = 10-6 mol.dm-3 a [OH-] = 10-6 mol.dm-3"
+      },
+      {
+        "id": "b",
+        "text": "[OH-] = 10-8 mol.dm-3 a pH = 8"
+      },
+      {
+        "id": "c",
+        "text": "pOH = 8 a [H3Ot] = 10-6 mol.dm-3"
+      },
+      {
+        "id": "d",
+        "text": "[H30*] = 10- mol.dm-3 a [0H-] = 10-8 mo1.dm-3"
+      },
+      {
+        "id": "e",
+        "text": "pH = 6 a [OH-] = 10-8 mol.dm-3"
+      },
+      {
+        "id": "f",
+        "text": "pH = 6 a [OH-] = 10-6 mol.dm-3"
+      },
+      {
+        "id": "g",
+        "text": "[OH-] = 0,01 μmol.dm-3 a pH = 6"
+      },
+      {
+        "id": "h",
+        "text": "[H30t] = 0,01 mol.dm-3 a [OH-] = 10-2 mol.dm-3"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "266. Vyberte správne tvrdenie o osmotickom tlaku  zriedených roztokov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "koncentrácia roztoku látky má vplyv na jej osmotický tlak roztoku nacl izotonické"
+      },
+      {
+        "id": "b",
+        "text": "nezávisí od počtu Častíc ale od koncentrácie roztoku"
+      },
+      {
+        "id": "c",
+        "text": "závisí od počtu častíc v roztoku"
+      },
+      {
+        "id": "d",
+        "text": "ak majú dva roztoky rovnaký osmotický tlak, potom hovoríme že sú hypotonické"
+      },
+      {
+        "id": "e",
+        "text": "ak dáme červené krvinky do roztoku sacharózy (c = 0,15 mol/l) ostanú nezmenené 68 rozpúšťadlo preniká do roztoku"
+      },
+      {
+        "id": "f",
+        "text": "osmotický tlak závisí od počtu častíc, ktoré vzniknú v roztoku po rozpustení látky v danom rozpúšťadle"
+      },
+      {
+        "id": "g",
+        "text": "roztoky fruktózy (c = 0,3 mol/l) a FeCl2 (c = 0,1 mol/l) sú izotonicke voči fyziologickému roztoku"
+      },
+      {
+        "id": "h",
+        "text": "Fe2(SO4)3 s koncentráciou 300 mmol/ je hypotonický voči roztoku KMnO4 o koncentrácií 1 mol/l"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "267. O osmotickom tlaku a správaní buniek v roztokoch platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "osmotický tlak je priamo úmerný látkovej koncentrácií rozpustenej látky"
+      },
+      {
+        "id": "b",
+        "text": "fyziologický roztok (0,9% nacl) je izotonický s krvou"
+      },
+      {
+        "id": "c",
+        "text": "v hypertonickom roztoku dochádza k plazmorhize (scvrknutiu) bunky"
+      },
+      {
+        "id": "d",
+        "text": "v hypotonickom roztoku dochádza k hemolýze (prasknutiu) červených krviniek"
+      },
+      {
+        "id": "e",
+        "text": "osmotický tlak závisí od teploty podľa van 't Hoffovho vzťahu pi ="
+      },
+      {
+        "id": "f",
+        "text": "osmotický tlak nezávisí od disociácie elektrolytov"
+      },
+      {
+        "id": "g",
+        "text": "osmóza je jednostranná difúzia rozpúšťadlá cez semipermeabilnú membránu"
+      },
+      {
+        "id": "h",
+        "text": "endosmoza spôsobuje nasávanie vody do bunky"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "268. Fyziologický roztok:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je roztok nacl s c = 0,15 mol/l"
+      },
+      {
+        "id": "b",
+        "text": "je hypertonický voči roztoku CaCl2 ktorého c = 0,2 mol/l"
+      },
+      {
+        "id": "c",
+        "text": "je izotonický voči 0,3 mol/l roztoku CuSO4"
+      },
+      {
+        "id": "d",
+        "text": "je 0,9 % (hm.) roztok nacl"
+      },
+      {
+        "id": "e",
+        "text": "má rovnaký osmotický tlak ako 0,3 mol/l roztok sacharózy"
+      },
+      {
+        "id": "f",
+        "text": "pripravíme rozpustením 58 g nacl v 1 / vody"
+      },
+      {
+        "id": "g",
+        "text": "je hypertonický voči roztoku KNO3 s koncentráciou c = 0,5 mol/l"
+      },
+      {
+        "id": "h",
+        "text": "vznikne rozpustením 9 g nacl v 1 I roztoku"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "269. Vyberte roztoky v ktorých ostaní červené krvinky nezmenené:",
+    "options": [
+      {
+        "id": "a",
+        "text": "KI, c = 0,15 mol/l"
+      },
+      {
+        "id": "b",
+        "text": "FeSO4, c = 0,3 mol/l"
+      },
+      {
+        "id": "c",
+        "text": "v hypotonických roztokoch voči fyziologickému roztoku"
+      },
+      {
+        "id": "d",
+        "text": "v roztokoch izotonických voči fyziologickému roztoku"
+      },
+      {
+        "id": "e",
+        "text": "glukóza, c = 0,3 mol/l"
+      },
+      {
+        "id": "f",
+        "text": "Ca(NO3)2, c = 0,1 mol/l"
+      },
+      {
+        "id": "g",
+        "text": "v hypertonických roztokoch voči fyziologickému roztoku"
+      },
+      {
+        "id": "h",
+        "text": "NH4NO3, c = 0,2 mol/l"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "270. Tlmivé roztoky:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú zmesi silných kyselín a silných zásad"
+      },
+      {
+        "id": "b",
+        "text": "sú zmesi silných zásad a ich konjugovaných kyselín"
+      },
+      {
+        "id": "c",
+        "text": "sú zmesi slabých kyselín a ich konjugovaných zásad"
+      },
+      {
+        "id": "d",
+        "text": "sú zmesi silných kyselín a ich konjugovaných slabých zásad"
+      },
+      {
+        "id": "e",
+        "text": "sú zmesi slabých zásad a ich konjugovaných kyselín"
+      },
+      {
+        "id": "f",
+        "text": "umožňujú pripraviť roztok o určitej presnej hodnote pH"
+      },
+      {
+        "id": "g",
+        "text": "zabezpečujú stabilitu pH prostredia"
+      },
+      {
+        "id": "h",
+        "text": "sú aj zmesi soli s rôznym oxidačným číslom"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "271. Hodnota iónového súčinu vody:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa mení so zmenou pH"
+      },
+      {
+        "id": "b",
+        "text": "sa rovná disociačnej konštante autoprotolyzy vody"
+      },
+      {
+        "id": "c",
+        "text": "sa mení so zmenou teploty"
+      },
+      {
+        "id": "d",
+        "text": "je vo všetkých vodných roztokoch pri danej teplote rovnaká"
+      },
+      {
+        "id": "e",
+        "text": "sa mení so zmenou koncentrácie hot, resp. OH-"
+      },
+      {
+        "id": "f",
+        "text": "nemení sa nikdy"
+      },
+      {
+        "id": "g",
+        "text": "sa rovná 10-14 mol2/P pri 25 °C"
+      },
+      {
+        "id": "h",
+        "text": "pK = 14 pri 4 °C"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "272. PodPa Bronstedovej teórie medzi kyseliny nepatrí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "(NH4)+"
+      },
+      {
+        "id": "b",
+        "text": "(H2PO4)- 69"
+      },
+      {
+        "id": "c",
+        "text": "(H3O)+"
+      },
+      {
+        "id": "d",
+        "text": "(HCOO)"
+      },
+      {
+        "id": "e",
+        "text": "(OH)-"
+      },
+      {
+        "id": "f",
+        "text": "fenol"
+      },
+      {
+        "id": "g",
+        "text": "(CN)-"
+      },
+      {
+        "id": "h",
+        "text": "(CO3)2-"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "273. Amfotérny charakter nemá:",
+    "options": [
+      {
+        "id": "a",
+        "text": "H3PO4"
+      },
+      {
+        "id": "b",
+        "text": "(HPO4)2-"
+      },
+      {
+        "id": "c",
+        "text": "(HCO3)-"
+      },
+      {
+        "id": "d",
+        "text": "NH2-CH2-COOH"
+      },
+      {
+        "id": "e",
+        "text": "H20"
+      },
+      {
+        "id": "f",
+        "text": "H2CO3"
+      },
+      {
+        "id": "g",
+        "text": "HCN"
+      },
+      {
+        "id": "h",
+        "text": "H2SO4"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "274. Vyberte konjugované páry:",
+    "options": [
+      {
+        "id": "a",
+        "text": "C6HsNH2 a (C6HsNH3)+"
+      },
+      {
+        "id": "b",
+        "text": "CO2 a H2CO3"
+      },
+      {
+        "id": "c",
+        "text": "HCIO2 a HC1O"
+      },
+      {
+        "id": "d",
+        "text": "(HSO3)- a H2SO3"
+      },
+      {
+        "id": "e",
+        "text": "(HSO3)- a (SO3) 2-"
+      },
+      {
+        "id": "f",
+        "text": "CH3COOH a HCOOH"
+      },
+      {
+        "id": "g",
+        "text": "NH3-CH2-COOH a NH2-CH2-COOH"
+      },
+      {
+        "id": "h",
+        "text": "pyridín a piperidin"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "275. Hodnota pH uvedených vodných roztokov môže byť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "K2CO3; pH < 7"
+      },
+      {
+        "id": "b",
+        "text": "NH4CI; pH < 7"
+      },
+      {
+        "id": "c",
+        "text": "octan sodný; pH < 7"
+      },
+      {
+        "id": "d",
+        "text": "vínan sodnodraselný; pH bude kyslé"
+      },
+      {
+        "id": "e",
+        "text": "NasPO4; pH bude zásadité"
+      },
+      {
+        "id": "f",
+        "text": "kcl; pH = 7"
+      },
+      {
+        "id": "g",
+        "text": "(NH4)2CO3; pH bude približne neutrálne"
+      },
+      {
+        "id": "h",
+        "text": "CH3COOH; pH > 7"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "276. Hydrolýza soli nie je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "protolytická reakcia iónov soli s vodou"
+      },
+      {
+        "id": "b",
+        "text": "[H2SO4] = 0,05 mol/l: pentametoxylova červená (1,2: fialová -→ 3,2: bezfarebná) sa nesfarbi"
+      },
+      {
+        "id": "c",
+        "text": "[Ba(OH)2] = 0,05.10-3 mol/l: tymolova modrá (8: Žltá → 9,6: modrá) sa sfarbí na modro"
+      },
+      {
+        "id": "d",
+        "text": "[H:0t] = 10-2 mol/l: fenolftaleín (8,2: bezfarebný → 10: fialový) bude sfarbený"
+      },
+      {
+        "id": "e",
+        "text": "v zriedenej kyseline octovej bude pentametoxylova červená (1,2: fialová -→ 3,2: bezfarebná) sfarbená na fialovo"
+      },
+      {
+        "id": "f",
+        "text": "v zriedenom roztoku amoniaku ostane alizarínová Žltá R (10: lta -→ 12: fialová) žltá"
+      },
+      {
+        "id": "g",
+        "text": "po pridaní dinitrofenolu (1,7: bezfarebný -→ 4,4: červený) k sódovej vode sa roztok nesfarbi na červeno"
+      },
+      {
+        "id": "h",
+        "text": "v roztoku síranu draselného α-naftoftalein (7,3: ružový -→ 8,7: zelenomodrý) bude ružový"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "277. Kyslosť, zásaditosť a pH vodných roztokov soli:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vodný roztok NH4Cl má kyslé pH v dôsledku hydrolýzy katiónu NH4+"
+      },
+      {
+        "id": "b",
+        "text": "vodný roztok Na2CO3 má zásadité pH v dôsledku hydrolýzy aniónu CO3(2-)"
+      },
+      {
+        "id": "c",
+        "text": "vodný roztok nacl nepodlieha hydrolýze a má neutrálne pH"
+      },
+      {
+        "id": "d",
+        "text": "vodný roztok CH3COONH4 má pH blízke neutrálnemu (cca 7)"
+      },
+      {
+        "id": "e",
+        "text": "soli silnej kyseliny a silnej zásady vo vode nehydrolyzuju"
+      },
+      {
+        "id": "f",
+        "text": "pri hydrolýze soli slabej kyseliny a silnej zásady vznikajú OH- ióny"
+      },
+      {
+        "id": "g",
+        "text": "pri hydrolýze soli silnej kyseliny a slabej zásady vznikajú H3O+ ióny"
+      },
+      {
+        "id": "h",
+        "text": "pH čistej vody pri 25 °C je rovné 7"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "278. Vyberte reakciu, v ktorej má voda podľa Bronstedovej teórie charakter kyseliny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "HNO2 + H2O -→ H3O+ + (NO2)-"
+      },
+      {
+        "id": "b",
+        "text": "HSO4- + H2O → H2SO4 + (OH)"
+      },
+      {
+        "id": "c",
+        "text": "(HSO4)- + H2O → (SO4)2- + H3O+"
+      },
+      {
+        "id": "d",
+        "text": "NH3 + H2O → NH4+ + (OH)-"
+      },
+      {
+        "id": "e",
+        "text": "HCN + H2O → (CN)- + H3O+"
+      },
+      {
+        "id": "f",
+        "text": "C6HsOH + H2O → C6HsO- + H3O+"
+      },
+      {
+        "id": "g",
+        "text": "HCOO-COO- + H2O → (COOH)2 + (OH)"
+      },
+      {
+        "id": "h",
+        "text": "$2- + H2O → HS- + (OH)-"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "279. Ktorá z uvedených látok po rozpustení vo vode zvýši pH?",
+    "options": [
+      {
+        "id": "a",
+        "text": "chlórnan draselný"
+      },
+      {
+        "id": "b",
+        "text": "kyanid draselný"
+      },
+      {
+        "id": "c",
+        "text": "dusienan amónny"
+      },
+      {
+        "id": "d",
+        "text": "metylchlorid"
+      },
+      {
+        "id": "e",
+        "text": "dusitan sodný"
+      },
+      {
+        "id": "f",
+        "text": "chlorid sodný"
+      },
+      {
+        "id": "g",
+        "text": "amoniak"
+      },
+      {
+        "id": "h",
+        "text": "síran draselný"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "280. Ktorá z uvedených látok po rozpustení vo vode zníži pH?",
+    "options": [
+      {
+        "id": "a",
+        "text": "fenol"
+      },
+      {
+        "id": "b",
+        "text": "močovina"
+      },
+      {
+        "id": "c",
+        "text": "adenín"
+      },
+      {
+        "id": "d",
+        "text": "síran amónny"
+      },
+      {
+        "id": "e",
+        "text": "šťavelan vápenatý 71"
+      },
+      {
+        "id": "f",
+        "text": "kyanovodík"
+      },
+      {
+        "id": "g",
+        "text": "žalúdočná stáva"
+      },
+      {
+        "id": "h",
+        "text": "pankreatická stáva"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "281. Hydrolýze nepodlieha roztok:",
+    "options": [
+      {
+        "id": "a",
+        "text": "NH3 + H2O -→ NH4+ + (OH)- ako kyselina"
+      },
+      {
+        "id": "b",
+        "text": "NaHCO3"
+      },
+      {
+        "id": "c",
+        "text": "NaHCO3 + H2O -→ Nat + H3O+ +(CO3)2- ako kyselina"
+      },
+      {
+        "id": "d",
+        "text": "NaHCO3 + H2O -→ Nat + (OH)- + H2O + CO2 ako zásada"
+      },
+      {
+        "id": "e",
+        "text": "HCN + H2O -→ H3O+ + (CN)- ako kyselina"
+      },
+      {
+        "id": "f",
+        "text": "(HPO4)2- + H2O → H3O++ (PO4)3- ako zásada"
+      },
+      {
+        "id": "g",
+        "text": "(H2PO4)- + H2O -→ (OH)- + H3PO4 ako kyselina"
+      },
+      {
+        "id": "h",
+        "text": "(H2PO4)- + H2O -→ (H3O)++ (HPO4)2- ako zásada"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "282. Vyberte správne tvrdenia o hydrolýze soli a tlmivých roztokoch:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tlmivý roztok (pufer) udržiava stabilnú hodnotu pH pri pridaní menšieho množstvá kyseliny alebo zásady"
+      },
+      {
+        "id": "b",
+        "text": "kyselina octová a octan sodný tvoria kyslý tlmivý roztok"
+      },
+      {
+        "id": "c",
+        "text": "amoniak a chlorid amónny tvoria zásaditý tlmivý roztok"
+      },
+      {
+        "id": "d",
+        "text": "hydrolýza soli je protolytická reakcia iónov soli s vodou"
+      },
+      {
+        "id": "e",
+        "text": "pufracna kapacita je schopnosť tlmivého roztoku odolávať zmenám pH"
+      },
+      {
+        "id": "f",
+        "text": "krv obsahuje dôležité tlmivé sústavy (hydrogénuhličitanový, fosfátový, proteíny)"
+      },
+      {
+        "id": "g",
+        "text": "zriedením tlmivého roztoku vodou sa jeho pH výrazne mení"
+      },
+      {
+        "id": "h",
+        "text": "pH pufru možno vypočítať pomocou Henderson-Hasselbalchovej rovnice"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "283. Disociačná konštanta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kv je rovnovážna konštanta autoprotolyzy vody"
+      },
+      {
+        "id": "b",
+        "text": "je rovnovážna konštanta protolytickej reakcie"
+      },
+      {
+        "id": "c",
+        "text": "kyseliny je tým väčšia, Čím je kyselina slabšia"
+      },
+      {
+        "id": "d",
+        "text": "zásady je tým menšia, čím je zásada slabšia"
+      },
+      {
+        "id": "e",
+        "text": "nesúvisí s disociacnym stupňom"
+      },
+      {
+        "id": "f",
+        "text": "závisí od teploty"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "kyseliny je tým menšia, Čím slabšia je väzba medzi vodíkom a kyslíkom v molekule kyseliny"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "284. I0n (H2PO4)- je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vždy kyselina"
+      },
+      {
+        "id": "b",
+        "text": "vždy zásada"
+      },
+      {
+        "id": "c",
+        "text": "konjugovaná kyselina k H3PO4"
+      },
+      {
+        "id": "d",
+        "text": "amfolyt"
+      },
+      {
+        "id": "e",
+        "text": "súčasťou tlmivých sústav"
+      },
+      {
+        "id": "f",
+        "text": "konjugovaná zásada k (HPO4)2-"
+      },
+      {
+        "id": "g",
+        "text": "konjugovaná kyselina k (HPO4)2-"
+      },
+      {
+        "id": "h",
+        "text": "konjugovaná zásada k H3PO4"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "285. Vyberte nesprávne tvrdenie o soliach kyseliny trihydrogenfosforenej:",
+    "options": [
+      {
+        "id": "a",
+        "text": "fosforečnany reagujú zásaditejšie ako hydrogenfosforečnany"
+      },
+      {
+        "id": "b",
+        "text": "hydrogenfosforečnany sú amfolyty 72"
+      },
+      {
+        "id": "c",
+        "text": "hydrogenfosforenanyreagujukyslejsieako dihydrogenfosforenany α.KHPO4nemoze byťsucastoufosfatoveho pufrydrogenfosforechany"
+      },
+      {
+        "id": "d",
+        "text": "Ksfoprenanmmajpamfotastyuhasatevehopufru"
+      },
+      {
+        "id": "e",
+        "text": "fosforečnany majú amfotérny charakter"
+      },
+      {
+        "id": "f",
+        "text": "hydrogenfosforečnany sú konjugované zásady k dihydrogenfosforecnanom"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "hydrogenfosforečnany reagujú zásaditejšie ako dihydrogenfosforeenany"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "286. Pre elektrolyty platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nevznikajú roztavením iónových zlúčenín"
+      },
+      {
+        "id": "b",
+        "text": "medzi silné elektrolyty patria napr. roztoky sacharózy a amoniaku"
+      },
+      {
+        "id": "c",
+        "text": "vznikajú elektrolytickou disociáciou"
+      },
+      {
+        "id": "d",
+        "text": "medzi slabé elektrolyty patria napr. roztoky KCI a KOH"
+      },
+      {
+        "id": "e",
+        "text": "slabé elektrolyty sa často vyskytujú v pevnej fáze vo forme iónových zlúčenín"
+      },
+      {
+        "id": "f",
+        "text": "silné elektrolyty sú v roztoku prítomné predovšetkým ako elementárne molekuly"
+      },
+      {
+        "id": "g",
+        "text": "vznikajú rozpúšťaním iónových zlúčenín v polárnych rozpúšťadlách"
+      },
+      {
+        "id": "h",
+        "text": "silné elektrolyty sú napr. roztoky HCIO4 a nacl, ktoré sú prakticky úplne disociované"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "287. Ktoré deje spojené s rozpúšťaním soli vo vode sú pravdivé?",
+    "options": [
+      {
+        "id": "a",
+        "text": "pri rozpúšťaní nacl dochádza k ionizaci"
+      },
+      {
+        "id": "b",
+        "text": "pri rozpúšťaní kcl dochádza k hydratácii"
+      },
+      {
+        "id": "c",
+        "text": "rozpustením octanu sodného vznikne roztok, ktorého pOH < 7"
+      },
+      {
+        "id": "d",
+        "text": "roztok nacl reaguje neutrálne, pretože prebieha reakcia nacl + H2O -→ naoh + HC1"
+      },
+      {
+        "id": "e",
+        "text": "síran sodný vo vode nepodlieha hydrolýze"
+      },
+      {
+        "id": "f",
+        "text": "rozpustením Na2SO4 vznikne roztok, ktorého pH < 7"
+      },
+      {
+        "id": "g",
+        "text": "rozpustením NaHCO: vznikne roztok, ktorý sa nesfarbi po pridaní fenolftaleínu"
+      },
+      {
+        "id": "h",
+        "text": "rozpustením chloridu amónneho vznikne roztok, ktorého pOH < 7"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "288. Ktorý z roztokov vykazuje kyslý charakter?",
+    "options": [
+      {
+        "id": "a",
+        "text": "[H30t] = 10-\" mol/l"
+      },
+      {
+        "id": "b",
+        "text": "[H30*] = 10-13 mol/l"
+      },
+      {
+        "id": "c",
+        "text": "[OH-] = 10-10 mol/l"
+      },
+      {
+        "id": "d",
+        "text": "[OH-] = 10-7 mol/l"
+      },
+      {
+        "id": "e",
+        "text": "pOH = 9"
+      },
+      {
+        "id": "f",
+        "text": "pOH = 14"
+      },
+      {
+        "id": "g",
+        "text": "pH = 8"
+      },
+      {
+        "id": "h",
+        "text": "pH = 0"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "289. V priebehu akých reakci sa látka prejaví ako kyselina alebo zásada?",
+    "options": [
+      {
+        "id": "a",
+        "text": "acidobázických"
+      },
+      {
+        "id": "b",
+        "text": "oxidačno-redukčných"
+      },
+      {
+        "id": "c",
+        "text": "eliminačných"
+      },
+      {
+        "id": "d",
+        "text": "substitučných 73"
+      },
+      {
+        "id": "e",
+        "text": "adičných"
+      },
+      {
+        "id": "f",
+        "text": "protolytickych"
+      },
+      {
+        "id": "g",
+        "text": "neutralizačných"
+      },
+      {
+        "id": "h",
+        "text": "zrážacích"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "290. Ktoré látky sú podľa Bronstedovej teórie kyseliny?",
+    "options": [
+      {
+        "id": "a",
+        "text": "HCI"
+      },
+      {
+        "id": "b",
+        "text": "ČI-"
+      },
+      {
+        "id": "c",
+        "text": "(HPO4)2-"
+      },
+      {
+        "id": "d",
+        "text": "H20"
+      },
+      {
+        "id": "e",
+        "text": "NH3"
+      },
+      {
+        "id": "f",
+        "text": "pyridín"
+      },
+      {
+        "id": "g",
+        "text": "(OH)-"
+      },
+      {
+        "id": "h",
+        "text": "(HCO3)"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "291. Ktoré látky sú podľa Bronstedovej teórie zásady?",
+    "options": [
+      {
+        "id": "a",
+        "text": "HCI"
+      },
+      {
+        "id": "b",
+        "text": "ČI-"
+      },
+      {
+        "id": "c",
+        "text": "H3PO4"
+      },
+      {
+        "id": "d",
+        "text": "H20"
+      },
+      {
+        "id": "e",
+        "text": "(NH4)*"
+      },
+      {
+        "id": "f",
+        "text": "(SO4)2-"
+      },
+      {
+        "id": "g",
+        "text": "(OH)*"
+      },
+      {
+        "id": "h",
+        "text": "H2CO3"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "292. Ak v roztoku CH3COOH a v roztoku jej draselnej soli je rovnaká koncentrácia rozpustených látok, potom:",
+    "options": [
+      {
+        "id": "a",
+        "text": "c(CHsCOO-) je väčšia v roztoku soli"
+      },
+      {
+        "id": "b",
+        "text": "c(CH3COO-) je väčšia v roztoku kyseliny"
+      },
+      {
+        "id": "c",
+        "text": "c(CH3COO-) je rovnaká v oboch roztokoch"
+      },
+      {
+        "id": "d",
+        "text": "c(CH:COO-) je menšia v roztoku soli"
+      },
+      {
+        "id": "e",
+        "text": "c(CH3COO-) je menšia v roztoku kyseliny"
+      },
+      {
+        "id": "f",
+        "text": "c(H3Ot) je rovnaká v obidvoch roztokoch"
+      },
+      {
+        "id": "g",
+        "text": "c(OH-) je väčšia v roztoku soli"
+      },
+      {
+        "id": "h",
+        "text": "zmiešaním obidvoch roztokov môže vzniknúť tlmivá sústava"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "293. Máme roztoky kyseliny sírovej a síranu sodného o rovnakej koncentraci. Vyberte správnu odpoveď pre uvedené roztoky:",
+    "options": [
+      {
+        "id": "a",
+        "text": "koncentrácia (H:O)* v oboch roztokoch bude rovnaká"
+      },
+      {
+        "id": "b",
+        "text": "koncentrácia (SO4)2- v oboch roztokoch bude rovnaká"
+      },
+      {
+        "id": "c",
+        "text": "v roztoku kyseliny bude vyššia koncentrácia (SO4)2-"
+      },
+      {
+        "id": "d",
+        "text": "v roztoku soli bude vyššia koncentrácia (SO4)2-"
+      },
+      {
+        "id": "e",
+        "text": "v roztoku kyseliny bude vyššia koncentrácia (H3O)*"
+      },
+      {
+        "id": "f",
+        "text": "vroztoku soli bude vyššia koncentrácia (OH)-"
+      },
+      {
+        "id": "g",
+        "text": "po zmiešaní roztokov v pomere 1:1 vznikne tlmivá sústava"
+      },
+      {
+        "id": "h",
+        "text": "pOH väčšie v roztoku kyseliny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "294. Neutralizačná reakcia je: 74",
+    "options": [
+      {
+        "id": "a",
+        "text": "reakcia, pri ktorej reagujú ióny soli s vodou"
+      },
+      {
+        "id": "b",
+        "text": "disproporcionácia"
+      },
+      {
+        "id": "c",
+        "text": "princípom acidobázických titraci"
+      },
+      {
+        "id": "d",
+        "text": "reakcia, pri ktorej reaguje kyselina so zásadou"
+      },
+      {
+        "id": "e",
+        "text": "reakcia, pri ktorej sa spotrebuje teplo f reakcia, pri ktorej vznikne tlmivá sústava"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F (pozri testovnicu)"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "reakcia, produktom ktorej je voda a sop reagujúcej kyseliny"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "295. PodPa Bronstedovej teórie kyseliny st:",
+    "options": [
+      {
+        "id": "a",
+        "text": "látky schopné odovzdať proton"
+      },
+      {
+        "id": "b",
+        "text": "látky, ktoré sú akceptormi protónu"
+      },
+      {
+        "id": "c",
+        "text": "zlúčeniny schopné odovzdať elektrón"
+      },
+      {
+        "id": "d",
+        "text": "zlúčeniny schopné prijať elektrón"
+      },
+      {
+        "id": "e",
+        "text": "látky uvoľňujúce H+"
+      },
+      {
+        "id": "f",
+        "text": "zlúčeniny schopné odštiepiť H2"
+      },
+      {
+        "id": "g",
+        "text": "zlúčeniny, ktoré podliehajú hydrolýze"
+      },
+      {
+        "id": "h",
+        "text": "zlúčeniny, ktoré sa zucasthuju protolytickej reakcie ako donor protónu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "296. PodPa Bronstedovej teórie zásady sti zlúčeniny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "schopné odovzdať proton"
+      },
+      {
+        "id": "b",
+        "text": "schopné prijať proton"
+      },
+      {
+        "id": "c",
+        "text": "ktoré sú donormi elektrónu"
+      },
+      {
+        "id": "d",
+        "text": "ktoré sú akceptormi elektrónu"
+      },
+      {
+        "id": "e",
+        "text": "ktoré sú akceptormi -OH skupín"
+      },
+      {
+        "id": "f",
+        "text": "ktoré v protolytickej reakci zvyšujú svoj kladný náboj"
+      },
+      {
+        "id": "g",
+        "text": "ktoré v protolytickej reakci znižujú svoj záporný náboj (v absolútnej hodnote)"
+      },
+      {
+        "id": "h",
+        "text": "ktoré sa zucasthuju protolytickej reakcie ako akceptor protónu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "297. Podľa Lewisovej teórie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kyseliny sú zlúčeniny schopné viazať vo'ny elektrónový pár"
+      },
+      {
+        "id": "b",
+        "text": "kyseliny sú donormi elektrónov"
+      },
+      {
+        "id": "c",
+        "text": "Bronstedove zásady môžu byť aj Lewisovými zásadami"
+      },
+      {
+        "id": "d",
+        "text": "kyseliny sú látky schopné prijať jeden elektrón"
+      },
+      {
+        "id": "e",
+        "text": "zásady sú zlúčeniny schopné prijať jeden elektrón"
+      },
+      {
+        "id": "f",
+        "text": "zásady sú zlúčeniny schopné viazať voľný elektrónový pár"
+      },
+      {
+        "id": "g",
+        "text": "zásady sú látky, ktoré obsahujú vo'ny elektrónový pár"
+      },
+      {
+        "id": "h",
+        "text": "kyseliny sú látky, ktoré obsahujú voľný orbital"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "298. Vyberte správne tvrdenie o pH vodných roztokov zlicenin:",
+    "options": [
+      {
+        "id": "a",
+        "text": "roztok kcl má neutrálne pH, pretože nedochádza k jeho hydrolýze"
+      },
+      {
+        "id": "b",
+        "text": "v roztoku NaNO2 reaguje katión s vodou, zvyšuje sa koncentrácia H3O+ v dôsledku čoho bude pH kyslé"
+      },
+      {
+        "id": "c",
+        "text": "NH4NO3 + H2O -→ NH3 + H3O+ +(NO:), pH bude kyslé"
+      },
+      {
+        "id": "d",
+        "text": "v roztoku NaCN, anión reaguje s vodou, katión nie, pH bude zásadité"
+      },
+      {
+        "id": "e",
+        "text": "ZnSO4 nehydrolyzuje, pH neutrálne"
+      },
+      {
+        "id": "f",
+        "text": "KCN + H2O → K+ + HCN + OH-, pH bude zásadité 75"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "Čas(PO4)2 má silné zásaditý katión, pH bude 14"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "299. Označte nepravdivý výrok - ak rozpisťame vo vode soľ’:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sinej kyselinyasinejzasadypHroztoku sanemeni"
+      },
+      {
+        "id": "b",
+        "text": "silnej kyseliny a slabej zásady - pH roztoku klesá"
+      },
+      {
+        "id": "c",
+        "text": "slabej kyseliny a slabej zásady - pH roztoku sa nemení"
+      },
+      {
+        "id": "d",
+        "text": "slabej kyseliny a silnej zásady - pH roztoku klesá"
+      },
+      {
+        "id": "e",
+        "text": "NHaCI - pH > 7, pretože amónny katión vo vode hydrolyzuje"
+      },
+      {
+        "id": "f",
+        "text": "K2S - pH roztoku sa nemení"
+      },
+      {
+        "id": "g",
+        "text": "KCIO4 - dochádza k jeho úplnej hydrolýze"
+      },
+      {
+        "id": "h",
+        "text": "FeCl3 - roztok je kyslý"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "300. Kyslú reakciu má vodný roztok soli:",
+    "options": [
+      {
+        "id": "a",
+        "text": "K2SO4"
+      },
+      {
+        "id": "b",
+        "text": "Na2CO3"
+      },
+      {
+        "id": "c",
+        "text": "NH4NO3"
+      },
+      {
+        "id": "d",
+        "text": "KCN"
+      },
+      {
+        "id": "e",
+        "text": "FeSO4"
+      },
+      {
+        "id": "f",
+        "text": "Al(CIO4)3"
+      },
+      {
+        "id": "g",
+        "text": "NH4CI"
+      },
+      {
+        "id": "h",
+        "text": "CH3COOK"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+  }
+]

@@ -1,0 +1,2268 @@
+[
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "401. Nervové vlákna miechy tvoria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "bielu hmotu obklopujúcu sivú hmotu"
+      },
+      {
+        "id": "b",
+        "text": "siví hmotu obklopenú bielou hmotou"
+      },
+      {
+        "id": "c",
+        "text": "bielu hmotu obklopenú sivou hmotou"
+      },
+      {
+        "id": "d",
+        "text": "sivú hmotu obklopujúcu bielu hmotu"
+      },
+      {
+        "id": "e",
+        "text": "aj bielu aj sivú hmotu"
+      },
+      {
+        "id": "f",
+        "text": "základ reflexného oblúka"
+      },
+      {
+        "id": "g",
+        "text": "miechový kanálik"
+      },
+      {
+        "id": "h",
+        "text": "mozgový kmeň"
+      }
+    ],
+    "correct_answers": [
+      "a"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "402. Miecha:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je centrom zrakových a sluchových reflexov"
+      },
+      {
+        "id": "b",
+        "text": "je fylogeneticky najstaršou časťou nervovej sústavy"
+      },
+      {
+        "id": "c",
+        "text": "je fylogeneticky najmladšou asťou nervovej sústavy"
+      },
+      {
+        "id": "d",
+        "text": "je reflexným centrom regulujúcim pohyb svalov končatín"
+      },
+      {
+        "id": "e",
+        "text": "sa podie’a na riadení niektorých autonómnych funkcii"
+      },
+      {
+        "id": "f",
+        "text": "je centrom rovnováhy tela"
+      },
+      {
+        "id": "g",
+        "text": "predĺžená miecha"
+      },
+      {
+        "id": "h",
+        "text": "sprostredkúva emočne prejavy"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "403. Autonómne nervy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "inervujú vnútorné orgány a cievy"
+      },
+      {
+        "id": "b",
+        "text": "vychádzajú z miechy a mozgu"
+      },
+      {
+        "id": "c",
+        "text": "vychádzajú len z miechy"
+      },
+      {
+        "id": "d",
+        "text": "vychádzajú len z mozgu"
+      },
+      {
+        "id": "e",
+        "text": "sú súčasťou vegetatívnej nervovej sústavy, ktorá je fylogeneticky staršia než sústava somatická"
+      },
+      {
+        "id": "f",
+        "text": "sú súčasťou vegetatívnej nervovej sústavy, ktorá je fylogeneticky mladšia než sústava somatická"
+      },
+      {
+        "id": "g",
+        "text": "riadia pohyb kostrových svalov"
+      },
+      {
+        "id": "h",
+        "text": "riadia vôľou ovládané činnosti"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "404. Dôležitou funkenou vlastnosťou nervových buniek je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dráždivosť"
+      },
+      {
+        "id": "b",
+        "text": "vodivosť"
+      },
+      {
+        "id": "c",
+        "text": "schopnosť bunkového delenia"
+      },
+      {
+        "id": "d",
+        "text": "schopnosť reagovať na podnety"
+      },
+      {
+        "id": "e",
+        "text": "pohyblivosť"
+      },
+      {
+        "id": "f",
+        "text": "schopnosť diapedézy"
+      },
+      {
+        "id": "g",
+        "text": "schopnosť viesť vzruchy bez zmeny informácie"
+      },
+      {
+        "id": "h",
+        "text": "schopnosť kontrakcie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "405. Stredný mozog cicavcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je centrom zrakových a sluchových reflexov"
+      },
+      {
+        "id": "b",
+        "text": "podmieňuje vzpriamenú polohu hlavy a tela"
+      },
+      {
+        "id": "c",
+        "text": "je najvyšším ústredím koordinácie pohybov"
+      },
+      {
+        "id": "d",
+        "text": "reguluje teplotu tela 87"
+      },
+      {
+        "id": "e",
+        "text": "riadi činnosť srdca a obeh telových tekutín"
+      },
+      {
+        "id": "f",
+        "text": "sprostredkúva emočne prejavy"
+      },
+      {
+        "id": "g",
+        "text": "koordinuje svalový tonus"
+      },
+      {
+        "id": "h",
+        "text": "je fylogeneticky najmladšou Časťou nervovej sústavy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "406. Centrum regulujúce spontánne dýchanie je v:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mozočku"
+      },
+      {
+        "id": "b",
+        "text": "predizenej mieche"
+      },
+      {
+        "id": "c",
+        "text": "moste"
+      },
+      {
+        "id": "d",
+        "text": "mozgovej kôre"
+      },
+      {
+        "id": "e",
+        "text": "zadnom mozgu"
+      },
+      {
+        "id": "f",
+        "text": "medzimozgu"
+      },
+      {
+        "id": "g",
+        "text": "hypofýze"
+      },
+      {
+        "id": "h",
+        "text": "prednom mozgu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "407. Mozgová kôra:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má vymedzené oblasti, tzv. korové istredia"
+      },
+      {
+        "id": "b",
+        "text": "okrem primátov je dobre vyvinutá napr. u slona"
+      },
+      {
+        "id": "c",
+        "text": "sa začína diferencovať už pri plazoch"
+      },
+      {
+        "id": "d",
+        "text": "patrí medzi fylogeneticky mladšiu Časť nervovej sústavy"
+      },
+      {
+        "id": "e",
+        "text": "tvorí pri vtákoch len tenkú vrstvu"
+      },
+      {
+        "id": "f",
+        "text": "má povrch zvrásnený len pri evolučne starších cicavcoch"
+      },
+      {
+        "id": "g",
+        "text": "sústreďuje informácie prichádzajúce len z okolia organizmu"
+      },
+      {
+        "id": "h",
+        "text": "má čuchové receptory"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "408. Mozgoví kôru majú najviac vyvinutú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "primáty"
+      },
+      {
+        "id": "b",
+        "text": "plazy"
+      },
+      {
+        "id": "c",
+        "text": "Žraloky a delfíny"
+      },
+      {
+        "id": "d",
+        "text": "slony a delfíny"
+      },
+      {
+        "id": "e",
+        "text": "cicavce"
+      },
+      {
+        "id": "f",
+        "text": "vtáky"
+      },
+      {
+        "id": "g",
+        "text": "obojživelníky"
+      },
+      {
+        "id": "h",
+        "text": "ryby"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "409. Mozoček:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kontroluje rovnováhu tela a koordinuje pohyby"
+      },
+      {
+        "id": "b",
+        "text": "je centrom dýchania"
+      },
+      {
+        "id": "c",
+        "text": "je ústredím pre kýchanie"
+      },
+      {
+        "id": "d",
+        "text": "je istredim reflexných pohybov"
+      },
+      {
+        "id": "e",
+        "text": "riadi innost mozgovej kôry"
+      },
+      {
+        "id": "f",
+        "text": "sprostredkúva reakcie na bolesť a chlad"
+      },
+      {
+        "id": "g",
+        "text": "je najvyšším istredim autonómnych funkcii"
+      },
+      {
+        "id": "h",
+        "text": "prijíma signály z analyzátorov vnútorného ucha a svalov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "410. Nadradenou časťou nervového riadenia vnitornych orgánov je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "talamus"
+      },
+      {
+        "id": "b",
+        "text": "hypotalamus"
+      },
+      {
+        "id": "c",
+        "text": "predizena miecha"
+      },
+      {
+        "id": "d",
+        "text": "predný mozog"
+      },
+      {
+        "id": "e",
+        "text": "mozoček"
+      },
+      {
+        "id": "f",
+        "text": "mozgová kôra"
+      },
+      {
+        "id": "g",
+        "text": "podlôžko"
+      },
+      {
+        "id": "h",
+        "text": "10zko"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "411. Prejavom nižšej nervovej činnosti:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú vrodené reakcie na podnety"
+      },
+      {
+        "id": "b",
+        "text": "sú nepodmienené reflexy"
+      },
+      {
+        "id": "c",
+        "text": "sú získané reakcie na podnety"
+      },
+      {
+        "id": "d",
+        "text": "sú podmienené reflexy 88"
+      },
+      {
+        "id": "e",
+        "text": "je učenie"
+      },
+      {
+        "id": "f",
+        "text": "sú inštinkty"
+      },
+      {
+        "id": "g",
+        "text": "si emócie"
+      },
+      {
+        "id": "h",
+        "text": "je strach"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "412. Podmienený reflex:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je vrodený"
+      },
+      {
+        "id": "b",
+        "text": "je prejav vyššej nervovej činnosti"
+      },
+      {
+        "id": "c",
+        "text": "je základom vývoja inštinktívneho správania"
+      },
+      {
+        "id": "d",
+        "text": "je získaný počas ontogenézy jedinca"
+      },
+      {
+        "id": "e",
+        "text": "je získaný počas fylogenézy"
+      },
+      {
+        "id": "f",
+        "text": "vedie k vytváraniu nových, dočasných nervových spojení"
+      },
+      {
+        "id": "g",
+        "text": "patrí k základným mechanizmom učenia"
+      },
+      {
+        "id": "h",
+        "text": "nevyžaduje pre svoj vznik nácvik"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "413. Medzi vyššiu nervovú činnosť patrí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "podmienený reflex"
+      },
+      {
+        "id": "b",
+        "text": "nepodmienený reflex"
+      },
+      {
+        "id": "c",
+        "text": "učenie"
+      },
+      {
+        "id": "d",
+        "text": "inštinkt"
+      },
+      {
+        "id": "e",
+        "text": "strach"
+      },
+      {
+        "id": "f",
+        "text": "myslenie"
+      },
+      {
+        "id": "g",
+        "text": "rodičovský inštinkt"
+      },
+      {
+        "id": "h",
+        "text": "pamäť"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "414. Fagocytóza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "patrí k prejavom bunkovej imunity"
+      },
+      {
+        "id": "b",
+        "text": "je vrodená a nešpecifická"
+      },
+      {
+        "id": "c",
+        "text": "Cortiho orgán"
+      },
+      {
+        "id": "d",
+        "text": "patrí k prejavom celulárnej špecifickej imunity"
+      },
+      {
+        "id": "e",
+        "text": "je vývojovo mladším typom imunitnej reakcie"
+      },
+      {
+        "id": "f",
+        "text": "je vývojovo starším typom imunitnej reakcie"
+      },
+      {
+        "id": "g",
+        "text": "sa vyvinula z pôvodného mechanizmu výživy jednobunkových organizmov"
+      },
+      {
+        "id": "h",
+        "text": "je obranný mechanizmus spoločný pre všetky skupiny živočíchov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "415. Bunkovú Špecifickú imunitnú reakciu zabezpečujú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "B lymfocyty"
+      },
+      {
+        "id": "b",
+        "text": "neutrofilné granulocyty"
+      },
+      {
+        "id": "c",
+        "text": "T lymfocyty"
+      },
+      {
+        "id": "d",
+        "text": "plazmatické bunky"
+      },
+      {
+        "id": "e",
+        "text": "monocyty"
+      },
+      {
+        "id": "f",
+        "text": "trombocyty"
+      },
+      {
+        "id": "g",
+        "text": "lymfocyty"
+      },
+      {
+        "id": "h",
+        "text": "lymfocyty, ktoré dozrievajú v týmuse"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "416. Objaviteľ fagocytózy bol:",
+    "options": [
+      {
+        "id": "a",
+        "text": "P. Ehrlich"
+      },
+      {
+        "id": "b",
+        "text": "I. I. Mečnikov"
+      },
+      {
+        "id": "c",
+        "text": "I. M. Sečenov"
+      },
+      {
+        "id": "d",
+        "text": "I. P. Pavlov"
+      },
+      {
+        "id": "e",
+        "text": "N. Tinbergen"
+      },
+      {
+        "id": "f",
+        "text": "L. Pasteur"
+      },
+      {
+        "id": "g",
+        "text": "W. Harvey"
+      },
+      {
+        "id": "h",
+        "text": "S. W. Fox"
+      }
+    ],
+    "correct_answers": [
+      "b"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: B."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "417. Najlepšie vyvinutý sluch so schopnosťou vnímať aj ultrazvukové signály majú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mačkovité mäsožravce"
+      },
+      {
+        "id": "b",
+        "text": "netopiere"
+      },
+      {
+        "id": "c",
+        "text": "veľryby"
+      },
+      {
+        "id": "d",
+        "text": "psovité mäsožravce"
+      },
+      {
+        "id": "e",
+        "text": "ryby"
+      },
+      {
+        "id": "f",
+        "text": "larvy obojživelníkov"
+      },
+      {
+        "id": "g",
+        "text": "hmyz"
+      },
+      {
+        "id": "h",
+        "text": "obrúčkavce"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "418. Protilátky:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa vytvárajú v plazmatických bunkách po styku B lymfocytov s antigénom"
+      },
+      {
+        "id": "b",
+        "text": "sú bielkoviny a reagujú len s určitým antigénom"
+      },
+      {
+        "id": "c",
+        "text": "reagujú len s antigénom produkovaným B lymfocytmi"
+      },
+      {
+        "id": "d",
+        "text": "sa vytvárajú v T lymfocytoch"
+      },
+      {
+        "id": "e",
+        "text": "sa vytvárajú v T lymfocytoch po styku s antigénom"
+      },
+      {
+        "id": "f",
+        "text": "sú imunoglobulíny a reagujú len s určitým antigénom, ktorý vyvoláva ich tvorbu"
+      },
+      {
+        "id": "g",
+        "text": "sú antigény špecifické pre daný organizmus"
+      },
+      {
+        "id": "h",
+        "text": "sú polysacharidy produkované B lymfocytmi"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "419. Protilátková špecifická imunitná reakcia:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je zabezpečovaná tvorbou protilátok v T lymfocytoch"
+      },
+      {
+        "id": "b",
+        "text": "je vývojovo mladšia ako nešpecifická imunita"
+      },
+      {
+        "id": "c",
+        "text": "je sprostredkovaná B lymfocytmi"
+      },
+      {
+        "id": "d",
+        "text": "je zabezpečovaná tvorbou antigénov"
+      },
+      {
+        "id": "e",
+        "text": "je zabezpečovaná tvorbou protilátok plazmatickými bunkami"
+      },
+      {
+        "id": "f",
+        "text": "je zabezpečovaná tvorbou aglutinogenov"
+      },
+      {
+        "id": "g",
+        "text": "je zabezpečená protilátkami, ktoré produkujú monocyty"
+      },
+      {
+        "id": "h",
+        "text": "je zabezpečená protilátkami, ktoré produkujú lymfoblasty vznikajúce z T lymfocytov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "420. Označte správne odpovede:",
+    "options": [
+      {
+        "id": "a",
+        "text": "funkcia protilátok je zneškodňovať vírusy a bakteriálne toxíny"
+      },
+      {
+        "id": "b",
+        "text": "bunkoví špecifickú imunitu zabezpečujú T lymfocyty"
+      },
+      {
+        "id": "c",
+        "text": "fagocytóza patrí k prejavom nešpecifickej bunkovej imunity"
+      },
+      {
+        "id": "d",
+        "text": "špecifická imunita sa vyskytuje už u lankonozcov"
+      },
+      {
+        "id": "e",
+        "text": "pasívna imunizácia môže byť zabezpečovaná aj materským mliekom"
+      },
+      {
+        "id": "f",
+        "text": "týmus"
+      },
+      {
+        "id": "g",
+        "text": "fagocytóza patrí k prejavom protilatkovej imunity"
+      },
+      {
+        "id": "h",
+        "text": "slezina"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "421. Proprioreceptory:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú receptory nachádzajúce sa vo svaloch a sPachach"
+      },
+      {
+        "id": "b",
+        "text": "sú exteroreceptory"
+      },
+      {
+        "id": "c",
+        "text": "sú interoreceptory"
+      },
+      {
+        "id": "d",
+        "text": "informujú o polohe časti tela"
+      },
+      {
+        "id": "e",
+        "text": "informujú o zmenách vonkajšieho prostredia"
+      },
+      {
+        "id": "f",
+        "text": "sú pomocné orgány interoreceptorov 90"
+      },
+      {
+        "id": "g",
+        "text": "sú v princípe radioreceptory"
+      },
+      {
+        "id": "h",
+        "text": "pomáhajú živočíchom orientovať sa"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "422. Medzi chemoreceptory patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sluchové receptory"
+      },
+      {
+        "id": "b",
+        "text": "chuťové receptory"
+      },
+      {
+        "id": "c",
+        "text": "čuchové receptory"
+      },
+      {
+        "id": "d",
+        "text": "receptory rovnováhy"
+      },
+      {
+        "id": "e",
+        "text": "fotoreceptory"
+      },
+      {
+        "id": "f",
+        "text": "receptory kože"
+      },
+      {
+        "id": "g",
+        "text": "receptory citlivé na viditeľné svetlo"
+      },
+      {
+        "id": "h",
+        "text": "tepelné receptory"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "423. Radioreceptory:",
+    "options": [
+      {
+        "id": "a",
+        "text": "delíme na fotoreceptory, termoreceptory a vlastne radioreceptory"
+      },
+      {
+        "id": "b",
+        "text": "určitého typu sú vyvinuté už pri jednobunkovcoch"
+      },
+      {
+        "id": "c",
+        "text": "umožňujú niektorým Živočíchom reagovať na magnetizmus"
+      },
+      {
+        "id": "d",
+        "text": "môžu registrovať ionizujúce Žiarenie"
+      },
+      {
+        "id": "e",
+        "text": "všetkých typov má dokonale vyvinuté človek"
+      },
+      {
+        "id": "f",
+        "text": "môžu reagovať na zmenu chemického zloženia prostredia"
+      },
+      {
+        "id": "g",
+        "text": "umozhuju Živočíchom orientovať sa v priestore napr. pri sezónnej migraci"
+      },
+      {
+        "id": "h",
+        "text": "reagujú na zvukové podnety"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "424. Statocysta je ústrojom rovnováhy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kôrovcov"
+      },
+      {
+        "id": "b",
+        "text": "hmyzu"
+      },
+      {
+        "id": "c",
+        "text": "stavovcov"
+      },
+      {
+        "id": "d",
+        "text": "rýb"
+      },
+      {
+        "id": "e",
+        "text": "cicavcov"
+      },
+      {
+        "id": "f",
+        "text": "mäkkýšov"
+      },
+      {
+        "id": "g",
+        "text": "plazov"
+      },
+      {
+        "id": "h",
+        "text": "vtákov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "425. Statokinetický orgán:",
+    "options": [
+      {
+        "id": "a",
+        "text": "poskytuje informácie o polohe a pohybe tela"
+      },
+      {
+        "id": "b",
+        "text": "cicavcov jeulozenyvovnutornom uchu"
+      },
+      {
+        "id": "c",
+        "text": "majú raky uložený na báze tykadiel"
+      },
+      {
+        "id": "d",
+        "text": "obsahuje receptorové bunky s citlivými brvami, reagujúcimi na mechanické dráždenie"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje Cortiho bunky"
+      },
+      {
+        "id": "f",
+        "text": "obsahuje receptorové bunky reagujúce na zmeny teploty"
+      },
+      {
+        "id": "g",
+        "text": "je tympanalny orgán kobyliek"
+      },
+      {
+        "id": "h",
+        "text": "je dráždený svetelnými podnetmi"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "426. Receptorové bunky, meniace zvukový podnet na nervový signál sa nachádzajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pri rybách v bočnej čiare"
+      },
+      {
+        "id": "b",
+        "text": "pri cicavcoch v Cortiho orgáne vnitorneho ucha"
+      },
+      {
+        "id": "c",
+        "text": "pri hmyze v tympanalnych orgánoch"
+      },
+      {
+        "id": "d",
+        "text": "pri cicavcoch v Cortiho orgáne vonkajšieho ucha"
+      },
+      {
+        "id": "e",
+        "text": "pri vtákoch v ušnom bubienku 91"
+      },
+      {
+        "id": "f",
+        "text": "pri cicavcoch v strednom uchu"
+      },
+      {
+        "id": "g",
+        "text": "pri bezstavovcoch v statocyste"
+      },
+      {
+        "id": "h",
+        "text": "pri vtákoch a cicavcoch v spoločnom sluchovopolohovom orgáne"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "427. Hmyz má oči:",
+    "options": [
+      {
+        "id": "a",
+        "text": "komorové"
+      },
+      {
+        "id": "b",
+        "text": "zložené"
+      },
+      {
+        "id": "c",
+        "text": "facetové"
+      },
+      {
+        "id": "d",
+        "text": "ploche"
+      },
+      {
+        "id": "e",
+        "text": "miskovité"
+      },
+      {
+        "id": "f",
+        "text": "pohárikovité"
+      },
+      {
+        "id": "g",
+        "text": "teleskopické"
+      },
+      {
+        "id": "h",
+        "text": "zložené z omatidii"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "428. Chemoreceptory:",
+    "options": [
+      {
+        "id": "a",
+        "text": "riadia chemické reakcie"
+      },
+      {
+        "id": "b",
+        "text": "čuchové veľrybám chýbajú"
+      },
+      {
+        "id": "c",
+        "text": "čuchové majú dobre vyvinuté psy a kone"
+      },
+      {
+        "id": "d",
+        "text": "chuťové sú uložené v chuťových pohárikoch"
+      },
+      {
+        "id": "e",
+        "text": "nie sú vyvinuté pri hmyze"
+      },
+      {
+        "id": "f",
+        "text": "chuťové sú tzv. diaľkové chemoreceptory"
+      },
+      {
+        "id": "g",
+        "text": "analyzujú prítomnosť chemických látok v ovzduší a vode"
+      },
+      {
+        "id": "h",
+        "text": "sú najčastejšie umiestnené vo vnitornych orgánoch"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "429. Ektotermné zivotichy si:",
+    "options": [
+      {
+        "id": "a",
+        "text": "živočíchy s premenlivou teplotou tela"
+      },
+      {
+        "id": "b",
+        "text": "živočíchy, ktorých telesná teplota sa mení v závislosti na teplote prostredia"
+      },
+      {
+        "id": "c",
+        "text": "živočíchy, ktorých telesná teplota je stala"
+      },
+      {
+        "id": "d",
+        "text": "živočíchy, ktorých telesná teplota nezávisí od teploty okolia"
+      },
+      {
+        "id": "e",
+        "text": "niektoré bezstavovce a všetky stavovce"
+      },
+      {
+        "id": "f",
+        "text": "napr. drsnokožce"
+      },
+      {
+        "id": "g",
+        "text": "všetky bezstavovce"
+      },
+      {
+        "id": "h",
+        "text": "plazy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "430. Endotermia znamená:",
+    "options": [
+      {
+        "id": "a",
+        "text": "stálu telesnú teplotu nezávislú od teploty prostredia"
+      },
+      {
+        "id": "b",
+        "text": "stálu telesnú teplotu závislú od teploty prostredia"
+      },
+      {
+        "id": "c",
+        "text": "premenlivú telesnú teplotu nezávislú od teploty prostredia"
+      },
+      {
+        "id": "d",
+        "text": "prehriatie organizmu"
+      },
+      {
+        "id": "e",
+        "text": "zníženie produkcie tepla organizmom"
+      },
+      {
+        "id": "f",
+        "text": "podchladenie organizmu"
+      },
+      {
+        "id": "g",
+        "text": "tyroxín"
+      },
+      {
+        "id": "h",
+        "text": "že živočíchy sú schopné regulovať tvorbu tepla v tepelnom obale organizmu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "431. Medzi endotermné zivotichy patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "hmyz"
+      },
+      {
+        "id": "b",
+        "text": "obrúčkavce"
+      },
+      {
+        "id": "c",
+        "text": "cicavce a vtáky"
+      },
+      {
+        "id": "d",
+        "text": "plazy"
+      },
+      {
+        "id": "e",
+        "text": "obojživelníky"
+      },
+      {
+        "id": "f",
+        "text": "drsnokožce"
+      },
+      {
+        "id": "g",
+        "text": "ryby"
+      },
+      {
+        "id": "h",
+        "text": "všetky bezstavovce 92"
+      }
+    ],
+    "correct_answers": [
+      "c"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "432. Fyzikálna termoregulácia sa uskutočňuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rozšírením kožných ciev a odparovaním"
+      },
+      {
+        "id": "b",
+        "text": "zvýšeným príjmom potravy"
+      },
+      {
+        "id": "c",
+        "text": "vydajom tepla vyžarovaním a prúdením"
+      },
+      {
+        "id": "d",
+        "text": "pôsobením hormónov štítnej žľazy"
+      },
+      {
+        "id": "e",
+        "text": "zvýšením intenzity metabolizmu"
+      },
+      {
+        "id": "f",
+        "text": "pôsobením hormónov drene nadobličiek"
+      },
+      {
+        "id": "g",
+        "text": "aktivizáciou svalových pohybov"
+      },
+      {
+        "id": "h",
+        "text": "zmenou prietoku krvi v koži"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "433. Hibernanty:",
+    "options": [
+      {
+        "id": "a",
+        "text": "patria medzi heterotermne organizmy"
+      },
+      {
+        "id": "b",
+        "text": "sú napr. jež, plch, syse?"
+      },
+      {
+        "id": "c",
+        "text": "sú napr. krt, medveď, netopier"
+      },
+      {
+        "id": "d",
+        "text": "upadajú do zimného spánku pri trvalom poklese teploty prostredia pod o°C"
+      },
+      {
+        "id": "e",
+        "text": "čerpajú počas hibernácie energiu zo zásoby tuku"
+      },
+      {
+        "id": "f",
+        "text": "upadajú do zimného spánku pri trvalom poklese teploty prostredia pod 10℃"
+      },
+      {
+        "id": "g",
+        "text": "počas zimného spánku zvyšujú teplotu tepelného jadra organizmu"
+      },
+      {
+        "id": "h",
+        "text": "si zabezpečujú prežitie za nepriaznivých podmienok zvýšením aktivity metabolizmu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "434. Hlavným producentom tepla pri endotermných Živočíchoch:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú kostrové svaly"
+      },
+      {
+        "id": "b",
+        "text": "je mozog"
+      },
+      {
+        "id": "c",
+        "text": "je pečeň"
+      },
+      {
+        "id": "d",
+        "text": "je podkožný tuk"
+      },
+      {
+        "id": "e",
+        "text": "sú endokrinné žľazy"
+      },
+      {
+        "id": "f",
+        "text": "sú obličky"
+      },
+      {
+        "id": "g",
+        "text": "je dýchacia sústava"
+      },
+      {
+        "id": "h",
+        "text": "je tenké črevo"
+      }
+    ],
+    "correct_answers": [
+      "c"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "435. Estivácia je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prebytok potravy a nedostatok vody"
+      },
+      {
+        "id": "b",
+        "text": "letný spánok"
+      },
+      {
+        "id": "c",
+        "text": "zvýšenie telesnej teploty Živočícha"
+      },
+      {
+        "id": "d",
+        "text": "prehriatie organizmu pri vaesich zmenách teploty prostredia"
+      },
+      {
+        "id": "e",
+        "text": "typická pre niektoré púštne a stepné Živočíchy"
+      },
+      {
+        "id": "f",
+        "text": "typická pre živočíchy polárnych oblasti prostredia"
+      },
+      {
+        "id": "g",
+        "text": "inzulín"
+      },
+      {
+        "id": "h",
+        "text": "zimný spánok"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "436. Heterotermia znamená:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prispôsobovanie sa teplote prostredia živočíchov so stálou telesnou teplotou"
+      },
+      {
+        "id": "b",
+        "text": "prispôsobovanie sa teplote prostredia živočíchov ektotermnych"
+      },
+      {
+        "id": "c",
+        "text": "zvýšený bazálny metabolizmus za nepriaznivých podmienok"
+      },
+      {
+        "id": "d",
+        "text": "že v prípade nepriaznivej teploty prostredia sa endotermne živočíchy stávajú dočasne ektotermnymi"
+      },
+      {
+        "id": "e",
+        "text": "že nastupuje fyzikálna termoregulácia"
+      },
+      {
+        "id": "f",
+        "text": "že nastupuje chemická termoregulácia 93 teplotou"
+      },
+      {
+        "id": "g",
+        "text": "glukagón"
+      },
+      {
+        "id": "h",
+        "text": "adrenalín"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "437. Epifýza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "melatonín"
+      },
+      {
+        "id": "b",
+        "text": "produkuje hormón, ktorý aktivuje tvorbu pohlavných hormónov"
+      },
+      {
+        "id": "c",
+        "text": "je funkčnou súčasťou hypofýzy"
+      },
+      {
+        "id": "d",
+        "text": "produkuje rastový hormón"
+      },
+      {
+        "id": "e",
+        "text": "reaguje na intenzitu svetla"
+      },
+      {
+        "id": "f",
+        "text": "produkuje melatonín"
+      },
+      {
+        "id": "g",
+        "text": "produkuje melanín"
+      },
+      {
+        "id": "h",
+        "text": "produkuje melanotropny hormón"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "438. Hormóny štítnej žľazy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ovplyvňujú intenzitu metabolizmu"
+      },
+      {
+        "id": "b",
+        "text": "sú tyroxín a tyronin"
+      },
+      {
+        "id": "c",
+        "text": "sú stavebnými látkami"
+      },
+      {
+        "id": "d",
+        "text": "patria medzi gestagény"
+      },
+      {
+        "id": "e",
+        "text": "sa vytvárajú v hypofýze"
+      },
+      {
+        "id": "f",
+        "text": "udržiavajú vhodnú koncentráciu iónov sodíka v krvnej plazme"
+      },
+      {
+        "id": "g",
+        "text": "podmieňujú vytvorenie dokonalej obrany organizmu proti infekcii"
+      },
+      {
+        "id": "h",
+        "text": "regulujú napr. metamorfózu obojživelníkov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "439. Hormóny hmyzu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú produkované neurosekrecnymi bunkami hlavového gangliá"
+      },
+      {
+        "id": "b",
+        "text": "sú produkované žľazami nachádzajúcimi sa v hrudi"
+      },
+      {
+        "id": "c",
+        "text": "môžu byť uvoľňované do vonkajšieho prostredia ako feromóny"
+      },
+      {
+        "id": "d",
+        "text": "riadia procesy spojené s dokonalou alebo nedokonalou premenou"
+      },
+      {
+        "id": "e",
+        "text": "môžu mať vnútrodruhovú komunikačnú funkciu"
+      },
+      {
+        "id": "f",
+        "text": "sú produkované Malpighiho žľazami"
+      },
+      {
+        "id": "g",
+        "text": "sú distribuované do tkanív krvou"
+      },
+      {
+        "id": "h",
+        "text": "sú vylučované do uzavretého lymfatického cievneho systému"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "440. Prištítne telieska sa prvýkrát objavujú pri:",
+    "options": [
+      {
+        "id": "a",
+        "text": "cicavcoch"
+      },
+      {
+        "id": "b",
+        "text": "hmyze"
+      },
+      {
+        "id": "c",
+        "text": "obojživelníkoch"
+      },
+      {
+        "id": "d",
+        "text": "vtákoch"
+      },
+      {
+        "id": "e",
+        "text": "rybách"
+      },
+      {
+        "id": "f",
+        "text": "bezstavovcoch"
+      },
+      {
+        "id": "g",
+        "text": "mäkkýšoch"
+      },
+      {
+        "id": "h",
+        "text": "plazoch"
+      }
+    ],
+    "correct_answers": [
+      "c"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "441. Inzulín:",
+    "options": [
+      {
+        "id": "a",
+        "text": "znižuje hladinu glukózy v krvi"
+      },
+      {
+        "id": "b",
+        "text": "zvyšuje ukladanie glykogénu V pečeni a svaloch"
+      },
+      {
+        "id": "c",
+        "text": "zvyšuje hladinu glukózy v krvi"
+      },
+      {
+        "id": "d",
+        "text": "urýchľuje rozklad glykogénu v pečeni"
+      },
+      {
+        "id": "e",
+        "text": "zvyšuje tvorbu tukov v pankrease"
+      },
+      {
+        "id": "f",
+        "text": "znižuje ukladanie glykogénu v pečeni a svaloch 94"
+      },
+      {
+        "id": "g",
+        "text": "ovplyvňuje metabolizmus sacharidov opačne ako glukagón"
+      },
+      {
+        "id": "h",
+        "text": "podporuje zvýšené zužitkovanie glukózy v bunkách"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "442. Hormóny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pôsobia nešpecifický na bunky cieľových tkanív"
+      },
+      {
+        "id": "b",
+        "text": "pôsobia špecifický na bunky cieľových tkanív"
+      },
+      {
+        "id": "c",
+        "text": "sú stavebnými látkami"
+      },
+      {
+        "id": "d",
+        "text": "sú zdrojom ATP"
+      },
+      {
+        "id": "e",
+        "text": "sa zucasthuju proteosyntézy"
+      },
+      {
+        "id": "f",
+        "text": "vylúčené do telových tekutín sú aktívne niekoľko minút alebo dní"
+      },
+      {
+        "id": "g",
+        "text": "sú vysoko účinné organické látky, ktoré ovplyviuju činnosť telesných orgánov"
+      },
+      {
+        "id": "h",
+        "text": "pôsobia ako regulátory látkovej premeny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "443. Hormonálne regulaene mechanizmy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa uplathuju už pri bezstavovcoch"
+      },
+      {
+        "id": "b",
+        "text": "sa najskôr objavujú pri stavovcoch"
+      },
+      {
+        "id": "c",
+        "text": "pri stavovcoch sa odlišujú od hormonálnych regulaci pri bezstavovcoch"
+      },
+      {
+        "id": "d",
+        "text": "pri stavovcoch sa nelíšia od hormonálnych regulácii pri bezstavovcoch"
+      },
+      {
+        "id": "e",
+        "text": "sú pri bezstavovcoch nahradené nervovou reguláciou"
+      },
+      {
+        "id": "f",
+        "text": "sú rýchlejšie ako nervové regulácie"
+      },
+      {
+        "id": "g",
+        "text": "sú pomalšie ako nervové regulácie"
+      },
+      {
+        "id": "h",
+        "text": "sú priamo ovplyviovane aj nervovým systémom"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "444. Feromóny hmyzu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vyvolávajú agresivitu"
+      },
+      {
+        "id": "b",
+        "text": "vyvolávajú únikové reakcie"
+      },
+      {
+        "id": "c",
+        "text": "spôsobujú ospanlivosť"
+      },
+      {
+        "id": "d",
+        "text": "vyvolávajú obranné reakcie"
+      },
+      {
+        "id": "e",
+        "text": "spôsobujú pri hmyze spomalenie rastu"
+      },
+      {
+        "id": "f",
+        "text": "zabraňujú premene hmyzu"
+      },
+      {
+        "id": "g",
+        "text": "majú vplyv na metabolizmus hmyzu"
+      },
+      {
+        "id": "h",
+        "text": "vyvolávajú pohlavnú aktivitu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "445. Predný lalok hypofýzy stavovcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "produkuje hormón prolaktín"
+      },
+      {
+        "id": "b",
+        "text": "produkuje melanotropny hormón"
+      },
+      {
+        "id": "c",
+        "text": "sa nazýva adenohypofýza"
+      },
+      {
+        "id": "d",
+        "text": "sa nazýva neurohypofýza"
+      },
+      {
+        "id": "e",
+        "text": "produkuje hormóny riadiace činnosť nadobličiek"
+      },
+      {
+        "id": "f",
+        "text": "produkuje rastový hormón"
+      },
+      {
+        "id": "g",
+        "text": "produkuje hormón vazopresín"
+      },
+      {
+        "id": "h",
+        "text": "produkuje hormón oxytocín"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "446. K výskumným oblastiam zaoberajicim sa poznávaním správania zvierat patrí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "výskum fyziol6gie podmienených reflexov 95"
+      },
+      {
+        "id": "b",
+        "text": "testosterón"
+      },
+      {
+        "id": "c",
+        "text": "behaviorizmus"
+      },
+      {
+        "id": "d",
+        "text": "etológia"
+      },
+      {
+        "id": "e",
+        "text": "výskum správania živočíchov V prirodzenom prostredí"
+      },
+      {
+        "id": "f",
+        "text": "anatómia"
+      },
+      {
+        "id": "g",
+        "text": "cytológia"
+      },
+      {
+        "id": "h",
+        "text": "skúmanie fyziológie prenosu nervového signálu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "447. Komunikačné signály Živočíchov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mo2zu byť akustické alebo optické"
+      },
+      {
+        "id": "b",
+        "text": "majú identifikačnú alebo výstražnú funkciu"
+      },
+      {
+        "id": "c",
+        "text": "môžu byť dotykové alebo elektrické"
+      },
+      {
+        "id": "d",
+        "text": "sa uplatňujú napr. pri obrane teritória"
+      },
+      {
+        "id": "e",
+        "text": "neovplyvňujú správanie iných príslušníkov druhu"
+      },
+      {
+        "id": "f",
+        "text": "nie sú súčasťou sociálneho správania"
+      },
+      {
+        "id": "g",
+        "text": "slúžia na prenos informácie"
+      },
+      {
+        "id": "h",
+        "text": "nemajú informačnú funkciu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "448. Fakultatívne učenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prebieha len v ranom veku živočíchov"
+      },
+      {
+        "id": "b",
+        "text": "nie je vekovo obmedzené"
+      },
+      {
+        "id": "c",
+        "text": "prebieha prakticky po celý život jedinca"
+      },
+      {
+        "id": "d",
+        "text": "vedie k zdokonaľovaniu činnosti živočícha"
+      },
+      {
+        "id": "e",
+        "text": "je napr. vpecatenie"
+      },
+      {
+        "id": "f",
+        "text": "je prispôsobenie sa endogénnym biologickým rytmom"
+      },
+      {
+        "id": "g",
+        "text": "je základom obranných reakci mláďat"
+      },
+      {
+        "id": "h",
+        "text": "prebieha na základe nepodmienených reflexov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "449. Inštinktívne správanie Zivotichov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je predmetom skúmania etológie"
+      },
+      {
+        "id": "b",
+        "text": "je predmetom skúmania exobiologie )je vrodené správanie vyvolávané endogénnymi alebo exogénnymi podnetmi"
+      },
+      {
+        "id": "c",
+        "text": "progesterón"
+      },
+      {
+        "id": "d",
+        "text": "je správanie, ktorého základom sú nepodmienené reflexy"
+      },
+      {
+        "id": "e",
+        "text": "je správanie, ktorého základom sú podmienené reflexy"
+      },
+      {
+        "id": "f",
+        "text": "je napr. obranné a titekove správanie"
+      },
+      {
+        "id": "g",
+        "text": "zahŕňa schopnosť generalizácie"
+      },
+      {
+        "id": "h",
+        "text": "je napr. komfortné správanie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "450. Teritoriálne správanie živočíchov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prítomný v Žalúdočnej stave"
+      },
+      {
+        "id": "b",
+        "text": "vylučovaný príušnými žazami"
+      },
+      {
+        "id": "c",
+        "text": "prítomný v slinách"
+      },
+      {
+        "id": "d",
+        "text": "natravujuci polysacharidy v ústnej dutine"
+      },
+      {
+        "id": "e",
+        "text": "ktorý štiepi bielkoviny v ústnej dutine"
+      },
+      {
+        "id": "f",
+        "text": "prítomný v Črevnej stave"
+      },
+      {
+        "id": "g",
+        "text": "ktorý má baktericídne účinky 97"
+      },
+      {
+        "id": "h",
+        "text": "3 páry veľkých slinných žliaz - podjazykové, podsánkové, príušné 455. 1 Ptyalín je enzým:"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, F, G."
+  }
+]

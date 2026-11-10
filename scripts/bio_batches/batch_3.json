@@ -1,0 +1,2272 @@
+[
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "101. Tonoplast:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je na povrchu leukoplastov"
+      },
+      {
+        "id": "b",
+        "text": "je priepustná membrána na povrchu vakuol"
+      },
+      {
+        "id": "c",
+        "text": "je polopriepustná membrána na povrchu vakuol"
+      },
+      {
+        "id": "d",
+        "text": "je semipermeabilny"
+      },
+      {
+        "id": "e",
+        "text": "je na povrchu lyzozómov"
+      },
+      {
+        "id": "f",
+        "text": "obaľuje vakuoly"
+      },
+      {
+        "id": "g",
+        "text": "je na povrchu transportných vezikulov"
+      },
+      {
+        "id": "h",
+        "text": "oddeľuje obsah vakuol od cytoplazmy"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "102. V strome chloroplastov sa nachádzajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tylakoidy"
+      },
+      {
+        "id": "b",
+        "text": "kruhové molekuly DNA"
+      },
+      {
+        "id": "c",
+        "text": "chromatín"
+      },
+      {
+        "id": "d",
+        "text": "lineárne molekuly DNA"
+      },
+      {
+        "id": "e",
+        "text": "hydrolytické enzýmy"
+      },
+      {
+        "id": "f",
+        "text": "bunková stáva"
+      },
+      {
+        "id": "g",
+        "text": "karotenoidy"
+      },
+      {
+        "id": "h",
+        "text": "plastidové ribozómy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "103. PodPa bunkovej teórie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "z hľadiska organizácie predstavujú bunky najednoduchšie živé sústavy"
+      },
+      {
+        "id": "b",
+        "text": "všetky bunky pozostávajú z tých istých prvkov a molekúl"
+      },
+      {
+        "id": "c",
+        "text": "každá bunka vzniká len delením už existujúcej bunky"
+      },
+      {
+        "id": "d",
+        "text": "živé bunky sú zložené z rovnakej hmoty ako neživé objekty"
+      },
+      {
+        "id": "e",
+        "text": "základom každého organizmu rastlín a živočíchov je bunka"
+      },
+      {
+        "id": "f",
+        "text": "každá bunka pozostáva predovšetkým z anorganických makromolekil"
+      },
+      {
+        "id": "g",
+        "text": "bunky sú štruktúrované, stupňovito usporiadané, otvorené nukleoproteínové sústavy"
+      },
+      {
+        "id": "h",
+        "text": "všetky bunky majú schopnosť uchovávať a replikovať genetickú informáciu"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "104. Prvú ucelenú evolučnú teóriu živých organizmov sformuloval:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nemecký lekár"
+      },
+      {
+        "id": "b",
+        "text": "Lamarck v roku 1809"
+      },
+      {
+        "id": "c",
+        "text": "J."
+      },
+      {
+        "id": "d",
+        "text": "L. Pasteur"
+      },
+      {
+        "id": "e",
+        "text": "C. Linné"
+      },
+      {
+        "id": "f",
+        "text": "C. Woese"
+      },
+      {
+        "id": "g",
+        "text": "anglický prírodovedec W. Harvey"
+      },
+      {
+        "id": "h",
+        "text": "francúzsky prírodovedec J."
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "105. Ktoré tvrdenie je správne:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Leeuwenhoekovi"
+      },
+      {
+        "id": "b",
+        "text": "L. Pasteur definitívne vyvrátil možnosť samoplodenia i tých najmenších organizmov"
+      },
+      {
+        "id": "c",
+        "text": "M. J. Schleiden je zakladateľom modernej systematiky organizmov 27"
+      },
+      {
+        "id": "d",
+        "text": "T. Schwann patrí k autorom bunkovej teórie Hooke genetickej informácie"
+      },
+      {
+        "id": "e",
+        "text": "sú makromolekulové látky"
+      },
+      {
+        "id": "f",
+        "text": "majú stavebnú funkciu"
+      },
+      {
+        "id": "g",
+        "text": "katalyzujú biochemické reakcie v bunke"
+      },
+      {
+        "id": "h",
+        "text": "autorstvo pojmu biológia sa pripisuje"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "106. Bunkovú teóriu formulovali:",
+    "options": [
+      {
+        "id": "a",
+        "text": "R. Hooke"
+      },
+      {
+        "id": "b",
+        "text": "A. Leewenhoek"
+      },
+      {
+        "id": "c",
+        "text": "M. J. Schleiden"
+      },
+      {
+        "id": "d",
+        "text": "L. Pasteur"
+      },
+      {
+        "id": "e",
+        "text": "Purkyně"
+      },
+      {
+        "id": "f",
+        "text": "T. Schwann"
+      },
+      {
+        "id": "g",
+        "text": "M. Malpighi"
+      },
+      {
+        "id": "h",
+        "text": "Ch. L. Treviranus"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "107. Základy novodobej anatómie P'udskeho tela položil:",
+    "options": [
+      {
+        "id": "a",
+        "text": "W. Harvey"
+      },
+      {
+        "id": "b",
+        "text": "Aristoteles"
+      },
+      {
+        "id": "c",
+        "text": "R. Hooke"
+      },
+      {
+        "id": "d",
+        "text": "J."
+      },
+      {
+        "id": "e",
+        "text": "Purkyně"
+      },
+      {
+        "id": "f",
+        "text": "Galénos"
+      },
+      {
+        "id": "g",
+        "text": "R. Virchow"
+      },
+      {
+        "id": "h",
+        "text": "M. Malpighi"
+      }
+    ],
+    "correct_answers": [
+      "e"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "108. Medzi fyziologické vedy patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "fyziológia človeka"
+      },
+      {
+        "id": "b",
+        "text": "fyziológia prvkov"
+      },
+      {
+        "id": "c",
+        "text": "histológia"
+      },
+      {
+        "id": "d",
+        "text": "embryol6gia"
+      },
+      {
+        "id": "e",
+        "text": "vedy, ktoré študujú funkciu jednotlivých orgánov Živých sústav"
+      },
+      {
+        "id": "f",
+        "text": "fyziológia Živočíchov"
+      },
+      {
+        "id": "g",
+        "text": "vedy, ktoré študujú funkciu jednotlivých bunkových organel"
+      },
+      {
+        "id": "h",
+        "text": "fyziológia rastlín"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "109. Parazitológia študuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "správanie mikroorganizmov"
+      },
+      {
+        "id": "b",
+        "text": "cudzopasne organizmy"
+      },
+      {
+        "id": "c",
+        "text": "vzťahy živých sústav k prostrediu"
+      },
+      {
+        "id": "d",
+        "text": "cudzopasne mikroorganizmy"
+      },
+      {
+        "id": "e",
+        "text": "dedičnosť a premenlivosť mikroorganizmov"
+      },
+      {
+        "id": "f",
+        "text": "vzťahy medzi hostite'om a parazitom"
+      },
+      {
+        "id": "g",
+        "text": "zárodočný vývoj mikroorganizmov"
+      },
+      {
+        "id": "h",
+        "text": "a definuje biologické zákonitosti vzťahov medzi parazitom a hostitePom"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "110. Dvojzavitnicovi Struktiru DNA a jej význam pre prenos genetickej informácie objasnili:",
+    "options": [
+      {
+        "id": "a",
+        "text": "C. Woese"
+      },
+      {
+        "id": "b",
+        "text": "v roku 1944"
+      },
+      {
+        "id": "c",
+        "text": "v roku 1953"
+      },
+      {
+        "id": "d",
+        "text": "F."
+      },
+      {
+        "id": "e",
+        "text": "J."
+      },
+      {
+        "id": "f",
+        "text": "v roku 1866"
+      },
+      {
+        "id": "g",
+        "text": "J."
+      },
+      {
+        "id": "h",
+        "text": "v roku 1966 28"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "111. Voda v bunkách má funkciu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zásobnú"
+      },
+      {
+        "id": "b",
+        "text": "konštrukčnú"
+      },
+      {
+        "id": "c",
+        "text": "ako zdroj energie"
+      },
+      {
+        "id": "d",
+        "text": "substratoviu - vytvára vhodné prostredie pre chemické deje"
+      },
+      {
+        "id": "e",
+        "text": "ako účinné rozpúšťadlo"
+      },
+      {
+        "id": "f",
+        "text": "regulačnú - reguluje príjem a vydaj látok bunkou"
+      },
+      {
+        "id": "g",
+        "text": "ako dôležitý faktor tepelného hospodárenia"
+      },
+      {
+        "id": "h",
+        "text": "ako základná stavebná jednotka makromolekulových látok"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "112. Lipidy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "môžu byť súčasťou vitamínov"
+      },
+      {
+        "id": "b",
+        "text": "sú súčasťou niektorých hormónov"
+      },
+      {
+        "id": "c",
+        "text": "katalyzujú chemické reakcie v bunke"
+      },
+      {
+        "id": "d",
+        "text": "sú hlavnou zložkou protilátok"
+      },
+      {
+        "id": "e",
+        "text": "sa podieľajú na regulačných procesoch v bunke"
+      },
+      {
+        "id": "f",
+        "text": "sú najhospodárnejším zdrojom energie"
+      },
+      {
+        "id": "g",
+        "text": "sú súčasťou biomembrán"
+      },
+      {
+        "id": "h",
+        "text": "majú ochrannú funkciu, napr. vosky"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "113. Monomérom bielkovín sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nukleotidy"
+      },
+      {
+        "id": "b",
+        "text": "peptidy"
+      },
+      {
+        "id": "c",
+        "text": "aminoskupiny"
+      },
+      {
+        "id": "d",
+        "text": "atómy uhlíka a dusíka"
+      },
+      {
+        "id": "e",
+        "text": "aminokyseliny"
+      },
+      {
+        "id": "f",
+        "text": "dusíkaté organické bázy"
+      },
+      {
+        "id": "g",
+        "text": "monosacharidy"
+      },
+      {
+        "id": "h",
+        "text": "nukleozidy"
+      }
+    ],
+    "correct_answers": [
+      "e"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "114. Jednotlivé aminokyseliny si v bielkovinovom reťazci pospájané väzbou:",
+    "options": [
+      {
+        "id": "a",
+        "text": "esterovou"
+      },
+      {
+        "id": "b",
+        "text": "fosfodiesterovou"
+      },
+      {
+        "id": "c",
+        "text": "glykozidovou"
+      },
+      {
+        "id": "d",
+        "text": "peptidovou"
+      },
+      {
+        "id": "e",
+        "text": "vodíkovými mostíkmi"
+      },
+      {
+        "id": "f",
+        "text": "peptidovou medzi dusíkatými bázami"
+      },
+      {
+        "id": "g",
+        "text": "kovalentnou"
+      },
+      {
+        "id": "h",
+        "text": "nekovalentnou"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "115. Bielkoviny majú funkciu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "informačnú"
+      },
+      {
+        "id": "b",
+        "text": "ako najhospodárnejší zdroj energie"
+      },
+      {
+        "id": "c",
+        "text": "metabolickú - fibrilárne bielkoviny"
+      },
+      {
+        "id": "d",
+        "text": "metabolickú - globulárne bielkoviny"
+      },
+      {
+        "id": "e",
+        "text": "mechanickú - fibrilárne bielkoviny"
+      },
+      {
+        "id": "f",
+        "text": "mechanickú - globulárne bielkoviny"
+      },
+      {
+        "id": "g",
+        "text": "v živočíšnych bunkách hlavne zásobní"
+      },
+      {
+        "id": "h",
+        "text": "štruktúrnu 29"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "116. Monomérom nukleových kyselín sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "aminokyseliny"
+      },
+      {
+        "id": "b",
+        "text": "adenín, guanín, tymín, cytozín"
+      },
+      {
+        "id": "c",
+        "text": "nukleotidy"
+      },
+      {
+        "id": "d",
+        "text": "chromatín"
+      },
+      {
+        "id": "e",
+        "text": "dusíkaté bázy"
+      },
+      {
+        "id": "f",
+        "text": "nukleozidy"
+      },
+      {
+        "id": "g",
+        "text": "ribonukleotidy alebo deoxyribonukleotidy"
+      },
+      {
+        "id": "h",
+        "text": "pentózy"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "117. Z chemického hľadiska si nukleové kyseliny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "polypeptidy"
+      },
+      {
+        "id": "b",
+        "text": "estery vyšších mastných kyselín a glycerolu"
+      },
+      {
+        "id": "c",
+        "text": "polynukleotidy"
+      },
+      {
+        "id": "d",
+        "text": "makromolekulové látky"
+      },
+      {
+        "id": "e",
+        "text": "biopolyméry"
+      },
+      {
+        "id": "f",
+        "text": "pentózy"
+      },
+      {
+        "id": "g",
+        "text": "monoméry"
+      },
+      {
+        "id": "h",
+        "text": "dlhé reťazce zložené z aminokyselín"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "118. Mikroorganizmy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú archeóny"
+      },
+      {
+        "id": "b",
+        "text": "sú všetky baktérie"
+      },
+      {
+        "id": "c",
+        "text": "študuje mikrobiológia"
+      },
+      {
+        "id": "d",
+        "text": "majú mikroskopické rozmery"
+      },
+      {
+        "id": "e",
+        "text": "sú onkogénne vírusy"
+      },
+      {
+        "id": "f",
+        "text": "sú len eukaryotické organizmy"
+      },
+      {
+        "id": "g",
+        "text": "sú jednobunkové organizmy mikroskopických rozmerov"
+      },
+      {
+        "id": "h",
+        "text": "sú viditeľné aj voľným okom"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, E, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "119. Medzi prokaryota patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "jednobunkové riasy"
+      },
+      {
+        "id": "b",
+        "text": "baktérie"
+      },
+      {
+        "id": "c",
+        "text": "niektoré mikroorganizmy"
+      },
+      {
+        "id": "d",
+        "text": "bakteriofágy"
+      },
+      {
+        "id": "e",
+        "text": "bičíkovce"
+      },
+      {
+        "id": "f",
+        "text": "archeóny"
+      },
+      {
+        "id": "g",
+        "text": "vírusy"
+      },
+      {
+        "id": "h",
+        "text": "jednobunkové rastliny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "120. Medzi nebunkové organizmy patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sinice"
+      },
+      {
+        "id": "b",
+        "text": "onkovírusy"
+      },
+      {
+        "id": "c",
+        "text": "spirily"
+      },
+      {
+        "id": "d",
+        "text": "červené krvinky"
+      },
+      {
+        "id": "e",
+        "text": "bakteriofágy"
+      },
+      {
+        "id": "f",
+        "text": "spirochéty"
+      },
+      {
+        "id": "g",
+        "text": "vírusy"
+      },
+      {
+        "id": "h",
+        "text": "molekulárne vnútrobunkové parazity 30"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "121. Vírusy sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vnútrobunkové parazity"
+      },
+      {
+        "id": "b",
+        "text": "nebunkové organizmy"
+      },
+      {
+        "id": "c",
+        "text": "mimobunkové parazity"
+      },
+      {
+        "id": "d",
+        "text": "nukleoproteínové Častice"
+      },
+      {
+        "id": "e",
+        "text": "organizmy s jednoduchým metabolizmom"
+      },
+      {
+        "id": "f",
+        "text": "bez vlastného metabolizmu"
+      },
+      {
+        "id": "g",
+        "text": "prokaryotické organizmy"
+      },
+      {
+        "id": "h",
+        "text": "schopné vyvolať infekne ochorenia"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "122. Vírusy spôsobujú u človeka:",
+    "options": [
+      {
+        "id": "a",
+        "text": "besnotu"
+      },
+      {
+        "id": "b",
+        "text": "žltačku"
+      },
+      {
+        "id": "c",
+        "text": "chrípku"
+      },
+      {
+        "id": "d",
+        "text": "krívačku a slintačku"
+      },
+      {
+        "id": "e",
+        "text": "kiahne"
+      },
+      {
+        "id": "f",
+        "text": "tuberkulózu"
+      },
+      {
+        "id": "g",
+        "text": "kvapavku"
+      },
+      {
+        "id": "h",
+        "text": "Downov syndróm"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "123. Rozmnožovanie vírusov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má štyri fázy - profáza, metafáza, anafáza, telofáza"
+      },
+      {
+        "id": "b",
+        "text": "má tri fázy"
+      },
+      {
+        "id": "c",
+        "text": "prebieha amitózou"
+      },
+      {
+        "id": "d",
+        "text": "prebieha len v Živých bunkách"
+      },
+      {
+        "id": "e",
+        "text": "prebieha len v eukaryotických bunkách"
+      },
+      {
+        "id": "f",
+        "text": "prebieha delením"
+      },
+      {
+        "id": "g",
+        "text": "prebieha aj mimo bunky"
+      },
+      {
+        "id": "h",
+        "text": "môže prebiehať aj v bunkových kultúrach"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "124. Pôvodcom detskej obrny je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vírus"
+      },
+      {
+        "id": "b",
+        "text": "bakteriofág"
+      },
+      {
+        "id": "c",
+        "text": "nukleoproteinova Častica"
+      },
+      {
+        "id": "d",
+        "text": "baktéria"
+      },
+      {
+        "id": "e",
+        "text": "bacil"
+      },
+      {
+        "id": "f",
+        "text": "Salmonella"
+      },
+      {
+        "id": "g",
+        "text": "Shigella"
+      },
+      {
+        "id": "h",
+        "text": "streptokok"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "125. Bielkovinový obal vírusu sa nazýva:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kapsid a je zložený z tukových monomérov"
+      },
+      {
+        "id": "b",
+        "text": "cysta"
+      },
+      {
+        "id": "c",
+        "text": "puzdro"
+      },
+      {
+        "id": "d",
+        "text": "virion"
+      },
+      {
+        "id": "e",
+        "text": "bielkovinový plášť"
+      },
+      {
+        "id": "f",
+        "text": "spóra"
+      },
+      {
+        "id": "g",
+        "text": "nukleoid"
+      },
+      {
+        "id": "h",
+        "text": "kapsid"
+      }
+    ],
+    "correct_answers": [
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "126. Vírusy spôsobujú u človeka:",
+    "options": [
+      {
+        "id": "a",
+        "text": "syfilis"
+      },
+      {
+        "id": "b",
+        "text": "osýpky"
+      },
+      {
+        "id": "c",
+        "text": "infekčné ochorenia"
+      },
+      {
+        "id": "d",
+        "text": "nádchu"
+      },
+      {
+        "id": "e",
+        "text": "herpes simplex"
+      },
+      {
+        "id": "f",
+        "text": "zhubné nádory"
+      },
+      {
+        "id": "g",
+        "text": "mozaikoví chorobu"
+      },
+      {
+        "id": "h",
+        "text": "AIDS 31"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, E, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "127. Vírusy sa rozmnožujú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "meiózou"
+      },
+      {
+        "id": "b",
+        "text": "mitózou"
+      },
+      {
+        "id": "c",
+        "text": "amitózou"
+      },
+      {
+        "id": "d",
+        "text": "v živočíšnych bunkách tak, že do nich prenikajú pinocytozou"
+      },
+      {
+        "id": "e",
+        "text": "pučaním"
+      },
+      {
+        "id": "f",
+        "text": "nepriamym delením"
+      },
+      {
+        "id": "g",
+        "text": "v hostiteľskej bunke, ktorá vytvára nové viriony informácie"
+      },
+      {
+        "id": "h",
+        "text": "obsahuje ribózu alebo deoxyribózu"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "128. Vírusy sa odlišujú od ostatných mikroorganizmov tým, že:",
+    "options": [
+      {
+        "id": "a",
+        "text": "majú len jeden typ nukleovej kyseliny"
+      },
+      {
+        "id": "b",
+        "text": "sú najmenšie prokaryotické organizmy"
+      },
+      {
+        "id": "c",
+        "text": "sú to najmenšie infekčné častice - majú rozmery 15 - 300 nm"
+      },
+      {
+        "id": "d",
+        "text": "sú to najmenšie infekene častice - majú rozmery 15 - 300 μm"
+      },
+      {
+        "id": "e",
+        "text": "sú to nebunkové organizmy"
+      },
+      {
+        "id": "f",
+        "text": "spôsobujú infekčné ochorenia"
+      },
+      {
+        "id": "g",
+        "text": "majú bičíky"
+      },
+      {
+        "id": "h",
+        "text": "nemajú vlastný genetický materiál"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "129. Bakteriofág je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "baktéria so schopnosťou fagocytózy"
+      },
+      {
+        "id": "b",
+        "text": "špeciálny makrofág"
+      },
+      {
+        "id": "c",
+        "text": "bakteriálny vírus"
+      },
+      {
+        "id": "d",
+        "text": "druh baktérie"
+      },
+      {
+        "id": "e",
+        "text": "baktéria pohlcujúca vírusy"
+      },
+      {
+        "id": "f",
+        "text": "druh vírusu"
+      },
+      {
+        "id": "g",
+        "text": "vírus napadajúci baktérie"
+      },
+      {
+        "id": "h",
+        "text": "rozmnožovaním viazaný na eukaryotické bunky"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "130. Každý virion obsahuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "bielkovinový kapsid"
+      },
+      {
+        "id": "b",
+        "text": "DNA alebo RNA a bielkoviny"
+      },
+      {
+        "id": "c",
+        "text": "nukleovú kyselinu a bielkoviny"
+      },
+      {
+        "id": "d",
+        "text": "tukový obal"
+      },
+      {
+        "id": "e",
+        "text": "tukový kapsid"
+      },
+      {
+        "id": "f",
+        "text": "hlavičku a bičík"
+      },
+      {
+        "id": "g",
+        "text": "bielkovinový plášť"
+      },
+      {
+        "id": "h",
+        "text": "oba typy nukleových kyselín a bielkoviny"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "131. Vírusy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "majú jednoduchú prokaryoticku bunku"
+      },
+      {
+        "id": "b",
+        "text": "sú najjednoduchšie jednobunkové organizmy"
+      },
+      {
+        "id": "c",
+        "text": "sú vnútrobunkové parazity"
+      },
+      {
+        "id": "d",
+        "text": "sú zložené z nukleových kyselín a lipidoveho kapsidu 32"
+      },
+      {
+        "id": "e",
+        "text": "študuje mikrobiológia"
+      },
+      {
+        "id": "f",
+        "text": "študuje virológia"
+      },
+      {
+        "id": "g",
+        "text": "sú nebunkové organizmy"
+      },
+      {
+        "id": "h",
+        "text": "majú ako prirodzený rezervoár niektoré bezstavovce"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "132. Vírus chrípky:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má veľkosť 50 - 80 nm"
+      },
+      {
+        "id": "b",
+        "text": "môžeme pozorovať len elektrónovým mikroskopom"
+      },
+      {
+        "id": "c",
+        "text": "má kapsid zložený z bielkovinových monomérov"
+      },
+      {
+        "id": "d",
+        "text": "môžeme pozorovať optickým mikroskopom"
+      },
+      {
+        "id": "e",
+        "text": "má veľkosť 15 - 300 nm"
+      },
+      {
+        "id": "f",
+        "text": "má tukový obal"
+      },
+      {
+        "id": "g",
+        "text": "má nukleoid zložený z bielkovinových monomérov"
+      },
+      {
+        "id": "h",
+        "text": "má nukleokapsid uzavretý v tukovom obale"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "133. Medzi vírusové ochorenia patrí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "angína"
+      },
+      {
+        "id": "b",
+        "text": "žltačka"
+      },
+      {
+        "id": "c",
+        "text": "zápal príušných žliaz"
+      },
+      {
+        "id": "d",
+        "text": "zápal mozgových blán"
+      },
+      {
+        "id": "e",
+        "text": "tuberkulóza"
+      },
+      {
+        "id": "f",
+        "text": "malária"
+      },
+      {
+        "id": "g",
+        "text": "mor hydiny"
+      },
+      {
+        "id": "h",
+        "text": "ochorenie tabakových listov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "134. Rastlinné vírusy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "obsahujú obvykle RNA molekuly"
+      },
+      {
+        "id": "b",
+        "text": "sa nazývajú cyanofagy"
+      },
+      {
+        "id": "c",
+        "text": "obsahujú obvykle DNA molekuly"
+      },
+      {
+        "id": "d",
+        "text": "nie sú infekčné"
+      },
+      {
+        "id": "e",
+        "text": "sa rozmnožujú v siniciach"
+      },
+      {
+        "id": "f",
+        "text": "napr. vírus tabakovej mozaiky má dvojvláknovú molekulu RNA"
+      },
+      {
+        "id": "g",
+        "text": "spôsobujú rôzne virózy rastlín"
+      },
+      {
+        "id": "h",
+        "text": "sa rozmnožujú v rastlinných bunkách"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "135. Baktérie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú autotrofné alebo heterotrofné"
+      },
+      {
+        "id": "b",
+        "text": "majú za optimálnych podmienok generačnú dobu 15 - 30 minút"
+      },
+      {
+        "id": "c",
+        "text": "fototrofné sú cyanobaktérie"
+      },
+      {
+        "id": "d",
+        "text": "sa rozmnožujú nepriamym bunkovým delením"
+      },
+      {
+        "id": "e",
+        "text": "môžu žiť ako saprofyty V pôdach"
+      },
+      {
+        "id": "f",
+        "text": "môžu žiť v symbióze s lovekom"
+      },
+      {
+        "id": "g",
+        "text": "majú v plazmatickej membráne peptidoglykán"
+      },
+      {
+        "id": "h",
+        "text": "majú submikroskopicke rozmery"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "136. Kokovite baktérie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "majú bičíky"
+      },
+      {
+        "id": "b",
+        "text": "nemajú bičíky"
+      },
+      {
+        "id": "c",
+        "text": "nevykonávajú aktívny pohyb"
+      },
+      {
+        "id": "d",
+        "text": "vykonávajú aktívny pohyb pomocou bičíka"
+      },
+      {
+        "id": "e",
+        "text": "môžu vytvárať súbory buniek strapcovitého charakteru 33"
+      },
+      {
+        "id": "f",
+        "text": "je schopná samostatného rozmnožovania mimo hostiteľskej bunky"
+      },
+      {
+        "id": "g",
+        "text": "spôsobujú tuberkulózu"
+      },
+      {
+        "id": "h",
+        "text": "sa rozmnožujú nepriamym delením"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "137. Streptokoky vytvárajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "strapce"
+      },
+      {
+        "id": "b",
+        "text": "dvojice"
+      },
+      {
+        "id": "c",
+        "text": "špirály"
+      },
+      {
+        "id": "d",
+        "text": "paličky"
+      },
+      {
+        "id": "e",
+        "text": "retiazky"
+      },
+      {
+        "id": "f",
+        "text": "rozvetvené vláknité štruktúry"
+      },
+      {
+        "id": "g",
+        "text": "organické látky len chemosyntézou"
+      },
+      {
+        "id": "h",
+        "text": "špecifické rozmnožovacie štruktúry - spory"
+      }
+    ],
+    "correct_answers": [
+      "e"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "138. Stafylokoky vytvárajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "strapce"
+      },
+      {
+        "id": "b",
+        "text": "dvojice"
+      },
+      {
+        "id": "c",
+        "text": "špirály"
+      },
+      {
+        "id": "d",
+        "text": "paličky"
+      },
+      {
+        "id": "e",
+        "text": "retiazky"
+      },
+      {
+        "id": "f",
+        "text": "rozvetvené vláknité štruktúry"
+      },
+      {
+        "id": "g",
+        "text": "organické látky len chemosyntézou"
+      },
+      {
+        "id": "h",
+        "text": "špecifické rozmnožovacie štruktúry - spory"
+      }
+    ],
+    "correct_answers": [
+      "a"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "139. Baktérie sa rozmnožujú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "väčšinou priečnym delením"
+      },
+      {
+        "id": "b",
+        "text": "priamym delením"
+      },
+      {
+        "id": "c",
+        "text": "replikáciou"
+      },
+      {
+        "id": "d",
+        "text": "väčšinou pozdiznym delením"
+      },
+      {
+        "id": "e",
+        "text": "nepohlavne"
+      },
+      {
+        "id": "f",
+        "text": "nepriamym delením bunky"
+      },
+      {
+        "id": "g",
+        "text": "tak, že si dve baktérie vymenia chromozómy"
+      },
+      {
+        "id": "h",
+        "text": "aj rozpadom - vláknité baktérie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "140. Každá bakteriálna bunka má:",
+    "options": [
+      {
+        "id": "a",
+        "text": "bičík"
+      },
+      {
+        "id": "b",
+        "text": "ribozómy"
+      },
+      {
+        "id": "c",
+        "text": "cytoplazmu"
+      },
+      {
+        "id": "d",
+        "text": "nukleoid"
+      },
+      {
+        "id": "e",
+        "text": "puzdro"
+      },
+      {
+        "id": "f",
+        "text": "schopnosť fotosyntézy"
+      },
+      {
+        "id": "g",
+        "text": "bunkoví stenu"
+      },
+      {
+        "id": "h",
+        "text": "jeden kruhový chromozóm"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "141. Špirálovito stočené bunky majú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "aktinomycéty"
+      },
+      {
+        "id": "b",
+        "text": "rod Streptococcus"
+      },
+      {
+        "id": "c",
+        "text": "rod Stafylococcus"
+      },
+      {
+        "id": "d",
+        "text": "bacily"
+      },
+      {
+        "id": "e",
+        "text": "spirily"
+      },
+      {
+        "id": "f",
+        "text": "spirochéty"
+      },
+      {
+        "id": "g",
+        "text": "Rhodospirillum rubrum"
+      },
+      {
+        "id": "h",
+        "text": "viriony"
+      }
+    ],
+    "correct_answers": [
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "142. Bakteriálny chromozóm:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je lineárny 34"
+      },
+      {
+        "id": "b",
+        "text": "je od cytoplazmy oddelený membránou"
+      },
+      {
+        "id": "c",
+        "text": "nie je od cytoplazmy ohraničený žiadnou membránou"
+      },
+      {
+        "id": "d",
+        "text": "je zložený z chromatínu"
+      },
+      {
+        "id": "e",
+        "text": "je pripojený k vnútornej strane cytoplazmatickej membrány"
+      },
+      {
+        "id": "f",
+        "text": "má kruhovitý tvar"
+      },
+      {
+        "id": "g",
+        "text": "je kruhová dvojreťazcová molekula DNA"
+      },
+      {
+        "id": "h",
+        "text": "je pripojený k vnútornej strane jadrovej membrány"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "143. Medzi Živočíšne vírusy patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "bakteriofágy"
+      },
+      {
+        "id": "b",
+        "text": "vírus mozaiky zemiakov"
+      },
+      {
+        "id": "c",
+        "text": "onkovírusy"
+      },
+      {
+        "id": "d",
+        "text": "vírus spôsobujúci slintačku a krívačku"
+      },
+      {
+        "id": "e",
+        "text": "vírusy spôsobujúce závažné ochorenia človeka"
+      },
+      {
+        "id": "f",
+        "text": "onkogénne vírusy"
+      },
+      {
+        "id": "g",
+        "text": "vírusy Escherichia coli"
+      },
+      {
+        "id": "h",
+        "text": "fág ^"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "144. V prostredí s obsahom až 20 - 26 % nacl sú schopné rast:",
+    "options": [
+      {
+        "id": "a",
+        "text": "patogénne baktérie"
+      },
+      {
+        "id": "b",
+        "text": "Halobacterium"
+      },
+      {
+        "id": "c",
+        "text": "Halococcus"
+      },
+      {
+        "id": "d",
+        "text": "termoarcheony"
+      },
+      {
+        "id": "e",
+        "text": "metanoarcheony"
+      },
+      {
+        "id": "f",
+        "text": "Pseudomonas"
+      },
+      {
+        "id": "g",
+        "text": "Thermoproteus"
+      },
+      {
+        "id": "h",
+        "text": "haloarcheony"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "145. Archeóny sa odlišujú od baktérií tým, Že:",
+    "options": [
+      {
+        "id": "a",
+        "text": "majú mikroskopické rozmery"
+      },
+      {
+        "id": "b",
+        "text": "majú jadro obalené jadrovou membránou"
+      },
+      {
+        "id": "c",
+        "text": "sa rozmnožujú priečnym delením"
+      },
+      {
+        "id": "d",
+        "text": "v bunkovej stene neobsahujú peptidoglykán"
+      },
+      {
+        "id": "e",
+        "text": "žijú vo fyziologický extrémnych podmienkach"
+      },
+      {
+        "id": "f",
+        "text": "sú to jednobunkové organizmy"
+      },
+      {
+        "id": "g",
+        "text": "sú to patogénne organizmy"
+      },
+      {
+        "id": "h",
+        "text": "nie sú patogénne organizmy"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "146. Chemoautotrofné baktérie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "získavajú energiu pomocou chlorofylov"
+      },
+      {
+        "id": "b",
+        "text": "využívajú ako primárny zdroj uhlíka CO2"
+      },
+      {
+        "id": "c",
+        "text": "sú fotosyntetizujúce prokaryota"
+      },
+      {
+        "id": "d",
+        "text": "sú heterotrofné organizmy"
+      },
+      {
+        "id": "e",
+        "text": "sú saprofyty"
+      },
+      {
+        "id": "f",
+        "text": "získavajú energiu oxidáciou anorganických zlúčenín"
+      },
+      {
+        "id": "g",
+        "text": "sú autotrofné organizmy bez pigmentov"
+      },
+      {
+        "id": "h",
+        "text": "získavajú energiu redukciou organických látok, napr. glukózy"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "147. Fototrofné prokaryota:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa považujú za predchodcov chloroplastov rastlín"
+      },
+      {
+        "id": "b",
+        "text": "ako zdroj uhlíka využívajú organické zlúčeniny 35"
+      },
+      {
+        "id": "c",
+        "text": "sú sinice"
+      },
+      {
+        "id": "d",
+        "text": "sú cyanobaktérie"
+      },
+      {
+        "id": "e",
+        "text": "sú saprofyty"
+      },
+      {
+        "id": "f",
+        "text": "sú jednobunkové rastliny"
+      },
+      {
+        "id": "g",
+        "text": "obsahujú peptidoglykán mureín"
+      },
+      {
+        "id": "h",
+        "text": "majú bunkovú stenu tvorenú celulózou"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "148. Patogénne baktérie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa rozmnožujú nepriamym delením"
+      },
+      {
+        "id": "b",
+        "text": "spôsobujú ochorenia človeka"
+      },
+      {
+        "id": "c",
+        "text": "sú nepohyblivé bez bičíkov"
+      },
+      {
+        "id": "d",
+        "text": "spôsobujú ochorenia rastlín"
+      },
+      {
+        "id": "e",
+        "text": "spôsobujú ochorenia Živočíchov"
+      },
+      {
+        "id": "f",
+        "text": "sa rozmnožujú priamym bunkovým delením"
+      },
+      {
+        "id": "g",
+        "text": "sa využívajú v mliekarenstve pri výrobe syrov, kefírov a jogurtov."
+      },
+      {
+        "id": "h",
+        "text": "spôsobujú pohlavné choroby u človeka"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "149. Baktérie spôsobujú u človeka:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kvapavku - Treponema pallidum"
+      },
+      {
+        "id": "b",
+        "text": "vírusové ochorenia"
+      },
+      {
+        "id": "c",
+        "text": "kiahne - Shigella"
+      },
+      {
+        "id": "d",
+        "text": "besnotu - Vibrio"
+      },
+      {
+        "id": "e",
+        "text": "slintačku - Klebsiella"
+      },
+      {
+        "id": "f",
+        "text": "respiračné infekcie - Streptococcus"
+      },
+      {
+        "id": "g",
+        "text": "hnačky - Salmonella"
+      },
+      {
+        "id": "h",
+        "text": "tuberkulózu - Mycobacterium tuberculosis"
+      }
+    ],
+    "correct_answers": [
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "150. Ktorú z uvedených chorôb nespôsobujú vírusy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mozgoví encefalitídu"
+      },
+      {
+        "id": "b",
+        "text": "detskú obrnu"
+      },
+      {
+        "id": "c",
+        "text": "tuberkulózu"
+      },
+      {
+        "id": "d",
+        "text": "kvapavku"
+      },
+      {
+        "id": "e",
+        "text": "syfilis"
+      },
+      {
+        "id": "f",
+        "text": "chrípku"
+      },
+      {
+        "id": "g",
+        "text": "opar"
+      },
+      {
+        "id": "h",
+        "text": "besnotu"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E."
+  }
+]

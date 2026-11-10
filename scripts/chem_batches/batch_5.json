@@ -1,0 +1,2297 @@
+[
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "201. 0 chemickej väzbe platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Čím viac energie sa pri jej vzniku uvoľni, tým je labilnejšia"
+      },
+      {
+        "id": "b",
+        "text": "je spojenie atómov prvkov realizované prostredníctvom valenčných elektrónov"
+      },
+      {
+        "id": "c",
+        "text": "jej pevnosť klesá s jej násobnosťou"
+      },
+      {
+        "id": "d",
+        "text": "vznik väzbových elektrónových párov nezávisí od usporiadania elektrónov v orbitáloch"
+      },
+      {
+        "id": "e",
+        "text": "prekrytím orbitálu obsahujúceho elektrónový pár s orbitálom vakantným vzniká datívna väzba"
+      },
+      {
+        "id": "f",
+        "text": "kovalentná a koordinačná majú rovnaké vlastnosti, líšia sa iba spôsobom vzniku"
+      },
+      {
+        "id": "g",
+        "text": "s násobnosťou väzby rastie jej dížka"
+      },
+      {
+        "id": "h",
+        "text": "podmienkou jej vzniku je priblíženie atómov tak, aby došlo k prekrytiu valenčných orbitálov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "202. Vyberte nesprávne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sulfán tvorí iónové kryštály"
+      },
+      {
+        "id": "b",
+        "text": "atómové kryštály nevedú elektrický prúd 52"
+      },
+      {
+        "id": "c",
+        "text": "Možnosť C (pozri testovnicu)"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D (pozri testovnicu)"
+      },
+      {
+        "id": "e",
+        "text": "v molekule H2S je polárna kovalentná väzba"
+      },
+      {
+        "id": "f",
+        "text": "kovalentnou väzbou sui viazané atómy v metáne"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "v molekule cscl sú atómy viazané polárnou kovalentnou väzbou"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "203. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "priestorová štruktúra SF6 je pravidelný osemsten"
+      },
+      {
+        "id": "b",
+        "text": "v zlúčenine cscl je iónová väzba"
+      },
+      {
+        "id": "c",
+        "text": "koordinačné kovalentná väzba je v zlúčenine CH4"
+      },
+      {
+        "id": "d",
+        "text": "hybridné orbitály sú menšie ako pôvodne atómové orbitály"
+      },
+      {
+        "id": "e",
+        "text": "elektronegativita je schopnosť viazaného atómu odpudzovať elektróny chemickej väzby"
+      },
+      {
+        "id": "f",
+        "text": "polarita chemickej väzby sa určuje z rozdielu elektronegativít viazaných atómov"
+      },
+      {
+        "id": "g",
+        "text": "H2O je príkladom neekvivalentnej sp? hybridizácie"
+      },
+      {
+        "id": "h",
+        "text": "hybridizácia vysveťuje vznik energeticky rovnocenných kovalentných väzieb z energeticky rozdielnych orbitálov daného atómu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "204. V molekule H2CO3 :",
+    "options": [
+      {
+        "id": "a",
+        "text": "ležia atómy uhlíka a kyslíka v rovine"
+      },
+      {
+        "id": "b",
+        "text": "je päť  väzieb a jedna π väzba"
+      },
+      {
+        "id": "c",
+        "text": "je hybridizovaný atóm uhlíka (sp)"
+      },
+      {
+        "id": "d",
+        "text": "sú dve o väzby a dve π väzby"
+      },
+      {
+        "id": "e",
+        "text": "je uhlík sp hybridizovaný"
+      },
+      {
+        "id": "f",
+        "text": "ležia všetky atómy na jednej priamke"
+      },
+      {
+        "id": "g",
+        "text": "je jedna o väzba a tri π väzby"
+      },
+      {
+        "id": "h",
+        "text": "tvar molekuly vysvetľuje sp? hybridizácia uhlíka"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "205. Jednoduchá kovalentná väzba:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je typická pre nenasýtené uhľovodíky"
+      },
+      {
+        "id": "b",
+        "text": "je vždy polárna"
+      },
+      {
+        "id": "c",
+        "text": "môže vznikať prekrytím orbitálu s a p"
+      },
+      {
+        "id": "d",
+        "text": "je typická pre nasýtené uhľovodíky"
+      },
+      {
+        "id": "e",
+        "text": "medzi atómami je tvorená spoločným elektrónovým párom"
+      },
+      {
+        "id": "f",
+        "text": "vzniká, ak rozdiel v hodnote elektronegativít atómov je > ako 1,7"
+      },
+      {
+        "id": "g",
+        "text": "je v molekule brómu"
+      },
+      {
+        "id": "h",
+        "text": "je v molekule fluorovodíka"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "206. Dvojitá väzba:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa skladá z väzby o a π"
+      },
+      {
+        "id": "b",
+        "text": "je tvorená jedným elektrónovým párom"
+      },
+      {
+        "id": "c",
+        "text": "sa vyskytuje v molekule dusíka"
+      },
+      {
+        "id": "d",
+        "text": "vyskytuje sa v molekule CS2"
+      },
+      {
+        "id": "e",
+        "text": "je typická pre nasýtené uhľovodíky"
+      },
+      {
+        "id": "f",
+        "text": "eliminačnou reakciou prechádza na väzbu jednoduchí"
+      },
+      {
+        "id": "g",
+        "text": "adíciou sa môže zmeniť na väzbu jednoduchí 53"
+      },
+      {
+        "id": "h",
+        "text": "je reaktívnejšia ako väzba jednoduchá"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "207. V molekule vody je medzi H-0 väzba:",
+    "options": [
+      {
+        "id": "a",
+        "text": "polárne kovalentná"
+      },
+      {
+        "id": "b",
+        "text": "van der Waalsova"
+      },
+      {
+        "id": "c",
+        "text": "nepolarnekovalentna"
+      },
+      {
+        "id": "d",
+        "text": "vodíková"
+      },
+      {
+        "id": "e",
+        "text": "iónová, lebo rozdiel elektronegativít týchto prvkov je väčší ako 1,7"
+      },
+      {
+        "id": "f",
+        "text": "veľmi slabá (463 kj.mol-')"
+      },
+      {
+        "id": "g",
+        "text": "pevná (463 kj.mol-'), lebo má vysokú hodnotu väzbovej energie"
+      },
+      {
+        "id": "h",
+        "text": "jednoduchá"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "208. Väzbovosť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa vždy odvodzuje od elektrónovej konfigurácie atómu v základnom stave"
+      },
+      {
+        "id": "b",
+        "text": "je vždy daná počtom atómov tvoriacich molekulu"
+      },
+      {
+        "id": "c",
+        "text": "je možné odvodiť aj od elektrónovej konfigurácie atómu v excitovanom stave"
+      },
+      {
+        "id": "d",
+        "text": "chlóru môže byť 7, pretože v základnom stave môžu byť 3 elektróny v d orbitáloch"
+      },
+      {
+        "id": "e",
+        "text": "uhlíka je 4, pretože v excitovanom stave sú 4 elektróny v p orbitáloch"
+      },
+      {
+        "id": "f",
+        "text": "síry v SF6 je 6, pretože jej atómy sú sp'd? hybridizovane"
+      },
+      {
+        "id": "g",
+        "text": "dusíka je v rôznych zlúčeninách rôzna"
+      },
+      {
+        "id": "h",
+        "text": "je Číslo udávajúce koľko kovalentných väzieb (väzbových elektrónových párov) daný atóm vytvára s inými atómami v zlúčenine"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "209. Vyberte správne tvrdenie o hybridných orbitáloch:",
+    "options": [
+      {
+        "id": "a",
+        "text": "môžu existovať tri rôzne typy jednoduchej hybridizácie"
+      },
+      {
+        "id": "b",
+        "text": "pri neekvivalentnej sp’ hybridizácii dochádza k deformácii pravidelného štvorstena"
+      },
+      {
+        "id": "c",
+        "text": "rovinnú štruktúru majú cykloalkány s väzbovým uhlom 120°"
+      },
+      {
+        "id": "d",
+        "text": "karboxylová skupina je príkladom sp? hybridizácie atómu uhlíka"
+      },
+      {
+        "id": "e",
+        "text": "hybridné orbitály Pt tetrachloroplatnateho aniónu majú štruktúru trojbokého dvojihlanu"
+      },
+      {
+        "id": "f",
+        "text": "lineárnu štruktúru s väzbovým uhlom 120° majú alkény"
+      },
+      {
+        "id": "g",
+        "text": "dsp? hybridné orbitály mieria do vrcholu štvorca"
+      },
+      {
+        "id": "h",
+        "text": "molekula PCls má štruktúru štvorbokého dvojihlanu, čo zodpovedá sp'd hybridizácii atómu fosforu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "210. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "energia produktov priamej reakcie je vasia ako energia reaktantov"
+      },
+      {
+        "id": "b",
+        "text": "priama reakcia je endotermická"
+      },
+      {
+        "id": "c",
+        "text": "pri vzniku jedného mólu železa sa uvo'ni 463,8 kj energie"
+      },
+      {
+        "id": "d",
+        "text": "zvýšenie teploty posunie rovnováhu v smere tvorby železa"
+      },
+      {
+        "id": "e",
+        "text": "reakcia je exotermická"
+      },
+      {
+        "id": "f",
+        "text": "na vznik jedného mólu železa je potrebné dodať 463,8 kj energie"
+      },
+      {
+        "id": "g",
+        "text": "zníženie teploty neovplyvní stav chemickej rovnováhy reakcie"
+      },
+      {
+        "id": "h",
+        "text": "△H> 0"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "211. Pre reakciu 3C(s) + 2Fe2O3(s) -> 4Fe(s) + 3CO2(g) s Delta H = +463,8 kj platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "reakcia je endotermická"
+      },
+      {
+        "id": "b",
+        "text": "na redukciu 1 mol Fe2O3 sa spotrebuje 231,9 kj tepla"
+      },
+      {
+        "id": "c",
+        "text": "reakcia je exotermická"
+      },
+      {
+        "id": "d",
+        "text": "pri vzniku 4 mol Fe sa uvoľni 463,8 kj tepla"
+      },
+      {
+        "id": "e",
+        "text": "entalpia produktov je väčšia ako entalpia reaktantov"
+      },
+      {
+        "id": "f",
+        "text": "reakcia prebieha spontánne za nízkych teplôt"
+      },
+      {
+        "id": "g",
+        "text": "teplo sa pri reakcií spotrebováva z okolia"
+      },
+      {
+        "id": "h",
+        "text": "ide o redukciu oxidu železitého uhlíkom"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "212. Pri rozpúšťaní jedného mólu náci treba na rozrušenie kryštálovej štruktúry 781 kj tepla. Pri hydratácii iónov Nat a ČI sa uvoľni teplo 773 kj.mol-1. Pre rozpúšťanie jedného mólu nacl preto platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zmena entalpie rozrušenia kryštálovej štruktúry je kladná"
+      },
+      {
+        "id": "b",
+        "text": "výsledný tepelný efekt rozpúšťania je kladný, roztok sa zahrieva"
+      },
+      {
+        "id": "c",
+        "text": "pri hydrataci sa teplo uvoľňuje, rozpúšťanie je preto dej exotermicky rozrušenie kryštálovej štruktúry a tepla uvoľneného pri hydratácii iónov"
+      },
+      {
+        "id": "d",
+        "text": "yslednytepelnyefektrozpustaniasarovnasuctuteplapotrebnehona deeneystaleeiStktya saplaaSuendatno e irozruseniekystalovej Strutiry a tepla uvo'neného pri hydrataci iónov"
+      },
+      {
+        "id": "e",
+        "text": "je to exotermicky dej"
+      },
+      {
+        "id": "f",
+        "text": "rozpúšťanie nacl závisí od teploty"
+      },
+      {
+        "id": "g",
+        "text": "výsledný tepelný efekt rozpúšťania je záporný, roztok sa zahrieva"
+      },
+      {
+        "id": "h",
+        "text": "je to dej endotermický"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "213. Vyberte správne tvrdenie o aktivačnej energií Ea:",
+    "options": [
+      {
+        "id": "a",
+        "text": "hodnota aktivačnej energie sa rovná rozdielu hodnôt energie aktivovaného komplexu a energie reaktantov"
+      },
+      {
+        "id": "b",
+        "text": "aktivana energia súvisí so vznikom aktivovaného komplexu reakcie"
+      },
+      {
+        "id": "c",
+        "text": "aktivačná energia je bezrozmerná veličina"
+      },
+      {
+        "id": "d",
+        "text": "hodnota aktivačnej energie určuje energetickú bariéru medzi reaktantami a produktami reakcie"
+      },
+      {
+        "id": "e",
+        "text": "prítomnosť katalyzátora ovplyvňuje hodnotu aktivačnej energie"
+      },
+      {
+        "id": "f",
+        "text": "energetickú bariéru medzi reaktantami a produktami reakcie môžu prekonať iba častice s menšou energiou ako je hodnota aktivačnej energie"
+      },
+      {
+        "id": "g",
+        "text": "aktivačná energia sa nedá vypočítať"
+      },
+      {
+        "id": "h",
+        "text": "hodnota aktivačnej energie závisí od rovnovážnej konštanty reakcie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "214. Entalpia:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa určuje pri konštantnom tlaku a objeme"
+      },
+      {
+        "id": "b",
+        "text": "nie je bezrozmerná veličina, vyjadruje sa v kj.mol-1"
+      },
+      {
+        "id": "c",
+        "text": "rozdiel entalpie produktov a reaktantov je rovný reakčnému teplú reakcie pri konštantnom tlaku"
+      },
+      {
+        "id": "d",
+        "text": "je určená hodnotou rovnovážnej konštanty reakcie"
+      },
+      {
+        "id": "e",
+        "text": "vyjadruje mieru neusporiadanosti sústavy 55"
+      },
+      {
+        "id": "f",
+        "text": "určuje sa pri konštantnom tlaku"
+      },
+      {
+        "id": "g",
+        "text": "nezávisí na veľkosti systému a je vždy kladná systému"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "215. Najdôležitejšie faktory, ktoré ovplyviuju rýchlosť chemickej reakcie, st:",
+    "options": [
+      {
+        "id": "a",
+        "text": "veľkosť povrchu tuhých látok"
+      },
+      {
+        "id": "b",
+        "text": "tlak pri reakciách tuhých látok"
+      },
+      {
+        "id": "c",
+        "text": "prítomnosť katalyzátora"
+      },
+      {
+        "id": "d",
+        "text": "koncentrácia produktov"
+      },
+      {
+        "id": "e",
+        "text": "koncentrácia reaktantov"
+      },
+      {
+        "id": "f",
+        "text": "teplota"
+      },
+      {
+        "id": "g",
+        "text": "rovnovážna konštanta reakcie"
+      },
+      {
+        "id": "h",
+        "text": "entropia"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "216. Poriadok reakcie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "definuje sa ako súčet exponentov pri koncentráciách v kinetickej rovnici"
+      },
+      {
+        "id": "b",
+        "text": "môže byť aj nulový"
+      },
+      {
+        "id": "c",
+        "text": "nikdy nie je nulový"
+      },
+      {
+        "id": "d",
+        "text": "udáva, koľko častíc sa musí zraziť, aby reakcia prebehla"
+      },
+      {
+        "id": "e",
+        "text": "jeho hodnota sa určuje experimentálne"
+      },
+      {
+        "id": "f",
+        "text": "definuje, ako závisí reakčná rýchlosť od koncentrácie reagujúcich látok"
+      },
+      {
+        "id": "g",
+        "text": "udáva závislosť reakčnej rýchlosti od teploty"
+      },
+      {
+        "id": "h",
+        "text": "môže byť aj záporný"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "217. Pri analýze chemickej reakcie A + B -→ C sa zistilo, Že △H = - 100 kj.mol-1 a △S - -- 200 J.mol-l.K-1. Pre takíto chemickú reakciu potom platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prebieha pri P'ubovoľnej teplote"
+      },
+      {
+        "id": "b",
+        "text": "neprebieha pri Žiadnej teplote"
+      },
+      {
+        "id": "c",
+        "text": "prebieha pri teplotách vyšších ako 500 K"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D (pozri testovnicu)"
+      },
+      {
+        "id": "e",
+        "text": "pri teplotách pod 500 K dochádza k poklesu Gibbsovej energie"
+      },
+      {
+        "id": "f",
+        "text": "k poklesu Gibbsovej energie dochádza pri teplotách nad 227 °C"
+      },
+      {
+        "id": "g",
+        "text": "prebieha pri teplotách pod 227 °C"
+      },
+      {
+        "id": "h",
+        "text": "prebieha pri teplotách nižších ako 500 K"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "218. Pri ktorom z uvedených procesov dochádza k výraznému vzrastu entropie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "H20 (I) → H20 (g)"
+      },
+      {
+        "id": "b",
+        "text": "Pb (s) + Br2 (I) → PbBr2 (s)"
+      },
+      {
+        "id": "c",
+        "text": "Hg (I) + S (s) → hgs (s)"
+      },
+      {
+        "id": "d",
+        "text": "CaCO3 (s) → cao (s) + CO2 (g)"
+      },
+      {
+        "id": "e",
+        "text": "2 hgo (s) → 2 Hg (l) + 02(g)"
+      },
+      {
+        "id": "f",
+        "text": "H20 (I) → H2O (s)"
+      },
+      {
+        "id": "g",
+        "text": "Mg (s) + Cl2 (g) -→ MgCl2 (s) () H  + (S)  + ()   (S) (thn) 56"
+      },
+      {
+        "id": "h",
+        "text": "(NH4)2Cr20 (s) → N2 (g)+ Cr2O:(s)+ 4 H20 (g)"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "219. Vyberte pravdivý výrok o exotermickej reakcií:",
+    "options": [
+      {
+        "id": "a",
+        "text": "teplo sa uvoľňuje"
+      },
+      {
+        "id": "b",
+        "text": "teplo sa spotrebováva"
+      },
+      {
+        "id": "c",
+        "text": "množstvo tepla sa nemení"
+      },
+      {
+        "id": "d",
+        "text": "teplo sa uvoľni a vzápätí spotrebuje"
+      },
+      {
+        "id": "e",
+        "text": "je vždy exergonicka"
+      },
+      {
+        "id": "f",
+        "text": "môže byť aj endergonická"
+      },
+      {
+        "id": "g",
+        "text": "prebieha vždy spontánne"
+      },
+      {
+        "id": "h",
+        "text": "ak je △G < 0 potom prebieha spontánne"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "220. Entropia:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je mierou neusporiadanosti sústavy"
+      },
+      {
+        "id": "b",
+        "text": "je mierou rýchlosti reakcie"
+      },
+      {
+        "id": "c",
+        "text": "je kritériom pre posúdenie tepelného efektu reakcie"
+      },
+      {
+        "id": "d",
+        "text": "je matematický vyjadrená vzťahom AS = Q/T"
+      },
+      {
+        "id": "e",
+        "text": "je matematický vyjadrená vzťahom △S = △H - △G"
+      },
+      {
+        "id": "f",
+        "text": "je mierou vnútornej energie sústavy"
+      },
+      {
+        "id": "g",
+        "text": "je mierou pravdepodobnosti zloženia sústavy"
+      },
+      {
+        "id": "h",
+        "text": "je stavová veličina"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "221. Súčin rozpustnosti:",
+    "options": [
+      {
+        "id": "a",
+        "text": "charakterizuje rovnováhu medzi iónmi v zrazenine"
+      },
+      {
+        "id": "b",
+        "text": "charakterizuje rovnováhu v nasýtenom roztoku"
+      },
+      {
+        "id": "c",
+        "text": "charakterizuje rovnováhu medzi zrazeninou a jej iónmi v nasýtenom roztoku"
+      },
+      {
+        "id": "d",
+        "text": "nepriamo vyjadruje rozpustnosť malo rozpustnej látky"
+      },
+      {
+        "id": "e",
+        "text": "závisí od teploty"
+      },
+      {
+        "id": "f",
+        "text": "soli axby je daný vzťahom Ks = [A]*. [B]y"
+      },
+      {
+        "id": "g",
+        "text": "je tým vyšší, čím menej je daná látka rozpustná"
+      },
+      {
+        "id": "h",
+        "text": "charakterizuje dane rozpúšťadlo"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "222. Čím je disociačná konštanta komplexu pri komplexotvornej reakci nižšia, tým je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "daný komplex nestalejsi"
+      },
+      {
+        "id": "b",
+        "text": "daný komplex rozpustnejší"
+      },
+      {
+        "id": "c",
+        "text": "daný komplex polárnejší"
+      },
+      {
+        "id": "d",
+        "text": "daný komplex stálejší"
+      },
+      {
+        "id": "e",
+        "text": "rovnováha viac posunutá v prospech disociácie komplexu"
+      },
+      {
+        "id": "f",
+        "text": "konštanta stability komplexu vyššia"
+      },
+      {
+        "id": "g",
+        "text": "aj konštanta stability komplexu nižšia"
+      },
+      {
+        "id": "h",
+        "text": "pravdepodobnosť vzniku komplexu vyššia"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "223. Redukcia oxidu Železitého hliníkom je exotermická reakcia, jej tepelný efekt je 850 kj/mol. Správny zápis tejto reakcie je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fe2O3+ 2 Al → 2 Fe + Al2O3 - 850 kj"
+      },
+      {
+        "id": "b",
+        "text": "Fe2O3 + 2 Al - 850 kj → 2 Fe + Al2O3"
+      },
+      {
+        "id": "c",
+        "text": "Fe2O3 + 2 Al + 850 kj → 2 Fe + Al2O3"
+      },
+      {
+        "id": "d",
+        "text": "Fe203 + 2 Al → 2 Fe + Al2O3 + 850 kj"
+      },
+      {
+        "id": "e",
+        "text": "Fe2O3 + AICl3 - 850 kj → FeCl3 + Al2O3 57"
+      },
+      {
+        "id": "f",
+        "text": "Fe2O3 + AICl3 + 850 kj → FeCl3 + Al203"
+      },
+      {
+        "id": "g",
+        "text": "Fe203 + 2 Al → 2 Fe + Al2O3; AH = - 850 kj/mol"
+      },
+      {
+        "id": "h",
+        "text": "Fe2O3 + AICl3 → FeCl3 + Al2O3 + 850 kj"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "224. Vyberte endotermické reakcie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "C (s) + 02 (g) → CO2 (g) + 393,68 kj"
+      },
+      {
+        "id": "b",
+        "text": "(COOH)2 (s) + 2 CH:OH (I) → (CH;CO0)2 (I) + 2 H20; AH = -26,79 kj/mol"
+      },
+      {
+        "id": "c",
+        "text": "H2(g) + I2(s) → 2 HI(g) - 26 kj"
+      },
+      {
+        "id": "d",
+        "text": "CO2(g) + C(s) + 110 kj → 2 ČO(g)"
+      },
+      {
+        "id": "e",
+        "text": "H2(g) + I2(g) -→ 2 HI(g) + 300 kj"
+      },
+      {
+        "id": "f",
+        "text": "2 H20(I) → 2 H2(g) + O2(g); Qm = + 452 kj/mol 1-10T 698- = HV :(1) H Z + (8)00z (8)20 Z + (1) H000 8"
+      },
+      {
+        "id": "g",
+        "text": "CHaC00H()+202(g)→2.CO2(g)+ 2 H20 (I); AH=-869 J.moll"
+      },
+      {
+        "id": "h",
+        "text": "N2(g) + O2(g) + 180,6 kj → 2NO(g)"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "225. Pri endotermických reakciách:",
+    "options": [
+      {
+        "id": "a",
+        "text": "entalpia produktov je menšia ako entalpia reaktantov"
+      },
+      {
+        "id": "b",
+        "text": "entalpia produktov je vyššia ako entalpia reaktantov"
+      },
+      {
+        "id": "c",
+        "text": "teplo sa v priebehu reakcie uvoľňuje"
+      },
+      {
+        "id": "d",
+        "text": "hodnota uvo'neného tepla je tým vyššia, Čím je väčšie látkové množstvo reaktantov"
+      },
+      {
+        "id": "e",
+        "text": "S < O, tak neprebiehajú samovoľne"
+      },
+      {
+        "id": "f",
+        "text": "ak dochádza k zväčšeniu entropie, reakcia môže prebehnúť"
+      },
+      {
+        "id": "g",
+        "text": "ak dochádza k zmenšeniu entropie, reakcia môže prebehnúť"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "226. V reakcií H2O (g) + C (s) → ČO (g) + H2 (g); Ak AH = 131,4 kj/mol potom rovnováhu pošíva vpravo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zvýšenie tlaku"
+      },
+      {
+        "id": "b",
+        "text": "zníženie tlaku"
+      },
+      {
+        "id": "c",
+        "text": "zvýšenie teploty"
+      },
+      {
+        "id": "d",
+        "text": "zníženie teploty"
+      },
+      {
+        "id": "e",
+        "text": "zvýšenie koncentrácie ČO"
+      },
+      {
+        "id": "f",
+        "text": "zníženie koncentrácie ČO"
+      },
+      {
+        "id": "g",
+        "text": "odoberanie reaktantov"
+      },
+      {
+        "id": "h",
+        "text": "odoberanie produktov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "227. Rozpúšťacie teplo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je teplo, ktoré sa pri rozpúšťaní vždy uvoľni"
+      },
+      {
+        "id": "b",
+        "text": "je Arrheniova rovnica"
+      },
+      {
+        "id": "c",
+        "text": "sa pri rozpúšťaní látok môže aj uvo'niť"
+      },
+      {
+        "id": "d",
+        "text": "je teplo, pri ktorom sa látka najlepšie rozpúšťa"
+      },
+      {
+        "id": "e",
+        "text": "sa dá merať pomocou kalorimetra"
+      },
+      {
+        "id": "f",
+        "text": "je množstvo tepla, ktoré sa uvoľni pri rozrušení kryštálovej struktiry rozpúšťanej látky"
+      },
+      {
+        "id": "g",
+        "text": "sa obvykle vzťahuje na jeden mol rozpustenej látky"
+      },
+      {
+        "id": "h",
+        "text": "pri rozpúšťaní látok môže nadobúdať aj kladné hodnoty 58"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "228. Pre rýchlosť chemickej reakcie a rýchlostnú konštantu platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rýchlostná konštanta závisí od teploty podľa Arrheniovej rovnice"
+      },
+      {
+        "id": "b",
+        "text": "rýchlostná konštanta nezávisí od koncentrácie reaktantov"
+      },
+      {
+        "id": "c",
+        "text": "rýchlosť reakcie závisí od koncentrácie reaktantov"
+      },
+      {
+        "id": "d",
+        "text": "rýchlosť reakcie sa v priebehu reakcie spravidla znižuje"
+      },
+      {
+        "id": "e",
+        "text": "katalyzátor zvyšuje rýchlosť reakcie znížením aktivačnej energie"
+      },
+      {
+        "id": "f",
+        "text": "rýchlostná konštanta je bezrozmerná veličina pre všetky poriadky reakcie"
+      },
+      {
+        "id": "g",
+        "text": "jednotka rýchlosti reakcie je mol.dm-3.s-1"
+      },
+      {
+        "id": "h",
+        "text": "pri zvýšení teploty o 10 °C sa rýchlosť reakcie zvýši spravidla 2 až 4-krát"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "229. Pre rýchlostnú konštantu \"k\" chemickej reakcie platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "závisí od koncentrácie reagujúcich látok"
+      },
+      {
+        "id": "b",
+        "text": "nezávisí priamo od koncentrácie reagujúcich látok"
+      },
+      {
+        "id": "c",
+        "text": "závisí od teploty"
+      },
+      {
+        "id": "d",
+        "text": "je konštantná pri 'ubovo'ných podmienkach"
+      },
+      {
+        "id": "e",
+        "text": "závisí od objemu reagujúcich látok"
+      },
+      {
+        "id": "f",
+        "text": "je to experimentálna veličina"
+      },
+      {
+        "id": "g",
+        "text": "Arrheniova rovnica"
+      },
+      {
+        "id": "h",
+        "text": "jej fyzikálnym rozmerom je mol"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "230. O rovnovážnej konštante \"K\" chemických reakcií platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je rôzna pri rôznych teplotách"
+      },
+      {
+        "id": "b",
+        "text": "je rovnaká pri každej teplote"
+      },
+      {
+        "id": "c",
+        "text": "jej hodnota je nízka v prípade, ak v systéme existujú prakticky len východiskové látky"
+      },
+      {
+        "id": "d",
+        "text": "priamo závisí od koncentrácie reaktantov"
+      },
+      {
+        "id": "e",
+        "text": "má vždy hodnotu blízku nule"
+      },
+      {
+        "id": "f",
+        "text": "jej hodnota je vysoká v prípade, ak v systéme existujú prakticky len produkty"
+      },
+      {
+        "id": "g",
+        "text": "jej hodnota je vždy nízka"
+      },
+      {
+        "id": "h",
+        "text": "jej hodnota vyjadruje stav reakenej rovnováhy"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "231. Ktorý výrok o faktoroch ovplyviujucich chemické reakcie platí?",
+    "options": [
+      {
+        "id": "a",
+        "text": "rýchlosť reakcie sa zvyšuje so zvyšovaním teploty pri endotermickej reakcií"
+      },
+      {
+        "id": "b",
+        "text": "katalyzátory ovplyvňujú rýchlosť reakcie, pričom sa menia"
+      },
+      {
+        "id": "c",
+        "text": "katalyzátory ovplyvňujú rýchlosť reakcie, pričom sa nemenia"
+      },
+      {
+        "id": "d",
+        "text": "inhibítor zvyšuje aktivačnú energiu"
+      },
+      {
+        "id": "e",
+        "text": "zvýšenie koncentrácie reaktantov znižuje rýchlosť reakcie"
+      },
+      {
+        "id": "f",
+        "text": "zvýšenie koncentrácie produktov zvyšuje rýchlosť reakcie"
+      },
+      {
+        "id": "g",
+        "text": "so znižujúcou sa hodnotou aktivačnej energie pri katalyzovanej reakci sa znižuje rýchlostná konštanta"
+      },
+      {
+        "id": "h",
+        "text": "katalyzátor zväčšuje hodnotu rovnovážnej konštanty"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "232. Pre rýchlostnú konštantu \"k\" chemickej reakcie neplatí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nezávisí od teploty"
+      },
+      {
+        "id": "b",
+        "text": "závisí priamo od koncentrácie reaktantov"
+      },
+      {
+        "id": "c",
+        "text": "nezávisí od koncentrácie reaktantov"
+      },
+      {
+        "id": "d",
+        "text": "závisí od reakčných podmienok"
+      },
+      {
+        "id": "e",
+        "text": "nezávisí od katalyzátora 59"
+      },
+      {
+        "id": "f",
+        "text": "závisí od látok ovplyvňujúcich aktivačnú energiu"
+      },
+      {
+        "id": "g",
+        "text": "nezávisí od aktivačnej energie (Ea)"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "233. Negatívne katalyzátory (inhibítory) v reakci:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pri znížení teploty doľava, keďže reakcia je endotermická"
+      },
+      {
+        "id": "b",
+        "text": "doľava, pri znížení teploty, keďže reakcia je exotermická"
+      },
+      {
+        "id": "c",
+        "text": "zvýšením tlaku v prospech reaktantov"
+      },
+      {
+        "id": "d",
+        "text": "odoberaním NO2 V prospech produktov, doprava"
+      },
+      {
+        "id": "e",
+        "text": "pridaním NO2 sa posunie rovnováha v prospech N2O4"
+      },
+      {
+        "id": "f",
+        "text": "pridaním diméru sa rovnováha posunie do'ava"
+      },
+      {
+        "id": "g",
+        "text": "znížením tlaku v prospech reaktantov, doľava"
+      },
+      {
+        "id": "h",
+        "text": "odoberaním produktu, monoméru NO2, V prospech reaktantov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "234. Pre rovnovážnu reakciu N2O4(g) <=> 2 NO2(g) s Delta H = +58 kj/mol sa rovnováha posunie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pri znížení teploty doľava, keďže reakcia je endotermická"
+      },
+      {
+        "id": "b",
+        "text": "doľava pri znížení teploty, keďže spätná reakcia je exotermická"
+      },
+      {
+        "id": "c",
+        "text": "zvýšením tlaku v prospech reaktantov (doľava)"
+      },
+      {
+        "id": "d",
+        "text": "odoberaním NO2 v prospech produktov (doprava)"
+      },
+      {
+        "id": "e",
+        "text": "pridaním NO2 sa posunie rovnováha v prospech N2O4"
+      },
+      {
+        "id": "f",
+        "text": "pridaním diméru N2O4 sa rovnováha posunie doprava"
+      },
+      {
+        "id": "g",
+        "text": "znížením tlaku v prospech reaktantov, doľava"
+      },
+      {
+        "id": "h",
+        "text": "zvýšením teploty v smere produktov (doprava)"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "235. Vyberte správne výroky o faktoroch ovplyvnujicich chemické rovnováhy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "katalyzátor nemá vplyv na rovnovážne zloženie zmesi"
+      },
+      {
+        "id": "b",
+        "text": "zníženie tlaku plynnej sústavy vyvolá reakciu vedúcu k zmene rovnovážneho zloženia v smere menšieho počtu častíc"
+      },
+      {
+        "id": "c",
+        "text": "platí všeobecný LeChatelierov princíp akcie a reakcie"
+      },
+      {
+        "id": "d",
+        "text": "porušenie rovnováhy vonkajším zásahom (akciou) nevyvolá dej (reakciu) smerujúci k zrušeniu účinku vonkajšieho zásahu"
+      },
+      {
+        "id": "e",
+        "text": "zvýšenie teploty vyvolá reakciu vedicu k zmene rovnovážneho zloženia v smere endotermického priebehu"
+      },
+      {
+        "id": "f",
+        "text": "odoberanie produktov vyvolá reakciu vedicu k zmene rovnovážneho zloženia v smere rovnakom ako pridanie východzích látok"
+      },
+      {
+        "id": "g",
+        "text": "zvýšenie tlaku plynnej sústavy vyvolá reakciu vedicu k zmene rovnovážneho zloženia v smere väčšieho počtu častíc"
+      },
+      {
+        "id": "h",
+        "text": "zníženie teploty vyvolá reakciu vedicu k zmene rovnovážneho zloženia v smere endotermického priebehu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "236. Rýchlosť reakcie CH3OH + HCOOH -→ HCOOCH3 + H2O vyjadruje vzťah:",
+    "options": [
+      {
+        "id": "a",
+        "text": "= d[CH3OH]/dt"
+      },
+      {
+        "id": "b",
+        "text": "v = d[HCOOCH3]/dt"
+      },
+      {
+        "id": "c",
+        "text": "v = -d[HCOOH]/dt 60 IP/[HOOO0Hp-= A\"P"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D (pozri testovnicu)"
+      },
+      {
+        "id": "e",
+        "text": "v = -d[H2O]/dt"
+      },
+      {
+        "id": "f",
+        "text": "v = -d[CH3OH]/dt IP/[HOOOHlp = A 3"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "v = d[H2O]/dt"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "237. Hodnota rovnovážnej konštanty:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je vysoká, keď sú reaktanty premenené na produkty v nepatrnej miere"
+      },
+      {
+        "id": "b",
+        "text": "je nízka, keď je rovnováha posunutá na stranu reaktantov"
+      },
+      {
+        "id": "c",
+        "text": "závisí od teploty, pri ktorej reakcia prebieha"
+      },
+      {
+        "id": "d",
+        "text": "sa zníži, ak sa zvýši teplota exotermickej reakcie"
+      },
+      {
+        "id": "e",
+        "text": "sa zníži, ak sa zvýši teplota endotermickej reakcie"
+      },
+      {
+        "id": "f",
+        "text": "je priamo úmerná koncentraci reaktantov"
+      },
+      {
+        "id": "g",
+        "text": "reakcie CaCO3 (s) -→ cao (s) + CO2 (g) je úmerná parciálnemu tlaku CO2, ak reakcia prebieha v otvorenej sústave"
+      },
+      {
+        "id": "h",
+        "text": "reakcie CaCO3 (s) → cao (s) + CO2 (g) je úmerná parciálnemu tlaku CO2, ak reakcia prebieha v uzavretej sústave"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "238. Rovnovážna konštanta reakcie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zn + 2 HCI -→ ZnCl2 + H2 sa nedá vypočítať, keď reakcia prebieha votvorenejkadicke"
+      },
+      {
+        "id": "b",
+        "text": "MgCO3 -→ mgo + CO2 je priamo úmerná parciálnemu tlaku CO2 v uzavretom reakčnom systéme"
+      },
+      {
+        "id": "c",
+        "text": "CH4 + 2 O2 -→ CO2 + 2 H2O má vysokú hodnotu, preto spätná reakcia je prakticky nemožná"
+      },
+      {
+        "id": "d",
+        "text": "2 ČO + O2 -→ 2 CO2 je K = [CO2]/[ČO].[O2]"
+      },
+      {
+        "id": "e",
+        "text": "ČO + 2 H2 → CH3OH je K = [ČO].[H2][CH3OH]"
+      },
+      {
+        "id": "f",
+        "text": "2 HI -→ H2 + I2 je K = [2HI]/[H2].[12]"
+      },
+      {
+        "id": "g",
+        "text": "ČO(NH2)2 + H2O → CO2 + 2 NH3 je K = [CO2].[NH3]}/[ČO(NH2)2][H20]"
+      },
+      {
+        "id": "h",
+        "text": "ČO(NH2)2 + H2O -→ CO2 + 2 NH3 je vyššia, keď je reakcia katalyzovaná ureazou"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "239. Rovnovážna konštanta reakcie 2 FeCl3 + SnCl2 -→ 2 FeCl2 + SnCl4 :",
+    "options": [
+      {
+        "id": "a",
+        "text": "je vyššia pri danej teplote v prítomnosti katalyzátora"
+      },
+      {
+        "id": "b",
+        "text": "je nižšia pri danej teplote v prítomnosti katalyzátora"
+      },
+      {
+        "id": "c",
+        "text": "je K = [FeCl2]?.[SnC14]/[FeC13].[SnCl2]"
+      },
+      {
+        "id": "d",
+        "text": "je K = [FeCl3]?.[SnCl2]/[FeCl2].[SnC14]"
+      },
+      {
+        "id": "e",
+        "text": "priamej a spätnej reakcie má rovnakú hodnotu, líši sa len znamienkom"
+      },
+      {
+        "id": "f",
+        "text": "závisí od teploty, pri ktorej reakcia prebieha"
+      },
+      {
+        "id": "g",
+        "text": "sa nemení zmenou tlaku v reakenom systéme"
+      },
+      {
+        "id": "h",
+        "text": "závisí od redoxných schopnosti reaktantov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "240. Ako sa zmení rovnováha reakci, ak sa zmenia podmienky?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2 hbr (g) <> H2 (g) + Br2 (g) - 70,2 kj, ak sa zvýši teplota, rovnováha sa posunie v prospech reaktantov"
+      },
+      {
+        "id": "b",
+        "text": "2 NO (g) + O2 (g)  2 NO2 (g) + 117,2 kj, ak sa zvýši teplota, rovnováha sa posunie v prospech produktov 61 železitého, potom sa rovnováha posunie v prospech reaktantov posunie v prospech produktov posunie v prospech reaktantov posunie v prospech produktov"
+      },
+      {
+        "id": "c",
+        "text": "Možnosť C (pozri testovnicu)"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D (pozri testovnicu)"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F (pozri testovnicu)"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "241. Vyberte tie reakcie, pri ktorých sa po znížení tlaku stav rovnováhy nezmení:",
+    "options": [
+      {
+        "id": "a",
+        "text": "C (s) + O2 (g) → CO2 (g)"
+      },
+      {
+        "id": "b",
+        "text": "2 ČO (g) + O2 (g) < 2 CO2 (g)"
+      },
+      {
+        "id": "c",
+        "text": "2 C (s) + O2 (g) → 2 ČO (g)"
+      },
+      {
+        "id": "d",
+        "text": "2 SO2 (g) + O2 (g)  2 SO3 (g)"
+      },
+      {
+        "id": "e",
+        "text": "H2 (g) + I2 (g) 台 2 HI (g)"
+      },
+      {
+        "id": "f",
+        "text": "CH4 (g) + 2 O2 (g) → CO2 (g) + 2 H2O (g)"
+      },
+      {
+        "id": "g",
+        "text": "ČO (g) + NO2 (g) → CO2 (g) + NO (g)"
+      },
+      {
+        "id": "h",
+        "text": "ČO (g) + 2 H2 (g) -→ CH3OH (g)"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "242. Vyberte správne tvrdenia 0 chemických reakciách:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú to deje, V priebehu ktorých sa reaktanty menia na produkty"
+      },
+      {
+        "id": "b",
+        "text": "prebiehajú medzi látkami v dôsledku ich vzájomného pôsobenia alebo účinkom rôznych druhov energií"
+      },
+      {
+        "id": "c",
+        "text": "ak je chemický dej v rovnováhe [AH| = |T.△S]"
+      },
+      {
+        "id": "d",
+        "text": "nikdy neprebiehajú pri vzájomnom pôsobení dvoch prvkov"
+      },
+      {
+        "id": "e",
+        "text": "medzi základné typy chemických reakci patria reakcie: redoxné, protolytické, zrážacie, komplexotvorné"
+      },
+      {
+        "id": "f",
+        "text": "chemické reakcie neprebiehajú pri trávení"
+      },
+      {
+        "id": "g",
+        "text": "syntéza, rozklad a podvojná zámena nepatria medzi chemické reakcie"
+      },
+      {
+        "id": "h",
+        "text": "zapisujeme ich chemickými rovnicami, ktoré znázorňujú začiatočný a konečný stav reakcie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "243. V priebehu chemických reakcií:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nedochádza k zániku väzieb medzi atómami molekil východzích látok"
+      },
+      {
+        "id": "b",
+        "text": "nedochádza k prekrývaniu elektrónových orbitálov látky zložené"
+      },
+      {
+        "id": "c",
+        "text": "nemenisacelkovy počet a druh jednotlivých atómov,zktorych si reagujúce dlakyzlozenepaagonoyenatoov,zkoryn sutcggu"
+      },
+      {
+        "id": "d",
+        "text": "zanikajú väzby v reaktantoch (niektoré alebo všetky) a vznikajú V produktoch"
+      },
+      {
+        "id": "e",
+        "text": "nikdy nedochádza k zmene entropie systému"
+      },
+      {
+        "id": "f",
+        "text": "dochádza k uvo'novaniu alebo spotrebovaniu tepelnej energie 62 atómov, molekúl)"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "244. Reakene teplo reakcií:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa najčastejšie vyjadrujev jednotkách kj/mol"
+      },
+      {
+        "id": "b",
+        "text": "priktorych vznikaImolziuceninyprkmv,sanazyazluovacie teplé"
+      },
+      {
+        "id": "c",
+        "text": "nzavisiodteployatlakuriorychreakcieprebiehajuucovaleteo"
+      },
+      {
+        "id": "d",
+        "text": "△Q = H pre izochoricke deje"
+      },
+      {
+        "id": "e",
+        "text": "nemožno vypočítať z väzbových energi látok"
+      },
+      {
+        "id": "f",
+        "text": "má kladnú hodnotu pri endotermických reakciách"
+      },
+      {
+        "id": "g",
+        "text": "môžeme vyjadriť v kg/l"
+      },
+      {
+        "id": "h",
+        "text": "prebiehajúcich za štandardných podmienok (298,15 K; 101,3 kpa) označujeme △Ho"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "245. Vyberte nesprávne tvrdenie o reakenom teplé:",
+    "options": [
+      {
+        "id": "a",
+        "text": "reakene teplo reakci prebiehajúcich pri konštantnom tlaku sa určuje ako rozdiel entalpie produktov reakcie a tepelného obsahu reaktantov"
+      },
+      {
+        "id": "b",
+        "text": "pri exotermických reakciách je AH < 0"
+      },
+      {
+        "id": "c",
+        "text": "v prípade, že je entalpia produktov väčšia ako entalpia reaktantov, je AH < 0"
+      },
+      {
+        "id": "d",
+        "text": "△H = Q pre izobarické deje"
+      },
+      {
+        "id": "e",
+        "text": "reakene teplo reakci je veličina nezávislá od podmienok, pri ktorých reakcia prebieha"
+      },
+      {
+        "id": "f",
+        "text": "reakčné teplo je vyjadrené zmenou entropie"
+      },
+      {
+        "id": "g",
+        "text": "ak H < 0, reakcia nikdy neprebieha samovoľne"
+      },
+      {
+        "id": "h",
+        "text": "hodnotureakcneho tepla ovplyviuje skupenský stav reagujúcich látok"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "246. Pre reakciu 2 SO2 (g) + O2 (g)  2 SO3 (g); △H° = -196 kj/mol platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "priama reakcia je endotermická"
+      },
+      {
+        "id": "b",
+        "text": "rovnaké množstvo tepla sa spotrebuje pri spätnej reakcií"
+      },
+      {
+        "id": "c",
+        "text": "hodnota reakčného tepla priamej a spätnej reakcie je rovnaká a v ničom sa nelíši"
+      },
+      {
+        "id": "d",
+        "text": "prvý termochemicky zákon"
+      },
+      {
+        "id": "e",
+        "text": "zvýšenie tlaku posunie rovnováhu v prospech syntézy oxidu sírového"
+      },
+      {
+        "id": "f",
+        "text": "reakčné teplo môže byť zlučovacie aj spaľovacie teplo"
+      },
+      {
+        "id": "g",
+        "text": "reakcia vzniku oxidu sírového je endotermická"
+      },
+      {
+        "id": "h",
+        "text": "absolútna hodnota reakeneho tepla priamej a spätnej reakcie je rôzna"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "247. Reakcia je exergonicka, keď:",
+    "options": [
+      {
+        "id": "a",
+        "text": "energia potrebná na štiepenie väzieb reaktantov je väčšia ako energia uvoľnená vznikom produktu"
+      },
+      {
+        "id": "b",
+        "text": "sústava odoberá energiu z okolia"
+      },
+      {
+        "id": "c",
+        "text": "sa štiepia neutrálne molekuly na radikály"
+      },
+      {
+        "id": "d",
+        "text": "sústava energiu uvoľňuje"
+      },
+      {
+        "id": "e",
+        "text": "sa v reakcií H2 + Cl2 -→ 2 hcl na rozštiepenie väzieb spotrebovalo 678 kj/mol a pri vzniku 2 mólov hcl sa uvoľnilo 863 kj/mol"
+      },
+      {
+        "id": "f",
+        "text": "je súčasne exotermická a △S > 0 63"
+      },
+      {
+        "id": "g",
+        "text": "sa energia okolia reakčnej sústavy znižuje iba teplo) je možné zo sústavy energiu odoberať"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "248. Pri exotermických reakciách:",
+    "options": [
+      {
+        "id": "a",
+        "text": "katalyzátor zvýši množstvo uvoľneného tepla"
+      },
+      {
+        "id": "b",
+        "text": "produkty reakcie majú pevnejšie chemické väzby ako reaktanty"
+      },
+      {
+        "id": "c",
+        "text": "entalpia produktov je väčšia ako entalpia reaktantov"
+      },
+      {
+        "id": "d",
+        "text": "zvýšenie teploty posuiva rovnováhu reakcie v prospech reaktantov"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F (pozri testovnicu)"
+      },
+      {
+        "id": "g",
+        "text": "samovo'ny priebeh reakcie určuje podmienka JAH] >ITAS, ak je S<0"
+      },
+      {
+        "id": "h",
+        "text": "zvýšením teploty sa hodnota rovnovážnej konštanty zväčší"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "249. Reakcia N2 (g) + 3 H2 (g) 2 NH3 (g); AH = -92,4 kj.mol-l:",
+    "options": [
+      {
+        "id": "a",
+        "text": "reakcia neprebieha samovoľne, ak je △S < 0 a |AH| <|T△SI"
+      },
+      {
+        "id": "b",
+        "text": "vždy prebieha pri vysokých teplotách"
+      },
+      {
+        "id": "c",
+        "text": "prebieha samovoľne ak je △S > 0"
+      },
+      {
+        "id": "d",
+        "text": "pri vysokom tlaku prebieha v smere tvorby amoniaku"
+      },
+      {
+        "id": "e",
+        "text": "v smere tvorby amoniaku je sprevádzaná poklesom entropie"
+      },
+      {
+        "id": "f",
+        "text": "má rovnova2nu konštantu Ke = [NH3]?/[N2]+[H2]3"
+      },
+      {
+        "id": "g",
+        "text": "má rovnovážnu konštantu Kp = p(NH3)/p(N2).p3(H2)"
+      },
+      {
+        "id": "h",
+        "text": "má rovnovážnu konštantu rovnakú pri každej teplote"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "250. Rovnovážny stav:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa vždy dosiahne, keď koncentrácia reaktantov je menšia ako koncentrácia produktov"
+      },
+      {
+        "id": "b",
+        "text": "sa dosiahne, keď koncentrácie reaktantov a produktov sa nemenia"
+      },
+      {
+        "id": "c",
+        "text": "je charakterizovaný rovnovážnou konštantou pri určitej teplote"
+      },
+      {
+        "id": "d",
+        "text": "sa vždy dosiahne v otvorenej sústave, keď je produkt v plynnom skupenstve"
+      },
+      {
+        "id": "e",
+        "text": "sa nikdy nedosiahne v heterogénnej sústave"
+      },
+      {
+        "id": "f",
+        "text": "dosiahne sústava rýchlejšie v prítomnosti katalyzátora"
+      },
+      {
+        "id": "g",
+        "text": "sanikdynedosiahnehomgenej,plynnj,uzavreté sistave .charaktereujesraynakahmhstpriamleinspamareaksiestave"
+      },
+      {
+        "id": "h",
+        "text": "charakterizuje rovnaká rýchlosť priamej a spätnej reakcie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E, G."
+  }
+]

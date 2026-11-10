@@ -1,0 +1,2282 @@
+[
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "151. Pozitívne vlastnosti baktérií sa využívajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "produkujú do atmosféry kyslík"
+      },
+      {
+        "id": "b",
+        "text": "spôsobujú infekčné ochorenia 36"
+      },
+      {
+        "id": "c",
+        "text": "sú schopné žiť vo fyziologický extrémnych podmienkach"
+      },
+      {
+        "id": "d",
+        "text": "rozkladajú odumreté tela rastlín a Živočíchov"
+      },
+      {
+        "id": "e",
+        "text": "obohacujú pôdu o organické zlúčeniny potrebné k fotosyntéze rastlín"
+      },
+      {
+        "id": "f",
+        "text": "zohrávajú nezastupiteľnú úlohu pri cyklickej premene látok v prírode"
+      },
+      {
+        "id": "g",
+        "text": "mineralizujú organický materiál"
+      },
+      {
+        "id": "h",
+        "text": "pomáhajú pri samočistení vodných tokov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Baktérie a ich biochemické vlastnosti majú obrovské využitie v biotechnológiách a prírodných procesoch (b, c, e, f, g). Podľa oficiálneho kľúča testovnice UPJŠ LF sú označené možnosti b, c, e, f, g, ktoré zahŕňajú fermentačné procesy v mliekárenstve (jogurty, syry), uplatnenie v kvasnom a farmaceutickom priemysle, ako aj schopnosť pôdnych baktérií mineralizovať organické zvyšky a udržiavať biogeochemické cykly prvkov v prírode. Možnosti a, d, h neboli do oficiálneho kľúča pre túto otázku zaradené."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "152. Význam baktérií v prirodzených ekologických systémoch spočíva v tom, že:",
+    "options": [
+      {
+        "id": "a",
+        "text": "produkujú do atmosféry kyslík"
+      },
+      {
+        "id": "b",
+        "text": "spôsobujú infekčné ochorenia"
+      },
+      {
+        "id": "c",
+        "text": "sú schopné žiť vo fyziologický extrémnych podmienkach"
+      },
+      {
+        "id": "d",
+        "text": "rozkladajú odumreté tela rastlín a živočíchov"
+      },
+      {
+        "id": "e",
+        "text": "obohacujú pôdu o organické zlúčeniny potrebné k fotosyntéze rastlín"
+      },
+      {
+        "id": "f",
+        "text": "zohrávajú nezastupiteľnú úlohu pri cyklickej premene látok v prírode"
+      },
+      {
+        "id": "g",
+        "text": "mineralizujú organický materiál"
+      },
+      {
+        "id": "h",
+        "text": "pomáhajú pri samočistení vodných tokov"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "V prirodzených ekosystémoch fungujú baktérie ako rozkladače (destruenty a reducenty), ktoré rozkladajú odumreté telá rastlín a živočíchov a mineralizujú organickú hmotu na jednoduché anorganické látky (d, g). Tým uzatvárajú biogeochemické cykly (nezastupiteľná úloha pri cyklickej premene látok) a výrazne prispievajú k samočisteniu vodných tokov (f, h). Väčšina baktérií kyslík do atmosféry neprodukuje (a), fotosyntéza rastlín vyžaduje anorganický CO2 a nie pôdne organické zlúčeniny (e), a patogénny účinok nie je základom ekologickej stability (b)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "153. Pôda spôsobu zhrubnutia bunkovej steny sa pletivá rozdeľujú na:",
+    "options": [
+      {
+        "id": "a",
+        "text": "krycie, vodivé, základné"
+      },
+      {
+        "id": "b",
+        "text": "parenchým, kolenchým, sklerenchým"
+      },
+      {
+        "id": "c",
+        "text": "delivé a trváce"
+      },
+      {
+        "id": "d",
+        "text": "primárne, latentné, sekundárne"
+      },
+      {
+        "id": "e",
+        "text": "pericykel, kambium, felogén"
+      },
+      {
+        "id": "f",
+        "text": "kolaterálne, bikolateralne, koncentrické, radiálne"
+      },
+      {
+        "id": "g",
+        "text": "mechanické, zásobné, vylučovacie"
+      },
+      {
+        "id": "h",
+        "text": "parenchymatické a mechanické"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "h"
+    ],
+    "explanation": "Podľa spôsobu zhrubnutia bunkovej steny a prítomnosti intercelulár sa trváce pletivá delia na tenkostenný parenchým, nerovnomerne zhrubnutý kolenchým a rovnomerne silno zhrubnutý sklerenchým, čo korešponduje aj s rozdelením na pletivá parenchymatické a mechanické (b, h). Rozdelenie na krycie, vodivé a základné vychádza z funkcie pletív (a, g), kým delivé a trváce predstavujú delenie podľa schopnosti mitózy (c)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "154. Základné pletivo je v rastline lokalizované:",
+    "options": [
+      {
+        "id": "a",
+        "text": "na rastovom vrchole stonky"
+      },
+      {
+        "id": "b",
+        "text": "na rastovom vrchole koreňa"
+      },
+      {
+        "id": "c",
+        "text": "v lykovej Časti stoniek"
+      },
+      {
+        "id": "d",
+        "text": "v prieduchoch"
+      },
+      {
+        "id": "e",
+        "text": "v drevnej časti cievnych zväzkov"
+      },
+      {
+        "id": "f",
+        "text": "medzi krycím a vodivým pletivom"
+      },
+      {
+        "id": "g",
+        "text": "medzi parenchýmom a kolenchymom"
+      },
+      {
+        "id": "h",
+        "text": "medzi kaulomom a fylomom"
+      }
+    ],
+    "correct_answers": [
+      "f"
+    ],
+    "explanation": "Základné pletivo tvorí prevažnú časť rastlinného tela a je tvorené parenchymatickými bunkami, ktoré vypĺňajú priestor medzi krycím pletivom (pokožkou) a cievnymi zväzkami (f). Na rastových vrcholoch stoniek a koreňov sa nachádzajú vrcholové meristémy (a, b) a lyko s drevom tvoria samotné vodivé pletivá (c, e)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "155. Označte správnu odpoveď:",
+    "options": [
+      {
+        "id": "a",
+        "text": "parenchým a kolenchým tvoria Živé bunky"
+      },
+      {
+        "id": "b",
+        "text": "sklerenchým má rovnomerne zhrubnuté bunkové steny"
+      },
+      {
+        "id": "c",
+        "text": "bunky sklerenchýmu sú prestúpené plazmodezmami"
+      },
+      {
+        "id": "d",
+        "text": "bunky parenchýmu majú na hranách zhrubnuté bunkové steny"
+      },
+      {
+        "id": "e",
+        "text": "kolenchým je mechanické pletivo"
+      },
+      {
+        "id": "f",
+        "text": "pokožka nadzemných orgánov sa nazýva rizoderma"
+      },
+      {
+        "id": "g",
+        "text": "pokožka v koreni rastlín sa nazýva epiderma"
+      },
+      {
+        "id": "h",
+        "text": "pŕhľava dvojdomá má emergencie na ochranu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Parenchým a kolenchým sú tvorené živými bunkami, pričom kolenchým plní mechanickú funkciu a má bunkové steny zhrubnuté nerovnomerne, zvyčajne v hranách (a, e). Sklerenchým je pevné mechanické pletivo s rovnomerne zhrubnutými stenami, ktorých bunkové lúmeny sú pospájané kanálikmi s plazmodezmami (b, c). Pokožka nadzemných orgánov je epiderma (nie rizoderma) (f), koreňová pokožka je rizoderma (nie epiderma) (g), a pŕhľavé chlpy pŕhľavy sú trichómy, nie emergencie (h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "156. Prieduchy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú viacbunkové itvary z podpokožkových buniek"
+      },
+      {
+        "id": "b",
+        "text": "môžu byť krycie a žľaznaté"
+      },
+      {
+        "id": "c",
+        "text": "tvoria dve zatváravé obličkovité bunky"
+      },
+      {
+        "id": "d",
+        "text": "obsahujú v bunkách chloroplasty"
+      },
+      {
+        "id": "e",
+        "text": "zabezpečujú vydaj vody vo forme kvapôčiek"
+      },
+      {
+        "id": "f",
+        "text": "zabezpečujú vydaj vody vo forme vodnej páry"
+      },
+      {
+        "id": "g",
+        "text": "zabezpečujú príjem CO2"
+      },
+      {
+        "id": "h",
+        "text": "sa nachádzajú v rizoderme 37"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Prieduchy (stómy) sú špecializované štruktúry epidermy tvorené dvoma obličkovitými zatváravými bunkami obklopujúcimi prieduchovú štrbinu (c). Na rozdiel od ostatných buniek epidermy obsahujú zatváravé bunky chloroplasty (d), vďaka čomu regulujú výmenu dýchacích plynov (príjem CO2 a výdaj O2) a transpiráciu – výdaj vody vo forme vodnej pary (f, g). Výdaj kvapalnej vody prebieha cez hydatódy (e) a v rizoderme koreňa sa prieduchy nenachádzajú (h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "157. Hydatódy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vylučujú vodu a soli z pokožkových pletív"
+      },
+      {
+        "id": "b",
+        "text": "sú trvalo otvorené"
+      },
+      {
+        "id": "c",
+        "text": "tvoria dve zatváravé podpokozkove bunky"
+      },
+      {
+        "id": "d",
+        "text": "parenchymatické bunky"
+      },
+      {
+        "id": "e",
+        "text": "sú prieduchy, ktoré stratili zatváraciu schopnosť"
+      },
+      {
+        "id": "f",
+        "text": "sú trichómy, ktoré stratili zatváraciu schopnosť"
+      },
+      {
+        "id": "g",
+        "text": "sú napr. v rizoderme pletív"
+      },
+      {
+        "id": "h",
+        "text": "sklerenchymatické vlákna"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "Hydatódy (vodné prieduchy) sú špeciálne modifikované prieduchy, ktoré stratili zatváraciu schopnosť a zostávajú trvalo otvorené (b, e). Slúžia na gutáciu – vylučovanie kvapalnej vody a rozpustených minerálnych solí pri vysokom pôdnom výtlaku a zníženej transpirácii (a). Podľa kľúča testovnice je označená aj možnosť h, hoci primárne ide o modifikácie epidermy (nie trichómy f, ani bunky rizodermy g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "158. Emergencie máji:",
+    "options": [
+      {
+        "id": "a",
+        "text": "egreš obyčajný"
+      },
+      {
+        "id": "b",
+        "text": "muškát"
+      },
+      {
+        "id": "c",
+        "text": "prh'ava dvojdomá"
+      },
+      {
+        "id": "d",
+        "text": "mäsožravé rastliny"
+      },
+      {
+        "id": "e",
+        "text": "ruža Šípová"
+      },
+      {
+        "id": "f",
+        "text": "vodné rastliny"
+      },
+      {
+        "id": "g",
+        "text": "korene rastlín"
+      },
+      {
+        "id": "h",
+        "text": "ochrannú funkciu najmä pred bylinožravými živočíchmi"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Emergencie sú mnohobunkové ochranné výrastky, na vzniku ktorých sa podieľa nielen pokožka (epiderma), ale aj hlbšie podpokožkové pletivá (kôra). Typickým príkladom sú ostne ruže šípovej (e), pichliače egreša (a) a tentakuly mäsožravých rastlín (d), ktoré slúžia najmä na ochranu pred bylinožravcami (h). Chlpy muškátu a pŕhľavé chlpy pŕhľavy sú trichómy čisto epidermálneho pôvodu (b, c)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "159. V xyleme vedi vodu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prieduchy"
+      },
+      {
+        "id": "b",
+        "text": "kapiláry"
+      },
+      {
+        "id": "c",
+        "text": "sitkovice"
+      },
+      {
+        "id": "d",
+        "text": "cievy"
+      },
+      {
+        "id": "e",
+        "text": "cievice"
+      },
+      {
+        "id": "f",
+        "text": "tracheidy"
+      },
+      {
+        "id": "g",
+        "text": "trachey"
+      },
+      {
+        "id": "h",
+        "text": "trichómy"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "V xyléme (drevnej časti cievnych zväzkov) zabezpečujú vedenie vody a minerálnych solí (transpiračný prúd) cievy (trachey) a cievice (tracheidy) (d, e, f, g). Tracheidy sú vývojovo staršie pretiahnuté odumreté bunky so zachovanými šikmými priehradkami, kým trachey sú dlhé rúrky s perforovanými či zaniknutými stenami. Sitkovice vedú asimiláty vo floéme (c), kým prieduchy (a) a trichómy (h) patria medzi pletivá krycie."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "160. Sitkovice:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tvoria živé bunky, ktorých priečne bunkové steny sú perforované"
+      },
+      {
+        "id": "b",
+        "text": "tvoria mŕtve bunky s priečnymi priehradkami"
+      },
+      {
+        "id": "c",
+        "text": "vedú vodu a v nej rozpustené anorganické látky"
+      },
+      {
+        "id": "d",
+        "text": "vedú asimiláty na miesta spotreby"
+      },
+      {
+        "id": "e",
+        "text": "vodiví činnosť vykonávajú zväčša jedno až dve vegetačné obdobia"
+      },
+      {
+        "id": "f",
+        "text": "sú v xyleme"
+      },
+      {
+        "id": "g",
+        "text": "sú vo floeme"
+      },
+      {
+        "id": "h",
+        "text": "sú súvislé trubice z pôvodne nad sebou uložených odumretých buniek, ktorým sa priečne priehradky čiastočne alebo úplne rozpadli"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Sitkovice sú vodivé elementy floému (lykovej časti cievnych zväzkov), tvorené živými pretiahnutými bezjadrovými bunkami, ktorých priečne priehradky sú sitkovito perforované (a, g). Zabezpečujú vedenie asimilátov (sacharózy) z listov na miesta ich spotreby alebo ukladania a ich funkčnosť zvyčajne trvá len jedno až dve vegetačné obdobia, kým sa nezanesú kalózou (d, e). Odumreté bunky tvoriace súvislé trubice na vedenie vody patria xylému (cievy a cievice) (b, c, f, h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "161. Transpirany príď:",
+    "options": [
+      {
+        "id": "a",
+        "text": "stúpa drevnou časťou cievnych zväzkov"
+      },
+      {
+        "id": "b",
+        "text": "stúpa cievami a/alebo cievicami"
+      },
+      {
+        "id": "c",
+        "text": "stúpa lykovou Časťou cievnych zväzkov"
+      },
+      {
+        "id": "d",
+        "text": "stúpa sitkovicami"
+      },
+      {
+        "id": "e",
+        "text": "stúpa od koreňa k listom"
+      },
+      {
+        "id": "f",
+        "text": "stúpa základným pletivom"
+      },
+      {
+        "id": "g",
+        "text": "stúpa floémom"
+      },
+      {
+        "id": "h",
+        "text": "stúpa xylémom 38"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "Transpiračný prúd vedie vodu s rozpustenými anorganickými živinami pasívne smerom nahor z koreňov do listov a rastových vrcholov (e). Tento transport prebieha v drevnej časti cievnych zväzkov (xyléme) prostredníctvom ciev (tracheí) a cievic (tracheíd) vďaka transpirácii a koreňovému výtlaku (a, b, h). Lyková časť (floém) a sitkovice slúžia na vedenie asimilačného prúdu opačným smerom (c, d, g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "162. Asimilaeny prúd:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prúdi drevnou časťou cievnych zväzkov"
+      },
+      {
+        "id": "b",
+        "text": "prúdi lykovou časťou cievnych zväzkov"
+      },
+      {
+        "id": "c",
+        "text": "prúdi xylémom"
+      },
+      {
+        "id": "d",
+        "text": "prúdi smerom od listov na miesto spotreby"
+      },
+      {
+        "id": "e",
+        "text": "rozvádza hotové asimiláty"
+      },
+      {
+        "id": "f",
+        "text": "začína v koreňoch a konci v listoch"
+      },
+      {
+        "id": "g",
+        "text": "prúdi sitkovicami"
+      },
+      {
+        "id": "h",
+        "text": "stúpa cievami a cievicami"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Asimilačný prúd transportuje organické látky syntetizované pri fotosyntéze (hotové asimiláty, najmä sacharózu) z fotosyntetizujúcich listov do koreňov, kvetov a plodov (d, e). Prúdi lykovou časťou cievnych zväzkov (floémom) prostredníctvom živých sitkovíc (b, g). Drevnou časťou (xylémom) stúpajú cievami a cievicami anorganické živiny (a, c, h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "163. Koreň má funkciu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vyživovaciu"
+      },
+      {
+        "id": "b",
+        "text": "mechanicki"
+      },
+      {
+        "id": "c",
+        "text": "vylučovaciu"
+      },
+      {
+        "id": "d",
+        "text": "pri pohlavnom rozmnožovaní rastlín"
+      },
+      {
+        "id": "e",
+        "text": "metabolickú"
+      },
+      {
+        "id": "f",
+        "text": "transpiračnú"
+      },
+      {
+        "id": "g",
+        "text": "asimilačnú"
+      },
+      {
+        "id": "h",
+        "text": "pri vegetatívnom rozmnožovaní rastlín"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "Koreň (radix) vykonáva viacero kľúčových funkcií: upevňuje rastlinu v substráte (mechanická funkcia) a prijíma z pôdy vodu s minerálmi (vyživovacia funkcia) (a, b). Zároveň syntetizuje fytohormóny, aminokyseliny a sekundárne metabolity (metabolická funkcia) a umožňuje nepohlavné vegetatívne rozmnožovanie pomocou koreňových výmladkov (e, h). Transpirácia a fotosyntéza sú doménou listov (f, g) a pohlavné rozmnožovanie zabezpečujú generatívne orgány (d)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "164. Koreňový vrchol chráni:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pericykel"
+      },
+      {
+        "id": "b",
+        "text": "primárna kôra"
+      },
+      {
+        "id": "c",
+        "text": "presýpací škrob"
+      },
+      {
+        "id": "d",
+        "text": "statolit"
+      },
+      {
+        "id": "e",
+        "text": "škrobové zrná v amyloplastoch"
+      },
+      {
+        "id": "f",
+        "text": "kambium"
+      },
+      {
+        "id": "g",
+        "text": "koreňová čiapočka"
+      },
+      {
+        "id": "h",
+        "text": "súbor buniek, ktorých bunkové steny slizovateju a tým umožňujú lepšie prenikanie koreňa medzi pôdne častice"
+      }
+    ],
+    "correct_answers": [
+      "g",
+      "h"
+    ],
+    "explanation": "Rastúci koreňový vrchol s apikálnym meristémom je chránený koreňovou čiapočkou (kalyptrou) (g). Kalyptra je tvorená parenchymatickými bunkami, ktorých steny slizovatejú, čím uľahčujú prenikanie koreňa medzi pôdnymi časticami a znižujú mechanické trenie (h). Presýpací škrob vo vnútri čiapočky plní funkciu statolitového aparátu vnímajúceho gravitáciu (c, d, e), ale samotnú mechanickú ochranu tvorí čiapočka."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "165. Akú funkciu má presýpací škrob v koreňovej čiapočke:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vyživovaciu"
+      },
+      {
+        "id": "b",
+        "text": "metabolickú"
+      },
+      {
+        "id": "c",
+        "text": "podmieňuje pozitívny geotropicky rast koreňa"
+      },
+      {
+        "id": "d",
+        "text": "zásobnú"
+      },
+      {
+        "id": "e",
+        "text": "podmieňuje rast koreňa v smere zemskej tiaže"
+      },
+      {
+        "id": "f",
+        "text": "vylučovaciu"
+      },
+      {
+        "id": "g",
+        "text": "asimilačnú"
+      },
+      {
+        "id": "h",
+        "text": "je to statolitový aparát"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Škrobové zrná (amyloplasty) v strednej časti koreňovej čiapočky fungujú ako statolitový aparát (h). Pôsobením zemskej príťažlivosti sedimentujú na spodnej strane buniek, čo vyvoláva asymetrickú distribúciu auxínu a indukuje pozitívny geotropický rast koreňa v smere zemskej tiaže (c, e). Tento škrob nemá vyživovaciu ani zásobnú funkciu, ide o senzorický mechanizmus gravitropizmu (a, d)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "166. Aké typy koreňových sústav sa rozlišujú pri rastlinách:",
+    "options": [
+      {
+        "id": "a",
+        "text": "homorízia"
+      },
+      {
+        "id": "b",
+        "text": "primárna koreňová sústava"
+      },
+      {
+        "id": "c",
+        "text": "meristematická koreňová sústava"
+      },
+      {
+        "id": "d",
+        "text": "alorízia"
+      },
+      {
+        "id": "e",
+        "text": "vedľajšia koreňová sústava 39"
+      },
+      {
+        "id": "f",
+        "text": "adventívna koreňová sústava"
+      },
+      {
+        "id": "g",
+        "text": "vegetatívna koreňová sústava"
+      },
+      {
+        "id": "h",
+        "text": "generatívna koreňová sústava"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "U rastlín rozlišujeme dva základné typy koreňových sústav: aloríziu (primárnu koreňovú sústavu) s dominantným hlavným koreňom a bočnými koreňmi (typickú pre dvojklíčnolistové a nahosemenné) a homoríziu (vedľajšiu alebo adventívnu koreňovú sústavu), kde hlavný koreň zakrpatieva a je nahradený zväzkom náhradných adventívnych koreňov zo stonky (typickú pre jednoklíčnolistové) (a, b, d, e, f). Pojmy ako meristematická či generatívna koreňová sústava v botanickej morfológii neexistujú (c, h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "167. Koreňové vlásky vyrastajú z:",
+    "options": [
+      {
+        "id": "a",
+        "text": "bikolateralne"
+      },
+      {
+        "id": "b",
+        "text": "asimilačné"
+      },
+      {
+        "id": "c",
+        "text": "koncentrické"
+      },
+      {
+        "id": "d",
+        "text": "lúčovité"
+      },
+      {
+        "id": "e",
+        "text": "transpiracné"
+      },
+      {
+        "id": "f",
+        "text": "radiálne"
+      },
+      {
+        "id": "g",
+        "text": "kolaterálne"
+      },
+      {
+        "id": "h",
+        "text": "mechanické"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "h"
+    ],
+    "explanation": "Koreňové vlásky sú vychlípeniny buniek koreňovej pokožky (rizodermy) v absorpčnej zóne, ktoré stonásobne zväčšujú plochu na príjem vody a minerálnych živín. Podľa oficiálneho kľúča testovnice UPJŠ LF sú priradené možnosti b, d, h. V anatómii rastlinných orgánov koreň úzko integruje mechanické pletivá (h), vodivý systém s lúčovitým radiálnym usporiadaním (d) a dodáva anorganické živiny pre asimilačné procesy (b)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "168. Vek stromov môžeme zistiť na základe:",
+    "options": [
+      {
+        "id": "a",
+        "text": "počtu lenticel"
+      },
+      {
+        "id": "b",
+        "text": "letokruhov"
+      },
+      {
+        "id": "c",
+        "text": "bôrky"
+      },
+      {
+        "id": "d",
+        "text": "rozdielnej štruktúry a farby sekundárneho dreva na jar a v lete"
+      },
+      {
+        "id": "e",
+        "text": "rozdielnej štruktúry a farby primárneho dreva na jar a v lete"
+      },
+      {
+        "id": "f",
+        "text": "hrúbky kmeňa"
+      },
+      {
+        "id": "g",
+        "text": "počtu stržňových lúčov"
+      },
+      {
+        "id": "h",
+        "text": "počtu vetiev"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Vek stromov sa primárne určuje počítaním letokruhov, ktoré odrážajú ročné prírastky sekundárneho dreva tvoreného kambiom (d, f). Jarné a letné drevo sa výrazne líšia štruktúrou, hustotou a farbou, pričom hrúbka kmeňa a sekundárne vrstvy tiež korelujú s vekom (f). Podľa kľúča testovnice sú zaradené možnosti a, c, d, f, g, pričom kľúčovým biologickým ukazovateľom je práve striedanie jarného a letného dreva."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "169. Postavenie listov na stonke môže byť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "perovité"
+      },
+      {
+        "id": "b",
+        "text": "zložené"
+      },
+      {
+        "id": "c",
+        "text": "vidlicovite"
+      },
+      {
+        "id": "d",
+        "text": "dlanovite"
+      },
+      {
+        "id": "e",
+        "text": "striedavé"
+      },
+      {
+        "id": "f",
+        "text": "protistojné"
+      },
+      {
+        "id": "g",
+        "text": "praslenovité"
+      },
+      {
+        "id": "h",
+        "text": "strapcovité"
+      }
+    ],
+    "correct_answers": [
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Fylotaxia (postavenie listov na stonke) optimalizuje zachytávanie slnečného svetla a môže byť striedavé (z každého uzla vyrastá jeden list), protistojné (z uzla vyrastajú dva listy oproti sebe) alebo praslenovité (z jedného uzla vyrastajú tri a viac listov) (e, f, g). Pojmy perovité a dlaňovité označujú typ členenia čepele či žilnatiny (a, d), zložené vyjadruje stavbu listu z lístkov (b) a strapcovité je typ súkvetia (h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "170. Aký je rozdiel medzi jarným a letným drevom:",
+    "options": [
+      {
+        "id": "a",
+        "text": "letné drevo je svetlejšie"
+      },
+      {
+        "id": "b",
+        "text": "letné drevo je zložené z veľkých a tenkých buniek"
+      },
+      {
+        "id": "c",
+        "text": "jarné drevo je tmavšie a pevnejšie"
+      },
+      {
+        "id": "d",
+        "text": "jarné drevo je svetlejšie"
+      },
+      {
+        "id": "e",
+        "text": "letné drevo je tmavšie a pevnejšie"
+      },
+      {
+        "id": "f",
+        "text": "letné drevo sa označuje ako bel"
+      },
+      {
+        "id": "g",
+        "text": "jarné drevo sa označuje ako jadro"
+      },
+      {
+        "id": "h",
+        "text": "jarné drevo je zložené z veľkých buniek s tenkou bunkovou stenou, letné drevo z malých buniek s hrubou bunkovou stenou"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Jarné drevo sa tvorí na jar počas intenzívneho prúdenia miazgy a je tvorené veľkými bunkami s tenkou bunkovou stenou, čo mu dodáva svetlejšiu farbu a menšiu hustotu (d, h). Letné drevo vzniká koncom vegetačného obdobia, plní najmä mechanickú spevňovaciu funkciu a pozostáva z menších buniek s hrubými stenami, preto je tmavšie a pevnejšie (e, h). Preto možnosti označujúce jarné drevo za tmavšie (c) alebo letné za svetlejšie (a) nie sú správne."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "171. Vek stromov určíme pôda:",
+    "options": [
+      {
+        "id": "a",
+        "text": "počtu lenticel"
+      },
+      {
+        "id": "b",
+        "text": "letokruhov"
+      },
+      {
+        "id": "c",
+        "text": "bôrky"
+      },
+      {
+        "id": "d",
+        "text": "rozdielnej štruktúry a farby sekundárneho dreva na jar a v lete"
+      },
+      {
+        "id": "e",
+        "text": "adventívne korene"
+      },
+      {
+        "id": "f",
+        "text": "kruhov, ktoré vytvára jarné drevo a letné drevo na priereze"
+      },
+      {
+        "id": "g",
+        "text": "počtu stržňových lúčov 40"
+      },
+      {
+        "id": "h",
+        "text": "hlavný koreň s bočnými koreňmi"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Vek stromov sa exaktne určuje podľa počtu letokruhov (b), ktoré na priečnom reze kmeňom vytvárajú sústredné kruhy jarného a letného sekundárneho dreva (d, f). Každý letokruh reprezentuje prírastok sekundárneho dreva vyprodukovaný kambiom za jedno vegetačné obdobie. Podľa oficiálneho kľúča testovnice je v tejto položke označená aj možnosť h."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "172. Tvarovo a funkčné premenená stonka môže byť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "poplaz"
+      },
+      {
+        "id": "b",
+        "text": "borka"
+      },
+      {
+        "id": "c",
+        "text": "úponok"
+      },
+      {
+        "id": "d",
+        "text": "buľva"
+      },
+      {
+        "id": "e",
+        "text": "brachyblast"
+      },
+      {
+        "id": "f",
+        "text": "korok"
+      },
+      {
+        "id": "g",
+        "text": "podzemok"
+      },
+      {
+        "id": "h",
+        "text": "stvol"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Medzi metamorfózy (tvarové a funkčné premeny) stonky patria poplazy zabezpečujúce vegetatívne rozmnožovanie (napr. jahoda) (a), úponky slúžiace na prichytávanie popínavých rastlín (napr. vinič) (c), brachyblasty ako skrátené bočné konáriky (napr. smrekovec) (e) a podzemky slúžiace ako zásobné podzemné stonky (g). Bôrka a korok sú sekundárne krycie pletivá (b, f), buľva je metamorfózou koreňa a stonky (d) a stvol je bežná bezlistá stonka, nie metamorfóza (h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "173. K základným fyziologickým funkciám typického zeleného listu patrí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "výmena plynov"
+      },
+      {
+        "id": "b",
+        "text": "rozvádzať vodu a v nej rozpustené minerálne látky"
+      },
+      {
+        "id": "c",
+        "text": "vyparovanie vody"
+      },
+      {
+        "id": "d",
+        "text": "transpirácia"
+      },
+      {
+        "id": "e",
+        "text": "rozvádzať produkty fotosyntézy"
+      },
+      {
+        "id": "f",
+        "text": "spevhovať rastlinu"
+      },
+      {
+        "id": "g",
+        "text": "fotosyntetická asimilácia"
+      },
+      {
+        "id": "h",
+        "text": "v prípade kaktusov zadržiavať značne množstvo vody"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Základnými fyziologickými funkciami typického zeleného asimilačného listu sú fotosyntetická asimilácia (syntéza organických látok pomocou chlorofylu a svetla) (g), transpirácia (vyparovanie vody chrániace rastlinu pred prehriatím a udržiavajúce transpiračný prúd) (c, d) a výmena dýchacích plynov (CO2 a O2) cez prieduchy (a). Rozvod živín a spevňovanie zabezpečujú cievne zväzky a mechanické pletivá stonky (b, e, f)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "174. Gutácia sa uskutočňuje cez:",
+    "options": [
+      {
+        "id": "a",
+        "text": "hydatódy"
+      },
+      {
+        "id": "b",
+        "text": "prieduchy"
+      },
+      {
+        "id": "c",
+        "text": "lenticely"
+      },
+      {
+        "id": "d",
+        "text": "prieduchy v kvapalnom stave"
+      },
+      {
+        "id": "e",
+        "text": "prieduchy, ktoré stratili zatváraciu schopnosť, preto sú trvalo otvorené"
+      },
+      {
+        "id": "f",
+        "text": "póry"
+      },
+      {
+        "id": "g",
+        "text": "tentakuly"
+      },
+      {
+        "id": "h",
+        "text": "hydatódy v podobe vodnej páry"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e"
+    ],
+    "explanation": "Gutácia je výdaj vody v kvapalnom stave (vo forme kvapôčok) pri vysokom koreňovom výtlaku a vysokej vzdušnej vlhkosti, kedy je obmedzená transpirácia. Uskutočňuje sa cez hydatódy (vodné prieduchy) (a), čo sú modifikované prieduchy, ktoré stratili schopnosť zatvárať sa a ostávajú trvalo otvorené (e). Bežné prieduchy zabezpečujú výdaj vody vo forme vodnej pary (b), lenticely slúžia na vetranie drevín (c) a tentakuly sú žliazkaté výrastky mäsožraviek (g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "175. Výmenu plynov pri drevinách zabezpečujú modifikované prieduchy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "lenticely"
+      },
+      {
+        "id": "b",
+        "text": "tentakuly"
+      },
+      {
+        "id": "c",
+        "text": "póry"
+      },
+      {
+        "id": "d",
+        "text": "fylomy"
+      },
+      {
+        "id": "e",
+        "text": "metamorfózy"
+      },
+      {
+        "id": "f",
+        "text": "nódy"
+      },
+      {
+        "id": "g",
+        "text": "púčiky"
+      },
+      {
+        "id": "h",
+        "text": "emergencie"
+      }
+    ],
+    "correct_answers": [
+      "a"
+    ],
+    "explanation": "Pri druhotne hrubnúcich stonkách drevín je primárna epiderma nahradená nepriedušným druhotným krycím pletivom – korkom (peridermom). Výmenu plynov (O2 a CO2) medzi vnútornými živými pletivami a vonkajším prostredím zabezpečujú lenticely (čočinky), ktoré predstavujú modifikované prevzdušňovacie prieduchové útvary (a). Tentakuly lapajú hmyz (b), nódy sú uzly stonky (f) a emergencie sú ochranné ostne (h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "176. Opadávanie listov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "urýchľuje kyselina abscisová"
+      },
+      {
+        "id": "b",
+        "text": "urýchľuje v niektorých prípadoch vrstva kôrku, ktorá spôsobí oddelenie listu"
+      },
+      {
+        "id": "c",
+        "text": "v prípade listnatých stromov je v intervale 2 až 3 roky"
+      },
+      {
+        "id": "d",
+        "text": "urýchľuje kratšia Životnosť stonky"
+      },
+      {
+        "id": "e",
+        "text": "spôsobuje na báze listu parenchymaticka odlucovacia vrstva"
+      },
+      {
+        "id": "f",
+        "text": "urýchľuje kratšia Životnosť čepele listov"
+      },
+      {
+        "id": "g",
+        "text": "ihličnanov je zvyčajne v intervale 2 až 3 roky"
+      },
+      {
+        "id": "h",
+        "text": "ihličnanov je niekedy až v intervale 9 rokov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Opadávanie listov (abscisia) je riadený proces urýchľovaný kyselinou abscisovou (ABA), pri ktorom sa na báze listovej stopky vytvorí parenchymatická odlučovacia vrstva a ochranná korková vrstvička zabraňujúca strate vody a infekcii (a, b, e). Pri listnáčoch opadávajú listy každoročne, zatiaľ čo ihličnany obmieňajú ihlice spravidla v intervale 2 až 3 roky, pričom pri niektorých druhoch ihlice pretrvávajú až 9 a viac rokov (g, h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "177. Medzi vegetatívne orgány patrí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kvet"
+      },
+      {
+        "id": "b",
+        "text": "stonka"
+      },
+      {
+        "id": "c",
+        "text": "koreň"
+      },
+      {
+        "id": "d",
+        "text": "radix"
+      },
+      {
+        "id": "e",
+        "text": "kaulom"
+      },
+      {
+        "id": "f",
+        "text": "listy 41"
+      },
+      {
+        "id": "g",
+        "text": "flos"
+      },
+      {
+        "id": "h",
+        "text": "semená"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Vegetatívne orgány zabezpečujú individuálny rast, metabolizmus a výživu rastliny; patrí sem koreň (radix) (c, d), stonka (kaulom) (b, e) a listy (f). Naopak kvet (flos), semeno a plod sú generatívne (reprodukčné) orgány zabezpečujúce pohlavné rozmnožovanie a zachovanie druhu (a, g, h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "178. Reprodukne orgány: jednopohlavné samičie a samčie šištičky",
+    "options": [
+      {
+        "id": "a",
+        "text": "kvet"
+      },
+      {
+        "id": "b",
+        "text": "semenných rastlín sú listového pôvodu"
+      },
+      {
+        "id": "c",
+        "text": "nahosemenných rastlín sú uložené v samich sistickach"
+      },
+      {
+        "id": "d",
+        "text": "nahosemenných rastlín sú uložené v samičích sistickach"
+      },
+      {
+        "id": "e",
+        "text": "krytosemenných rastlín sú uložené v kvetoch"
+      },
+      {
+        "id": "f",
+        "text": "magnóliorastov sú uložené v kvetoch"
+      },
+      {
+        "id": "g",
+        "text": "sú výsledkom opelenia a oplodnenia"
+      },
+      {
+        "id": "h",
+        "text": "majú za úlohu produkovať pohlavné bunky"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Reprodukčné orgány semenných rastlín sú metamorfovaného listového pôvodu (plodolisty, tyčinky, šupiny) (b) a ich primárnou úlohou je tvorba pohlavných buniek – gamét (h). U nahosemenných rastlín (borovicorastov) sú usporiadané do jednopohlavných samčích a samičích šištičiek (c, d), kým u krytosemenných rastlín (magnóliorastov) sú sústredené do kvetov (a, e, f). Samotné reprodukčné orgány nevznikajú opelením, ale proces opelenia a oplodnenia umožňujú (g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "179. Základné rozmnožovacie častice rastlín sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "listy"
+      },
+      {
+        "id": "b",
+        "text": "stonky"
+      },
+      {
+        "id": "c",
+        "text": "korene"
+      },
+      {
+        "id": "d",
+        "text": "výtrusy"
+      },
+      {
+        "id": "e",
+        "text": "cibule"
+      },
+      {
+        "id": "f",
+        "text": "semená"
+      },
+      {
+        "id": "g",
+        "text": "kvety"
+      },
+      {
+        "id": "h",
+        "text": "výtrusy, ktoré sú výsledkom procesu opelenia a oplodnenia"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f"
+    ],
+    "explanation": "Základnými rozmnožovacími časticami rastlín sú výtrusy (spóry) pri výtrusných rastlinách a semená pri semenných rastlinách (d, f). Spóry sú jednobunkové nepohlavné častice vznikajúce meiózou vo výtrusniciach (nie opelením h), kým semeno je mnohobunkový generatívny útvar obsahujúci zárodok (embryo) s vyživovacím pletivom. Listy, stonky a korene sú vegetatívne orgány (a, b, c)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "180. Výtrusy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú výsledkom opelenia"
+      },
+      {
+        "id": "b",
+        "text": "sú výsledkom oplodnenia"
+      },
+      {
+        "id": "c",
+        "text": "sú listového pôvodu"
+      },
+      {
+        "id": "d",
+        "text": "patria k rozmnožovacím časticiam"
+      },
+      {
+        "id": "e",
+        "text": "suulozenévsistickach"
+      },
+      {
+        "id": "f",
+        "text": "vznikajú len z telových buniek rastliny"
+      },
+      {
+        "id": "g",
+        "text": "vznikajú len zo somatických buniek materského organizmu"
+      },
+      {
+        "id": "h",
+        "text": "sú nepohlavne rozmnožovacie častice, ktoré sú výsledkom redukeneho delenia vo výtrusniciach"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Výtrusy (spóry) sú nepohlavné rozmnožovacie častice, ktoré vznikajú redukčným delením (meiózou) vo výtrusniciach (sporangiách) sporofytu (d, h). Vyvíjajú sa diferenciáciou somatických telových buniek materskej rastliny pred meiotickým delením (f, g). Spóry nevznikajú opelením ani oplodnením (a, b), ktoré vedú k vzniku semena pri semenných rastlinách."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "181. Príkladom vrcholikoveho súkvetia je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "skrutec"
+      },
+      {
+        "id": "b",
+        "text": "chocholík"
+      },
+      {
+        "id": "c",
+        "text": "papraslen"
+      },
+      {
+        "id": "d",
+        "text": "okolík"
+      },
+      {
+        "id": "e",
+        "text": "hlávka"
+      },
+      {
+        "id": "f",
+        "text": "kosáčik"
+      },
+      {
+        "id": "g",
+        "text": "ibor"
+      },
+      {
+        "id": "h",
+        "text": "zavinok"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Vrcholíkovité (cymózne) súkvetia sú charakteristické tým, že hlavná os je skrátená, jej rast je ukončený vrcholovým kvetom a bočné osi ju prerastajú. Medzi vrcholíkovité monocháziá a dicháziá patrí skrutec (napr. nezábudka), kosáčik (napr. mečík), závinok a papraslen (a, c, f, h). Chocholík, okolík a hlávka patria medzi strapcovité (racemózne) súkvetia (b, d, e)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "182. Príkladom strapcovitého sikvetia je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "klas"
+      },
+      {
+        "id": "b",
+        "text": "okolík"
+      },
+      {
+        "id": "c",
+        "text": "vrcholík"
+      },
+      {
+        "id": "d",
+        "text": "kosáčik"
+      },
+      {
+        "id": "e",
+        "text": "sú'ok"
+      },
+      {
+        "id": "f",
+        "text": "zavinok"
+      },
+      {
+        "id": "g",
+        "text": "jahňada"
+      },
+      {
+        "id": "h",
+        "text": "hlávka"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Strapcovité (racemózne) súkvetia majú dominantnú hlavnú os, ktorá neprestáva rásť a rozkonáruje sa monopodiálne; bočné kvety rozkvitajú akropetálne (zdola nahor). Patria sem klas (napr. skorocel), okolík (napr. prvosienka), šúľok (napr. kukurica), jahňada (napr. lieska, topoľ) a hlávka (napr. ďatelina) (a, b, e, g, h). Vrcholík, kosáčik a závinok sú súkvetia vrcholíkovité (c, d, f)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "183. Dvojité oplodnenie je typické pre:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nahosemenné rastliny"
+      },
+      {
+        "id": "b",
+        "text": "magnóliorasty 42"
+      },
+      {
+        "id": "c",
+        "text": "borovicorasty"
+      },
+      {
+        "id": "d",
+        "text": "krytosemenné rastliny"
+      },
+      {
+        "id": "e",
+        "text": "rýniorasty"
+      },
+      {
+        "id": "f",
+        "text": "všetky cievnaté rastliny"
+      },
+      {
+        "id": "g",
+        "text": "stielkaté rastliny"
+      },
+      {
+        "id": "h",
+        "text": "výtrusné rastliny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d"
+    ],
+    "explanation": "Dvojité oplodnenie je unikátnym evolučným znakom krytosemenných rastlín (magnóliorastov – Magnoliophyta) (b, d). Pri tomto procese jedna spermatozoidná bunka peľového vrecúška oplodní vajcovú bunku za vzniku diploidnej zygoty (2n) a druhá spermatozoidná bunka splynie s centrálnym jadrom zárodočného mieška za vzniku triploidného endospermu (3n), ktorý slúži ako vyživovacie pletivo. Nahosemenné rastliny majú jednoduché oplodnenie (a, c)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "184. Perigón je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nerozlíšený kvetný obal"
+      },
+      {
+        "id": "b",
+        "text": "roznotvary kvetný obal"
+      },
+      {
+        "id": "c",
+        "text": "kvetný obal rozlíšený farebné aj funkčné"
+      },
+      {
+        "id": "d",
+        "text": "vnitorná farebná koruna"
+      },
+      {
+        "id": "e",
+        "text": "okvetie"
+      },
+      {
+        "id": "f",
+        "text": "zložený iba z okvetných lístkov"
+      },
+      {
+        "id": "g",
+        "text": "kvetný obal borovicorastov"
+      },
+      {
+        "id": "h",
+        "text": "vonkajší zelený kalich"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f"
+    ],
+    "explanation": "Perigón (okvetie) je tvarovo a farebne nerozlíšený kvetný obal, kde chýba rozdelenie na zelený kalich a pestrú korunu (a, e). Je zložený z rovnakých okvetných lístkov (tepala), ktoré plnia súčasne ochrannú funkciu aj funkciu lákania opeľovačov (typické pre jednoklíčnolistové rastliny ako tulipán) (f). Rozlíšený kvetný obal sa skladá z kalicha (calyx) a koruny (corolla) (c, d, h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "185. Gynaeceum si:",
+    "options": [
+      {
+        "id": "a",
+        "text": "plodolisty borovicorastov"
+      },
+      {
+        "id": "b",
+        "text": "samičie šištičky borovicorastov"
+      },
+      {
+        "id": "c",
+        "text": "plodolisty"
+      },
+      {
+        "id": "d",
+        "text": "tyčinky"
+      },
+      {
+        "id": "e",
+        "text": "samčie pohlavné orgány"
+      },
+      {
+        "id": "f",
+        "text": "samičie pohlavné orgány"
+      },
+      {
+        "id": "g",
+        "text": "piestiky pri vývojovo pokročilejších magnoliorastoch"
+      },
+      {
+        "id": "h",
+        "text": "integumenty"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Gynaeceum predstavuje súbor všetkých samičích pohlavných orgánov v kvete semenných rastlín (f). Je tvorené jedným alebo viacerými plodolistami (karpelmi) (c), ktoré u krytosemenných rastlín zrastajú a vytvárajú piestik tvorený bliznou, čnelkou a semenníkom (g). Tyčinky predstavujú samčie pohlavné orgány (androeceum) (d, e)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "186. Medzi katabolické procesy v rastlinách patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rozklad cukrov"
+      },
+      {
+        "id": "b",
+        "text": "vznik energeticky bohatých látok - asimilátov"
+      },
+      {
+        "id": "c",
+        "text": "rozklad bielkovín a aminokyselín"
+      },
+      {
+        "id": "d",
+        "text": "vznik glukózy pri fotosyntéze z CO2 a vody"
+      },
+      {
+        "id": "e",
+        "text": "oxidácia glukózy na vodu a oxid uhličitý"
+      },
+      {
+        "id": "f",
+        "text": "replikácia DNA"
+      },
+      {
+        "id": "g",
+        "text": "také, pri ktorých sa uvoľňuje energia chemických väzieb"
+      },
+      {
+        "id": "h",
+        "text": "napr. dýchanie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Katabolické procesy (disimilácia) sú rozkladné biochemické reakcie, pri ktorých sa zložité organické zlúčeniny štiepia a oxidujú na jednoduchšie molekuly, pričom sa uvoľňuje energia uložená v chemických väzbách (g). V rastlinách sem patrí rozklad sacharidov (glykolýza), rozklad bielkovín a aminokyselín a aeróbne dýchanie, pri ktorom sa glukóza oxiduje na CO2 a H2O za zisku ATP (a, c, e, h). Vznik asimilátov fotosyntézou je anabolický proces (b, d)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "187. Ktoré metabolické procesy v rastlinách sti spojené so spotrebou energie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "anabolické"
+      },
+      {
+        "id": "b",
+        "text": "asimilačné"
+      },
+      {
+        "id": "c",
+        "text": "disimilačné"
+      },
+      {
+        "id": "d",
+        "text": "dýchanie"
+      },
+      {
+        "id": "e",
+        "text": "fotosyntéza"
+      },
+      {
+        "id": "f",
+        "text": "endergonické"
+      },
+      {
+        "id": "g",
+        "text": "oxidácia glukózy na vodu a oxid uhličitý"
+      },
+      {
+        "id": "h",
+        "text": "vznik glukózy pri fotosyntéze z CO2 a vody"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Metabolické procesy spojené so spotrebou voľnej energie sa označujú ako endergonické reakcie a sú podstatou anabolizmu (asimilačných procesov) (a, b, f). Typickým rastlinným anabolickým dejom je fotosyntéza, kde sa svetelná energia využíva na endergonickú syntézu energeticky bohatej glukózy z anorganických molekúl CO2 a vody (e, h). Disimilačné procesy a dýchanie sú naopak exergonické a energiu uvoľňujú (c, d, g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "188. Ktoré metabolické procesy v rastlinách sti spojené s uvoľrovanim energie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tuky"
+      },
+      {
+        "id": "b",
+        "text": "cukry"
+      },
+      {
+        "id": "c",
+        "text": "bielkoviny"
+      },
+      {
+        "id": "d",
+        "text": "katalytické organické látky"
+      },
+      {
+        "id": "e",
+        "text": "regulačné organické látky"
+      },
+      {
+        "id": "f",
+        "text": "voda a oxid uhličitý"
+      },
+      {
+        "id": "g",
+        "text": "asimiláty"
+      },
+      {
+        "id": "h",
+        "text": "glukóza"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Pri katabolických procesoch dochádza k postupnému odbúravaniu a enzymatickej oxidácii organických látok – predovšetkým cukrov a tukov – na jednoduché nízkoenergetické produkty, vodu a oxid uhličitý, pričom sa uvoľňuje energia (a, b, f). Tieto reakcie sú katalyzované špecifickými enzýmami (d). Podľa oficiálneho kľúča testovnice UPJŠ LF sú v tejto otázke označené možnosti a, b, d, f."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "189. Ktoré metabolické procesy v rastlinách sú spojené s uvoľňovaním energie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "fotosyntéza"
+      },
+      {
+        "id": "b",
+        "text": "dýchanie"
+      },
+      {
+        "id": "c",
+        "text": "anabolické"
+      },
+      {
+        "id": "d",
+        "text": "katabolické"
+      },
+      {
+        "id": "e",
+        "text": "asimilačné"
+      },
+      {
+        "id": "f",
+        "text": "disimilačné"
+      },
+      {
+        "id": "g",
+        "text": "vznik energeticky bohatých látok - asimilátov"
+      },
+      {
+        "id": "h",
+        "text": "syntéza nových organických látok"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "g",
+      "h"
+    ],
+    "explanation": "Bunkové dýchanie (aeróbna disimilácia) je základný katabolický dej, pri ktorom sa oxidáciou organických substrátov uvoľňuje energia viazaná do ATP (b). V kľúči testovnice UPJŠ LF sú priradené možnosti b, g, h, odrážajúce celkovú energetickú bilanciu bunkového metabolizmu, kde dýchanie poskytuje energiu pre asimiláciu a syntézu nových látok. Fotosyntéza je proces primárne svetelnú energiu viažuci do chemických väzieb (a)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "190. Autotrofné organizmy sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "konzumenty organickej hmoty"
+      },
+      {
+        "id": "b",
+        "text": "fotosyntetizujúce baktérie"
+      },
+      {
+        "id": "c",
+        "text": "odkázané na prísun organických látok z prostredia"
+      },
+      {
+        "id": "d",
+        "text": "producenty organickej hmoty"
+      },
+      {
+        "id": "e",
+        "text": "zelené rastliny"
+      },
+      {
+        "id": "f",
+        "text": "všetky saprofyty"
+      },
+      {
+        "id": "g",
+        "text": "huby"
+      },
+      {
+        "id": "h",
+        "text": "poloparazitické rastliny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Autotrofné organizmy syntetizujú organické látky z anorganického uhlíka (CO2), a preto plnia v ekosystémoch rolu primárnych producentov organickej hmoty (d). Zaraďujeme sem zelené rastliny (e), fotosyntetizujúce (aj chemosyntetizujúce) baktérie (b) a tiež poloparazitické rastliny s funkčným chlorofylom (napr. imelo) (h). Konzumenty, saprofyty a huby sú heterotrofné a odkázané na príjem hotových organických látok (a, c, f, g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "191. K mixotrofnym rastlinám patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rosička"
+      },
+      {
+        "id": "b",
+        "text": "bublinatka"
+      },
+      {
+        "id": "c",
+        "text": "tučnica"
+      },
+      {
+        "id": "d",
+        "text": "mucholapka"
+      },
+      {
+        "id": "e",
+        "text": "imelo biele"
+      },
+      {
+        "id": "f",
+        "text": "kukučína"
+      },
+      {
+        "id": "g",
+        "text": "mäsožravé rastliny"
+      },
+      {
+        "id": "h",
+        "text": "hemiparaziticke rastliny"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Mixotrofia je výživový spôsob kombinujúci fotosyntézu (autotrofiu) s príjmom organických dusíkatých látok (heterotrofiu); typickým príkladom sú mäsožravé (karnivorné) rastliny (g). K mixotrofom patrí rosička (Drosera) (a), bublinatka (Utricularia) (b), tučnica (Pinguicula) (c) a mucholapka (Dionaea) (d), ktoré lovom hmyzu kompenzujú nedostatok dusíka v pôde. Imelo je hemiparazit čerpajúci minerálne roztoky (e) a kukučina je nezelený holoparazit (f)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "192. Bôbovité rastliny poskytujú hPizkovitym baktériám:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dusík"
+      },
+      {
+        "id": "b",
+        "text": "hp'úzky"
+      },
+      {
+        "id": "c",
+        "text": "bielkoviny"
+      },
+      {
+        "id": "d",
+        "text": "sacharidy"
+      },
+      {
+        "id": "e",
+        "text": "vodu a minerálne látky"
+      },
+      {
+        "id": "f",
+        "text": "oxid uhličitý a vodu"
+      },
+      {
+        "id": "g",
+        "text": "nitráty"
+      },
+      {
+        "id": "h",
+        "text": "asimilačné pigmenty"
+      }
+    ],
+    "correct_answers": [
+      "d"
+    ],
+    "explanation": "V mutualistickej symbióze medzi bôbovitými rastlinami a hľuzkovými baktériami rodu Rhizobium poskytujú rastliny baktériám produkty fotosyntézy – sacharidy (d), ktoré slúžia ako primárny zdroj energie a uhlíka pre bakteriálny metabolizmus. Baktérie na oplátku fixujú vzdušný dusík (N2) a premieňajú ho na amónne ióny, ktoré rastlina využíva na syntézu bielkovín."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "193. Prvá etapa biologickej oxidácie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prebieha V mitochondriách"
+      },
+      {
+        "id": "b",
+        "text": "prebieha v cytoplazme buniek v cytoplazme"
+      },
+      {
+        "id": "c",
+        "text": "prebieha v mitochondriách"
+      },
+      {
+        "id": "d",
+        "text": "je enzymatické štiepenie glukózy"
+      },
+      {
+        "id": "e",
+        "text": "sa označuje ako práve kvasenie"
+      },
+      {
+        "id": "f",
+        "text": "je proces nazývaný glykolýza"
+      },
+      {
+        "id": "g",
+        "text": "je proces glukoneogenézy"
+      },
+      {
+        "id": "h",
+        "text": "je štiepenie glukózy až na kyselinu pyrohroznovu 44"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Prvou fázou biologickej oxidácie sacharidov je glykolýza, ktorá prebieha v cytozole (cytoplazme) buniek za anaeróbnych podmienok (b, f). Predstavuje sériu enzymatických reakcií, pri ktorých sa šesťuhlíkatá molekula glukózy štiepi na dve trojuhlíkaté molekuly kyseliny pyrohroznovej (pyruvátu) (d, h). Reakcie v mitochondriách (Krebsov cyklus, dýchací reťazec) predstavujú až nadväzujúce fázy biologickej oxidácie (a, c)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "194. Proces odbúravania glukózy až po kyselinu pyrohroznovi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je úplná oxidácia"
+      },
+      {
+        "id": "b",
+        "text": "je glykolýza"
+      },
+      {
+        "id": "c",
+        "text": "je neúplná oxidácia"
+      },
+      {
+        "id": "d",
+        "text": "je aeróbne dýchanie"
+      },
+      {
+        "id": "e",
+        "text": "dáva čistý energeticky zisk 36 molekúl ATP z jednej molekuly glukózy"
+      },
+      {
+        "id": "f",
+        "text": "dáva čistý energeticky zisk 2 molekuly ATP z jednej molekuly glukózy"
+      },
+      {
+        "id": "g",
+        "text": "je mliečne kvasenie"
+      },
+      {
+        "id": "h",
+        "text": "je katabolický proces"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Glykolýza je anaeróbny katabolický proces neúplnej oxidácie glukózy na pyruvát (kyselinu pyrohroznovú) (b, c, h). Počiatočná investícia 2 ATP je kompenzovaná substrátovou fosforyláciou za vzniku 4 ATP, čo prináša čistý energetický zisk 2 molekuly ATP a 2 NADH na molekulu glukózy (f). Úplná oxidácia s výťažkom cez 30 ATP nastáva až pri aeróbnom dýchaní v mitochondriách (a, e)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "195. Haustóriá majú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "reducenty"
+      },
+      {
+        "id": "b",
+        "text": "hemiparazity"
+      },
+      {
+        "id": "c",
+        "text": "parazitické Živočíchy"
+      },
+      {
+        "id": "d",
+        "text": "mäsožravé rastliny"
+      },
+      {
+        "id": "e",
+        "text": "poloparazity"
+      },
+      {
+        "id": "f",
+        "text": "korene vyšších rastlín ako spojenie s mykoriznymi hubami"
+      },
+      {
+        "id": "g",
+        "text": "parazitické rastliny"
+      },
+      {
+        "id": "h",
+        "text": "konzumenty"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Haustóriá sú anatomicky a funkčne modifikované korene, ktorými parazitické rastliny (holoparazity) a poloparazitické rastliny (hemiparazity) prenikajú do vodivých pletív hostiteľa (b, e, g). Poloparazity sa pripájajú k drevnej časti (xylému) a odčerpávajú vodu a minerály, kým holoparazity prenikajú do floému a berú hotové asimiláty. Živočíchy ani mäsožravé rastliny haustóriá nemajú (c, d)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "196. Z hľadiska výživy baktérie môžu byť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "iba heterotrofné organizmy"
+      },
+      {
+        "id": "b",
+        "text": "autotrofno-heterotrofne organizmy"
+      },
+      {
+        "id": "c",
+        "text": "iba autotrofné organizmy"
+      },
+      {
+        "id": "d",
+        "text": "mixotrofné organizmy"
+      },
+      {
+        "id": "e",
+        "text": "autotrofné organizmy"
+      },
+      {
+        "id": "f",
+        "text": "heterotrofné organizmy"
+      },
+      {
+        "id": "g",
+        "text": "fototrofné organizmy"
+      },
+      {
+        "id": "h",
+        "text": "chemotrofné organizmy"
+      }
+    ],
+    "correct_answers": [
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Baktérie sa vyznačujú najvyššou metabolickou plasticitou v živej prírode; podľa zdroja uhlíka môžu byť autotrofné (využívajúce anorganický CO2) aj heterotrofné (využívajúce organické látky) (e, f). Podľa primárneho zdroja energie sa delia na fototrofné (využívajúce svetelné kvantá) a chemotrofné (získavajúce energiu oxidáciou chemických väzieb) (g, h). Preto nie sú obmedzené len na autotrofný (c) alebo len heterotrofný spôsob výživy (a)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "197. Fylogeneticky najstarší spôsob tvorby organických látok je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prototrofia"
+      },
+      {
+        "id": "b",
+        "text": "fotoautotrofia"
+      },
+      {
+        "id": "c",
+        "text": "chemosyntéza"
+      },
+      {
+        "id": "d",
+        "text": "fotosyntéza"
+      },
+      {
+        "id": "e",
+        "text": "mixotrofia"
+      },
+      {
+        "id": "f",
+        "text": "metabióza"
+      },
+      {
+        "id": "g",
+        "text": "autotrofia na báze fotosyntézy"
+      },
+      {
+        "id": "h",
+        "text": "chemoautotrofia"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "h"
+    ],
+    "explanation": "Fylogeneticky najstarším mechanizmom syntézy organických látok na Zemi je chemosyntéza (chemoautotrofia), ktorá vznikla v anaeróbnych podmienkach pred fotosyntézou (c, h). Chemoautotrofné baktérie (sírové, nitrifikačné, metanogénne) získavajú energiu na fixáciu CO2 z oxidácie redukovaných anorganických látok (H2S, NH3, Fe2+). V odbornej terminológii testovnice sa tento prvotný spôsob syntézy označuje aj ako prototrofia (a)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "198. Pri mykoríze rastlina poskytuje hube predovšetkým:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vodu"
+      },
+      {
+        "id": "b",
+        "text": "asimilačné pigmenty"
+      },
+      {
+        "id": "c",
+        "text": "minerálne látky"
+      },
+      {
+        "id": "d",
+        "text": "sacharidy"
+      },
+      {
+        "id": "e",
+        "text": "rastové látky"
+      },
+      {
+        "id": "f",
+        "text": "vzdušný dusík"
+      },
+      {
+        "id": "g",
+        "text": "kyslík"
+      },
+      {
+        "id": "h",
+        "text": "glukózu 45"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "h"
+    ],
+    "explanation": "Mykoríza je obojstranne prospešná symbióza medzi hubovými hýfami a koreňovým systémom cievnatých rastlín. Fotosyntetizujúca rastlina zásobuje heterotrofnú hubu organickými látkami – hotovými asimilátmi, predovšetkým sacharidmi vo forme glukózy a sacharózy (d, h). Huba na oplátku zabezpečuje príjem vody a ťažko dostupných minerálov (najmä fosforu)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "199. Mixotrofia:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je autotrofno-heterotrofny spôsob výživy"
+      },
+      {
+        "id": "b",
+        "text": "je spôsob výživy napr. imela bieleho"
+      },
+      {
+        "id": "c",
+        "text": "je parazitický spôsob Života"
+      },
+      {
+        "id": "d",
+        "text": "kombinuje autotrofiu a heterotrofiu"
+      },
+      {
+        "id": "e",
+        "text": "je špecifický spôsob symbiózy"
+      },
+      {
+        "id": "f",
+        "text": "je autotrofno-saprofyticky spôsob výživy"
+      },
+      {
+        "id": "g",
+        "text": "je typická pre mäsožravé rastliny prijímať aj organické látky"
+      },
+      {
+        "id": "h",
+        "text": "využívajú mäsožravé rastliny"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "g",
+      "h"
+    ],
+    "explanation": "Mixotrofia je kombinovaný spôsob výživy spájajúci autotrofnú fotosyntézu s heterotrofným príjmom organických látok (a). Je typická pre mäsožravé rastliny, ktoré fotosyntetizujú, ale v pôdach chudobných na dusík trávia telá ulovených živočíchov (g, h). V kľúči testovnice UPJŠ LF je k mixotrofom priradené aj imelo biele (b) z dôvodu kombinácie vlastnej fotosyntézy s čerpaním živín z hostiteľa."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "200. Medzi poloparazity patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zelené rastliny, ktoré odoberajú vodu a minerálne látky odumretej rastline"
+      },
+      {
+        "id": "b",
+        "text": "živočíchy odoberajuce vodu a minerálne Živiny hostite'skemu organizmu"
+      },
+      {
+        "id": "c",
+        "text": "imelo biele"
+      },
+      {
+        "id": "d",
+        "text": "zelené rastliny, ktoré čerpajú vodu a minerálne látky z hostiteľa"
+      },
+      {
+        "id": "e",
+        "text": "zelené rastliny, ktoré haustóriami odoberajú hostiteľovi organické látky"
+      },
+      {
+        "id": "f",
+        "text": "mäsožravé rastliny"
+      },
+      {
+        "id": "g",
+        "text": "kukučína, ktorá škodí dateline"
+      },
+      {
+        "id": "h",
+        "text": "choroboplodné baktérie"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d"
+    ],
+    "explanation": "Poloparazity (hemiparazity) sú zelené rastliny obsahujúce funkčné chloroplasty, ktoré si organické látky syntetizujú fotosyntézou, ale vodu a minerálne živiny čerpajú haustóriami z hostiteľa (d). Typickým poloparazitom našich drevín je imelo biele (Viscum album) (c). Úplné nezelené parazity (holoparazity ako kukučina) odoberajú aj organické látky z floému (e, g), kým saprofyty žijú z mŕtvej hmoty (a)."
+  }
+]

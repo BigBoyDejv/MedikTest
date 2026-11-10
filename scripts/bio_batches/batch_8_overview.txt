@@ -1,0 +1,550 @@
+=== 1. 351. Do čreva vyúsťujú: ===
+CORRECT: ['c']
+ [ ] a: protonefrídie mäkkýšov
+ [ ] b: nefrídie kôrovcov
+ [*] c: Malpighiho žľazy hmyzu
+ [ ] d: tykadlove žľazy ploskavcov
+ [ ] e: nefrony cicavcov
+ [ ] f: tykadlove žľazy kôrovcov
+ [ ] g: plamienkové bunky ploskavcov
+ [ ] h: metanefrídie obrúčkavcov
+
+=== 2. 352. Protonefrídie sú vylučovacie orgány: ===
+CORRECT: ['b']
+ [ ] a: cicavcov
+ [*] b: ploskavcov
+ [ ] c: mäkkýšov
+ [ ] d: rýb
+ [ ] e: obrúčkavcov
+ [ ] f: prvokov
+ [ ] g: hlavonožcov
+ [ ] h: vtákopyska
+
+=== 3. 353. Vylučovacími orgánmi stavovcov si: ===
+CORRECT: ['e']
+ [ ] a: protonefrídie
+ [ ] b: nefrídie
+ [ ] c: malpigicke trubice
+ [ ] d: tykadlove žľazy
+ [*] e: obličky
+ [ ] f: plamienkové bunky
+ [ ] g: metanefrídie
+ [ ] h: nefrony
+
+=== 4. 354. Malpighiho žľazy ako vylučovacie istroje majú: ===
+CORRECT: ['b', 'd']
+ [ ] a: obrúčkavce
+ [*] b: pavúky
+ [ ] c: kôrovce
+ [*] d: stonožky a hmyz
+ [ ] e: vyššie Červy
+ [ ] f: ploskavce
+ [ ] g: všetky lankonozce
+ [ ] h: mäkkýše
+
+=== 5. 355. Súčasťou nefronu cicavcov je: ===
+CORRECT: ['a', 'b', 'c']
+ [*] a: Malpighiho teliesko
+ [*] b: Bowmanovo puzdro
+ [*] c: Henleho slučka
+ [ ] d: močovod
+ [ ] e: močový mechúr
+ [ ] f: plamienkova bunka
+ [ ] g: obličková panvička
+ [ ] h: Malpighiho žľaza 77
+
+=== 6. 356. Primárny moč cicavcov: ===
+CORRECT: ['a', 'c', 'd', 'f', 'g']
+ [*] a: vzniká filtráciou krvi v Malpighiho teliesku
+ [ ] b: obsahujebielkoviny
+ [*] c: obsahuje rovnaké látky ako plazma, okrem bielkovín
+ [*] d: prechádza z Bowmanovho puzdra do systému kanálikov
+ [ ] e: je odvádzaný močovodmi do močového mechúra a ďalších potrebných látok
+ [*] f: otvorená obehová sústava
+ [*] g: obsahuje glukózu a aminokyseliny
+ [ ] h: má rovnaké zloženie ako plazma
+
+=== 7. 357. K osmoregulacnym mechanizmom stavovcov patria: ===
+CORRECT: ['b', 'c', 'e', 'f']
+ [ ] a: vstrebávanie soli cez Žiabre aktívnym transportom pri morských rybách
+ [*] b: vylučovanie soli pomocnými orgánmi, napr. nosovou žazou krokodílov
+ [*] c: vylučovanie soli žiabrami pri morských rybách
+ [ ] d: vylučovanie soli žiabrami pri sladkovodných rybách
+ [*] e: vstrebávanie soli cez žiabre aktívnym transportom pri sladkovodných rybách
+ [*] f: exkrečné mechanizmy na vylučovanie soli niektorých morských vtákov
+ [ ] g: zakrpatené obličky sladkovodných rýb
+ [ ] h: vstrebávanie soli pasívnym transportom
+
+=== 8. 358. Otvorená obehová sústava sa vyskytuje pri: ===
+CORRECT: ['c', 'f', 'g']
+ [ ] a: ploskavcoch
+ [ ] b: obruckavcoch
+ [*] c: mäkkýšoch
+ [ ] d: cicavcoch
+ [ ] e: plazoch
+ [*] f: lankonozcoch
+ [*] g: plášťovcoch
+ [ ] h: hlavonožcoch
+
+=== 9. 359. Telové tekutiny živočíchov: ===
+CORRECT: ['a', 'e', 'h']
+ [*] a: privádzajú ku tkanivám kyslík a Živiny
+ [ ] b: zabezpečujú homeostázu vnútorného prostredia
+ [ ] c: odvádzajú z tkanív oxid uhličitý a produkty metabolizmu
+ [ ] d: majú rôzne zloženie v závislosti od fylogenetickej úrovne organizmov
+ [*] e: sú produkované výhradne vylučovacou sústavou
+ [ ] f: privádzajú ku tkanivám hormóny a vitamíny
+ [ ] g: privádzajú ku tkanivám nervové vzruchy
+ [*] h: produkujú enzýmy
+
+=== 10. 360. Hydrolymfa: ===
+CORRECT: ['a', 'b', 'c', 'd', 'f']
+ [*] a: je telová tekutina ploskavcov
+ [*] b: obsahuje bunky s transportnými bielkovinami
+ [*] c: cirkuluje v uzavretej cievnej sústave
+ [*] d: je telová tekutina obrúčkavcov
+ [ ] e: obsahuje bunky bez transportných bielkovín
+ [*] f: prúdi voľne v telovej dutine
+ [ ] g: je telová tekutina stavovcov 78
+ [ ] h: prúdi v kanálikoch gastrovaskulárnej sústavy
+
+=== 11. 361. Obehová sústava stavovcov: ===
+CORRECT: ['a', 'b', 'c', 'e', 'g']
+ [*] a: je kardiovaskulárna sústava
+ [*] b: je dokonalá uzavretá srdcovocievna sústava
+ [*] c: je oddelená od lymfatickej suistavy
+ [ ] d: nie je oddelená od lymfatickej sústavy
+ [*] e: je pri suchozemských živočíchoch zložitejšia než pri vodných
+ [ ] f: je pri vodných živočíchoch zložitejšia než pri suchozemských
+ [*] g: zabezpečuje výmenu živín, plynov a odpadových látok medzi krvou a bunkami tkanív
+ [ ] h: je dokonalá otvorená kardiovaskulárna sústava
+
+=== 12. 362. Krv cicavcov obsahuje: ===
+CORRECT: ['a', 'b', 'c', 'e', 'g', 'h']
+ [*] a: plazmu a krvné telieska
+ [*] b: bielkoviny
+ [*] c: anorganické látky
+ [ ] d: trombocyty s bunkovým jadrom
+ [*] e: bezjadrové erytrocyty
+ [ ] f: bezjadrové leukocyty
+ [*] g: bezjadrové krvné doštičky
+ [*] h: hormóny
+
+=== 13. 363. Plazmatické bielkoviny cicavcov: ===
+CORRECT: ['a', 'b', 'c', 'e', 'h']
+ [*] a: sú produkované zväčša pečeňou
+ [*] b: prenášajú látky potrebné pre organizmus
+ [*] c: sú významné z h'adiska obrany organizmu
+ [ ] d: sú produkované zväčša kostnou dreňou
+ [*] e: sa zucasthuju procesov zrážania krvi
+ [ ] f: sú zväčša produktom sleziny
+ [ ] g: ireverzibilne viažu na svoj povrch prenášané látky
+ [*] h: reverzibilné viažu na svoj povrch prenášané látky
+
+=== 14. 364. Krvná plazma cicavcov: ===
+CORRECT: ['a', 'b', 'd', 'f', 'h']
+ [*] a: je slabo zásaditá
+ [*] b: má za fyziologických podmienok stále zloženie
+ [ ] c: obsahuje 90 - 92 % rozpustených látok
+ [*] d: obsahuje 8 - 9 % sušiny
+ [ ] e: má za fyziologických podmienok pH 5,5 - 6,5
+ [*] f: obsahuje plazmatické bielkoviny
+ [ ] g: obsahuje bezjadrové leukocyty
+ [*] h: obsahuje splodiny metabolizmu bielkovín
+
+=== 15. 365. Väčšina plazmatických bielkovín vzniká v: ===
+CORRECT: ['e']
+ [ ] a: červených krvinkách
+ [ ] b: slezine
+ [ ] c: kostnej dreni
+ [ ] d: srdci
+ [*] e: pečeni
+ [ ] f: tkanivovom moku
+ [ ] g: lymfatických uzlinách
+ [ ] h: bunkách cievnych stien
+
+=== 16. 366. Ktoré organické látky sú celkovo hmotnostné najviac zastúpené v krvnej plazme človeka? ===
+CORRECT: ['e']
+ [ ] a: močovina
+ [ ] b: nukleové kyseliny
+ [ ] c: glukóza
+ [ ] d: monosacharidy
+ [*] e: bielkoviny
+ [ ] f: voda
+ [ ] g: lipidy
+ [ ] h: kreatín
+
+=== 17. 367. Medzi krvné telieska patria: ===
+CORRECT: ['a', 'b', 'c', 'd', 'e']
+ [*] a: erytrocyty
+ [*] b: granulocyty
+ [*] c: trombocyty
+ [*] d: lymfocyty
+ [*] e: leukocyty
+ [ ] f: lyzozómy
+ [ ] g: krvné farbivá
+ [ ] h: antigény
+
+=== 18. 368. Jednotlivé typy krviniek dospelých cicavcov: ===
+CORRECT: ['a', 'b', 'f', 'h']
+ [*] a: vznikajú v kostnej dreni
+ [*] b: sa vyvíjajú z krvotvornej kmeňovej bunky v kostnej dreni
+ [ ] c: vznikajú z krvotvornej kmeňovej bunky v krvnej plazme
+ [ ] d: sú produkované lymfatickým systémom
+ [ ] e: vznikajú z totipotentnych buniek pečene
+ [*] f: vznikajú zo spoločnej krvotvornej kmeňovej bunky
+ [ ] g: sa diferencujú z rôznych typov kmeňových buniek
+ [*] h: žijú v krvnom obehu rôzne dlhú dobu
+
+=== 19. 369. Biele krvinky: ===
+CORRECT: ['b', 'g']
+ [ ] a: sa vyskytujú len v krvi
+ [*] b: sú jadrové bunky
+ [ ] c: sa nazývajú erytrocyty
+ [ ] d: sú bezjadrové bunky
+ [ ] e: sa v krvi vyskytujú vo väčšom počte ako červené krvinky
+ [ ] f: sa pôda prítomnosti granil v cytoplazme delia na granulocyty a trombocyty
+ [*] g: sa podra štruktúry cytoplazmy delia na agranulocyty a granulocyty
+ [ ] h: sa podra prítomnosti granúl v cytoplazme delia na lymfocyty a monocyty
+
+=== 20. 370. Leukocyty: ===
+CORRECT: ['b', 'd', 'h']
+ [ ] a: sú nevyhnutné pri zrážaní krvi
+ [*] b: sa zucasthuju na obranných reakciách organizmu
+ [ ] c: zabezpečujú prenos O2
+ [*] d: sú biele krvinky
+ [ ] e: zabezpečujú prenos hormónov
+ [ ] f: sa zucasthuju na prenose dýchacích plynov
+ [ ] g: zabezpečujú udržiavanie teploty
+ [*] h: hemoglobín
+
+=== 21. 371. Erytrocyty bez jadra sa nachádzajú v krvi: ===
+CORRECT: ['c', 'f']
+ [ ] a: vtákov
+ [ ] b: rýb 80
+ [*] c: cicavcov Ipn.I (
+ [ ] d: plazov
+ [ ] e: jednobunkových organizmov
+ [*] f: vtákov
+ [ ] g: obojživelníkov
+ [ ] h: všetkých stavovcov
+
+=== 22. 372. Celkový počet červených krviniek na jednotku objemu krvi stavovcov je podmienený: ===
+CORRECT: ['a', 'c', 'e', 'f']
+ [*] a: pohlavím, samce mávajú viac erytrocytov
+ [ ] b: pohlavím, samice mávajú viac erytrocytov
+ [*] c: vekom, mláďatá majú viac erytrocytov
+ [ ] d: vekom, dospelí jedinci mávajú viac erytrocytov
+ [*] e: nadmorskou výškou
+ [*] f: ročným obdobím pri nižších stavovcoch
+ [ ] g: množstvom hemoglobínu v krvi
+ [ ] h: celkovým počtom leukocytov v krvi
+
+=== 23. 373. Leukocyty sa odlišujú od erytrocytov: ===
+CORRECT: ['a', 'b', 'c', 'd', 'g', 'h']
+ [*] a: dížkou Života buniek
+ [*] b: funkciami
+ [*] c: spôsobom vzniku
+ [*] d: metabolizmom
+ [ ] e: pri cicavcoch tým, že sú bezjadrové
+ [ ] f: pri vtákoch tým, že sú bezjadrové
+ [*] g: početným zastúpením v krvi
+ [*] h: rozložením v organizme
+
+=== 24. 374. Monocyty: ===
+CORRECT: ['a', 'b', 'c', 'd', 'e']
+ [*] a: majú schopnosť diapedézy
+ [*] b: sú schopné prenikať do tkanív
+ [*] c: majú schopnosť fagocytovať mikroorganizmy
+ [*] d: vznikajú z kmeňovej bunky v kostnej dreni
+ [*] e: pôda štruktúry cytoplazmy patria k agranulocytom
+ [ ] f: pôda štruktúry cytoplazmy patria ku granulocytom
+ [ ] g: prenášajú kyslík dovnútra tkanív
+ [ ] h: prenášajú živiny z krvi do tkanív
+
+=== 25. 375. Trombocyty cicavcov: ===
+CORRECT: ['c', 'd', 'f', 'h']
+ [ ] a: sú produkované slezinou
+ [ ] b: sú produkované pečeňou
+ [*] c: sú produkované kostnou dreňou
+ [*] d: sú bezjadrové krvinky
+ [ ] e: sú veľké krvinky s diploidnym jadrom
+ [*] f: plnia významnú úlohu pri zastavovaní krvácania
+ [ ] g: leukocyty
+ [*] h: sa uplathuju pri udržiavaní celistvosti cievnych stien
+
+=== 26. 376. Podstatou zrážania krvi u stavovcov je: ===
+CORRECT: ['a']
+ [*] a: zmena rozpustného fibrinogénu na nerozpustné vlákna fibrínu 81
+ [ ] b: sťahovanie svaloviny v oblasti poranenia
+ [ ] c: zmena nerozpustného fibrinogénu na rozpustný fibrín
+ [ ] d: zmena rozpustného fibrínu na nerozpustný fibrinogén
+ [ ] e: vytvorenie gélu, ktorý uzavrie poranenie
+ [ ] f: rozpad erytrocytov
+ [ ] g: protilátková obrana
+ [ ] h: hemolýza
+
+=== 27. 377. Zastavenie krvácania: ===
+CORRECT: ['a', 'c', 'd', 'e']
+ [*] a: je pri živočíchoch zabezpečované viacerými mechanizmami
+ [ ] b: sa uskutočňuje aglutináciou erytrocytov
+ [*] c: je zložitý biochemický proces
+ [*] d: sa pri stavovcoch deje za účasti krvných doštičiek
+ [*] e: sa pri Živočíchoch s otvorenou cievnou sistavou deje sťahmi svaloviny okolo poranenia
+ [ ] f: je pri stavovcoch zabezpečované diapedezou monocytov
+ [ ] g: je iniciované hemolýzou erytrocytov
+ [ ] h: je pri cicavcoch urýchľované heparínom
+
+=== 28. 378. Fibrinogén: ===
+CORRECT: ['a', 'b', 'g']
+ [*] a: je súčasťou krvnej plazmy
+ [*] b: sa zucasthuje na zrážaní krvi
+ [ ] c: sa nachádza v erytrocytoch
+ [ ] d: pôsobí proti zrážaniu krvi
+ [ ] e: zabezpečuje prenos O2
+ [ ] f: sa zicasthuje na obrane organizmu pred infekciou
+ [*] g: je rozpustná plazmatická bielkovina
+ [ ] h: je nerozpustná plazmatická bielkovina
+
+=== 29. 379. Biely trombus: ===
+CORRECT: ['c', 'f', 'g']
+ [ ] a: je Červená zátka
+ [ ] b: je fibrínová sieťka, v ktorej sa zachytili biele krvinky
+ [*] c: pri malých poraneniach provizórne upcháva ranku
+ [ ] d: vzniká aktivitou tkanivových faktorov
+ [ ] e: je trombokináza
+ [*] f: sa vytvára aktivitou krvných doštičiek okolo poranenia
+ [*] g: sa vytvára najmä pri malých poraneniach
+ [ ] h: pôsobí proti zrážaniu krvi
+
+=== 30. 380. Aglutinogeny: ===
+CORRECT: ['a', 'f']
+ [*] a: sú antigény erytrocytov
+ [ ] b: sú protilátky erytrocytov
+ [ ] c: sú gény kódujúce antigény
+ [ ] d: sú protilátky v krvnej plazme
+ [ ] e: sa tvoria iba v kostnej dreni
+ [*] f: sú genetický podmienené
+ [ ] g: sú látky, ktoré vznikajú pri zrážaní krvi 82
+ [ ] h: sú prirodzene protilátky
+
+=== 31. 381. Aglutininy sú: ===
+CORRECT: ['b', 'e', 'g']
+ [ ] a: antigény erytrocytov
+ [*] b: protilátky v krvnej plazme
+ [ ] c: aglutinogeny leukocytov
+ [ ] d: produkty aglutinogenov
+ [*] e: zodpovedné za zhlukovanie erytrocytov
+ [ ] f: antigény na povrchu leukocytov
+ [*] g: zodpovedné za zhlukovanie červených krviniek
+ [ ] h: prirodzene protilátky voči vlastným krvinkám
+
+=== 32. 382. Hemolymfa: ===
+CORRECT: ['a', 'c', 'd', 'f', 'g']
+ [*] a: sa vyskytuje vo viacerých skupinách bezstavovcov
+ [ ] b: obsahuje erytrocyty a trombocyty
+ [*] c: obsahuje bielkoviny, ktoré majú charakter krvných farbív
+ [*] d: prúdi pri mäkkýšoch pulzujúcimi žilami do telových dutín
+ [ ] e: prúdi v uzavretej cievnej sústave
+ [*] f: sa rozlieva voľne v telovej dutine
+ [*] g: zabezpečuje rozvádzanie dýchacích plynov
+ [ ] h: je najdôležitejšou telovou tekutinou stavovcov
+
+=== 33. 383. Tkanivový mok: ===
+CORRECT: ['a', 'b', 'd', 'e']
+ [*] a: tvorí tekuté prostredie okolo buniek tkanív
+ [*] b: vzniká filtráciou krvnej plazmy
+ [ ] c: obsahuje plazmatické bielkoviny
+ [*] d: prenáša nízkomolekulové rozpustné látky
+ [*] e: zabezpečuje výmenu plynov medzi krvou a bunkami tkanív
+ [ ] f: vzniká filtráciou miazgy
+ [ ] g: obsahuje veľa enzýmov
+ [ ] h: je filtrovaný v lymfatických uzlinách
+
+=== 34. 384. Miazga: ===
+CORRECT: ['a', 'b', 'c', 'd', 'e', 'f']
+ [*] a: je filtrovaná v lymfatických uzlinách
+ [*] b: obsahuje veľa enzýmov
+ [*] c: obsahuje biele krvinky
+ [*] d: prúdi pri stavovcoch v otvorenom lymfatickom obehu
+ [*] e: vzniká z tkanivového moku
+ [*] f: plní významnú uilohu v obranných mechanizmoch organizmu
+ [ ] g: prúdi pri stavovcoch v uzavretom lymfatickom obehu
+ [ ] h: obsahuje červené krvinky
+
+=== 35. 385. Lymfatické orgány stavovcov si: ===
+CORRECT: ['a', 'b', 'c', 'd']
+ [*] a: týmus
+ [*] b: slezina
+ [*] c: červovitý prívesok slepého čreva
+ [*] d: Fabriciov vačok 83
+ [ ] e: chylus
+ [ ] f: statocysta
+ [ ] g: srdce
+ [ ] h: pankreas
+
+=== 36. 386. Lymfatickí sústavu máji: ===
+CORRECT: ['a', 'f', 'g', 'h']
+ [*] a: vtáky
+ [ ] b: mäkkýše
+ [ ] c: obrúčkavce
+ [ ] d: hmyz
+ [ ] e: ploskavce
+ [*] f: ryby
+ [*] g: obojživelníky
+ [*] h: cicavce
+
+=== 37. 387. Aký je význam lymfatickej sústavy? ===
+CORRECT: ['a', 'd', 'e', 'f']
+ [*] a: zucasthuje sa na transporte látok
+ [ ] b: prenáša hormóny a mediátory k cieľovým bunkám
+ [ ] c: podieľa sa na termoregulácii v organizme
+ [*] d: je dôležitá v obranných mechanizmoch
+ [*] e: zachytáva patogénne mikroorganizmy
+ [*] f: zneskodhuje nádorové bunky
+ [ ] g: prenáša plyny z krvi k bunkám a z buniek do krvi
+ [ ] h: rozvádza teplo z metabolicky aktívnych orgánov do chladnejších tkanív
+
+=== 38. 388. Srdce rýb pozostáva z: ===
+CORRECT: ['b', 'h']
+ [ ] a: 2 predsieni a 2 komôr
+ [*] b: predsiene a komory, ktorými prechádza odkysličená krv
+ [ ] c: predsiene a komory, ktorými prechádza okysličená krv
+ [ ] d: 2 predsieni a 1 komory, ktorými prechádza okysličená krv
+ [ ] e: 2 predsieni a 1 komory, ktorými prechádza odkysličená krv
+ [ ] f: 2 predsieni a 2 komôr, ktorými prechádza odkysličená krv
+ [ ] g: predsiene a komory, z ktorej je krv vháňaná do žilového splavu
+ [*] h: predsiene a komory, z ktorej je krv vháňaná do Žiaber
+
+=== 39. 389. Úplnú komoroví priehradku v srdci majú: ===
+CORRECT: ['f', 'g']
+ [ ] a: jašterice
+ [ ] b: žaby
+ [ ] c: mloky
+ [ ] d: hady
+ [ ] e: ryby
+ [*] f: vtáky
+ [*] g: cicavce
+ [ ] h: drsnokožce
+
+=== 40. 390. Dospelé obojživelníky majú srdce rozdelené na: ===
+CORRECT: ['a', 'c']
+ [*] a: dve predsiene a jednu komoru
+ [ ] b: dve komory a jednu predsieň krv 84
+ [*] c: monocyty
+ [ ] d: lymfocyty
+ [ ] e: neutrofilné granulocyty
+ [ ] f: eozinofilné granulocyty
+ [ ] g: bazofilné granulocyty
+ [ ] h: jednu predsieň a jednu komoru, pričom do tela prídi zo srdca okysličená krv
+
+=== 41. 391. U cicavcov okysličená krv prúdi: ===
+CORRECT: ['b', 'g']
+ [ ] a: z I'avej komory do malého krvného obehu
+ [*] b: z I'avej komory do veľkého krvného obehu
+ [ ] c: z pravej predsiene do malého krvného obehu
+ [ ] d: z pravej komory do veľkého krvného obehu
+ [ ] e: z I'avej predsiene do malého krvného obehu
+ [ ] f: z pravej komory do pľúc
+ [*] g: pPicnymi žilami do Pávej predsiene
+ [ ] h: vrátnicou do pečene
+
+=== 42. 392. Podnety na srdcoví činnosť vznikajú: ===
+CORRECT: ['c']
+ [ ] a: v mozgu
+ [ ] b: v mieche
+ [*] c: v samotnom srdci
+ [ ] d: v srdcovnici
+ [ ] e: v mozočku
+ [ ] f: v predizenej mieche
+ [ ] g: vo vencovitých tepnách
+ [ ] h: v ústrednej nervovej sústave
+
+=== 43. 393. Záznam zmien elektrického potenciálu srdcového svalu sa označuje ako: ===
+CORRECT: ['a', 'd']
+ [*] a: EKG
+ [ ] b: EEG
+ [ ] c: fonogram
+ [*] d: elektrokardiogram
+ [ ] e: oscilogram
+ [ ] f: elektroencefalogram
+ [ ] g: EMG
+ [ ] h: elektromyelogram
+
+=== 44. 394. Meradlom výkonnosti srdca je: ===
+CORRECT: ['b', 'c']
+ [ ] a: frekvencia tepu
+ [*] b: minútový objem
+ [*] c: množstvo krvi, ktoré srdce vytlačí za minútu
+ [ ] d: množstvo krvi, ktoré srdce vytlačí pri jednej systole
+ [ ] e: množstvo krvi, ktoré srdce vytlačí pri jednej diastole
+ [ ] f: množstvo krvi, ktoré srdce vytlačí pri jednom srdcovom cykle
+ [ ] g: množstvo krvi, ktoré zaplní celý cievny systém tela
+ [ ] h: celkový objem srdca
+
+=== 45. 395. Koronárne tepny: ===
+CORRECT: ['a', 'b', 'c', 'd', 'f']
+ [*] a: zabezpečujú výživu srdca
+ [*] b: odčerpávajú 10 % krvi vytlačenej do aorty pri systole
+ [*] c: zabezpečujú okysličovanie srdcového svalu
+ [*] d: sú rozvetvené do rozsiahlej kapilárnej siete
+ [ ] e: vychádzajú z hornej dutej žily
+ [*] f: vychádzajú z aorty
+ [ ] g: vychádzajú z pľúcnice
+ [ ] h: vychádzajú z pravej komory
+
+=== 46. 396. Úplne oddelený pPicny a telový krvný obeh majú: ===
+CORRECT: ['b', 'd', 'g']
+ [ ] a: živočíchy, ktoré majú jednokomorové srdce
+ [*] b: vtáky 85
+ [ ] c: trombocyty
+ [*] d: cicavce
+ [ ] e: obojživelníky
+ [ ] f: plazy
+ [*] g: živočíchy, ktoré majú úplne vyvinutú priehradku medzi srdcovými komorami
+ [ ] h: živočíchy, ktorých srdce je tvorené jednou predsieňou a jednou komorou
+
+=== 47. 397. Vratnicovy obeh: ===
+CORRECT: ['b', 'c', 'e', 'f', 'g']
+ [ ] a: je sicasťou p'ucneho krvného obehu
+ [*] b: je súčasťou telového krvného obehu
+ [*] c: je svojim charakterom žilový obeh
+ [ ] d: privádza živiny vstrebané do krvi v tráviacich orgánoch do srdca
+ [*] e: privádza živiny vstrebané do krvi v tráviacich orgánoch do pečene
+ [*] f: začína sieťou kapilár v tráviacich orgánoch
+ [*] g: vstupuje do pečene vrátnicou
+ [ ] h: začína sieťou kapilár v pečeni
+
+=== 48. 398. K vlastnej výmene látok medzi krvou a tkanivami dochádza: ===
+CORRECT: ['c']
+ [ ] a: v tenkostenných tepnách
+ [ ] b: v tepnách s pevnou a pružnou stenou
+ [*] c: v kapilárach
+ [ ] d: v žilách
+ [ ] e: vo vrátnici
+ [ ] f: v hornej a dolnej dutej žile
+ [ ] g: v srdci
+ [ ] h: v lymfatických uzlinách
+
+=== 49. 399. Nervová bunka: ===
+CORRECT: ['a', 'b', 'c', 'e', 'h']
+ [*] a: je základná struktirna a funkčná jednotka nervovej sústavy Živočíchov
+ [*] b: sa skladá z tela bunky a výbežkov dvojakého typu
+ [*] c: má jeden odstredivý výbežok - neurit
+ [ ] d: má jeden odstredivý výbežok - dendrit
+ [*] e: má dendrity, ktoré privádzajú vzruchy do tela bunky
+ [ ] f: má dendrity, ktoré vedi vzruchy z tela bunky
+ [ ] g: má dostredivý axón
+ [*] h: vytvára synapsie s inými nervovými bunkami
+
+=== 50. 400. Dostredivé výbežky nervovej bunky: ===
+CORRECT: ['a', 'c', 'e', 'h']
+ [*] a: vedú podráždenie do tela bunky
+ [ ] b: sa nazývajú neuróny
+ [*] c: vytvárajú spoje s inými bunkami
+ [ ] d: sa nazývajú neurity
+ [*] e: sa nazývajú dendrity
+ [ ] f: vedú podráždenie z tela bunky
+ [ ] g: sa nazývajú axóny
+ [*] h: sú krátke a rozvetvené 86
+

@@ -1,0 +1,2278 @@
+[
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "201. Mykoríza je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "symbióza húb s koreňmi vyšších rastlín"
+      },
+      {
+        "id": "b",
+        "text": "symbióza húb s baktériami"
+      },
+      {
+        "id": "c",
+        "text": "lichenizmus"
+      },
+      {
+        "id": "d",
+        "text": "spolužitie húb so zelenými riasami"
+      },
+      {
+        "id": "e",
+        "text": "nasadenie parazita na cudzopasiacu hubu"
+      },
+      {
+        "id": "f",
+        "text": "typ mykózy"
+      },
+      {
+        "id": "g",
+        "text": "nasadenie cudzopasiacej huby na parazita"
+      },
+      {
+        "id": "h",
+        "text": "spôsob symbiózy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "202. Chemosyntéza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je autotrofný spôsob výživy bakteri"
+      },
+      {
+        "id": "b",
+        "text": "je heterotrofný spôsob výživy bakteri"
+      },
+      {
+        "id": "c",
+        "text": "je spôsob tvorby organických látok nitrifikačných bakteri"
+      },
+      {
+        "id": "d",
+        "text": "je zmiešaná autotrofno-heterotrofna výživa"
+      },
+      {
+        "id": "e",
+        "text": "využíva ako zdroj uhlíka CO2"
+      },
+      {
+        "id": "f",
+        "text": "využíva ako zdroj uhlíka glukózu"
+      },
+      {
+        "id": "g",
+        "text": "je vývojovo mladšia ako fotosyntéza"
+      },
+      {
+        "id": "h",
+        "text": "vyskytuje sa hlavne pri mikroorganizmoch bez asimilanych pigmentov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "203. Poloparazity získavajú organické látky:",
+    "options": [
+      {
+        "id": "a",
+        "text": "fotosyntézou"
+      },
+      {
+        "id": "b",
+        "text": "chemosyntézou"
+      },
+      {
+        "id": "c",
+        "text": "z mŕtvych organizmov"
+      },
+      {
+        "id": "d",
+        "text": "zo živých organizmov"
+      },
+      {
+        "id": "e",
+        "text": "haustóriami, ktoré prenikajú do drevných časti cievnych zväzkov 46"
+      },
+      {
+        "id": "f",
+        "text": "mykorízou"
+      },
+      {
+        "id": "g",
+        "text": "haustóriami, ktoré prenikajú do lykových časti cievnych zväzkov"
+      },
+      {
+        "id": "h",
+        "text": "tentakulami"
+      }
+    ],
+    "correct_answers": [
+      "a"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "204. Chemosyntetizujuce baktérie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú heterotrofné organizmy"
+      },
+      {
+        "id": "b",
+        "text": "sú autotrofné organizmy"
+      },
+      {
+        "id": "c",
+        "text": "sú pigmentované baktérie"
+      },
+      {
+        "id": "d",
+        "text": "sú napr. sírne baktérie"
+      },
+      {
+        "id": "e",
+        "text": "sú napr. denitrifikacne baktérie"
+      },
+      {
+        "id": "f",
+        "text": "sú autotrofno-heterotrofne organizmy"
+      },
+      {
+        "id": "g",
+        "text": "nemajú asimilačné pigmenty"
+      },
+      {
+        "id": "h",
+        "text": "majú asimilačné pigmenty"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "205. Denitrifikaene baktérie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "žijú v pôde"
+      },
+      {
+        "id": "b",
+        "text": "uskutočňujú nitrifikaciu"
+      },
+      {
+        "id": "c",
+        "text": "obohacujú pôdu o dusík"
+      },
+      {
+        "id": "d",
+        "text": "rozkladajú nitráty"
+      },
+      {
+        "id": "e",
+        "text": "uvoľňujú dusík do ovzdušia"
+      },
+      {
+        "id": "f",
+        "text": "majú pozitívny význam v poľnohospodárstve, pretože uvoľňujú dusík do ovzdušia"
+      },
+      {
+        "id": "g",
+        "text": "sú napr. Nitrobacter a Nitrosomonas"
+      },
+      {
+        "id": "h",
+        "text": "oxidujú nitrity na nitráty"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "206. Potravový reťazec v prírode zakoncuji:",
+    "options": [
+      {
+        "id": "a",
+        "text": "reducenty"
+      },
+      {
+        "id": "b",
+        "text": "konzumenty"
+      },
+      {
+        "id": "c",
+        "text": "producenty"
+      },
+      {
+        "id": "d",
+        "text": "saprofyty"
+      },
+      {
+        "id": "e",
+        "text": "parazity, ktoré rozkladajú organické zvyšky po odumretých organizmoch"
+      },
+      {
+        "id": "f",
+        "text": "saprofyty, ktoré haustóriami odoberajú organické látky mŕtvym organizmom"
+      },
+      {
+        "id": "g",
+        "text": "hemiparazity, ktoré mineralizujú organické zvyšky po odumretých organizmoch"
+      },
+      {
+        "id": "h",
+        "text": "mikroorganizmy, ktoré mineralizujú organické zvyšky po odumretých organizmoch"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "207. Katabolické procesy v rastlinách sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "disimilačné"
+      },
+      {
+        "id": "b",
+        "text": "asimilačné"
+      },
+      {
+        "id": "c",
+        "text": "napr. typu fotosyntézy"
+      },
+      {
+        "id": "d",
+        "text": "napr. typu dýchania"
+      },
+      {
+        "id": "e",
+        "text": "spojené so spotrebou energie"
+      },
+      {
+        "id": "f",
+        "text": "spojené s uvoľňovaním energie chemických väzieb"
+      },
+      {
+        "id": "g",
+        "text": "endergonické"
+      },
+      {
+        "id": "h",
+        "text": "také, pri ktorých rastliny štiepia zložitejšie organické látky na jednoduchšie 47"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "208. Anabolické procesy v rastlinách sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "disimilane"
+      },
+      {
+        "id": "b",
+        "text": "asimilačné"
+      },
+      {
+        "id": "c",
+        "text": "napr. typu dýchania"
+      },
+      {
+        "id": "d",
+        "text": "napr. typu fotosyntézy"
+      },
+      {
+        "id": "e",
+        "text": "spojené so spotrebou energie"
+      },
+      {
+        "id": "f",
+        "text": "spojené s uvoľňovaním energie chemických väzieb"
+      },
+      {
+        "id": "g",
+        "text": "endergonické"
+      },
+      {
+        "id": "h",
+        "text": "exergonické"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "209. Ktoré asimilačné pigmenty využívajú pri fotosyntéze cyanobaktérie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "fykoerytrín"
+      },
+      {
+        "id": "b",
+        "text": "fykocyanín"
+      },
+      {
+        "id": "c",
+        "text": "modré fykobilíny"
+      },
+      {
+        "id": "d",
+        "text": "α-karoten"
+      },
+      {
+        "id": "e",
+        "text": "hemoglobíny"
+      },
+      {
+        "id": "f",
+        "text": "xantofyly"
+      },
+      {
+        "id": "g",
+        "text": "červené fykobilíny"
+      },
+      {
+        "id": "h",
+        "text": "chlorofyl a"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "210. Asimilačné farbivá:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nešpecifický zachytávajú slnečné žiarenie rôznych vlnových dizok"
+      },
+      {
+        "id": "b",
+        "text": "karotenoidy"
+      },
+      {
+        "id": "c",
+        "text": "prokaryotických organizmov sú naviazané na membrány chloroplastov"
+      },
+      {
+        "id": "d",
+        "text": "zelených rastlín sú naviazané na chloroplastové membrány"
+      },
+      {
+        "id": "e",
+        "text": "zelených rastlín sú bakteriochlorofyl, chlorofyl"
+      },
+      {
+        "id": "f",
+        "text": "zelených rastlín sú chlorofyly, karotenoidy, fykobilíny"
+      },
+      {
+        "id": "g",
+        "text": "fungujú ako zberače slnečnej energie"
+      },
+      {
+        "id": "h",
+        "text": "zelených rastlín absorbujú časť spektra viditeľného svetla v skale od 400 do 700 nm"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "211. Fotolýza vody je súčasťou:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Calvinovho cyklu"
+      },
+      {
+        "id": "b",
+        "text": "fotochemickej fázy fotosyntézy"
+      },
+      {
+        "id": "c",
+        "text": "Krebsovho cyklu"
+      },
+      {
+        "id": "d",
+        "text": "dýchacieho reťazca"
+      },
+      {
+        "id": "e",
+        "text": "syntetickej fázy fotosyntézy"
+      },
+      {
+        "id": "f",
+        "text": "primárnych procesov fotosyntézy"
+      },
+      {
+        "id": "g",
+        "text": "sekundárnych procesov fotosyntézy"
+      },
+      {
+        "id": "h",
+        "text": "glykolýzy"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "212. Výsledkom primárnych procesov fotosyntézy je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ATP, kyslík, NADP+"
+      },
+      {
+        "id": "b",
+        "text": "C6H12O6, H20 a O2"
+      },
+      {
+        "id": "c",
+        "text": "glukóza"
+      },
+      {
+        "id": "d",
+        "text": "oxid uhličitý"
+      },
+      {
+        "id": "e",
+        "text": "oxalacetát"
+      },
+      {
+        "id": "f",
+        "text": "ATP, kyslík, redukovaný koenzým NADPH + H+"
+      },
+      {
+        "id": "g",
+        "text": "ATP, redukovaný koenzým NADPH + Ht, glukóza"
+      },
+      {
+        "id": "h",
+        "text": "ribulóza 1,5-bisfosfat 48"
+      }
+    ],
+    "correct_answers": [
+      "f"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "213. Mäsožravé rastliny majú prakticky význam:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pretože sú schopné viazať vzdušný dusík"
+      },
+      {
+        "id": "b",
+        "text": "vo farmaceutickom priemysle"
+      },
+      {
+        "id": "c",
+        "text": "v medicíne"
+      },
+      {
+        "id": "d",
+        "text": "pri ,zelenom hnojení\""
+      },
+      {
+        "id": "e",
+        "text": "pri liečbe nádorových ochorení"
+      },
+      {
+        "id": "f",
+        "text": "ako reducenty organických látok"
+      },
+      {
+        "id": "g",
+        "text": "v biologickom boji proti škodcom"
+      },
+      {
+        "id": "h",
+        "text": "pretože mnohé z nich sú ve'mi vzácne liečivé rastliny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "214. Syntéza ATP v rastlinných bunkách prebieha:",
+    "options": [
+      {
+        "id": "a",
+        "text": "na vnútornej membráne mitochondrií"
+      },
+      {
+        "id": "b",
+        "text": "na membráne tylakoidov v chloroplastoch"
+      },
+      {
+        "id": "c",
+        "text": "v jadre bunky"
+      },
+      {
+        "id": "d",
+        "text": "na vonkajšej membráne mitochondri"
+      },
+      {
+        "id": "e",
+        "text": "na drsnom endoplazmatickom retikule"
+      },
+      {
+        "id": "f",
+        "text": "na mitochondriálnych kristách"
+      },
+      {
+        "id": "g",
+        "text": "v strome chloroplastov"
+      },
+      {
+        "id": "h",
+        "text": "prevažne v cytoplazme"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "215. Kyslík uvoP'iovany pri fotosyntéze do vzduchu pochádza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "z vody"
+      },
+      {
+        "id": "b",
+        "text": "z CO2"
+      },
+      {
+        "id": "c",
+        "text": "z glukózy"
+      },
+      {
+        "id": "d",
+        "text": "z NADP+"
+      },
+      {
+        "id": "e",
+        "text": "z fotolýzy vody"
+      },
+      {
+        "id": "f",
+        "text": "z asimilačných farbív"
+      },
+      {
+        "id": "g",
+        "text": "pri C3 rastlinách z ribulóza 1,5-bisfosfatu"
+      },
+      {
+        "id": "h",
+        "text": "pri C4 rastlinách z fosfoenolpyruvátu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "216. Sekundárne procesy fotosyntézy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "využívajú chemickú energiu na redukciu CO2 na sacharidy"
+      },
+      {
+        "id": "b",
+        "text": "sú charakterizované dvoma spôsobmi viazania CO2"
+      },
+      {
+        "id": "c",
+        "text": "nemusia prebiehať na svetle"
+      },
+      {
+        "id": "d",
+        "text": "vyžadujú akceptor CO2 acetylkoenzým A"
+      },
+      {
+        "id": "e",
+        "text": "vyžadujú akceptor CO2 fosfoenolpyruvat - C3 rastliny"
+      },
+      {
+        "id": "f",
+        "text": "vyžadujú akceptor CO2 ribulóza 1,5-bisfosfat - C4 rastliny"
+      },
+      {
+        "id": "g",
+        "text": "vyžadujú akceptor CO2 fosfoenolpyruvat - C4 rastliny"
+      },
+      {
+        "id": "h",
+        "text": "vyžadujú akceptor CO2 ribulóza 1,5-bisfosfat - C3 rastliny"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "217. Fotochemická fáza fotosyntézy zahŕňa procesy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ktoré môžu prebiehať len na svetle"
+      },
+      {
+        "id": "b",
+        "text": "ktoré môžu prebiehať na svetle aj v tme"
+      },
+      {
+        "id": "c",
+        "text": "ktoré sú spojené s fotofosforylaciou"
+      },
+      {
+        "id": "d",
+        "text": "spojené s premenou látok"
+      },
+      {
+        "id": "e",
+        "text": "spojené s fotolýzou vody"
+      },
+      {
+        "id": "f",
+        "text": "fotolýzy CO2 49"
+      },
+      {
+        "id": "g",
+        "text": "tvorby ATP"
+      },
+      {
+        "id": "h",
+        "text": "štiepenia ATP"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "218. Fotolýza vody:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je závislá od Žiarivej energie"
+      },
+      {
+        "id": "b",
+        "text": "patrí k fotobiologickym procesom"
+      },
+      {
+        "id": "c",
+        "text": "patrí k sekundárnym procesom fotosyntézy"
+      },
+      {
+        "id": "d",
+        "text": "prebieha len na svetle"
+      },
+      {
+        "id": "e",
+        "text": "je primárny proces syntetickej fázy fotosyntézy"
+      },
+      {
+        "id": "f",
+        "text": "je disociácia vody vplyvom svetelného Žiarenia"
+      },
+      {
+        "id": "g",
+        "text": "prebieha v cytoplazme rastlinných buniek"
+      },
+      {
+        "id": "h",
+        "text": "môže byť cyklická a necyklická"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "219. Pri fotosyntéze:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vzniká CO2"
+      },
+      {
+        "id": "b",
+        "text": "vzniká O2"
+      },
+      {
+        "id": "c",
+        "text": "vzniká ATP"
+      },
+      {
+        "id": "d",
+        "text": "sa štiepi ATP vo fotochemickej fáze"
+      },
+      {
+        "id": "e",
+        "text": "sa spotrebiva O2"
+      },
+      {
+        "id": "f",
+        "text": "vzniká 36 molekúl ATP"
+      },
+      {
+        "id": "g",
+        "text": "vzniká NADPH + H+"
+      },
+      {
+        "id": "h",
+        "text": "vzniká glukóza"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "220. Pri sekundárnych procesoch fotosyntézy sa CO2 viaže na:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vhodný organický substrát"
+      },
+      {
+        "id": "b",
+        "text": "vhodný anorganický substrát"
+      },
+      {
+        "id": "c",
+        "text": "polysacharid"
+      },
+      {
+        "id": "d",
+        "text": "ribulóza 1,5-bisfosfat"
+      },
+      {
+        "id": "e",
+        "text": "ribóza 1,5-fosfat pri C3 rastlinách"
+      },
+      {
+        "id": "f",
+        "text": "oxalacetát"
+      },
+      {
+        "id": "g",
+        "text": "fosfoenolpyruvat pri C4 rastlinách"
+      },
+      {
+        "id": "h",
+        "text": "fosfoenolpyruvat pri C3 rastlinách"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "221. Fotoautotrofia je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "syntéza jednoduchých anorganických látok pomocou svetla"
+      },
+      {
+        "id": "b",
+        "text": "synonymum pre fotosyntézu"
+      },
+      {
+        "id": "c",
+        "text": "synonymum pre fotorespiráciu"
+      },
+      {
+        "id": "d",
+        "text": "prírodný proces tvorby organických látok a kyslíka rastlinami"
+      },
+      {
+        "id": "e",
+        "text": "proces spaľovania látok a uvoľňovania nahromadenej energie"
+      },
+      {
+        "id": "f",
+        "text": "proces disimilácie anorganických látok s uvoľňovaním energie"
+      },
+      {
+        "id": "g",
+        "text": "chloroplasty"
+      },
+      {
+        "id": "h",
+        "text": "proces oxidácie anorganického substrátu a redukcie CO2 na sacharidy"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "222. Dýchací reťazec, ktorého koneenym produktom je voda:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je lokalizovaný v mitochondriálnej matrix"
+      },
+      {
+        "id": "b",
+        "text": "je lokalizovaný v strome chloroplastov 50"
+      },
+      {
+        "id": "c",
+        "text": "je lokalizovaný vo vnútornej membráne chloroplastov"
+      },
+      {
+        "id": "d",
+        "text": "je sled reakci, v ktorom vzniká ATP"
+      },
+      {
+        "id": "e",
+        "text": "je sled reakci, v ktorom sa štiepia makroergicke väzby ATP"
+      },
+      {
+        "id": "f",
+        "text": "je lokalizovaný vo vnútornej mitochondriálnej membráne"
+      },
+      {
+        "id": "g",
+        "text": "je lokalizovaný vo všetkých bunkách v cytoplazme"
+      },
+      {
+        "id": "h",
+        "text": "je sled reakci, v ktorom sa uvoľnená energia ukladá do asimilátov"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "223. Rastliny dýchajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "iba v noci"
+      },
+      {
+        "id": "b",
+        "text": "iba cez deň"
+      },
+      {
+        "id": "c",
+        "text": "aj cez deň, aj v noci"
+      },
+      {
+        "id": "d",
+        "text": "aj cez deň, aj v noci, ale dýchanie cez deň je ,,zastreté\" fotosyntézou"
+      },
+      {
+        "id": "e",
+        "text": "pričom prijímajú CO2 a uvoľňujú O2 do prostredia"
+      },
+      {
+        "id": "f",
+        "text": "pričom prijímajú O2 a vydávajú CO2 do prostredia"
+      },
+      {
+        "id": "g",
+        "text": "pričom premieňajú energiu fotónov slnečného Žiarenia"
+      },
+      {
+        "id": "h",
+        "text": "pričom spotrebúvajú organické a anorganické látky"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "224. Glykolýza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prebieha v mitochondriách"
+      },
+      {
+        "id": "b",
+        "text": "je prvá etapa biologickej oxidácie"
+      },
+      {
+        "id": "c",
+        "text": "je práve kvasenie"
+      },
+      {
+        "id": "d",
+        "text": "prebieha v cytoplazme"
+      },
+      {
+        "id": "e",
+        "text": "prebieha v anaeróbnych organizmoch"
+      },
+      {
+        "id": "f",
+        "text": "prebieha v aeróbnych organizmoch"
+      },
+      {
+        "id": "g",
+        "text": "je druhá etapa biologickej oxidácie"
+      },
+      {
+        "id": "h",
+        "text": "je neúplná oxidácia"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "225. Celkový energeticky zisk pri odbúravaní jednej molekuly glukózy na H20 a CO2 je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rovnaký ako pri glykolýze"
+      },
+      {
+        "id": "b",
+        "text": "2 molekuly ATP"
+      },
+      {
+        "id": "c",
+        "text": "30 až 32 molekúl ATP"
+      },
+      {
+        "id": "d",
+        "text": "38 molekúl ATP"
+      },
+      {
+        "id": "e",
+        "text": "znížený v dôsledku fotorespirácie"
+      },
+      {
+        "id": "f",
+        "text": "rovnaký ako pri fotosyntéze"
+      },
+      {
+        "id": "g",
+        "text": "nízky, pretože rastlina nepredycha všetky produkty fotosyntézy"
+      },
+      {
+        "id": "h",
+        "text": "taký, že to postačí na vytvorenie 30-32 makroergickych väzieb"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "226. Kyselina pyrohroznová:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú primárne producenty organickej hmoty"
+      },
+      {
+        "id": "b",
+        "text": "je základný produkt glykolýzy"
+      },
+      {
+        "id": "c",
+        "text": "podlieha oxidačnej dekarboxylácii v mitochondriách"
+      },
+      {
+        "id": "d",
+        "text": "podlieha oxidačnej dekarboxylácii v cytoplazme eukaryotických buniek"
+      },
+      {
+        "id": "e",
+        "text": "je transportovaná do cytoplazmy"
+      },
+      {
+        "id": "f",
+        "text": "je transportovaná do mitochondriálnej matrix"
+      },
+      {
+        "id": "g",
+        "text": "bezprostredne vstupuje do Krebsovho cyklu"
+      },
+      {
+        "id": "h",
+        "text": "bezprostredne vstupuje do Calvinovho cyklu 51"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "227. Oxidačná fosforylácia je proces:",
+    "options": [
+      {
+        "id": "a",
+        "text": "štiepenia ATP za prístupu kyslíka"
+      },
+      {
+        "id": "b",
+        "text": "anaerobnej oxidácie organických látok a fosforylácie ADP"
+      },
+      {
+        "id": "c",
+        "text": "aerobnej oxidácie organických látok a fosforylácie ADP"
+      },
+      {
+        "id": "d",
+        "text": "aerobnej oxidácie organických látok a fosforylácie ATP"
+      },
+      {
+        "id": "e",
+        "text": "pri ktorom vzniká energia vo forme ATP"
+      },
+      {
+        "id": "f",
+        "text": "pri ktorom je vodík oxidovaný na vodu a fosforylovaný ATP"
+      },
+      {
+        "id": "g",
+        "text": "pri ktorom je vodík glukózy oxidovaný na peroxidy"
+      },
+      {
+        "id": "h",
+        "text": "ktorý prebieha v mitochondriách"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "228. Práve kvasenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prebieha za prístupu vonkajšieho kyslíka"
+      },
+      {
+        "id": "b",
+        "text": "urýchľuje prítomnosť kyslíka"
+      },
+      {
+        "id": "c",
+        "text": "urýchľujú baktérie, kvasinky a plesne"
+      },
+      {
+        "id": "d",
+        "text": "konci vznikom CO2 a H2O"
+      },
+      {
+        "id": "e",
+        "text": "koní vznikom kyseliny pyrohroznovej"
+      },
+      {
+        "id": "f",
+        "text": "je biologický rozklad sacharidov pomocou mikroorganizmov"
+      },
+      {
+        "id": "g",
+        "text": "uskutočňujú napr. kvasinky pivné"
+      },
+      {
+        "id": "h",
+        "text": "v bunkách živočíchov a človeka konci vznikom kyseliny mliečnej"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "229. Oxidaena dekarboxylácia kyseliny pyrohroznovej:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je prvá etapa biologickej oxidácie"
+      },
+      {
+        "id": "b",
+        "text": "prebieha v mitochondriách"
+      },
+      {
+        "id": "c",
+        "text": "je proces vzniku kyseliny pyrohroznovej"
+      },
+      {
+        "id": "d",
+        "text": "poskytuje vstupný produkt citrátového cyklu"
+      },
+      {
+        "id": "e",
+        "text": "dáva vznik acetyl-koenzymu A"
+      },
+      {
+        "id": "f",
+        "text": "prebieha v cytoplazme všetkých buniek"
+      },
+      {
+        "id": "g",
+        "text": "je poslednou fázou biologickej oxidácie"
+      },
+      {
+        "id": "h",
+        "text": "dáva vznik 30 molekulám ATP"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "230. Energia z asimilátov sa v rastlinnej bunke uvo'ňuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "glykolyzou"
+      },
+      {
+        "id": "b",
+        "text": "procesom glukoneogenézy"
+      },
+      {
+        "id": "c",
+        "text": "v dýchacom reťazci"
+      },
+      {
+        "id": "d",
+        "text": "oxidačnou fosforyláciou"
+      },
+      {
+        "id": "e",
+        "text": "štiepením uhlíkového reťazca glukózy"
+      },
+      {
+        "id": "f",
+        "text": "biologickými oxidáciami"
+      },
+      {
+        "id": "g",
+        "text": "fotosyntézou"
+      },
+      {
+        "id": "h",
+        "text": "fotofosforylaciou"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "231. Izogamia je splývanie gamét:",
+    "options": [
+      {
+        "id": "a",
+        "text": "morfologicky a fyziologický rovnakých"
+      },
+      {
+        "id": "b",
+        "text": "morfologicky rovnakých a fyziologický odlíšených"
+      },
+      {
+        "id": "c",
+        "text": "genetický identických"
+      },
+      {
+        "id": "d",
+        "text": "ktoré sa líšia tvarom, organizáciou a pohyblivosťou"
+      },
+      {
+        "id": "e",
+        "text": "haploidnych"
+      },
+      {
+        "id": "f",
+        "text": "rovnakého pohlavného typu 52"
+      },
+      {
+        "id": "g",
+        "text": "odlišného pohlavného typu"
+      },
+      {
+        "id": "h",
+        "text": "typu makrogaméta a mikrogameta"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "232. Anizogamia je splývanie gamét:",
+    "options": [
+      {
+        "id": "a",
+        "text": "morfologicky odlíšených"
+      },
+      {
+        "id": "b",
+        "text": "genetický identických"
+      },
+      {
+        "id": "c",
+        "text": "haploidnych"
+      },
+      {
+        "id": "d",
+        "text": "rovnakého pohlavného typu"
+      },
+      {
+        "id": "e",
+        "text": "ktoré sa líšia tvarom, organizáciou alebo pohyblivosťou"
+      },
+      {
+        "id": "f",
+        "text": "typu makrogaméta a mikrogameta"
+      },
+      {
+        "id": "g",
+        "text": "fyziologický odlišných"
+      },
+      {
+        "id": "h",
+        "text": "genetický odlišných"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "233. Rodozmena je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "metabióza"
+      },
+      {
+        "id": "b",
+        "text": "striedanie pohlavnej a nepohlavnej generácie v ontogenéze rastlín"
+      },
+      {
+        "id": "c",
+        "text": "metagenéza"
+      },
+      {
+        "id": "d",
+        "text": "mutagenéza"
+      },
+      {
+        "id": "e",
+        "text": "striedanie gametofytu a sporofytu v ontogenéze rastlín"
+      },
+      {
+        "id": "f",
+        "text": "gametogenéza"
+      },
+      {
+        "id": "g",
+        "text": "partenogenéza pri rastlinách"
+      },
+      {
+        "id": "h",
+        "text": "uvoľňuje sa molekulový kyslík"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "234. Gametofyt pri machorastoch:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je vždy haploidná stielka"
+      },
+      {
+        "id": "b",
+        "text": "je diploidná stielka"
+      },
+      {
+        "id": "c",
+        "text": "je kormus"
+      },
+      {
+        "id": "d",
+        "text": "tvorí výtrusnice"
+      },
+      {
+        "id": "e",
+        "text": "vzniká mitotickým delením výtrusu"
+      },
+      {
+        "id": "f",
+        "text": "vzniká meiotickym delením výtrusu"
+      },
+      {
+        "id": "g",
+        "text": "vzniká mitotickým delením zygoty"
+      },
+      {
+        "id": "h",
+        "text": "vzniká z jednobunkového haploidného útvaru"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "235. Nepohlavne rozmnožovanie rastlín:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je vegetatívne"
+      },
+      {
+        "id": "b",
+        "text": "je asexuálne"
+      },
+      {
+        "id": "c",
+        "text": "je sexuálne pri vyšších rastlinách"
+      },
+      {
+        "id": "d",
+        "text": "je vývojovo starší spôsob rozmnožovania"
+      },
+      {
+        "id": "e",
+        "text": "je vývojovo mladší spôsob rozmnožovania"
+      },
+      {
+        "id": "f",
+        "text": "znamená, že nový jedinec vzniká z telových buniek rodičovského organizmu"
+      },
+      {
+        "id": "g",
+        "text": "výtrusných je sporogenéza"
+      },
+      {
+        "id": "h",
+        "text": "výtrusných je gametogonia"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "236. Výtrusy si:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pohlavné rozmnožovacie častice nižších rastlín"
+      },
+      {
+        "id": "b",
+        "text": "pohlavné rozmnožovacie častice vyšších rastlín 53"
+      },
+      {
+        "id": "c",
+        "text": "nepohlavne rozmnožovacie Častice"
+      },
+      {
+        "id": "d",
+        "text": "výsledkom mitotického delenia spor v sporangiách"
+      },
+      {
+        "id": "e",
+        "text": "výsledkom redukčného delenia"
+      },
+      {
+        "id": "f",
+        "text": "rozmnožovacie častice machorastov"
+      },
+      {
+        "id": "g",
+        "text": "rozmnožovacie častice papraďorastov"
+      },
+      {
+        "id": "h",
+        "text": "haploidné a nepohyblivé"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "237. Sporofyt machorastov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je diploidný"
+      },
+      {
+        "id": "b",
+        "text": "je vždy haploidný"
+      },
+      {
+        "id": "c",
+        "text": "reprezentuje nepohlavnú generáciu"
+      },
+      {
+        "id": "d",
+        "text": "nie je schopný fotosyntézy"
+      },
+      {
+        "id": "e",
+        "text": "je prvoklík"
+      },
+      {
+        "id": "f",
+        "text": "je vždy izomorfný"
+      },
+      {
+        "id": "g",
+        "text": "je vždy heteromorfný"
+      },
+      {
+        "id": "h",
+        "text": "výživou závisí od gametofytu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "238. Roznotvara rodozmena:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je izomorfná"
+      },
+      {
+        "id": "b",
+        "text": "je heteromorfná"
+      },
+      {
+        "id": "c",
+        "text": "znamená, že gametofyt a sporofyt sú morfologicky rovnaké"
+      },
+      {
+        "id": "d",
+        "text": "znamená, že gametofyt a sporofyt sa morfologicky líšia"
+      },
+      {
+        "id": "e",
+        "text": "je charakteristická pre vyššie rastliny"
+      },
+      {
+        "id": "f",
+        "text": "je charakteristická pre nižšie rastliny"
+      },
+      {
+        "id": "g",
+        "text": "znamená, že samčie a samičie gametangiá sú na rôznych rastlinách"
+      },
+      {
+        "id": "h",
+        "text": "je len pri dvojdomých rastlinách"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "239. V ktorej generaci počas rodozmeny dochádza k meióze:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v gametofyte"
+      },
+      {
+        "id": "b",
+        "text": "v haploidnej"
+      },
+      {
+        "id": "c",
+        "text": "v sporofyte"
+      },
+      {
+        "id": "d",
+        "text": "v diploidnej"
+      },
+      {
+        "id": "e",
+        "text": "v izomorfnej"
+      },
+      {
+        "id": "f",
+        "text": "v heteromorfnej"
+      },
+      {
+        "id": "g",
+        "text": "v samčej"
+      },
+      {
+        "id": "h",
+        "text": "v samičej"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "240. V životnom cykle semenných rastlín:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je výrazná prevaha sporofytu"
+      },
+      {
+        "id": "b",
+        "text": "je výrazná prevaha gametofytu"
+      },
+      {
+        "id": "c",
+        "text": "sa gametofyt vyvíja ako súčasť sporofytu"
+      },
+      {
+        "id": "d",
+        "text": "sa sporofyt vyvíja ako súčasť gametofytu"
+      },
+      {
+        "id": "e",
+        "text": "sporofyt plní vyživovaciu funkciu"
+      },
+      {
+        "id": "f",
+        "text": "sporofyt reprezentuje vlastnú rastlinu"
+      },
+      {
+        "id": "g",
+        "text": "gametofyt plní vyživovaciu funkciu"
+      },
+      {
+        "id": "h",
+        "text": "gametofyt reprezentuje vlastnú rastlinu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "241. V ktorej generácií machorastov vznikajú gaméty:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v haploidnej"
+      },
+      {
+        "id": "b",
+        "text": "v diploidnej"
+      },
+      {
+        "id": "c",
+        "text": "v pohlavnej"
+      },
+      {
+        "id": "d",
+        "text": "v nepohlavnej"
+      },
+      {
+        "id": "e",
+        "text": "v gametofyte"
+      },
+      {
+        "id": "f",
+        "text": "v sporofyte 54"
+      },
+      {
+        "id": "g",
+        "text": "v izomorfnej"
+      },
+      {
+        "id": "h",
+        "text": "v heteromorfnej"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "242. Gametofyt sa od sporofytu machorastov odlišuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "morfologicky"
+      },
+      {
+        "id": "b",
+        "text": "cytologicky - gametofyt je haploidný, sporofyt je diploidný"
+      },
+      {
+        "id": "c",
+        "text": "cytologicky - gametofyt je diploidný, sporofyt je haploidný"
+      },
+      {
+        "id": "d",
+        "text": "v strome chloroplastov"
+      },
+      {
+        "id": "e",
+        "text": "v tylakoidoch chloroplastov"
+      },
+      {
+        "id": "f",
+        "text": "pohyblivosťou"
+      },
+      {
+        "id": "g",
+        "text": "tým, že nesie gametangiá a sporofyt stopku s výtrusnicou"
+      },
+      {
+        "id": "h",
+        "text": "tým, že nesie stopku s výtrusnicou a sporofyt gametangiá"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "243. Vydaj vody rastlinou sa uskutočňuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "transpiráciou -prevažne v noci"
+      },
+      {
+        "id": "b",
+        "text": "transpiráciou - cez deň"
+      },
+      {
+        "id": "c",
+        "text": "gutaciou - prevažne cez deň"
+      },
+      {
+        "id": "d",
+        "text": "gutaciou - prevažne v noci a nad ranom"
+      },
+      {
+        "id": "e",
+        "text": "prieduchovým výtlakom"
+      },
+      {
+        "id": "f",
+        "text": "kohéznymi silami"
+      },
+      {
+        "id": "g",
+        "text": "vyparovaním vody cez prieduchy"
+      },
+      {
+        "id": "h",
+        "text": "kutikulárnou transpiráciou"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "244. Na vedení vody v drevnej časti cievnych zväzkov rastliny sa zicastiuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kohézia vody"
+      },
+      {
+        "id": "b",
+        "text": "adhézia vody"
+      },
+      {
+        "id": "c",
+        "text": "kapilarita vody"
+      },
+      {
+        "id": "d",
+        "text": "transpirácia"
+      },
+      {
+        "id": "e",
+        "text": "koreňový výtlak"
+      },
+      {
+        "id": "f",
+        "text": "výrazne gutácia"
+      },
+      {
+        "id": "g",
+        "text": "osmotická aktivita pôdneho roztoku"
+      },
+      {
+        "id": "h",
+        "text": "obsah kyslíka v pôde"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "245. Auxíny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú chemické prostriedky na ničenie rastlín"
+      },
+      {
+        "id": "b",
+        "text": "sú rastové regulátory"
+      },
+      {
+        "id": "c",
+        "text": "sa využívajú v poľnohospodárstve na ničenie buriny"
+      },
+      {
+        "id": "d",
+        "text": "sú najstaršie známe rastové látky"
+      },
+      {
+        "id": "e",
+        "text": "podieľajú sa na regulačných procesoch rastlín"
+      },
+      {
+        "id": "f",
+        "text": "sa uplathuju v apikalnych meristémoch koreňov"
+      },
+      {
+        "id": "g",
+        "text": "podporujú rast bočných koreňov"
+      },
+      {
+        "id": "h",
+        "text": "podporujú zakoreňovanie odrezkov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "246. Medzi rastové stimulátory rastlín patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kyselina abscisová"
+      },
+      {
+        "id": "b",
+        "text": "etylén"
+      },
+      {
+        "id": "c",
+        "text": "fenoly"
+      },
+      {
+        "id": "d",
+        "text": "auxíny"
+      },
+      {
+        "id": "e",
+        "text": "kyselina oxaloctova"
+      },
+      {
+        "id": "f",
+        "text": "giberelíny"
+      },
+      {
+        "id": "g",
+        "text": "cytokiníny"
+      },
+      {
+        "id": "h",
+        "text": "zábranné látky 55"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "247. Životný cyklus rastliny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je synonymum pre ontogenezu"
+      },
+      {
+        "id": "b",
+        "text": "je fylogeneticky vývoj rastlinného druhu"
+      },
+      {
+        "id": "c",
+        "text": "je obdobie života rastliny od vzniku semená po semeno"
+      },
+      {
+        "id": "d",
+        "text": "je obdobie života rastliny od vzniku výtrusu po výtrus"
+      },
+      {
+        "id": "e",
+        "text": "je život jedinca od začiatku jeho zrodu až po smrť"
+      },
+      {
+        "id": "f",
+        "text": "má typický priebeh pre príslušnú skupinu rastlín"
+      },
+      {
+        "id": "g",
+        "text": "a jeho typický priebeh je jedným zo znakov dosiahnutej fylogenetickej úrovne"
+      },
+      {
+        "id": "h",
+        "text": "je vývin rastliny od vyklicenia po vytvorenie rozmnožovacích orgánov"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "248. Označte správnu odpoveď:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ekologické sucho vzniká, keď je nízky obsah kyslíka v pôde"
+      },
+      {
+        "id": "b",
+        "text": "fyziologické sucho vzniká, keď je slabý koreňový výtlak"
+      },
+      {
+        "id": "c",
+        "text": "ekologické sucho vzniká pri mrazoch"
+      },
+      {
+        "id": "d",
+        "text": "fyziologické sucho vzniká v ílovitých, mastných a kyslých pôdach"
+      },
+      {
+        "id": "e",
+        "text": "kyprenie pôdy sa označuje ako suché zalievanie"
+      },
+      {
+        "id": "f",
+        "text": "príjem vody rastlinou ovplyvhuje aj obsah O2 V pôde"
+      },
+      {
+        "id": "g",
+        "text": "vyšší osmotický potenciál pôdneho roztoku uľahčuje príjem vody rastlinou"
+      },
+      {
+        "id": "h",
+        "text": "osmotický napnutá bunka je špongiová"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "249. Transpiračný koeficient:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vyjadruje množstvo vody vydané rastlinou za jednotku času"
+      },
+      {
+        "id": "b",
+        "text": "vyjadruje množstvo vody prijaté rastlinou za jednotku času"
+      },
+      {
+        "id": "c",
+        "text": "sa používa na vyjadrenie intenzity transpirácie"
+      },
+      {
+        "id": "d",
+        "text": "sa používa na vyjadrenie produkcie biomasy rastlín"
+      },
+      {
+        "id": "e",
+        "text": "sa používa na vyjadrenie nárokov rastlín na vodu"
+      },
+      {
+        "id": "f",
+        "text": "vyjadruje množstvo vody v litroch spotrebované rastlinou za vegetačné obdobie na 1 kg suchej hmotnosti"
+      },
+      {
+        "id": "g",
+        "text": "vyjadruje vodnú bilanciu rastliny"
+      },
+      {
+        "id": "h",
+        "text": "vyjadruje hospodárenie rastliny s vodou"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "250. Respiračný kvocient:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je pomer vyprodukovaného CO2 k spotrebovanému O2 pri bunkových oxidáciách"
+      },
+      {
+        "id": "b",
+        "text": "je pomer prijatého O2 k vydanému CO2 pri bunkových oxidáciách"
+      },
+      {
+        "id": "c",
+        "text": "je pomer vydaného O2 k prijatému CO2 pri bunkových oxidáciách"
+      },
+      {
+        "id": "d",
+        "text": "vyjadruje intenzitu dýchania"
+      },
+      {
+        "id": "e",
+        "text": "vyjadruje intenzitu fotosyntézy"
+      },
+      {
+        "id": "f",
+        "text": "pre glukózu má hodnotu 1"
+      },
+      {
+        "id": "g",
+        "text": "je pomer koncentrácie O2 a CO2 V p’ucach"
+      },
+      {
+        "id": "h",
+        "text": "vyjadruje intenzitu glykolýzy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F."
+  }
+]

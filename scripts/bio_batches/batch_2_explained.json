@@ -1,0 +1,2273 @@
+[
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "51. Poradie všetkých fáz bunkového cyklu je nasledujúce:",
+    "options": [
+      {
+        "id": "a",
+        "text": "karyokinéza a cytokinéza"
+      },
+      {
+        "id": "b",
+        "text": "profáza, metafáza, anafáza, telofáza"
+      },
+      {
+        "id": "c",
+        "text": "heterotypické a homeotypické delenie"
+      },
+      {
+        "id": "d",
+        "text": "Gi, S, G2, M"
+      },
+      {
+        "id": "e",
+        "text": "predmitoticka fáza, S - fáza, postmitoticka fáza, M- fáza"
+      },
+      {
+        "id": "f",
+        "text": "amitóza, mitóza, meióza"
+      },
+      {
+        "id": "g",
+        "text": "interfáza a M - fáza"
+      },
+      {
+        "id": "h",
+        "text": "postmitoticka fáza, S - fáza, predmitoticka fáza, M - fáza"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Bunkový cyklus eukaryotickej bunky pozostáva z dvoch základných etáp – interfázy a M-fázy (delenia), čo vyjadruje možnosť g. Z hľadiska detailného chronologického členenia interfáza zahŕňa postmitotickú fázu (G1), syntetickú fázu (S) a predmitotickú fázu (G2), po ktorých nasleduje mitotická M-fáza (d, h). Možnosti a, b pomenúvajú iba fázy samotného delenia jadra a bunky, c a f uvádzajú rôzne formy delenia a v možnosti e je chybne zamenené poradie postmitotickej a predmitotickej fázy."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "52. Generana doba bunky:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je daná genetický"
+      },
+      {
+        "id": "b",
+        "text": "je pre rozličné bunky rovnaká"
+      },
+      {
+        "id": "c",
+        "text": "je Časové trvanie bunkového cyklu"
+      },
+      {
+        "id": "d",
+        "text": "je pre rozličné typy buniek rozdielna"
+      },
+      {
+        "id": "e",
+        "text": "nezávisí od množstva Živín v prostredí"
+      },
+      {
+        "id": "f",
+        "text": "je Časové trvanie interfázy"
+      },
+      {
+        "id": "g",
+        "text": "je Časové trvanie regenerácie bunky"
+      },
+      {
+        "id": "h",
+        "text": "je ovplyvnená množstvom vhodných živín v prostredí"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Generačná doba predstavuje celkové časové trvanie jedného bunkového cyklu (od vzniku bunky rozdelením materskej bunky až po jej vlastné rozdelenie). Je primárne podmienená geneticky a medzi rôznymi druhmi organizmov i bunkovými typmi toho istého organizmu sa výrazne líši (od minút po desiatky hodín). Významne ju ovplyvňujú aj faktory vonkajšieho prostredia, predovšetkým teplota a dostupnosť živín, pri ktorých nedostatku sa predlžuje. Nejde o čas interfázy ani regenerácie (f, g) a nie je konštantná pre všetky bunky (b)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "53. Priebeh bunkového cyklu a jeho reguláciu možno dobre študovať:",
+    "options": [
+      {
+        "id": "a",
+        "text": "na bunkách pestovaných in vivo"
+      },
+      {
+        "id": "b",
+        "text": "na vírusoch"
+      },
+      {
+        "id": "c",
+        "text": "na baktériách pestovaných in vivo"
+      },
+      {
+        "id": "d",
+        "text": "na bunkách pestovaných in vitro"
+      },
+      {
+        "id": "e",
+        "text": "na nádorových bunkách"
+      },
+      {
+        "id": "f",
+        "text": "na bunkách pestovaných mimo živého organizmu na živných pôdach"
+      },
+      {
+        "id": "g",
+        "text": "na bunkových a pletivových kultúrach"
+      },
+      {
+        "id": "h",
+        "text": "na diferencovaných bunkách"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Bunkový cyklus a jeho regulačné mechanizmy sa najlepšie experimentálne analyzujú in vitro, teda mimo živého organizmu v umelých podmienkach na živných pôdach formou bunkových a tkanivových (pletivových) kultúr. Tieto kultúry umožňujú presnú kontrolu a manipuláciu chemických a fyzikálnych faktorov prostredia. Vírusy vlastný bunkový cyklus nemajú (b), vysoko diferencované bunky sa spravidla už nedelia (h) a in vivo podmienky (a, c) neposkytujú možnosť izolovanej regulácie jednotlivých zložiek."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "54. Interfáza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je obdobie, keď sa bunka nedelí"
+      },
+      {
+        "id": "b",
+        "text": "zahŕňa mitózu"
+      },
+      {
+        "id": "c",
+        "text": "sa označuje ako bunkový cyklus 16"
+      },
+      {
+        "id": "d",
+        "text": "sa označuje ako generana doba bunky"
+      },
+      {
+        "id": "e",
+        "text": "zahŕňa profazu, metafazu, anafazu, telofazu"
+      },
+      {
+        "id": "f",
+        "text": "zahŕňa postmitoticku fázu, S - fázu a predmitoticku fázu"
+      },
+      {
+        "id": "g",
+        "text": "zahŕňa hlavný kontrolný uzol celého bunkového cyklu"
+      },
+      {
+        "id": "h",
+        "text": "je rastová fáza bunkového cyklu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Interfáza je obdobie bunkového cyklu medzi dvoma mitotickými deleniami, počas ktorého sa bunka aktívne nedelí, ale intenzívne rastie a metabolizuje. Člení sa na postmitotickú fázu (G1), syntetickú fázu (S) a predmitotickú fázu (G2), pričom v G1-fáze sa nachádza hlavný kontrolný uzol rozhodujúci o vstupe do ďalších fáz. Mitóza a jej čiastkové fázy (profáza až telofáza) tvoria samostatnú M-fázu, nie interfázu (b, e)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "55. Pri nedostatku živín v prostredí sa generačná doba bunky:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nemení"
+      },
+      {
+        "id": "b",
+        "text": "zrýchľuje"
+      },
+      {
+        "id": "c",
+        "text": "predlžuje"
+      },
+      {
+        "id": "d",
+        "text": "zrýchľuje za vzniku nádorových buniek"
+      },
+      {
+        "id": "e",
+        "text": "skráti, pretože sa zastavuje priebeh"
+      },
+      {
+        "id": "f",
+        "text": "nemení, pretože sa zastavuje priebeh bunkového cyklu"
+      },
+      {
+        "id": "g",
+        "text": "predlžuje, pretože sa zastavuje nielen priebeh G - fázy, ale aj celého bunkového cyklu"
+      },
+      {
+        "id": "h",
+        "text": "zrych'uje, pretože bunka urýchlene prechádza do M - fázy"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "g"
+    ],
+    "explanation": "Pri deficite živín alebo nevhodných podmienkach prostredia bunka zastavuje svoj prechod cyklom v hlavnom kontrolnom uzle v G1-fáze, v dôsledku čoho sa celý bunkový cyklus pozastaví a generačná doba sa predlžuje. Kým bunka nezíska dostatok energie a stavebných látok na replikáciu DNA, nemôže postúpiť do S-fázy. Tvrdenia o skrátení či zrýchlení cyklu (b, d, e, h) alebo jeho nemennosti (a, f) odporujú základným biologickým princípom regulácie."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "56. Gi - fáza bunkového cyklu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa označuje ako predmitoticka"
+      },
+      {
+        "id": "b",
+        "text": "sa označuje ako postmitoticka ) začína v okamihu vzniku dcérskej bunky"
+      },
+      {
+        "id": "c",
+        "text": "dochádza k syntéze RNA a bielkovín"
+      },
+      {
+        "id": "d",
+        "text": "začína v okamihu zániku dcérskej bunky"
+      },
+      {
+        "id": "e",
+        "text": "je začiatkom vlastného bunkového cyklu dcérskej bunky"
+      },
+      {
+        "id": "f",
+        "text": "je charakterizovaná rastovými procesmi"
+      },
+      {
+        "id": "g",
+        "text": "z h'adiska časového trvania je najkratšia"
+      },
+      {
+        "id": "h",
+        "text": "z hľadiska časového trvania je najvariabilnejšia"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "G1-fáza je postmitotická fáza, ktorá začína v momente vzniku novej dcérskej bunky po predchádzajúcej mitóze a otvára jej nový životný cyklus. Dochádza v nej k intenzívnej transkripcii RNA, syntéze štrukturálnych a funkčných bielkovín a k celkovému rastu bunky. Z hľadiska časového trvania je najvariabilnejšou fázou celého bunkového cyklu (môže trvať hodiny, mesiace alebo v nej bunka zotrvá trvalo v stave G0), pričom predmitotickou fázou je až fáza G2 (a)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "57. V Gi -fáze:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prebieha syntéza bielkovín"
+      },
+      {
+        "id": "b",
+        "text": "sa nachádza hlavný kontrolný uzol bunkového cyklu"
+      },
+      {
+        "id": "c",
+        "text": "prebieha zdvojenie jadrových chromozómov"
+      },
+      {
+        "id": "d",
+        "text": "sa bunka pripravuje na rozdelenie jadra"
+      },
+      {
+        "id": "e",
+        "text": "sa nachádza kontrolný uzol karyokinezy"
+      },
+      {
+        "id": "f",
+        "text": "sa nachádza kontrolný uzol cytokinezy"
+      },
+      {
+        "id": "g",
+        "text": "dochádza k zmnoženiu bunkových štruktúr"
+      },
+      {
+        "id": "h",
+        "text": "neprebieha zdvojenie jadrových chromozómov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "g",
+      "h"
+    ],
+    "explanation": "Pre G1-fázu je charakteristická aktívna proteosyntéza, tvorba nových bunkových organel a rast cytoplazmy, pričom v nej leží hlavný kontrolný uzol bunky (G1/S kontrolný bod). Zdvojenie jadrových chromozómov (replikácia DNA) v tejto fáze ešte neprebieha – nastáva až v nadväzujúcej S-fáze, preto platí h a neplatí c. Príprava na delenie jadra (syntéza tubulínu atď.) je úlohou predmitotickej G2-fázy (d)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "58. Sesterské chromatídy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vznikajú replikáciou DNA v S-faze"
+      },
+      {
+        "id": "b",
+        "text": "sú homologické"
+      },
+      {
+        "id": "c",
+        "text": "sú spojené centromerou"
+      },
+      {
+        "id": "d",
+        "text": "sa rozchádzajú v anafáze mitózy"
+      },
+      {
+        "id": "e",
+        "text": "sa rozchádzajú v anafáze I. meiotického delenia"
+      },
+      {
+        "id": "f",
+        "text": "sa rozchádzajú v anafáze II. meiotického delenia"
+      },
+      {
+        "id": "g",
+        "text": "sa rozchádzajú v anafáze heterotypickeho delenia"
+      },
+      {
+        "id": "h",
+        "text": "sú genetický identické 17"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Sesterské chromatídy vznikajú replikáciou DNA v S-fáze bunkového cyklu, sú navzájom geneticky identické a až do anafázy ostávajú fyzicky spojené v centromére. Rozchádzajú sa k pólom bunky v anafáze mitózy a v anafáze II meiózy (pri ekvačnom delení). V anafáze I heterotypického delenia sa naopak oddeľujú celé homologické chromozómy tvoriace bivalenty, nie sesterské chromatídy (e, g), a sesterské chromatídy neoznačujeme pojmom homologické (b)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "59. Označte nesprávnu odpoveď:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v priebehu profázy sa chromozómy skracujú a hrubnú rozdeľujú v centromére"
+      },
+      {
+        "id": "b",
+        "text": "v G2 fáze sa zdvojuje genetický materiál"
+      },
+      {
+        "id": "c",
+        "text": "v S - fáze bunkového cyklu prebieha syntéza DNA v centre jadra"
+      },
+      {
+        "id": "d",
+        "text": "v S fáze nastáva replikácia jadrovej DNA"
+      },
+      {
+        "id": "e",
+        "text": "v priebehu telofázy zanikajú vlákna deliaceho vretienka počet chromozómov"
+      },
+      {
+        "id": "f",
+        "text": "v M fáze dochádza k deleniu jadra a bunky"
+      },
+      {
+        "id": "g",
+        "text": "G, - fáza sa nazýva hlavný kontrolný uzol bunkového cyklu"
+      },
+      {
+        "id": "h",
+        "text": "v profáze I sa chromatídy homologických chromozómov prekrížia a vymenia si navzájom genetický materiál"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "V otázke zameranej na vyhľadanie nesprávnych tvrdení oficiálny kľúč správne označuje možnosti b, d, f a g. Výrok b je neplatný, pretože genetický materiál (DNA) sa zdvojuje výlučne v S-fáze, nie v G2-fáze, a výrok g neplatí, pretože G1-fáza hlavný kontrolný uzol iba obsahuje, no celá fáza sa tak nenazýva. Naopak, jednoznačne pravdivými faktami, ktoré sa neoznačujú, sú kondenzácia chromozómov v profáze či crossing-over homologických chromozómov v profáze I meiózy (h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "60. Bielkoviny, ktoré sa syntetizujú v G - fáze sa využívajú najmä:",
+    "options": [
+      {
+        "id": "a",
+        "text": "na tvorbu mitotického aparátu"
+      },
+      {
+        "id": "b",
+        "text": "na tvorbu bunkových organel"
+      },
+      {
+        "id": "c",
+        "text": "na tvorbu jednochromatidovych chromozómov"
+      },
+      {
+        "id": "d",
+        "text": "na rastové procesy v bunke"
+      },
+      {
+        "id": "e",
+        "text": "na znásobenie bunkových štruktúr"
+      },
+      {
+        "id": "f",
+        "text": "na tvorbu zásobných štruktúr"
+      },
+      {
+        "id": "g",
+        "text": "na tvorbu deliaceho vretienka"
+      },
+      {
+        "id": "h",
+        "text": "na tvorbu plazmatickej platničky"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "V G1-fáze bunkového cyklu (v zadaní označovanej ako G-fáza) prebieha masívna proteosyntéza zameraná na celkový rast bunky, syntézu enzýmov a výstavbu nových organel pred replikáciou DNA. Bielkoviny potrebné pre mitotický aparát a deliace vretienko (napr. tubulín) sa syntetizujú až v predmitotickej G2-fáze (a, g). Tvorba fragmoplastu či deliacej platničky je udalosťou až záverečnej cytokinézy v telofáze (h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "61. K'icovym procesom S - fázy je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "syntéza DNA"
+      },
+      {
+        "id": "b",
+        "text": "zdvojenie jednochromatidovych chromozómov"
+      },
+      {
+        "id": "c",
+        "text": "rozdelenie jadrových chromozómov"
+      },
+      {
+        "id": "d",
+        "text": "regenerácia jadra"
+      },
+      {
+        "id": "e",
+        "text": "zdvojenie bunkových organel"
+      },
+      {
+        "id": "f",
+        "text": "zdvojenie dvojchromatidovych chromozómov"
+      },
+      {
+        "id": "g",
+        "text": "znásobenie genetického materiálu bunky"
+      },
+      {
+        "id": "h",
+        "text": "zdvojenie počtu homologických chromozómov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "g"
+    ],
+    "explanation": "Kľúčovým dejom syntetickej (S) fázy je replikácia jadrovej DNA, ktorou sa znásobuje (zdvojuje) genetický materiál bunky. Z pôvodných jednochromatidových chromozómov vznikajú dvojchromatidové chromozómy tvorené dvoma sesterskými chromatídami spojenými v centromére. Počet samotných chromozómov v bunke sa v S-fáze nemení ani nezdvojuje (h), k ich rozdeleniu dochádza až v anafáze M-fázy (c) a organely sa syntetizujú najmä v G1 a G2 fáze (e)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "62. Karyokinéza a cytokinéza prebiehajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v interfáze bunkového cyklu"
+      },
+      {
+        "id": "b",
+        "text": "v M -fáze bunkového cyklu"
+      },
+      {
+        "id": "c",
+        "text": "v telofáze mitózy"
+      },
+      {
+        "id": "d",
+        "text": "v G2 - fáze bunkového cyklu"
+      },
+      {
+        "id": "e",
+        "text": "v telofáze II"
+      },
+      {
+        "id": "f",
+        "text": "v metafáze bunkového cyklu"
+      },
+      {
+        "id": "g",
+        "text": "v postmitotickej fáze"
+      },
+      {
+        "id": "h",
+        "text": "v telofáze I"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Karyokinéza (delenie jadra) a cytokinéza (delenie bunky) sú základnými zložkami M-fázy bunkového cyklu. Cytokinéza tesne nadväzuje na záverečné štádiá jadrového delenia a uskutočňuje sa v telofáze mitózy, ako aj v telofáze I a telofáze II meiózy. V interfáze a jej jednotlivých podfázach (G1, G2) delenie jadra ani bunky neprebieha (a, d, g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "63. Do interfázy bunkového cyklu patrí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "G2 - fáza"
+      },
+      {
+        "id": "b",
+        "text": "G1 -fáza"
+      },
+      {
+        "id": "c",
+        "text": "M - fáza"
+      },
+      {
+        "id": "d",
+        "text": "meióza"
+      },
+      {
+        "id": "e",
+        "text": "mitóza"
+      },
+      {
+        "id": "f",
+        "text": "predmitoticka G - fáza"
+      },
+      {
+        "id": "g",
+        "text": "S - fáza"
+      },
+      {
+        "id": "h",
+        "text": "postinitoticka G2 -fáza 18"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "g"
+    ],
+    "explanation": "Interfáza bunkového cyklu pozostáva z troch základných periód: postmitotickej G1-fázy, syntetickej S-fázy a predmitotickej G2-fázy. M-fáza, mitóza a meióza predstavujú samotnú fázu delenia bunky a stoja mimo interfázy (c, d, e). Možnosť f neuvádza správne označenie podfázy a možnosť h chybne spája postmitotickú fázu s G2 namiesto G1."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "64. Chemické regulačné mechanizmy bunkového cyklu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "môžu mať stimulačný účinok na bunkové delenie"
+      },
+      {
+        "id": "b",
+        "text": "môžu mať inhibičný účinok na bunkové delenie"
+      },
+      {
+        "id": "c",
+        "text": "sú napr. cytostatiká"
+      },
+      {
+        "id": "d",
+        "text": "si účinné najmä v G - fáze"
+      },
+      {
+        "id": "e",
+        "text": "sú účinné najmä v M - fáze, kde je hlavný kontrolný uzol bunkového cyklu"
+      },
+      {
+        "id": "f",
+        "text": "sú napr. vírusy, ktoré môžu spôsobiť nekoordinované delenie buniek"
+      },
+      {
+        "id": "g",
+        "text": "podmieňujú funkčné a tvarové odlíšenie buniek"
+      },
+      {
+        "id": "h",
+        "text": "sú účinné najmä na bunky, ktoré majú vzhľadom na svoju funkciu genetický trvalo zablokovanú schopnosť sa deliť"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Chemické regulačné mechanizmy zahŕňajú stimulačné faktory (napr. rastové hormóny a cyklíny) aj inhibičné látky vrátane cytostatík spomaľujúcich delenie. Tieto signály pôsobia predovšetkým v G1-fáze, kde bunka v hlavnom kontrolnom uzle vyhodnocuje pripravenosť na vstup do S-fázy (nie v M-fáze, e). Vírusy sú biologické faktory, nie chemické mechanizmy (f), a terminálne diferencované bunky s trvalo zablokovaným delením už na tieto signály nereagujú (h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "65. Reguláciu bunkového cyklu môžu ovplyvniť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "cytostatiká, ktoré spomaľujú alebo zastavujú bunkové delenie"
+      },
+      {
+        "id": "b",
+        "text": "cytostatiká, ktoré stimulujú bunkové delenie"
+      },
+      {
+        "id": "c",
+        "text": "vonkajšie faktory, napr. teplota"
+      },
+      {
+        "id": "d",
+        "text": "niektoré vírusy, za vzniku rakoviny"
+      },
+      {
+        "id": "e",
+        "text": "inhibítory - napr. kolchicín"
+      },
+      {
+        "id": "f",
+        "text": "rastové regulátory, ktoré sa môžu aplikovať aj zámerne"
+      },
+      {
+        "id": "g",
+        "text": "vonkajšie faktory, napr. dostatok živín v prostredí"
+      },
+      {
+        "id": "h",
+        "text": "rastové hormóny"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Reguláciu bunkového cyklu ovplyvňujú fyziologické činitele (teplota, dostupnosť živín, rastové hormóny a regulátory), farmakologické inhibítory (cytostatiká, kolchicín blokujúci deliace vretienko) aj onkogénne vírusy schopné vyvolať nádorový zvrat. Cytostatiká pôsobia výlučne inhibične tým, že delenie tlmia alebo zastavujú, nikdy ho nestimulujú (b)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "66. Stimulujúci účinok na bunkový cyklus:",
+    "options": [
+      {
+        "id": "a",
+        "text": "majú cytostatiká"
+      },
+      {
+        "id": "b",
+        "text": "má napr. kolchicín"
+      },
+      {
+        "id": "c",
+        "text": "majú niektoré inhibítory rastu"
+      },
+      {
+        "id": "d",
+        "text": "má hlavný kontrolný uzol bunkového cyklu v Gi - fáze"
+      },
+      {
+        "id": "e",
+        "text": "majú niektoré vírusy"
+      },
+      {
+        "id": "f",
+        "text": "majú rastové hormóny"
+      },
+      {
+        "id": "g",
+        "text": "majú niektoré rastové regulátory"
+      },
+      {
+        "id": "h",
+        "text": "majú antibiotiká"
+      }
+    ],
+    "correct_answers": [
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Stimulujúci účinok na bunkové delenie majú fyziologické rastové hormóny (napr. auxíny, cytokiníny, rastový hormón), vybrané rastové regulátory a onkogénne vírusy stimulujúce nekontrolované delenie buniek. Cytostatiká, inhibítory rastu, kolchicín aj antibiotiká bunkový cyklus tlmia alebo priamo blokujú (a, b, c, h), a hlavný kontrolný uzol je kontrolný bod cyklu, nie stimulačný faktor (d)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "67. V profáze mitózy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa chromatín špiralizuje a kondenzuje do chromozómov"
+      },
+      {
+        "id": "b",
+        "text": "sú chromozómy dvojchromatidove"
+      },
+      {
+        "id": "c",
+        "text": "sú chromozómy jednochromatidove"
+      },
+      {
+        "id": "d",
+        "text": "sa chromozómy skracujú"
+      },
+      {
+        "id": "e",
+        "text": "sa chromozómy spiralizuju"
+      },
+      {
+        "id": "f",
+        "text": "zaniká jadrová membrána"
+      },
+      {
+        "id": "g",
+        "text": "sa chromozómy despiralizuju"
+      },
+      {
+        "id": "h",
+        "text": "sa centrozómy oddelia a každý putuje na opačný pol bunky"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "V profáze mitózy sa chromatín špiralizuje a kondenzuje do viditeľných chromozómov (ktoré sa tým skracujú a hrubnú), centrozómy putujú k opačným pólom bunky a začína zanikať jadrový obal s jadierkom. Každý chromozóm je dvojchromatidový, pretože prešiel replikáciou v S-fáze interfázy. Despiralizácia chromozómov a vznik jednochromatidových chromozómov prebiehajú až v telofáze a anafáze (c, g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "68. V metafáze mitózy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú chromozómy dvojchromatidové"
+      },
+      {
+        "id": "b",
+        "text": "sú chromozómy jednochromatidove"
+      },
+      {
+        "id": "c",
+        "text": "sa jednochromatidove chromozómy zdvojujú na dvojchromatidove"
+      },
+      {
+        "id": "d",
+        "text": "sú chromozómy zoradené do centrálnej roviny"
+      },
+      {
+        "id": "e",
+        "text": "sa chromozómy ďalej despiralizuju 19"
+      },
+      {
+        "id": "f",
+        "text": "sa rozchádzajú dcérske chromatídy na protifahle póly bunky"
+      },
+      {
+        "id": "g",
+        "text": "vrcholí spiralizacia chromozómov chromozómu"
+      },
+      {
+        "id": "h",
+        "text": "dochádza k zániku jadierka a jadrového obalu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "V metafáze mitózy vrcholí špiralizácia a kondenzácia chromozómov, vďaka čomu sú najlepšie pozorovateľné pod mikroskopom. Dvojchromatidové chromozómy sú svojimi centromérami usporiadané v centrálnej (ekvatoriálnej) rovine a jadrový obal s jadierkom sú v tomto štádiu už úplne odbúrané. Rozchod dcérskych chromatíd nastáva až v nasledujúcej anafáze (f) a replikácia DNA prebehla už v interfáze (c)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "69. V telofáze mitózy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa chromozómy postupne spiralizuju"
+      },
+      {
+        "id": "b",
+        "text": "sa chromozómy postupne despiralizuju"
+      },
+      {
+        "id": "c",
+        "text": "sú chromozómy dvojchromatidové"
+      },
+      {
+        "id": "d",
+        "text": "sú chromozómy jednochromatidove"
+      },
+      {
+        "id": "e",
+        "text": "zaniká deliace vretienko"
+      },
+      {
+        "id": "f",
+        "text": "sa rozpúšťa jadrová membrána"
+      },
+      {
+        "id": "g",
+        "text": "zaniká jadierko"
+      },
+      {
+        "id": "h",
+        "text": "sa obnovuje štruktúra jadra"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "V telofáze mitózy zaniká deliace vretienko a jednochromatidové chromozómy na póloch bunky sa postupne despiralizujú na difúzny chromatín. Okolo oboch dcérskych sád chromozómov sa rekonštruuje jadrová membrána a znovu sa formujú jadierka. Špiralizácia chromozómov a zánik jadrovej membrány s jadierkom sú charakteristickými znakmi počiatočnej profázy (a, f, g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "70. Cytokinéza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je veda, ktorá skúma tvar a štruktúru buniek"
+      },
+      {
+        "id": "b",
+        "text": "sa začína a konci rozdelením jadra na dve dcérske"
+      },
+      {
+        "id": "c",
+        "text": "je pozdizne rozdelenie bunky a jadra"
+      },
+      {
+        "id": "d",
+        "text": "podmieňuje vznik viacjadrových buniek"
+      },
+      {
+        "id": "e",
+        "text": "je súčasťou interfázy"
+      },
+      {
+        "id": "f",
+        "text": "je obdobie rastu bunky"
+      },
+      {
+        "id": "g",
+        "text": "označuje pohyby bunky"
+      },
+      {
+        "id": "h",
+        "text": "je rozdelenie materskej bunky na dve samostatné dcérske bunky"
+      }
+    ],
+    "correct_answers": [
+      "h"
+    ],
+    "explanation": "Cytokinéza je proces fyzického rozdelenia materskej bunky a jej cytoplazmy na dve samostatné dcérske bunky, ktorý bezprostredne nadväzuje na karyokinézu v M-fáze. Rozdelenie samotného jadra sa označuje ako karyokinéza (b), kým náuka o štruktúre buniek je cytológia (a). Cytokinéza je záverečnou fázou bunkového delenia v M-fáze, nie súčasťou interfázy (e)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "71. Telové bunky živočíchov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú haploidné"
+      },
+      {
+        "id": "b",
+        "text": "sú diploidné"
+      },
+      {
+        "id": "c",
+        "text": "majú 2n chromozómov"
+      },
+      {
+        "id": "d",
+        "text": "sú genetický homologické"
+      },
+      {
+        "id": "e",
+        "text": "sú genetický identické"
+      },
+      {
+        "id": "f",
+        "text": "sú genetický odlišné"
+      },
+      {
+        "id": "g",
+        "text": "diferencované sú genetický odlišné"
+      },
+      {
+        "id": "h",
+        "text": "vznikajú heterotypickym a homeotypickym delením"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Telové (somatické) bunky živočíchov vznikajú mitotickým delením zygoty, a preto sú diploidné (majú 2n chromozómov) a nesú navzájom identickú genetickú informáciu. Funkčné a morfologické odlišnosti medzi rôznymi typmi buniek sú dôsledkom selektívnej génovej expresie, nie zmeny genetickej výbavy (f, g). Haploidnými bunkami vznikajúcimi meiózou sú výlučne gaméty (a, h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "72. Bivalenty vznikajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v profáze homeotypickeho delenia meiózy"
+      },
+      {
+        "id": "b",
+        "text": "v anafáze heterotypickeho delenia meiózy"
+      },
+      {
+        "id": "c",
+        "text": "v profáze heterotypickeho delenia meiózy"
+      },
+      {
+        "id": "d",
+        "text": "párovaním homologických chromozómov"
+      },
+      {
+        "id": "e",
+        "text": "párovaním genetický identických chromozómov"
+      },
+      {
+        "id": "f",
+        "text": "párovaním heterologickych chromozómov"
+      },
+      {
+        "id": "g",
+        "text": "v profáze I a zanikajú v anafáze I"
+      },
+      {
+        "id": "h",
+        "text": "v profáze heterotypickeho delenia mitózy"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Bivalenty (páry homologických chromozómov) vznikajú ich tesnou konjugáciou v profáze I prvého, heterotypického meiotického delenia. Umožňujú priebeh crossing-overu a v bunke pretrvávajú až do anafázy I, kedy sa homologické chromozómy oddelia a putujú k opačným pólom. V mitóze ani v druhom (homeotypickom) meiotickom delení sa bivalenty netvoria (a, h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "73. Označte správnu odpoveď:",
+    "options": [
+      {
+        "id": "a",
+        "text": "meiózou sa delia len diploidné bunky 20"
+      },
+      {
+        "id": "b",
+        "text": "meiózou sa delia len haploidné bunky"
+      },
+      {
+        "id": "c",
+        "text": "v anafáze I putujú k protiľahlým poľom bunky jednotlivé chromatídy"
+      },
+      {
+        "id": "d",
+        "text": "v anafáze I putujú k protiľahlým poľom bunky dvojchromatidove chromozómy"
+      },
+      {
+        "id": "e",
+        "text": "v metafáze I sa sústreďujú v centrálnej rovine jednotlivé chromozómy"
+      },
+      {
+        "id": "f",
+        "text": "v metafáze I sa sústreďujú v centrálnej rovine bivalenty"
+      },
+      {
+        "id": "g",
+        "text": "crossing-over prebieha v profáze homeotypickeho delenia"
+      },
+      {
+        "id": "h",
+        "text": "druhé meiotické delenie je charakteristické redukciou počtu chromozómov na polovicu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f"
+    ],
+    "explanation": "Meióza prebieha iba v diploidných bunkách (alebo polyploidných s párnym počtom sád), pretože vyžaduje párovanie homologických chromozómov do bivalentov. V metafáze I sa v centrálnej rovine usporadúvajú celé bivalenty a v anafáze I k pólom bunky putujú celé dvojchromatidové chromozómy, čím dochádza k redukcii chromozómového čísla. Jednotlivé chromatídy sa rozchádzajú až v anafáze II (c) a crossing-over prebieha v profáze I, nie v homeotypickom delení (g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "74. Zygota:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je oplodnené vajíčko"
+      },
+      {
+        "id": "b",
+        "text": "vzniká redukenym delením"
+      },
+      {
+        "id": "c",
+        "text": "je zrelá pohlavná bunka"
+      },
+      {
+        "id": "d",
+        "text": "má vlastnosť totipotencie"
+      },
+      {
+        "id": "e",
+        "text": "je haploidná"
+      },
+      {
+        "id": "f",
+        "text": "je diploidná"
+      },
+      {
+        "id": "g",
+        "text": "obsahuje v jadre kompletnú genetickú informáciu a v cytoplazme mechanizmus na jej realizáciu"
+      },
+      {
+        "id": "h",
+        "text": "obsahuje v cytoplazme kompletnú genetickú informáciu a v jadre mechanizmus na jej realizáciu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Zygota je oplodnené vajíčko vzniknuté splynutím dvoch haploidných gamét, čím sa obnovuje diploidný počet chromozómov (2n). Predstavuje totipotentnú bunku schopnú dať vznik všetkým bunkovým typom a celému organizmu, pričom v jadre nesie kompletný genóm a v cytoplazme translačný a metabolický aparát. Zygota nevzniká redukčným delením (meiózou vznikajú gaméty, b) a sama nie je zrelou gamétou (c)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "75. Karyokinéza je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rozdelenie jadra na dve dcérske"
+      },
+      {
+        "id": "b",
+        "text": "rozdelenie bunky na dve dcérske"
+      },
+      {
+        "id": "c",
+        "text": "súčasťou interfázy bunkového cyklu"
+      },
+      {
+        "id": "d",
+        "text": "súčasťou bunkového cyklu"
+      },
+      {
+        "id": "e",
+        "text": "proces zdvojenia jadrovej hmoty"
+      },
+      {
+        "id": "f",
+        "text": "veda, ktorá študuje tvar a štruktúru jadra"
+      },
+      {
+        "id": "g",
+        "text": "reprodukcia buniek"
+      },
+      {
+        "id": "h",
+        "text": "rozdelenie centriolu na dva dcérske"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d"
+    ],
+    "explanation": "Karyokinéza je biologický termín označujúci delenie bunkového jadra na dve dcérske jadrá a tvorí neoddeliteľnú súčasť M-fázy bunkového cyklu. Fyzické rozdelenie celej bunky a jej cytoplazmy sa nazýva cytokinéza (b). Proces replikácie jadrovej DNA prebieha v interfáze, zatiaľ čo karyokinéza je procesom mitotického či meiotického delenia (c, e)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "76. Bunkové delenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa označuje ako karyokinéza"
+      },
+      {
+        "id": "b",
+        "text": "môže byť priame - mitóza"
+      },
+      {
+        "id": "c",
+        "text": "je zvyčajne súčasťou M - fázy bunkového cyklu"
+      },
+      {
+        "id": "d",
+        "text": "prebieha v interfáze bunkového cyklu"
+      },
+      {
+        "id": "e",
+        "text": "zabezpečuje regeneráciu poškodených tkanív a orgánov"
+      },
+      {
+        "id": "f",
+        "text": "zabezpečuje náhradu opotrebovaných buniek"
+      },
+      {
+        "id": "g",
+        "text": "znamená reprodukciu buniek"
+      },
+      {
+        "id": "h",
+        "text": "zahŕňa karyokinézu a cytokinézu"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Bunkové delenie je podstatou reprodukcie buniek, ktorou sa zabezpečuje rast organizmu, náhrada opotrebovaných buniek a obnova poškodených tkanív. Uskutočňuje sa v M-fáze bunkového cyklu a zahŕňa delenie jadra (karyokinézu) a následné rozdelenie bunky (cytokinézu). Mitóza je nepriamym delením (priamym delením je amitóza, b) a delenie neprebieha v interfáze (d)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "77. Počet chromozómov v dcérskych bunkách vzniknutých mitotickým delením je vzhľadom k materskej bunke (2n):",
+    "options": [
+      {
+        "id": "a",
+        "text": "rovnaký, lebo sa priečne rozdelí každý chromozóm podobne ako v II. meiotickom delení 21"
+      },
+      {
+        "id": "b",
+        "text": "rovnaký, lebo sa pozdizne rozdelí každý chromozóm podobne ako v I. meiotickom delení"
+      },
+      {
+        "id": "c",
+        "text": "rovnaký, lebo sa priečne rozdelí každý chromozóm podobne ako v I. meiotickom delení"
+      },
+      {
+        "id": "d",
+        "text": "polovičný, lebo sa pozdizne rozdelí každý chromozóm podobne ako v II. meiotickom delení"
+      },
+      {
+        "id": "e",
+        "text": "rovnaký, lebo sa pozdizne rozdelí každý chromozóm podobne ako v II. meiotickom delení"
+      },
+      {
+        "id": "f",
+        "text": "haploidný, lebo sa priečne rozdelí každý chromozóm podobne ako v II. meiotickom delení"
+      },
+      {
+        "id": "g",
+        "text": "polovičný, lebo sa priečne rozdelí každý chromozóm podobne ako v I. meiotickom delení"
+      },
+      {
+        "id": "h",
+        "text": "rovnaký, t. j. diploidný"
+      }
+    ],
+    "correct_answers": [
+      "e",
+      "h"
+    ],
+    "explanation": "Pri mitóze dcérske bunky získavajú rovnaký, teda diploidný počet chromozómov (2n) ako materská bunka. Je to zabezpečené pozdĺžnym rozdelením dvojchromatidových chromozómov v centromére a rozchodom sesterských chromatíd k opačným pólom bunky v anafáze, čo je mechanizmus zhodný s II. meiotickým delením. Priečne delenie chromozómov neexistuje (a, c, f, g) a v I. meiotickom delení sa rozchádzajú celé chromozómy z bivalentov (b)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "78. Bunky, ktoré vznikli meiózou:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú genetický zhodné s materskou bunkou"
+      },
+      {
+        "id": "b",
+        "text": "nie sú genetický zhodné medzi sebou"
+      },
+      {
+        "id": "c",
+        "text": "majú jednu chromozómovú sadu"
+      },
+      {
+        "id": "d",
+        "text": "sú vždy genetický zhodné medzi sebou"
+      },
+      {
+        "id": "e",
+        "text": "majú dve chromozómové sady"
+      },
+      {
+        "id": "f",
+        "text": "sú pohlavné bunky"
+      },
+      {
+        "id": "g",
+        "text": "nie sú genetický identické s materskou bunkou"
+      },
+      {
+        "id": "h",
+        "text": "sú základom variability organizmov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Meiózou vznikajú pohlavné bunky (gaméty), ktoré nesú redukovanú, teda jednu chromozómovú sadu (sú haploidné, n). Vďaka rekombinácii pri crossing-overi a náhodnému rozchodu materských a otcovských chromozómov nie sú dcérske bunky geneticky zhodné s materskou bunkou ani medzi sebou, čo je základom genetickej variability druhu. Tvrdenia o diploidii či genetickej identite gamét (a, d, e) sú nesprávne."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "79. Heterotypické delenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa priebehom podobá mitóze"
+      },
+      {
+        "id": "b",
+        "text": "je charakteristické redukciou počtu chromozómov na polovicu"
+      },
+      {
+        "id": "c",
+        "text": "je druhé meiotické delenie"
+      },
+      {
+        "id": "d",
+        "text": "nezaručuje rovnomerne rozdelenie genetického materiálu"
+      },
+      {
+        "id": "e",
+        "text": "konci vznikom štyroch dcérskych haploidnych buniek"
+      },
+      {
+        "id": "f",
+        "text": "je prvé meiotické delenie"
+      },
+      {
+        "id": "g",
+        "text": "nemení počet chromozómov"
+      },
+      {
+        "id": "h",
+        "text": "je prvé mitotické delenie"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f"
+    ],
+    "explanation": "Heterotypické delenie je prvé meiotické delenie (meióza I), ktoré sa označuje ako redukčné, pretože redukuje počet chromozómových sád z diploidného stavu (2n) na haploidný (n). Na rozdiel od mitózy v ňom dochádza ku konjugácii homologických chromozómov do bivalentov a ku crossing-overu. Druhým meiotickým delením je homeotypické delenie podobné mitóze (a, c) a výsledné štyri bunky vznikajú až po zavŕšení meiózy II (e)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "80. Redukčné delenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je priame bunkové delenie"
+      },
+      {
+        "id": "b",
+        "text": "je meiotické delenie"
+      },
+      {
+        "id": "c",
+        "text": "je špecializovaný spôsob delenia, výsledkom ktorého je vznik pohlavných buniek"
+      },
+      {
+        "id": "d",
+        "text": "je špecializovaný spôsob delenia, výsledkom ktorého je vznik diploidných gamét"
+      },
+      {
+        "id": "e",
+        "text": "je V prípade Živočíchov jediný možný spôsob vzniku pohlavných buniek"
+      },
+      {
+        "id": "f",
+        "text": "nezaručuje rovnomerne rozdelenie genetického materiálu do dcérskych buniek"
+      },
+      {
+        "id": "g",
+        "text": "prebieha v dvoch po sebe nasledujúcich deleniach s odlišným priebehom"
+      },
+      {
+        "id": "h",
+        "text": "prebieha v dvoch po sebe nasledujúcich deleniach s rovnakým priebehom 22"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Redukčné delenie (meióza) je špecializovaný typ nepriameho bunkového delenia, ktorý je u živočíchov jedinou cestou tvorby zrelých gamét. Skladá sa z dvoch po sebe nasledujúcich delení s odlišným priebehom: heterotypického (redukčného) a homeotypického (ekvačného). Výsledkom sú haploidné, nie diploidné gaméty (d), a proces zabezpečuje presné a rovnomerne rozdelenie genetického materiálu (f)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "81. Homeotypické delenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je prvé meiotické delenie"
+      },
+      {
+        "id": "b",
+        "text": "je druhé meiotické delenie"
+      },
+      {
+        "id": "c",
+        "text": "má profazu I, metafazu I, anafazu I, telofazu I"
+      },
+      {
+        "id": "d",
+        "text": "má profazu II, metafazu II, anafazu II, telofazu II"
+      },
+      {
+        "id": "e",
+        "text": "je charakteristické zložitejším priebehom profázy, v ktorej dochádza ku crossing-overu"
+      },
+      {
+        "id": "f",
+        "text": "nasleduje po krátkej interfáze, kedy dochádza k replikaci DNA"
+      },
+      {
+        "id": "g",
+        "text": "nasleduje po krátkej interfáze, kedy nedochádza k replikaci DNA"
+      },
+      {
+        "id": "h",
+        "text": "redukuje počet chromozómov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Homeotypické delenie predstavuje druhé meiotické delenie (meióza II) a prebieha cez fázy profázu II, metafázu II, anafázu II a telofázu II. Nasleduje po krátkej interfáze, počas ktorej už nedochádza k replikácii DNA, pričom zachováva haploidný počet chromozómov rozchodom jednotlivých chromatíd. Redukcia počtu chromozómov a zložitá profáza s crossing-overom sú výlučnými znakmi prvého, heterotypického delenia (a, c, e, h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "82. Proces postupného tvarového a funkeneho odlíšenia buniek sa nazýva:",
+    "options": [
+      {
+        "id": "a",
+        "text": "stimulácia"
+      },
+      {
+        "id": "b",
+        "text": "totipotencia a uskutočňuje sa už počas zárodočného vývinu"
+      },
+      {
+        "id": "c",
+        "text": "diferenciácia"
+      },
+      {
+        "id": "d",
+        "text": "špecializácia"
+      },
+      {
+        "id": "e",
+        "text": "reprodukcia"
+      },
+      {
+        "id": "f",
+        "text": "autoregulácia"
+      },
+      {
+        "id": "g",
+        "text": "autoreprodukcia a výsledkom sú špecializované bunky pôda tvaru a funkcie"
+      },
+      {
+        "id": "h",
+        "text": "diferenciácia a výsledkom sú špecializované bunky pôda tvaru a funkcie"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Proces postupného morfologického a funkčného odlíšenia pôvodne nešpecializovaných buniek na bunky plniace konkrétne úlohy sa označuje ako diferenciácia alebo špecializácia. Jej výsledkom sú špecializované bunky odlišného tvaru a funkcie tvoriace rôzne tkanivá a orgány. Totipotencia je schopnosť bunky vyvinúť sa na ktorýkoľvek typ bunky (b), kým reprodukcia je proces množenia buniek (e, g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "83. Bunkové kultúry sa získavajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kultiváciou buniek in vivo"
+      },
+      {
+        "id": "b",
+        "text": "kultiváciou buniek in vitro"
+      },
+      {
+        "id": "c",
+        "text": "bunkovou diferenciáciou"
+      },
+      {
+        "id": "d",
+        "text": "pestovaním buniek či tkanív mimo živého organizmu"
+      },
+      {
+        "id": "e",
+        "text": "pestovaním buniek i tkanív v Živom organizme"
+      },
+      {
+        "id": "f",
+        "text": "priamym bunkovým delením in vivo"
+      },
+      {
+        "id": "g",
+        "text": "mitotickým delením buniek in vitro"
+      },
+      {
+        "id": "h",
+        "text": "mitotickým delením buniek in vivo"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Bunkové kultúry sa získavajú odberom buniek či tkanív a ich následnou kultiváciou in vitro, teda v laboratórnych podmienkach mimo živého organizmu na špeciálnych živných médiách. Bunky sa v týchto kultúrach množia nepriamym (mitotickým) delením, čo umožňuje štúdium ich fyziológie a genetiky. Pestovanie buniek v živom organizme predstavuje podmienky in vivo, nie umelé bunkové kultúry (a, e, h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "84. Bunková diferenciácia znamená:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tvarové odlíšenie buniek"
+      },
+      {
+        "id": "b",
+        "text": "funkčné odlíšenie buniek"
+      },
+      {
+        "id": "c",
+        "text": "genetické odlíšenie somatických buniek"
+      },
+      {
+        "id": "d",
+        "text": "morfologické odlíšenie buniek"
+      },
+      {
+        "id": "e",
+        "text": "tvarové a funkčné odlíšenie buniek, ktoré začína už počas zárodočného vývinu organizmu"
+      },
+      {
+        "id": "f",
+        "text": "tvarové a funkčné odlíšenie buniek až po narodení jedinca"
+      },
+      {
+        "id": "g",
+        "text": "realizáciu kompletnej genetickej informácie vo všetkých bunkách"
+      },
+      {
+        "id": "h",
+        "text": "špecializáciu buniek na určite základné funkcie v mnohobunkovom organizme"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Bunková diferenciácia predstavuje proces tvarového (morfologického) a funkčného odlíšenia buniek, ktorý začína už v embryogenéze a vedie k ich funkčnej špecializácii v mnohobunkovom organizme. Tento proces neznamená genetickú odlišnosť somatických buniek – všetky bunky si zachovávajú zhodný genóm, no realizujú iba jeho vybranú časť (c, g). Diferenciácia začína už počas zárodočného vývinu, nie až po narodení jedinca (f)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "85. Diferencovaná bunka:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má aktivované iba niektoré gény"
+      },
+      {
+        "id": "b",
+        "text": "má aktivované všetky gény v jadre 23"
+      },
+      {
+        "id": "c",
+        "text": "má vlastnosttotipotencie"
+      },
+      {
+        "id": "d",
+        "text": "obsahuje kompletnú genetickú informáciu"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje iba tu časť genetickej informácie, ktorá je potrebná pre jej tvarové a funkené odlíšenie"
+      },
+      {
+        "id": "f",
+        "text": "je bunka embryonálna"
+      },
+      {
+        "id": "g",
+        "text": "je bunka svalová"
+      },
+      {
+        "id": "h",
+        "text": "má typický tvar a je funkčné špecializovaná"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Diferencovaná bunka (napríklad svalová, nervová či epitelová) obsahuje v jadre kompletnú genetickú informáciu, no v dôsledku diferenciácie má aktívne iba tie gény, ktoré určujú jej špecifický tvar a funkciu. Zvyšné nepotrebné gény sú trvalo inaktivované, takže bunka už nemá vlastnosť totipotencie (c), ktorá je príznačná pre zygotu a rané embryonálne bunky (f). Bunka nestráca gény fyzicky, preto neplatí tvrdenie e."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "86. Bunková stena:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je selektívne priepustná"
+      },
+      {
+        "id": "b",
+        "text": "je permeabilná pre vodu a v nej rozpustené látky"
+      },
+      {
+        "id": "c",
+        "text": "tvorí osmotickú bariéru rastlinnej bunky"
+      },
+      {
+        "id": "d",
+        "text": "je produktom protoplastu rastlinnej bunky"
+      },
+      {
+        "id": "e",
+        "text": "má vyživovaciu funkciu"
+      },
+      {
+        "id": "f",
+        "text": "udržiava tvar bunky"
+      },
+      {
+        "id": "g",
+        "text": "je semipermeabilná"
+      },
+      {
+        "id": "h",
+        "text": "bakteriálnych buniek obsahuje pektíny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Bunková stena rastlín je tuhý neživý obal syntetizovaný a vylučovaný protoplastom rastlinnej bunky, ktorý mechanicky chráni bunku a udržiava jej stály tvar. Je plne priepustná (permeabilná) pre vodu a v nej rozpustené nízkomolekulové látky, takže nepredstavuje semipermeabilnú osmotickú bariéru – túto funkciu plní plazmatická membrána (a, c, g). Bakteriálna bunková stena je tvorená peptidoglykánom, nie pektínmi (h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "87. Rozkladné procesy v Živočíšnych bunkách zabezpečujú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "amyloplasty"
+      },
+      {
+        "id": "b",
+        "text": "Golgiho aparát"
+      },
+      {
+        "id": "c",
+        "text": "centrálna vakuola"
+      },
+      {
+        "id": "d",
+        "text": "cytoplazma"
+      },
+      {
+        "id": "e",
+        "text": "hladké endoplazmatické retikulum"
+      },
+      {
+        "id": "f",
+        "text": "zrnité endoplazmatické retikulum"
+      },
+      {
+        "id": "g",
+        "text": "lyzozómy"
+      },
+      {
+        "id": "h",
+        "text": "membránové organely obsahujúce hydrolytické enzýmy"
+      }
+    ],
+    "correct_answers": [
+      "g",
+      "h"
+    ],
+    "explanation": "Vnútrobunkový rozklad (intracelulárnu degradáciu) v živočíšnych bunkách zabezpečujú lyzozómy – jednomembránové vezikuly vyplnené kyslými hydrolytickými enzýmami schopnými štiepiť makromolekuly. Centrálna vakuola a amyloplasty sú organely charakteristické pre rastlinné bunky (a, c). Endoplazmatické retikulum a Golgiho aparát slúžia na syntézu, úpravu a transport látok, nie na primárne rozkladné procesy (b, e, f)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "88. Rozkladné procesy v rastlinných bunkách zabezpečujú hlavne:",
+    "options": [
+      {
+        "id": "a",
+        "text": "amyloplasty"
+      },
+      {
+        "id": "b",
+        "text": "lyzozómy"
+      },
+      {
+        "id": "c",
+        "text": "vakuoly"
+      },
+      {
+        "id": "d",
+        "text": "tonoplasty"
+      },
+      {
+        "id": "e",
+        "text": "plastidové ribozómy"
+      },
+      {
+        "id": "f",
+        "text": "hladké endoplazmatické retikulum"
+      },
+      {
+        "id": "g",
+        "text": "ribozómy"
+      },
+      {
+        "id": "h",
+        "text": "hydrolytické enzýmy naviazané na mitochondrie"
+      }
+    ],
+    "correct_answers": [
+      "c"
+    ],
+    "explanation": "V rastlinných bunkách funkciu lytického kompartmentu plnia vakuoly, ktorých bunková šťava obsahuje široké spektrum hydrolytických enzýmov zabezpečujúcich rozklad látok a organel. Typické lyzozómy v rastlinných bunkách chýbajú (b) a tonoplast označuje iba ohraničujúcu membránu vakuoly, nie samotnú lytickú organelu (d). Amyloplasty slúžia na uskladnenie škrobu a ribozómy na proteosyntézu (a, e, g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "89. Ktoré procesy sa uskutočňujú v chloroplastoch:",
+    "options": [
+      {
+        "id": "a",
+        "text": "fotosyntéeza"
+      },
+      {
+        "id": "b",
+        "text": "rozklad nepotrebných látok"
+      },
+      {
+        "id": "c",
+        "text": "syntéza bielkovín"
+      },
+      {
+        "id": "d",
+        "text": "glykolýza"
+      },
+      {
+        "id": "e",
+        "text": "Krebsov cyklus"
+      },
+      {
+        "id": "f",
+        "text": "syntéza polysacharidov tvoriacich bunkovú stenu"
+      },
+      {
+        "id": "g",
+        "text": "syntéza nukleových kyselín"
+      },
+      {
+        "id": "h",
+        "text": "Calvinov cyklus 24"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "V chloroplastoch prebieha fotosyntéza, pričom v stróme sa uskutočňuje jej tmavá fáza (Calvinov cyklus fixácie CO2). Keďže chloroplasty sú semiautonómne organely disponujúce vlastnou kruhovou DNA a ribozómami, syntetizujú sa v nich aj vlastné nukleové kyseliny a bielkoviny. Glykolýza sa odohráva v cytozole (d), Krebsov cyklus v mitochondriách (e) a syntéza polysacharidov bunkovej steny v Golgiho aparáte (f)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "90. Rastlinné bunky sú navzájom pospájané:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sústavou pletív"
+      },
+      {
+        "id": "b",
+        "text": "mikrotubulmi"
+      },
+      {
+        "id": "c",
+        "text": "cytoskeletom"
+      },
+      {
+        "id": "d",
+        "text": "plazmodezmami"
+      },
+      {
+        "id": "e",
+        "text": "amyloplastami"
+      },
+      {
+        "id": "f",
+        "text": "plazmidmi"
+      },
+      {
+        "id": "g",
+        "text": "tonoplastami"
+      },
+      {
+        "id": "h",
+        "text": "pórmi"
+      }
+    ],
+    "correct_answers": [
+      "d"
+    ],
+    "explanation": "Rastlinné bunky v pletivách sú vzájomne prepojené plazmodezmami – jemnými mikroskopickými kanálikmi cytoplazmy prechádzajúcimi cez bunkové steny a prepájajúcimi susedné protoplasty. Cytoskelet tvorí vnútornú kostru jednotlivej bunky (c), plazmidy sú kruhové molekuly DNA baktérií (f) a tonoplast je membrána obaľujúca vakuolu (g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "91. Vakuoly:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú obalené permeabilným tonoplastom"
+      },
+      {
+        "id": "b",
+        "text": "sú vyplnené bunkovou šťavou"
+      },
+      {
+        "id": "c",
+        "text": "sú vyplnené cytoplazmou"
+      },
+      {
+        "id": "d",
+        "text": "obsahujú hydrolytické enzýmy"
+      },
+      {
+        "id": "e",
+        "text": "majú na povrchu tonoplast"
+      },
+      {
+        "id": "f",
+        "text": "sú od cytoplazmy oddelené semipermeabilnou membránou"
+      },
+      {
+        "id": "g",
+        "text": "sú produktom protoplastu rastlinných buniek"
+      },
+      {
+        "id": "h",
+        "text": "vypína stróma"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Vakuoly sú rastlinné organely ohraničené semipermeabilnou (polopriepustnou) membránou nazývanou tonoplast, ktorá oddeľuje ich vnútro od cytoplazmy. Sú vyplnené bunkovou šťavou obsahujúcou vodu, anorganické soli, metabolity a hydrolytické enzýmy zabezpečujúce rozkladné procesy. Stróma je výplňou chloroplastov (h) a vnútro vakuoly neobsahuje cytoplazmu (c)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "92. V jadrovom obale sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mikrotubuly"
+      },
+      {
+        "id": "b",
+        "text": "otvory"
+      },
+      {
+        "id": "c",
+        "text": "plazmodezmy"
+      },
+      {
+        "id": "d",
+        "text": "protoplasty"
+      },
+      {
+        "id": "e",
+        "text": "peptidoglykán"
+      },
+      {
+        "id": "f",
+        "text": "pektíny"
+      },
+      {
+        "id": "g",
+        "text": "lignín"
+      },
+      {
+        "id": "h",
+        "text": "jadrové póry"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "h"
+    ],
+    "explanation": "Jadrový obal (karyotéka) je tvorený dvoma membránami a je perforovaný početnými otvormi – jadrovými pórmi, ktoré zabezpečujú regulovaný transport látok medzi nukleoplazmou a cytoplazmou. Plazmodezmy sa nachádzajú v bunkových stenách rastlín (c) a peptidoglykán, pektíny a lignín sú stavebné látky bunkových stien baktérií a rastlín (e, f, g)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "93. Rastlinná bunka sa odlišuje od Živočíšnej tým, Že má:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mitochondrie"
+      },
+      {
+        "id": "b",
+        "text": "plastidy"
+      },
+      {
+        "id": "c",
+        "text": "ribozómy"
+      },
+      {
+        "id": "d",
+        "text": "vakuoly"
+      },
+      {
+        "id": "e",
+        "text": "zrnité endoplazmatické retikulum"
+      },
+      {
+        "id": "f",
+        "text": "bunkoví stenu"
+      },
+      {
+        "id": "g",
+        "text": "lyzozómy"
+      },
+      {
+        "id": "h",
+        "text": "mikrotubuly"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Rastlinná bunka sa od typickej živočíšnej bunky odlišuje prítomnosťou celulózovej bunkovej steny, plastidov (najmä chloroplastov) a vyvinutých vakuol s bunkovou šťavou. Mitochondrie, ribozómy, mikrotubuly a endoplazmatické retikulum sú univerzálnymi organelami vlastnými obom typom eukaryotických buniek (a, c, e, h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "94. Tylakoidy sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "súčasťou mitochondrií"
+      },
+      {
+        "id": "b",
+        "text": "v strome chloroplastov"
+      },
+      {
+        "id": "c",
+        "text": "v cytoplazme všetkých baktérií"
+      },
+      {
+        "id": "d",
+        "text": "membránové organely eukaryotickej bunky"
+      },
+      {
+        "id": "e",
+        "text": "malé mechúriky Golgiho aparátu"
+      },
+      {
+        "id": "f",
+        "text": "súčasťou chloroplastov"
+      },
+      {
+        "id": "g",
+        "text": "sploštené mechúriky viažúce molekuly chlorofylu"
+      },
+      {
+        "id": "h",
+        "text": "v cytoplazme cyanobaktérií"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Tylakoidy sú sploštené membránové vačky obsahujúce fotosyntetické pigmenty (najmä chlorofyl) a proteínové komplexy svetelnej fázy fotosyntézy. V eukaryotických rastlinných bunkách sa nachádzajú v stróme chloroplastov (často usporiadané do stĺpcov – grán), kým u fotosyntetizujúcich prokaryotov (cyanobaktérií / siníc) ležia voľne v cytoplazme. Nie sú súčasťou mitochondrií ani Golgiho aparátu (a, e) a bežné baktérie ich neobsahujú (c)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "95. Bičíky eukaryotických buniek:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa skladajú z deväť trojíc mikrotubulov"
+      },
+      {
+        "id": "b",
+        "text": "majú na povrchu plazmatickú membránu"
+      },
+      {
+        "id": "c",
+        "text": "sú zakotvené v bunkovej stene"
+      },
+      {
+        "id": "d",
+        "text": "sa skladajú z mikrotubulov 25"
+      },
+      {
+        "id": "e",
+        "text": "obsahujú kolagén"
+      },
+      {
+        "id": "f",
+        "text": "sú zakotvené v bazálnom teliesku"
+      },
+      {
+        "id": "g",
+        "text": "majú na povrchu vždy pružnú pelikulu"
+      },
+      {
+        "id": "h",
+        "text": "sú pohybové organely niektorých prvokov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Bičíky eukaryotických buniek sú pohybové organely (napr. bičíkovcov či spermií) tvorené axonémou z mikrotubulov a na povrchu sú obalené výbežkom cytoplazmatickej membrány. V bunke sú ukotvené pomocou bazálneho telieska (kinetozómu), pričom voľný bičík má štruktúru 9 dvojíc + 2 centrálne mikrotubuly (stavba z 9 trojíc patrí bazálnemu teliesku, a). Bičíky neobsahujú kolagén (e) a nie sú zakotvené v bunkovej stene (c)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "96. Bunky všetkých živočíchov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú eukaryotické"
+      },
+      {
+        "id": "b",
+        "text": "v niektorých prípadoch prokaryotické"
+      },
+      {
+        "id": "c",
+        "text": "majú membránové organely"
+      },
+      {
+        "id": "d",
+        "text": "majú lyzozómy"
+      },
+      {
+        "id": "e",
+        "text": "majú pelikulu"
+      },
+      {
+        "id": "f",
+        "text": "sú pospájané plazmodezmami"
+      },
+      {
+        "id": "g",
+        "text": "obsahujú melanín"
+      },
+      {
+        "id": "h",
+        "text": "sa rozmnožujú priamym delením"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "explanation": "Všetky živočíšne organizmy patria do domény Eukaryota, preto sú ich bunky eukaryotické a obsahujú pravé jadro a membránové organely vrátane lyzozómov zabezpečujúcich vnútrobunkové trávenie. Žiadne živočíchy nie sú tvorené prokaryotickými bunkami (b), ich bunky sa nespájajú plazmodezmami typickými pre rastliny (f) a nepriame mitotické delenie je u nich pravidlom (h)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "97. K vysokospecializovanym fibrilarnym štruktúram živočíšnych buniek patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nervové vlákna"
+      },
+      {
+        "id": "b",
+        "text": "mikrofilamenty"
+      },
+      {
+        "id": "c",
+        "text": "cytoskeletova sústava"
+      },
+      {
+        "id": "d",
+        "text": "myofibrily"
+      },
+      {
+        "id": "e",
+        "text": "mikrotubuly"
+      },
+      {
+        "id": "f",
+        "text": "tonofibrily"
+      },
+      {
+        "id": "g",
+        "text": "brvy"
+      },
+      {
+        "id": "h",
+        "text": "bičíky"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Medzi vysokospecializované fibrilárne štruktúry živočíšnych buniek patria kontraktilné myofibrily svalových buniek, tonofibrily spevňujúce epitelové tkanivá, ako aj brvy a bičíky slúžiace na pohyb. Mikrotubuly a mikrofilamenty tvoria všeobecnú cytoskeletovú sústavu prítomnú vo všetkých eukaryotických bunkách (b, c, e) a nervové vlákno je bunkový výbežok (axón), nie subcelulárna fibrila (a)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "98. Pre lyzozómy je charakteristické, že:",
+    "options": [
+      {
+        "id": "a",
+        "text": "regulujú príjem a vydaj látok bunkou"
+      },
+      {
+        "id": "b",
+        "text": "predstavujú transportné vezikuly"
+      },
+      {
+        "id": "c",
+        "text": "majú vysoký obsah tráviacich enzýmov"
+      },
+      {
+        "id": "d",
+        "text": "sú charakteristické pre Živočíšne bunky"
+      },
+      {
+        "id": "e",
+        "text": "sú charakteristické pre rastlinné bunky"
+      },
+      {
+        "id": "f",
+        "text": "zúčastňujú sa na bunkovom trávení v prokaryotických bunkách"
+      },
+      {
+        "id": "g",
+        "text": "rozkladajú cudzorodé látky v bunke"
+      },
+      {
+        "id": "h",
+        "text": "rozkladajú nepotrebné látky v bunke"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Lyzozómy sú jednomembránové organely charakteristické pre živočíšne bunky, ktoré obsahujú vysokú koncentráciu kyslých tráviacich enzýmov. Slúžia na vnútrobunkový rozklad endocytovaných cudzích látok a patogénov, ako aj na odbúravanie opotrebovaných bunkových štruktúr pri autofágii. V rastlinných bunkách hydrolytické procesy zabezpečujú vakuoly (e) a prokaryotické bunky lyzozómy vôbec netvoria (f)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "99. Mikrotubuly sú v bičíku usporiadané:",
+    "options": [
+      {
+        "id": "a",
+        "text": "do deväť trojíc po obvode"
+      },
+      {
+        "id": "b",
+        "text": "priečne"
+      },
+      {
+        "id": "c",
+        "text": "pôda schémy 9 + 2"
+      },
+      {
+        "id": "d",
+        "text": "do deväť dvojíc po obvode a jedného centrálneho páru"
+      },
+      {
+        "id": "e",
+        "text": "do jedenásť obvodových dvojíc"
+      },
+      {
+        "id": "f",
+        "text": "náhodne"
+      },
+      {
+        "id": "g",
+        "text": "pôda schémy 9 + 3"
+      },
+      {
+        "id": "h",
+        "text": "v centrálnej rovine"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d"
+    ],
+    "explanation": "Mikrotubuly v axonéme eukaryotického bičíka vykazujú univerzálnu schému usporiadania 9 + 2, čo znamená deväť obvodových dubletov (dvojíc) a jeden centrálny pár mikrotubulov. Usporiadanie do deviatich trojíc po obvode (9 + 0) je charakteristické pre bazálne teliesko (kinetozóm) alebo centriol, nie pre samotný vybiehajúci bičík (a)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "100. V rastlinných bunkách sa nenachádzajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "lyzozómy"
+      },
+      {
+        "id": "b",
+        "text": "neurofibrily"
+      },
+      {
+        "id": "c",
+        "text": "tonofibrily"
+      },
+      {
+        "id": "d",
+        "text": "hydrolytické enzýmy"
+      },
+      {
+        "id": "e",
+        "text": "tonoplast"
+      },
+      {
+        "id": "f",
+        "text": "jadierka"
+      },
+      {
+        "id": "g",
+        "text": "plazmodezmy"
+      },
+      {
+        "id": "h",
+        "text": "myofibrily 26"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "h"
+    ],
+    "explanation": "Rastlinné bunky neobsahujú špecializované živočíšne štruktúry a fibrily: lyzozómy (ich úlohu plnia vakuoly), neurofibrily (vlákna nervových buniek), tonofibrily (spevňujúce vlákna epitelov) ani svalové myofibrily. Naopak, rastlinné bunky bežne disponujú hydrolytickými enzýmami vo vakuolách (d), tonoplastom (e), jadierkami v jadre (f) aj spojovacími plazmodezmami v stenách (g)."
+  }
+]

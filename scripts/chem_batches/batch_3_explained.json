@@ -1,0 +1,2296 @@
+[
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "101. Medzi významné minerály alkalických kovov patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sylvín"
+      },
+      {
+        "id": "b",
+        "text": "kalcit"
+      },
+      {
+        "id": "c",
+        "text": "halit"
+      },
+      {
+        "id": "d",
+        "text": "čilský liadok"
+      },
+      {
+        "id": "e",
+        "text": "kamenná soľ"
+      },
+      {
+        "id": "f",
+        "text": "aragonit"
+      },
+      {
+        "id": "g",
+        "text": "cinabarit"
+      },
+      {
+        "id": "h",
+        "text": "magnezit"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Alkalické kovy (prvky 1. skupiny: Li, Na, K, Rb, Cs, Fr) tvoria významné prírodné minerály ako sylvín (KCl), halit alias kamenná soľ (NaCl) a čilský liadok (NaNO3) (a, c, d, e). Naopak, kalcit a aragonit (CaCO3) spolu s magnezitom (MgCO3) sú minerály kovov alkalických zemín (b, f, h) a cinabarit (HgS) je sulfidový minerál prechodného kovu ortuti (g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "102. Ktorý minerál neobsahuje niektorý z prvkov alkalických zemín?",
+    "options": [
+      {
+        "id": "a",
+        "text": "magnezit"
+      },
+      {
+        "id": "b",
+        "text": "dolomit"
+      },
+      {
+        "id": "c",
+        "text": "beryl"
+      },
+      {
+        "id": "d",
+        "text": "baryt"
+      },
+      {
+        "id": "e",
+        "text": "sylvín"
+      },
+      {
+        "id": "f",
+        "text": "apatit"
+      },
+      {
+        "id": "g",
+        "text": "bauxit"
+      },
+      {
+        "id": "h",
+        "text": "kazivec"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "V užšom zmysle sa v anorganickej chémii medzi kovy alkalických zemín zaraďujú iba prvky Ca, Sr, Ba a Ra, ktorých zlúčeniny sú prítomné v dolomite (CaCO3·MgCO3), baryte (BaSO4), apatite (Ca5(PO4)3(F,Cl,OH)) a kazivci (CaF2) (b, d, f, h). Minerály magnezit (MgCO3), beryl (Be3Al2Si6O18), sylvín (KCl) a bauxit (Al2O3·xH2O) kovy alkalických zemín v tomto zmysle neobsahujú (a, c, e, g), keďže obsahujú horčík, berýlium, draslík alebo hliník."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "103. Amalgámy si zliatiny ortuti:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nás[AIF6] hexafluorohlinitan disodný"
+      },
+      {
+        "id": "b",
+        "text": "AIK(SO4)2.12H2O dodekahydrat síranu draselno-hlinitého"
+      },
+      {
+        "id": "c",
+        "text": "Cu2CO3(OH)2 dihydroxid-uhličitan meďnatý"
+      },
+      {
+        "id": "d",
+        "text": "K[FeCl4] chlorid železito-draselný"
+      },
+      {
+        "id": "e",
+        "text": "KFeCl4 tetrachloro-zelezitan draselný"
+      },
+      {
+        "id": "f",
+        "text": "Fe(NH4)2(SO4)2. 6H2O hexahydrát síranu diamonno-železnatého"
+      },
+      {
+        "id": "g",
+        "text": "NaHS. H2O hydrogen sulfid sodný"
+      },
+      {
+        "id": "h",
+        "text": "K2Rb[Agl4] tetraiodostriebornan draselno-rubídny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne systematické názvy podvojných a komplexných zlúčenín sú uvedené v možnostiach b, c, e a f: dodekahydrát síranu draselno-hlinitého (kamenec) AlK(SO4)2·12H2O, dihydroxid-uhličitan meďnatý (malachit) Cu2CO3(OH)2, tetrachloroželezitan draselný K[FeCl4] a hexahydrát síranu diamónno-železnatého (Mohrova soľ) Fe(NH4)2(SO4)2·6H2O. V možnosti a nesedí stechiometria (Na3[AlF6] je hexafluorohlinitan trisodný), v d je uvedený nesprávny názov pre koordinačný komplex a v g chýba označenie kryštalického hydrátu."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "104. Vyberte správne tvrdenia o zliatinách:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dural je zliatina Al, Cu, Mg"
+      },
+      {
+        "id": "b",
+        "text": "literina je tvorená z Sb, Sn, Pb"
+      },
+      {
+        "id": "c",
+        "text": "mosadz tvoria Sn, Cu"
+      },
+      {
+        "id": "d",
+        "text": "bronz tvoria Ni, Zn, Cu"
+      },
+      {
+        "id": "e",
+        "text": "konštantán je zliatina tvorená Ni, Mn, Cu"
+      },
+      {
+        "id": "f",
+        "text": "pružinovú oceľ tvoria Fe,"
+      },
+      {
+        "id": "g",
+        "text": "nehrdzavejúcu oceľ tvoria Fe,"
+      },
+      {
+        "id": "h",
+        "text": "spájka je tvorená Pb a Sn"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "Dural je ľahká a pevná zliatina hliníka s meďou a horčíkom (Al, Cu, Mg), literina (písmovina) je tvorená antimónom, cínom a olovom (Sb, Sn, Pb), konštantán obsahuje meď, nikel a mangán (Cu, Ni, Mn) a mäkká spájka je eutektická zliatina olova a cínu (Pb, Sn) (a, b, e, h). Mosadz je zliatina medi so zinkom (nie cínom, c) a bronz je zliatina medi s cínom (nie niklom a zinkom, d)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "105. Priraďte správne vzorce k minerálom a rudám:",
+    "options": [
+      {
+        "id": "a",
+        "text": "cyankáli KCN"
+      },
+      {
+        "id": "b",
+        "text": "kryolit Na3[AlF6]"
+      },
+      {
+        "id": "c",
+        "text": "kaolinit Al2(OH)4Si2O5"
+      },
+      {
+        "id": "d",
+        "text": "beryl Be3Al2Si6O18"
+      },
+      {
+        "id": "e",
+        "text": "baryt BaSO4"
+      },
+      {
+        "id": "f",
+        "text": "sylvín kcl"
+      },
+      {
+        "id": "g",
+        "text": "bauxit Al2O3 . x H2O"
+      },
+      {
+        "id": "h",
+        "text": "kazivec CaF2"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "f"
+    ],
+    "explanation": "Korektné chemické vzorce minerálov a technických látok sú: kyanid draselný cyankáli (KCN), kryolit (hexafluorohlinitan trisodný Na3[AlF6]), kaolinit (hlinitokremičitan Al2(OH)4Si2O5) a sylvín (chlorid draselný KCl) (a, b, c, f). Baryt je síran bárnatý BaSO4, kazivec fluorid vápenatý CaF2, beryl hlinitokremičitan berýlnatý a bauxit hydratovaný oxid hlinitý."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "106. Pre amalgámy a zliatiny platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "amalgámy sú zliatiny ortuti so železom"
+      },
+      {
+        "id": "b",
+        "text": "amalgámy vznikajú rozpúšťaním kovov v ortuti"
+      },
+      {
+        "id": "c",
+        "text": "zubný amalgám obsahuje Ag, Sn, Cu a Hg"
+      },
+      {
+        "id": "d",
+        "text": "ortuť tvorí amalgám so všetkými kovmi bez výnimky"
+      },
+      {
+        "id": "e",
+        "text": "amalgámy sa využívajú pri ťažbe zlata"
+      },
+      {
+        "id": "f",
+        "text": "amalgám sodíka je silné redukčné činidlo"
+      },
+      {
+        "id": "g",
+        "text": "amalgámy sú vždy kvapalné za bežnej teploty"
+      },
+      {
+        "id": "h",
+        "text": "železo netvorí amalgám, preto sa v železných nádobách ortuť prepravuje"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Amalgámy sú špecifické zliatiny kovov s kvapalnou ortuťou, pričom zubný amalgám vzniká zmiešaním ortuti s práškom Ag, Sn a Cu a sodíkový amalgám (Na-Hg) sa využíva v chémii ako silné redukčné činidlo (b, c, f). Ortuť netvorí amalgámy s prechodnými kovmi železnej triády (Fe, Co, Ni), preto sa ortuť bezpečne transportuje a skladuje v oceľových či železných nádobách (h); ortuť teda netvorí amalgámy so všetkými kovmi bez výnimky a amalgámy môžu byť za bežnej teploty aj tuhé (a, d, g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "107. Priraďte správne názvy respektíve vzorce k hydridom:",
+    "options": [
+      {
+        "id": "a",
+        "text": "alh azán"
+      },
+      {
+        "id": "b",
+        "text": "Mg2H hydrid horečnatý"
+      },
+      {
+        "id": "c",
+        "text": "BrH, boran"
+      },
+      {
+        "id": "d",
+        "text": "KHhydrid draselný"
+      },
+      {
+        "id": "e",
+        "text": "NaH2 hydrid sodný"
+      },
+      {
+        "id": "f",
+        "text": "PH3 fosfán"
+      },
+      {
+        "id": "g",
+        "text": "H2S sulfán"
+      },
+      {
+        "id": "h",
+        "text": "SiH4 silan"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne vzorce a systematické názvy hydridov sú: KH – hydrid draselný, PH3 – fosfán, H2S – sulfán a SiH4 – silán (d, f, g, h). Možnosti a, b, c a e obsahujú hrubé chyby: azán je NH3 (nie AlH3, čo je alán), hydrid horečnatý má stechiometriu MgH2 (nie Mg2H), borán je BH3 resp. B2H6 (nie BrH, čo je bromovodík) a hydrid sodný je NaH (nie NaH2)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "108. Tetrachloro-platnatan tetraamin-dichloroplaticity:",
+    "options": [
+      {
+        "id": "a",
+        "text": "obsahuje 10 elektroneutralnych ligandov"
+      },
+      {
+        "id": "b",
+        "text": "má vzorec [PtCl2(NH3)4][PtC14]"
+      },
+      {
+        "id": "c",
+        "text": "má vzorec [PdCl2(NH3),][PdC14]"
+      },
+      {
+        "id": "d",
+        "text": "v anióne má centrálny atóm Pd"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje komplexný katión s nábojovým číslom +II 30"
+      },
+      {
+        "id": "f",
+        "text": "koordinačné číslo Pt komplexného aniónu je 4"
+      },
+      {
+        "id": "g",
+        "text": "má 6 atómov ČI vo svojej molekule"
+      },
+      {
+        "id": "h",
+        "text": "má vzorec [PtCl4][PtC12(NH3)4]"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Koordinačná zlúčenina tetrachloroplatnatan tetraammín-dichloroplatičitý má vzorec [PtCl2(NH3)4][PtCl4], kde katión s centrálnym atómom Pt(+IV) a nábojom +2 obsahuje 4 elektroneutrálne ligandy NH3 a 2 ligandy Cl-, kým komplexný anión s Pt(+II) a koordinačným číslom 4 obsahuje štyri ligandy Cl- (b, e, f). V celej molekule sa nachádza celkovo 6 atómov chlóru (g), neutrálne ligandy sú iba štyri (nie 10, a) a katión sa v zápise vzorca uvádza vždy pred aniónom (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "109. Komplexná zlicenina [Čo(H2O)(NH3)3)2(SO4)3 :",
+    "options": [
+      {
+        "id": "a",
+        "text": "je síran akva-triamminkobaltity"
+      },
+      {
+        "id": "b",
+        "text": "je siričitan triammin-akvakobaltity"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje 6 ligandov viazaných na centrálny atóm"
+      },
+      {
+        "id": "d",
+        "text": "obsahuje centrálny atóm síran"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje kryštalický viazanú molekulu vody"
+      },
+      {
+        "id": "f",
+        "text": "centrálny atóm má oxidačné číslo +III"
+      },
+      {
+        "id": "g",
+        "text": "je tvorená komplexným katiónom s nábojovým číslom + III"
+      },
+      {
+        "id": "h",
+        "text": "obsahuje 14 atómov kyslíka"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "V komplexe [Co(H2O)(NH3)3]2(SO4)3 vystupujú ako ligandy neutrálne molekuly vody a amoniaku, takže náboj troch vonkajších síranových aniónov ((SO4)3^(6-)) vyrovnávajú dva trojmocné katióny [Co(H2O)(NH3)3]^(3+); centrálnym atómom je kobalt s oxidačným číslom +III a systematický názov je síran akva-triamminkobaltitý (a, f, g). Molekula obsahuje celkovo 14 atómov kyslíka (2×1 z vody + 3×4 zo síranov) (h), voda je viazaná koordinačne vo vnútornej sfére (nie kryštalicky, e) a centrálny kobalt viaže iba 4 ligandy (c)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "110. Komplexná zlúčenina hydrát chloridu pentaakva-chlorochromiteho:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má vzorec [CrCl2(H2O)4]C1 . H20"
+      },
+      {
+        "id": "b",
+        "text": "má vzorec [CrCl2(H2O)]ČI . H2O"
+      },
+      {
+        "id": "c",
+        "text": "centrálny atóm má koordinačné išlo 3"
+      },
+      {
+        "id": "d",
+        "text": "obsahuje aj kryštalický viazanú molekulu vody"
+      },
+      {
+        "id": "e",
+        "text": "má vzorec ČI[CrCl(H2O)s] . H20"
+      },
+      {
+        "id": "f",
+        "text": "obsahuje anión s oxidačným číslom -I"
+      },
+      {
+        "id": "g",
+        "text": "má vzorec [CrCl(H2O)sJCl2 . H20"
+      },
+      {
+        "id": "h",
+        "text": "obsahuje komplexný katión s nábojovým číslom +Il"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Hydrát chloridu pentaakva-chlorochromitého má racionálny vzorec [CrCl(H2O)5]Cl2·H2O, kde chromitý katión Cr^(3+) viaže päť neutrálnych akva-ligandov a jeden chlorido-ligand Cl-, čím tvorí komplexný katión s nábojom +2 (d, g, h). Vo vonkajšej sfére vystupujú dva chloridové anióny Cl- s oxidačným číslom -I (f) a jedna kryštalicky viazaná molekula vody; celkové koordinačné číslo chrómu je 6, nie 3 (c)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "111. O atómovom jadre platí, Že:",
+    "options": [
+      {
+        "id": "a",
+        "text": "predstavuje približne polovicu hmotnosti celého atómu"
+      },
+      {
+        "id": "b",
+        "text": "jeho priemer je približne 10 000 krát menší ako priemer celého atómu"
+      },
+      {
+        "id": "c",
+        "text": "jeho priemer je približne 100 000 krát menší ako priemer celého atómu"
+      },
+      {
+        "id": "d",
+        "text": "počet protónov udáva nukleónové číslo Z"
+      },
+      {
+        "id": "e",
+        "text": "jeho stálosť udáva pomer N/Z"
+      },
+      {
+        "id": "f",
+        "text": "predstavuje takmer celú hmotnosť atómu"
+      },
+      {
+        "id": "g",
+        "text": "protóny a neutróny sú zložené z kvarkov"
+      },
+      {
+        "id": "h",
+        "text": "jeho stálosť udáva pomer Z/N"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Atómové jadro sústreďuje viac ako 99,9 % hmotnosti celého atómu, hoci jeho priemer (~10^(-15) m) je zhruba 100 000-krát menší než priemer celého elektrónového obalu (~10^(-10) m) (c, f). Nukleóny (protóny a neutróny) sú zložené z kvarkov prvej generácie (u a d) a jadrová stabilita je podmienená optimálnym pomerom neutrónov k protónom N/Z (e, g). Nukleónové číslo A udáva súčet nukleónov, kým Z je protónové číslo (d)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "112. Vyberte správne tvrdenie 0 elementárnych časticiach:",
+    "options": [
+      {
+        "id": "a",
+        "text": "hmotu tvorí 12 elementárnych Častíc"
+      },
+      {
+        "id": "b",
+        "text": "hmotu tvorí 6 kvarkov a 6 leptónov"
+      },
+      {
+        "id": "c",
+        "text": "elektrón patrí medzi kvarky"
+      },
+      {
+        "id": "d",
+        "text": "antičasticou protónu je pozitrón"
+      },
+      {
+        "id": "e",
+        "text": "pozitrón je antičasticou elektrónu"
+      },
+      {
+        "id": "f",
+        "text": "vzájomne pôsobenie elementárnych častíc je spôsobené štyrmi druhmi interakcií"
+      },
+      {
+        "id": "g",
+        "text": "gluóny sprostredkúvajú elektromagnetickú interakciu"
+      },
+      {
+        "id": "h",
+        "text": "kvarky sa označujú písmenami gréckej abecedy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "f"
+    ],
+    "explanation": "Podľa štandardného modelu časticovej fyziky je bežná látka tvorená 12 základnými elementárnymi fermiónmi: 6 kvarkami (u, d, c, s, t, b) a 6 leptónmi (elektrón, mión, tauón a tri neutrína) (a, b). Pozitrón je antičasticou elektrónu s opačným kladným nábojom a interakcie medzi časticami sprostredkúvajú štyri základné sily (gravitačná, elektromagnetická, silná a slabá) (e, f). Elektrón je leptón (nie kvark, c), antičasticou protónu je antiprotón (d) a elektromagnetickú interakciu prenášajú fotóny, nie gluóny (g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "113. Rádionuklidy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "predstavujú izotopy rádia 8gRa"
+      },
+      {
+        "id": "b",
+        "text": "charakterizuje ich doba polpremeny (polčas rozpadu) 31"
+      },
+      {
+        "id": "c",
+        "text": "poznáme približne 50 prírodných rádionuklidov"
+      },
+      {
+        "id": "d",
+        "text": "predstavujú nestabilné nuklidy, ktoré sa premieňajú na iné nuklidy za uvoľnenia Žiarenia"
+      },
+      {
+        "id": "e",
+        "text": "označujú sa aj ako transurány"
+      },
+      {
+        "id": "f",
+        "text": "ich premenu na iné nuklidy sprevádza elektromagnetické žiarenie"
+      },
+      {
+        "id": "g",
+        "text": "poznáme približne 50 prírodných a umelých rádionuklidov"
+      },
+      {
+        "id": "h",
+        "text": "napr. astát a francium sa vyskytujú v zemskej kôre"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Rádionuklidy sú nestabilné jadrá podliehajúce rádioaktívnemu rozpadu na stabilnejšie dcérske nuklidy sprevádzanému emisiou jadrového žiarenia, pričom ich základnou charakteristikou je polčas rozpadu (b, d). V prírode sa vyskytuje približne 50 prírodných rádionuklidov vrátane stopových prvkov zemskej kôry, akými sú astát a francium z rozpadových radov (c, h). Umelo pripravených rádionuklidov však existuje niekoľko tisíc (nie 50, g) a pojem rádionuklid zahŕňa rádioaktívne izotopy všetkých prvkov, nielen rádia či transuránov (a, e)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "114. Polčas rozpadu (doba polpremeny) rádionuklidu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "závisí na množstve pôvodného nuklidu"
+      },
+      {
+        "id": "b",
+        "text": "závisí iba od teploty a tlaku"
+      },
+      {
+        "id": "c",
+        "text": "nezávisí od vonkajších podmienok"
+      },
+      {
+        "id": "d",
+        "text": "dosahuje Čas maximálne 2 dní"
+      },
+      {
+        "id": "e",
+        "text": "môže trvať až milióny rokov"
+      },
+      {
+        "id": "f",
+        "text": "nezávisí na množstve pôvodného nuklidu"
+      },
+      {
+        "id": "g",
+        "text": "s rastom teploty klesá"
+      },
+      {
+        "id": "h",
+        "text": "môže trvať pri niektorých radionuklidoch len pár sekúnd"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Polčas rozpadu (doba polpremeny, T1/2) je prísna konštanta rádioaktívneho rozpadu charakteristická pre konkrétny nuklid, ktorá nezávisí od vonkajších fyzikálnych podmienok (teplota, tlak, chemická väzba) ani od východiskového množstva nuklidu (c, f). V závislosti od druhu rádionuklidu sa môže pohybovať od zlomkov sekúnd až po miliardy rokov (e, h). Žiadne bežné zahrievanie ani zmena tlaku rýchlosť jadrového rozpadu nemení (b, g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "115. Elektrický náboj elementárnych Častíc:",
+    "options": [
+      {
+        "id": "a",
+        "text": "protónu a elektrónu je rovnaký, líši sa znamienkom"
+      },
+      {
+        "id": "b",
+        "text": "môže byť iba kladný alebo záporný"
+      },
+      {
+        "id": "c",
+        "text": "môže byť aj nulový"
+      },
+      {
+        "id": "d",
+        "text": "nikdy nemá nuloví hodnotu"
+      },
+      {
+        "id": "e",
+        "text": "má hodnotu e = 1,602 . 10-19 C"
+      },
+      {
+        "id": "f",
+        "text": "súčet nábojov protónov a neutrónov sa rovná náboju elektrónu"
+      },
+      {
+        "id": "g",
+        "text": "súčet nábojov protónov a neutrónov sa rovná náboju elektrónov (v absolútnej hodnote)"
+      },
+      {
+        "id": "h",
+        "text": "celkový kladný náboj voľných atómov je väčší ako celkový záporný"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Veľkosť elementárneho náboja je e = 1,602·10^(-19) C; protón nesie kladný náboj (+e), elektrón rovnaký záporný náboj (-e) a neutrón má elektrický náboj nulový (a, c, e). V neutrálnom atóme sa počet protónov rovná počtu elektrónov, preto sa súčet nábojov jadra v absolútnej hodnote presne rovná celkovému zápornému náboju obalu (g). Voľné neutrálne atómy majú celkový náboj nulový, kladný a záporný náboj sú v dokonalej rovnováhe (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "116. Hlavne kvantové &išlo n:",
+    "options": [
+      {
+        "id": "a",
+        "text": "charakterizuje len tvar orbitálu"
+      },
+      {
+        "id": "b",
+        "text": "udáva energiu elektrónu"
+      },
+      {
+        "id": "c",
+        "text": "nadobúda hodnoty O až nekonečno"
+      },
+      {
+        "id": "d",
+        "text": "platí pre neho vzťah En= - B/n?, B = 13,6 ev"
+      },
+      {
+        "id": "e",
+        "text": "udáva počet elektrónov na orbitáli"
+      },
+      {
+        "id": "f",
+        "text": "má vplyv na tvar aj veľkosť hraničnej plochy výskytu elektrónu"
+      },
+      {
+        "id": "g",
+        "text": "zhoduje sa s Číslom periódy"
+      },
+      {
+        "id": "h",
+        "text": "udáva počet protónov v atóme"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Hlavné kvantové číslo n určuje celkovú energiu elektrónu v atóme vodíka (podľa vzťahu En = -B/n^2, kde B = 13,6 eV), určuje veľkosť a priestorové ohraničenie orbitálu a pre valenčnú vrstvu sa zhoduje s číslom periódy (b, d, f, g). Nadobúda iba kladné celé čísla n = 1, 2, 3... (nikdy nie n = 0, c), tvar orbitálu je primárne daný vedľajším kvantovým číslom l (a) a počet protónov definuje protónové číslo Z (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "117. VedPajsie kvantové číslo l:",
+    "options": [
+      {
+        "id": "a",
+        "text": "určuje energetickí odlišnosť orbitálov a rozhoduje o ich tvare"
+      },
+      {
+        "id": "b",
+        "text": "udáva veľkosť hraničnej plochy výskytu elektrónu"
+      },
+      {
+        "id": "c",
+        "text": "je pre degenerované orbitály rovnaké"
+      },
+      {
+        "id": "d",
+        "text": "nadobúda hodnoty + 1/2, resp. - 1/2"
+      },
+      {
+        "id": "e",
+        "text": "nadobúda hodnoty od O až po n -1"
+      },
+      {
+        "id": "f",
+        "text": "má číselné hodnoty 0, 1, 2 až n +1"
+      },
+      {
+        "id": "g",
+        "text": "môže nadobúdať hodnoty označované písmenami s, p,"
+      },
+      {
+        "id": "h",
+        "text": "nerozhoduje o hodnotách magnetického kvantového išla 32"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Vedľajšie kvantové číslo l nadobúda hodnoty od 0 do n - 1 (tradične označované písmenami s, p, d, f) a určuje priestorový tvar orbitálu a jeho príspevok k energii elektrónu vo viacelktrónovom atóme (a, e, g). Pre degenerované orbitály v rámci rovnakej podvrstvy (napr. 2px, 2py, 2pz) má identickú hodnotu (c). Veľkosť orbitálu je riadená číslom n (b) a hodnoty ±1/2 patria spinovému kvantovému číslu s (d)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "118. Magnetické kvantové číslo m:",
+    "options": [
+      {
+        "id": "a",
+        "text": "určuje orientáciu orbitálu v priestore"
+      },
+      {
+        "id": "b",
+        "text": "môže nadobúdať hodnoty od - I, cez O až po + I"
+      },
+      {
+        "id": "c",
+        "text": "môže nadobúdať celkom 2 1I + 1 hodnôt, čo zodpovedá počtu orbitálov určitého typu"
+      },
+      {
+        "id": "d",
+        "text": "vyjadruje moment hybnosti elektrónu"
+      },
+      {
+        "id": "e",
+        "text": "udáva počet elektrónov na valenčnej vrstve"
+      },
+      {
+        "id": "f",
+        "text": "určuje priestorovú orientáciu elektrónu"
+      },
+      {
+        "id": "g",
+        "text": "udáva celkový obsah energie elektrónu"
+      },
+      {
+        "id": "h",
+        "text": "nadobúda pre / = 3 hodnoty -1, -2, -3, 0, 1, 2, 3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "h"
+    ],
+    "explanation": "Magnetické kvantové číslo m určuje priestorovú orientáciu orbitálu v magnetickom poli a môže nadobúdať celočíselné hodnoty od -l cez 0 až po +l, čo predstavuje celkovo (2l + 1) hodnôt zodpovedajúcich počtu degenerovaných orbitálov danej podvrstvy (a, b, c). Pre podvrstvu f (l = 3) nadobúda presne 7 hodnôt: -3, -2, -1, 0, 1, 2, 3 (h). Neudáva počet valenčných elektrónov ani celkovú energiu elektrónu (e, g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "119. Protónové číslo Z:",
+    "options": [
+      {
+        "id": "a",
+        "text": "udáva hmotnosť protónu"
+      },
+      {
+        "id": "b",
+        "text": "pri premene βt sa zmení o -1"
+      },
+      {
+        "id": "c",
+        "text": "určuje veľkosť náboja protónu"
+      },
+      {
+        "id": "d",
+        "text": "je dane počtom protónov v zlúčenine"
+      },
+      {
+        "id": "e",
+        "text": "pri rádioaktívnej premene β- sa mení na Z + 1"
+      },
+      {
+        "id": "f",
+        "text": "udáva počet protónov v atómovom jadre"
+      },
+      {
+        "id": "g",
+        "text": "nemení sa pri rádioaktívnej premene"
+      },
+      {
+        "id": "h",
+        "text": "udáva počet protónov a neutrónov v atómovom jadre"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Protónové číslo Z definuje počet protónov v atómovom jadre, určuje identitu chemického prvku a jeho postavenie v periodickej sústave (f). Pri rádioaktívnej premene beta mínus (β-) sa neutrón mení na protón a Z vzrastá na Z + 1, kým pri premene beta plus (β+) sa protón mení na neutrón a Z klesá na Z - 1 (b, e); pri vyžiarení gama kvanta zostáva Z nezmenené (g). Celkový počet nukleónov (protónov a neutrónov) udáva nukleónové číslo A (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "120. Desať elektrónov v elektrónovom obale obsahuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "anión gO2-"
+      },
+      {
+        "id": "b",
+        "text": "anión gf-"
+      },
+      {
+        "id": "c",
+        "text": "katión 20Sr2+"
+      },
+      {
+        "id": "d",
+        "text": "anión 17CI-"
+      },
+      {
+        "id": "e",
+        "text": "atóm zn"
+      },
+      {
+        "id": "f",
+        "text": "katión nina+"
+      },
+      {
+        "id": "g",
+        "text": "katión 19K+"
+      },
+      {
+        "id": "h",
+        "text": "atóm 1oNe"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "h"
+    ],
+    "explanation": "Počet elektrónov v elektrónovom obale je daný vzťahom Ne = Z - q: neutrálny neón 10Ne má 10 elektrónov, anióny O^(2-) (8 + 2) a F^(-) (9 + 1) majú 10 elektrónov a katión Na^(+) (11 - 1) má rovnako 10 elektrónov, čím tvoria izoelektrónový rad s konfiguráciou [Ne] (a, b, f, h). Chloridový anión Cl- a draselný katión K+ majú 18 elektrónov ([Ar], d, g) a stroncíum Sr^(2+) má 36 elektrónov (c)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "121. Elektrónová hladina Lmoze obsahovať:",
+    "options": [
+      {
+        "id": "a",
+        "text": "s a p orbitály"
+      },
+      {
+        "id": "b",
+        "text": "maximálne 8 elektrónov"
+      },
+      {
+        "id": "c",
+        "text": "s, p, d orbitály"
+      },
+      {
+        "id": "d",
+        "text": "len s orbitály"
+      },
+      {
+        "id": "e",
+        "text": "maximálne 18 elektrónov"
+      },
+      {
+        "id": "f",
+        "text": "len d orbitály"
+      },
+      {
+        "id": "g",
+        "text": "2n? elektrónov (n = hlavne kvantové číslo)"
+      },
+      {
+        "id": "h",
+        "text": "p a d orbitály"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "g"
+    ],
+    "explanation": "Elektrónová vrstva L zodpovedá hlavnému kvantovému číslu n = 2, takže obsahuje iba podvrstvy s (l = 0) a p (l = 1), zložené z jedného orbitálu s a troch orbitálov p (a). Maximálna elektrónová kapacita každej vrstvy je daná univerzálnym vzorcom 2n^2, čo pre hladinu L činí presne 2·(2^2) = 8 elektrónov (b, g). Orbitály d sa energeticky vyskytujú až od tretej hladiny M (n = 3, kapacita 18 elektrónov) (c, e)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "122. Nuklidy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú látky, ktorých atómy obsahujú jadra s nerovnakým protónovým číslom"
+      },
+      {
+        "id": "b",
+        "text": "sú iné názvy pre rádioaktívne prvky"
+      },
+      {
+        "id": "c",
+        "text": "sú napr. 17gO, 125B, 11248Cd"
+      },
+      {
+        "id": "d",
+        "text": "sú všetky chemické indivídua"
+      },
+      {
+        "id": "e",
+        "text": "sú látky, ktorých atómy obsahujú jadra s rovnakým nukleónovým, ale rôznym protónovým číslom 33"
+      },
+      {
+        "id": "f",
+        "text": "sú látky, ktorých atómy obsahujú jadra s určitým protónovým a nukleónovým číslom"
+      },
+      {
+        "id": "g",
+        "text": "vodíka ('H, 2,H, 3H) sú izotopy"
+      },
+      {
+        "id": "h",
+        "text": "sú látky obsahujúce atómy s rôznou elektrónovou konfiguráciou"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Nuklid je chemická látka zložená z atómov s identickým protónovým (Z) aj nukleónovým (A) číslom, napríklad kyslík 17_8O, bór 12_5B či kadmium 112_48Cd (c, f). Rôzne nuklidy toho istého prvku s rovnakým Z, ale odlišným A (napr. izotopy vodíka 1H, 2H a 3H) sú izotopmi (g). Nuklidy s rovnakým A a rôznym Z sú izobary (e) a mnohé nuklidy sú úplne stabilné, takže termín nuklid nie je synonymom pre rádioaktívny prvok (b)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "123. Neutrón:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je záporné elektrický nabitá častica"
+      },
+      {
+        "id": "b",
+        "text": "je súčasťou atómového jadra"
+      },
+      {
+        "id": "c",
+        "text": "spolu s protónom je nukleón"
+      },
+      {
+        "id": "d",
+        "text": "je častica schopná premeny na proton, za súčasnej emisie Žiarenia β+"
+      },
+      {
+        "id": "e",
+        "text": "je Častica, ktorá môže vzniknúť pri nadbytku protónov v jadre"
+      },
+      {
+        "id": "f",
+        "text": "je elektroneutrálna Častica"
+      },
+      {
+        "id": "g",
+        "text": "nepatrí medzi nukleóny"
+      },
+      {
+        "id": "h",
+        "text": "je častica s približne dvojnásobnou hmotnosťou ako proton"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Neutrón je elektroneutrálna častica jadra atómu patriaca spolu s protónom medzi nukleóny s relatívnou hmotnosťou približne 1 u (b, c, f). V nestabilných jadrách s nadbytkom protónov môže neutrón vznikať procesom beta plus premeny (p -> n + e+ + νe) (e). Neutrón nemá záporný elektrický náboj (a) a jeho hmotnosť je len nepatrne vyššia než hmotnosť protónu, rozhodne nie dvojnásobná (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "124. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zo zápisu 2713Al sa dá určiť, že atóm má 14 neutrónov a 13 elektrónov"
+      },
+      {
+        "id": "b",
+        "text": "6430Zn, 630Zn, 6730Zn, 7030Zn sú nuklidy s rovnakým počtom neutrónov v jadre"
+      },
+      {
+        "id": "c",
+        "text": "5827Co a 6027Co sú izotopy"
+      },
+      {
+        "id": "d",
+        "text": "4019K a 4020Ca sú izobary"
+      },
+      {
+        "id": "e",
+        "text": "zo zápisu 4822Ti sa dá určiť, že nukleónové číslo je 26"
+      },
+      {
+        "id": "f",
+        "text": "zo zápisu 14fN sa dá urit, že v jadre je rovnaký počet protónov a neutrónov"
+      },
+      {
+        "id": "g",
+        "text": "nuklidy majúce rovnaké nukleónové číslo sú izotopy"
+      },
+      {
+        "id": "h",
+        "text": "12Mg2+ obsahuje 12 elektrónov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Z kompletného zápisu nuklidu A_Z X vyplýva, že hliník 27_13Al obsahuje 13 protónov, 13 elektrónov a 14 neutrónov (27 - 13) a dusík 14_7N má zhodne 7 protónov aj 7 neutrónov (a, f). Nuklidy s rovnakým Z a rôznym A sú izotopy (58Co a 60Co) a nuklidy s rovnakým A a rôznym Z sú izobary (40K a 40Ca) (c, d). Horné číslo je nukleónové číslo A (pre Ti je A = 48, nie 26, e) a horečnatý katión Mg^(2+) má po odovzdaní dvoch elektrónov len 10 elektrónov (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "125. Elektrónová konfigurácia atómu v základnom stave:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je schematické znázornenie orbitálov"
+      },
+      {
+        "id": "b",
+        "text": "vyjadruje prechod elektrónu z vyššej energetickej hladiny na nižšiu"
+      },
+      {
+        "id": "c",
+        "text": "znamená obsadzovanie jednotlivých stavov s najnižšou energiou elektrónmi"
+      },
+      {
+        "id": "d",
+        "text": "vyjadruje závislosť tvaru orbitálu od vzdialenosti od jadra"
+      },
+      {
+        "id": "e",
+        "text": "udáva energiu atómu v excitovanom stave"
+      },
+      {
+        "id": "f",
+        "text": "znamená, že atóm neprijal energiu a nie je v excitovanom stave konfigurácia"
+      },
+      {
+        "id": "g",
+        "text": "atóm prijimaenergiu,mení ajeho energeticky stavaelekronova"
+      },
+      {
+        "id": "h",
+        "text": "je stav, kedy má atóm najnižšiu energiu"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Základný stav atómu je stav s najnižšou možnou vnútornou energiou, kedy atóm neabsorboval excitačnú energiu a nie je excitovaný (f, h). Elektróny v ňom obsadzujú jednotlivé energetické hladiny a orbitály od najnižšej energie v súlade s výstavbovým princípom, Pauliho princípom a Hundovým pravidlom (c). Vyššie energetické stavy po prijatí kvanta energie predstavujú excitované stavy (b, e)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "126. Aké hodnoty mo2e nadobidať magnetické kvantové &išlo, ak / = 2:",
+    "options": [
+      {
+        "id": "a",
+        "text": "0, 1, 2, 3"
+      },
+      {
+        "id": "b",
+        "text": "0, 1, 2"
+      },
+      {
+        "id": "c",
+        "text": "-1, 0, 1"
+      },
+      {
+        "id": "d",
+        "text": "-2,-1, 0, 1, 2"
+      },
+      {
+        "id": "e",
+        "text": "0, 1, 2,3, 4, 5"
+      },
+      {
+        "id": "f",
+        "text": "-3, -2, -1, 0, 1, 2, 3"
+      },
+      {
+        "id": "g",
+        "text": "1/2, -1/2"
+      },
+      {
+        "id": "h",
+        "text": "0"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Pre vedľajšie kvantové číslo l = 2 (orbitály d) nadobúda magnetické kvantové číslo m celočíselné hodnoty v intervale od -l do +l, teda kompletnú množinu -2, -1, 0, 1, 2 (d). Možnosti b, c a h predstavujú dovolené podmnožiny alebo jednotlivé platné hodnoty z tohto intervalu (0; -1, 0, 1; 0, 1, 2). Hodnoty ±3 patria až podvrstve f (l = 3, f) a neceločíselné hodnoty ±1/2 charakterizujú spinové kvantové číslo s (g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "127. Z periodického zákona a elektrónovej konfigurácie prvkov vyplýva: 34",
+    "options": [
+      {
+        "id": "a",
+        "text": "veľkosť atómov v danej perióde sa zvasuje s rastúcim Z"
+      },
+      {
+        "id": "b",
+        "text": "polomer katiónu je menší a aniónu väčší než polomer atómu, z ktorého vznikajú"
+      },
+      {
+        "id": "c",
+        "text": "elektropozitívny a elektronegatívny charakter prvkov"
+      },
+      {
+        "id": "d",
+        "text": "že ionizačná energia v danej skupine sa zväčšuje s rastuicim Z(zväčšuje sa atomovypolomer)"
+      },
+      {
+        "id": "e",
+        "text": "elektronegativita, miera schopnosti atómu odpudzovať elektróny zdieľané s iným atómom"
+      },
+      {
+        "id": "f",
+        "text": "v danej perióde s rastúcim Z sa zvyšuje ionizačná energia (zmenšuje sa atomovypolomer)"
+      },
+      {
+        "id": "g",
+        "text": "s rastúcim Z základného prvku v danej skupine klesá hodnota elektrónovej afinity"
+      },
+      {
+        "id": "h",
+        "text": "v periódach základných prvkov s klesajúcim Z stúpa hodnota elektronegativity (klesá kovový charakter)"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "V perióde s rastúcim protónovým číslom Z rastie náboj jadra, čo vedie ku kontrakcii obalu (zmenšeniu atómového polomeru) a nárastu ionizačnej energie (f), kým v skupine s rastúcim Z rastie počet vrstiev a klesá elektrónová afinita (g). Katióny majú vždy menší polomer než neutrálny atóm v dôsledku prevahy náboja jadra a anióny majú väčší polomer v dôsledku medzielektrónového odpudzovania (b, c). Elektronegativita je schopnosť atómu priťahovať väzbové elektróny, nie ich odpudzovať (e)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "128. Vyberte spravnetvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v elektrónovej vrstve s hlavným kvantovým číslom n = 1 sa nachádzajú orbitály s a p"
+      },
+      {
+        "id": "b",
+        "text": "katión 2oCa2+ má obsadený 4s orbital elektrónmi"
+      },
+      {
+        "id": "c",
+        "text": "chloridový anión izCl- má rovnakú elektrónovú konfiguráciu ako 18Ar"
+      },
+      {
+        "id": "d",
+        "text": "chalkogény majú elektrónovú konfiguráciu valenčného orbitálu šp4"
+      },
+      {
+        "id": "e",
+        "text": "izotopy jedného prvku sa navzájom líšia rozdielnym počtom protónov"
+      },
+      {
+        "id": "f",
+        "text": "3d orbital 23V má nižšiu energiu ako orbital 4s"
+      },
+      {
+        "id": "g",
+        "text": "orbital d môže obsahovať maximálne 12 elektrónov"
+      },
+      {
+        "id": "h",
+        "text": "elektrónová konfigurácia fluóru v základnom stave je Is22s?2ps"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Chloridový anión Cl- prijatím elektrónu dosahuje konfiguráciu vzácneho plynu argónu [Ar] a neutrálny fluór 9F má v základnom stave konfiguráciu 1s2 2s2 2p5 (c, h). Chalkogény (16. skupina) majú valenčnú konfiguráciu ns2 np4 (d) a pri vanáde po obsadení 4s orbitálu klesá energia 3d orbitálov pod úroveň 4s (f). Prvá sféra (n = 1) obsahuje iba orbitál 1s (a), katión Ca^(2+) má orbitál 4s prázdny (b) a podvrstva d pojme maximálne 10 elektrónov (g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "129. Elektrón(y):",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa pohybujú v elektrickom poli kladné nabitého jadra"
+      },
+      {
+        "id": "b",
+        "text": "môže byť odtrhnutý od atómu za vzniku kladné nabitého aniónu"
+      },
+      {
+        "id": "c",
+        "text": "I'ahko sa odtrhne od atómu Na za vzniku Na*"
+      },
+      {
+        "id": "d",
+        "text": "je charakterizovaný dvoma kvantovými islamí"
+      },
+      {
+        "id": "e",
+        "text": "má dualistický charakter"
+      },
+      {
+        "id": "f",
+        "text": "je častica s nepatrnou hmotnosťou a vlnovým charakterom"
+      },
+      {
+        "id": "g",
+        "text": "atómu vodíka má za normálnych podmienok najvyššiu možnú energiu"
+      },
+      {
+        "id": "h",
+        "text": "nemôže byť odtrhnutý od atómu za Žiadnych podmienok"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Elektrón sa pohybuje v príťažlivom elektrickom poli kladného jadra a vykazuje vlnovo-korpuskulárny dualizmus ako častica s nepatrnou pokojovou hmotnosťou (~9,11·10^(-31) kg) a vlnovými vlastnosťami (a, e, f). Sodík má veľmi nízku prvú ionizačnú energiu, takže ochotne odovzdáva svoj valenčný 3s elektrón za vzniku stabilného katiónu Na+ (c). Odtrhnutím elektrónu vzniká kladný katión, nie anión (b) a stav elektrónu je popísaný štyrmi kvantovými číslami (d)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "130. Vyberte nesprávne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "elektróny prechodného prvku 2iSc obsadzujú orbitály v poradí 1s22s22p*3s23p4s*3dl"
+      },
+      {
+        "id": "b",
+        "text": "atóm 6C má podľa Hundovho pravidlá na valenčnej sfére 2 e- na orbitále s a 2 e- na orbitále px"
+      },
+      {
+        "id": "c",
+        "text": "elektróny s najvyššou energiou sa nazývajú valenčné"
+      },
+      {
+        "id": "d",
+        "text": "halogény majú elektrónovú konfiguráciu valenčnej vrstvy spš islom Z> 20"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
+        "id": "f",
+        "text": "elektrónová konfigurácia dvojmocného aniónu kyslíka je Is 2s?2po"
+      },
+      {
+        "id": "g",
+        "text": "I = 3, orbital f je trikrát degenerovaný 35"
+      },
+      {
+        "id": "h",
+        "text": "elektrónová konfigurácia valenčnej sféry vaesiny vzácnych plynov je spo"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Medzi nesprávne tvrdenia patrí b, pretože podľa Hundovho pravidla sa dva valenčné p-elektróny uhlíka rozmiestňujú s paralelným spinom do dvoch degenerovaných orbitálov (2px1 2py1), nie do jedného orbitálu px (b). Orbitály f (l = 3) sú sedemkrát degenerované (2l + 1 = 7), nie trikrát (g). Možnosti a a e rovnako obsahujú chybné formulácie výstavby a zápisu, zatiaľ čo konfigurácie O^(2-) (1s2 2s2 2p6) a halogénov (ns2 np5) sú správne (d, f)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "131. Vyberte správne zápisy elektrónovej konfigurácie podľa výstavbového princípu a Hundovho pravidlá pre:",
+    "options": [
+      {
+        "id": "a",
+        "text": "atóm \"\"sb: [He] 2s?2px"
+      },
+      {
+        "id": "b",
+        "text": "katión 20Ca2+: 1s22s22p*3s23p6"
+      },
+      {
+        "id": "c",
+        "text": "atóm 22Ti: 1s22s22p°3s3p°4s23d?"
+      },
+      {
+        "id": "d",
+        "text": "katión 19K+: [Ar]"
+      },
+      {
+        "id": "e",
+        "text": "atóm 16S: 1s22s22p63s3px"
+      },
+      {
+        "id": "f",
+        "text": "anión 8O2-: [Ne] 3s?"
+      },
+      {
+        "id": "g",
+        "text": "atóm 7N: 1s?2s22px2py/2p"
+      },
+      {
+        "id": "h",
+        "text": "atóm 3Li: 1s22š2px"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne konfigurácie podľa pravidiel výstavby a Hundovho pravidla sú: bór 5B: [He] 2s2 2px1 a dusík 7N s tromi nespárovanými elektrónmi v degenerovaných orbitáloch 1s2 2s2 2px1 2py1 2pz1 (a, g). Katióny Ca^(2+) a K^(+) stratou valenčných 4s elektrónov nadobúdajú stabilnú konfiguráciu argónu 1s2 2s2 2p6 3s2 3p6 alias [Ar] (b, d). Anión O^(2-) má konfiguráciu [Ne] bez elektrónov v 3s (f) a neutrálne lítium má iba tri elektróny 1s2 2s1 (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "132. Vyberte správne zápisy elektrónových konfigurácii:",
+    "options": [
+      {
+        "id": "a",
+        "text": "30Zn2+: 1s22s22p*3s*3p63dl0"
+      },
+      {
+        "id": "b",
+        "text": "17C1*** : [Ne] 3š3p33d3"
+      },
+      {
+        "id": "c",
+        "text": "25Mn2+: [Ar] 4s23d3"
+      },
+      {
+        "id": "d",
+        "text": "26Fe2+: [Ar] 3d6"
+      },
+      {
+        "id": "e",
+        "text": "35Br-: [Ar] 3ď04s?4p"
+      },
+      {
+        "id": "f",
+        "text": "sb*: 1s*2š2p?"
+      },
+      {
+        "id": "g",
+        "text": "17CI: [Ne] 3s’3pS"
+      },
+      {
+        "id": "h",
+        "text": "9F*: [He] 2s22ps"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Pri ionizácii prechodných kovov sa elektróny odštepujú prednostne z vonkajšieho orbitálu 4s: Zn^(2+) má preto konfiguráciu [Ar] 3d10 a Fe^(2+) má [Ar] 3d6 (a, d). Tretí excitovaný stav chlóru Cl*** zahŕňa rozštiepenie troch elektrónových párov do 3d orbitálov ([Ne] 3s1 3p3 3d3) a excitovaný bór B* má konfiguráciu 1s2 2s1 2p2 (b, f). Katión Mn^(2+) má konfiguráciu [Ar] 3d5, nie 4s2 3d3 (c)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "133. Ktoré z uvedených iastkovych zápisov elektrónovej konfigurácie si nesprávne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ip"
+      },
+      {
+        "id": "b",
+        "text": "2p"
+      },
+      {
+        "id": "c",
+        "text": "4d"
+      },
+      {
+        "id": "d",
+        "text": "3f"
+      },
+      {
+        "id": "e",
+        "text": "2s"
+      },
+      {
+        "id": "f",
+        "text": "5s"
+      },
+      {
+        "id": "g",
+        "text": "3d"
+      },
+      {
+        "id": "h",
+        "text": "2d"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "h"
+    ],
+    "explanation": "Podľa kvantovej mechaniky je vedľajšie kvantové číslo ohraničené podmienkou l ≤ n - 1: pre n = 1 môže existovať iba l = 0 (orbitál 1s, orbitál 1p neexistuje) (a). Pre n = 2 existujú len stavy s a p (l = 0, 1), takže orbitál 2d je fyzikálne nemožný (h) a orbitály f (l = 3) sa objavujú až od štvrtej vrstvy (n = 4), zápis 3f je teda neplatný (d). Ostatné orbitály (2s, 2p, 3d, 4d, 5s) sú dovolené."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "134. Vyberte správne zápisy elektrónovej konfigurácie atomovv základnom stave:",
+    "options": [
+      {
+        "id": "a",
+        "text": "10Ne: 1s?2s?2p6"
+      },
+      {
+        "id": "b",
+        "text": "17Cl: [1oNe] 3š3p6"
+      },
+      {
+        "id": "c",
+        "text": "30Zn: [18Ar] 3ď04s2"
+      },
+      {
+        "id": "d",
+        "text": "13Al: [1oNe] 3š3p?"
+      },
+      {
+        "id": "e",
+        "text": "25Mn: [18Ar] 4s24ps"
+      },
+      {
+        "id": "f",
+        "text": "14Si: [10Ne] 353p?"
+      },
+      {
+        "id": "g",
+        "text": "20Ca: [18Ar] 4s2"
+      },
+      {
+        "id": "h",
+        "text": "24Cr: [18Ar] 3ď4s2"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne zápisy konfigurácií neutrálnych atómov v základnom stave sú: neón 10Ne: 1s2 2s2 2p6, kremík 14Si: [Ne] 3s2 3p2, vápnik 20Ca: [Ar] 4s2 a zinok 30Zn: [Ar] 3d10 4s2 (a, c, f, g). Chlór má v základnom stave konfiguráciu [Ne] 3s2 3p5 (b), hliník [Ne] 3s2 3p1 (d) a neutrálny chróm vykazuje v dôsledku mimoriadnej stability polozaplneného 3d orbitálu anomálnu konfiguráciu [Ar] 3d5 4s1, nie 3d4 4s2 (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "135. Vyberte zápis konfigurácie atómu v excitovanom stave:",
+    "options": [
+      {
+        "id": "a",
+        "text": "35Br**: [18Ar] 3ď04s24p34d?"
+      },
+      {
+        "id": "b",
+        "text": "1sP': [1oNe] 3š3p34s! 36"
+      },
+      {
+        "id": "c",
+        "text": "16Š: [1oNe] 3?3p’3ď"
+      },
+      {
+        "id": "d",
+        "text": "6Č: [2He] 2š2p3"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
+        "id": "f",
+        "text": "29Cu': [18Ar] 3ď04s!"
+      },
+      {
+        "id": "g",
+        "text": "13Al: [1oNe] 3s’3p!"
+      },
+      {
+        "id": "h",
+        "text": "16S\": [1oNe] 3š3p’3d?"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Excitovaný stav atómu vzniká dodaním energie, kedy dochádza k rozštiepeniu valenčného elektrónového páru a preskoku elektrónu do voľného orbitálu: uhlík v excitovanom stave C* prechádza na štvorväzbovú konfiguráciu [He] 2s1 2p3 (d), síra S** na šesťväzbovú konfiguráciu [Ne] 3s1 3p3 3d2 (h) a bróm Br** na [Ar] 3d10 4s2 4p3 4d2 (a, e). Konfigurácia medi [Ar] 3d10 4s1 je jej stabilným základným stavom, nie excitovaným (f)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "136. Pre kvantové čísla platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tvar a veľkosť orbitálov charakterizuje hodnota hlavného kvantového čísla n"
+      },
+      {
+        "id": "b",
+        "text": "všetky orbitály v izolovanom atóme s rovnakým hlavným a veďajsim, ale roznymmagnetickymcislommajurovnakuenergiu"
+      },
+      {
+        "id": "c",
+        "text": "ak je orbital charakterizovaný kvantovými číslami n = 3, I = 1, m = 0 je rovnako veľký ako orbital s kvantovými číslami n = 4, I = 1, m = 0"
+      },
+      {
+        "id": "d",
+        "text": "ak n = 3 a / = 1, elektrón sa nachádza v elektrónovej vrstve M v orbitále s"
+      },
+      {
+        "id": "e",
+        "text": "ak magnetické kvantové číslo m nadobúda hodnoty -3 až +3, tak sa na rovnakej energetickej hladine môže nachádzať maximálne 10 elektrónov"
+      },
+      {
+        "id": "f",
+        "text": "ak n = 4 a I = 3, elektrón sa nachádza v orbitále f"
+      },
+      {
+        "id": "g",
+        "text": "veľkosť orbitálu typu s rastie s rastúcim n"
+      },
+      {
+        "id": "h",
+        "text": "energia orbitálov rastie s rastúcim protónovým číslom prvku"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f",
+      "g"
+    ],
+    "explanation": "Orbitály v izolovanom atóme, ktoré majú rovnaké hlavné aj vedľajšie kvantové číslo (rovnaké n a l), sú energeticky rovnocenné (degenerované) a ich energetická hladina nezávisí od hodnoty m (b). Hodnote l = 3 zodpovedajú orbitály typu f (f) a so vzrastajúcim hlavným kvantovým číslom n sa zväčšuje efektívny polomer a veľkosť orbitálov daného typu (g). Orbitál 4p je vždy väčší než 3p (c) a pre m od -3 po +3 (7 orbitálov f) je maximálna kapacita 14 elektrónov, nie 10 (e)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "137. Aký maximálny počet orbitálov s, p,",
+    "options": [
+      {
+        "id": "a",
+        "text": "M: 10 všetkých"
+      },
+      {
+        "id": "b",
+        "text": "O: 1 typu s, 3 typu p, 5 typu"
+      },
+      {
+        "id": "c",
+        "text": "L: 1 typu s, 3 typu p"
+      },
+      {
+        "id": "d",
+        "text": "N: 4 typu s, 2 typu p, 5 typu f"
+      },
+      {
+        "id": "e",
+        "text": "M: 5 typu"
+      },
+      {
+        "id": "f",
+        "text": "N: 4 typu s, 4 typu p, 4 typu"
+      },
+      {
+        "id": "g",
+        "text": "M: 1 typu s, 3 typu p, 5 typu d"
+      },
+      {
+        "id": "h",
+        "text": "P: 1 typu s, 3 typu p, 5 typu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Počet degenerovaných orbitálov v danej podvrstve je striktne určený vzťahom (2l + 1): podvrstva s má vždy 1 orbitál, podvrstva p má 3 orbitály a podvrstva d má 5 orbitálov (b, c, g, h). Hladina L (n = 2) teda obsahuje 1 orbitál typu s a 3 orbitály typu p (c) a hladina M (n = 3) obsahuje 1 orbitál s, 3 orbitály p a 5 orbitálov d (g). V žiadnej vrstve nemôže existovať viac ako jeden orbitál typu s (d, f)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "138. Ktoré z uvedených iónov majú elektronoví konfiguráciu vzácneho plynu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "H-"
+      },
+      {
+        "id": "b",
+        "text": "Ag?*"
+      },
+      {
+        "id": "c",
+        "text": "Ti2+"
+      },
+      {
+        "id": "d",
+        "text": "A13+"
+      },
+      {
+        "id": "e",
+        "text": "Nat"
+      },
+      {
+        "id": "f",
+        "text": "Cu2+"
+      },
+      {
+        "id": "g",
+        "text": "F-"
+      },
+      {
+        "id": "h",
+        "text": "Zn?+"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Hydridový anión H- prijatím elektrónu dosahuje stabilnú konfiguráciu hélia (1s2), zatiaľ čo katióny Na+ a Al3+ odovzdaním valenčných elektrónov a fluoridový anión F- prijatím elektrónu dosahujú stabilný oktet neónu [Ne] (a, d, e, g). Naopak, ióny prechodných kovov ako Ti2+ ([Ar] 3d2), Cu2+ ([Ar] 3d9), Zn2+ ([Ar] 3d10) a Ag2+ ([Kr] 4d9) si zachovávajú elektróny v d-orbitáloch a nemajú konfiguráciu vzácneho plynu (b, c, f, h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "139. Vyberte nesprávne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ak n = 3, I = 3, m = -3 elektrón je na sfére M v f orbitále"
+      },
+      {
+        "id": "b",
+        "text": "ak / = 3, m = -3 až +3, v f orbitáloch môže byť maximálne 14 elektrónov"
+      },
+      {
+        "id": "c",
+        "text": "na N sfére môže byť 16 orbitálov"
+      },
+      {
+        "id": "d",
+        "text": "pre valenčné elektróny atómu gf môžu kvantové čísla nadobúdať hodnoty n = 2, [ = 1, m = -1, 0, +1 37"
+      },
+      {
+        "id": "e",
+        "text": "orbitály 3d a 4d sú rovnako veľké"
+      },
+      {
+        "id": "f",
+        "text": "ak n = 4, / = 3, m = -2, s = +1/2 je elektrón v tom istom orbitále ako elektrón s kvantovými číslami n = 4, / = 3, m = +2, s = -1/2"
+      },
+      {
+        "id": "g",
+        "text": "orbitály 1s, 2s, 3s, 4s sú rovnako veľké"
+      },
+      {
+        "id": "h",
+        "text": "degenerované orbitály majú rovnakú energiu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Medzi nesprávne tvrdenia patria a, e, f a g: pre hlavné kvantové číslo n = 3 môže vedľajšie číslo l nadobúdať iba hodnoty 0, 1 a 2, takže stav l = 3 (orbitál f) na hladine M nemôže existovať (a). Veľkosť orbitálov rastie s rastúcim číslom n, takže orbitály 3d a 4d, resp. 1s až 4s rozhodne nie sú rovnako veľké (e, g). Dva elektróny s odlišným magnetickým číslom m (-2 vs +2) sa nachádzajú v dvoch rôznych priestorovo orientovaných orbitáloch (f)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "140. Pre excitovaný stav platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ak pre elektrón v základnom stave m = -1, po excitácii je m = +1"
+      },
+      {
+        "id": "b",
+        "text": "V základnom stave atómu brómu je 5 valenčných elektrónov v p orbitáloch, po excitácii sa ich počet v týchto orbitáloch zvýši"
+      },
+      {
+        "id": "c",
+        "text": "dodaním energie elektrón prejde do najbližšieho prázdneho orbitálu, pričom I sa nezmení"
+      },
+      {
+        "id": "d",
+        "text": "v základnom stave elektrón charakterizujú kvantové čísla n = 3 a / = 1, pre excitovaný stav platí n = 3, I = 2"
+      },
+      {
+        "id": "e",
+        "text": "energia v excitovanom stave musí byť totožná s elektrónovou afinitou"
+      },
+      {
+        "id": "f",
+        "text": "3 elektróny atómu uhlíka môžu byť v excitovanom stave popísané kvantovým číslom / = 1"
+      },
+      {
+        "id": "g",
+        "text": "v základnom stave atómu brómu je 5 valenčných elektrónov v p orbitáloch, po excitácii sa ich počet v týchto orbitáloch zníži"
+      },
+      {
+        "id": "h",
+        "text": "u niektorých atómov môže existovať viac valenčných excitovaných stavov"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Pri excitácii elektrónu dochádza k jeho preskoku do voľného orbitálu vyššej podvrstvy v rámci valenčnej sféry, napríklad z 3p (l = 1) do 3d (l = 2) (d). Pri excitácii atómu uhlíka C* prechádza jeden 2s elektrón do voľného orbitálu 2p, takže tri elektróny majú l = 1 (f), a pri atóme brómu vedie excitácia k presunu elektrónov z orbitálov 4p do 4d, čím ich počet v p-orbitáloch klesá (g). Prvky od 3. periódy môžu vďaka prítomnosti d-orbitálov tvoriť viacero po sebe idúcich excitovaných stavov (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "141. Vyberte správne tvrdenie o orbitáloch:",
+    "options": [
+      {
+        "id": "a",
+        "text": "degenerované orbitály majú rovnaké kvantové čísla n, I, m"
+      },
+      {
+        "id": "b",
+        "text": "obsadzovanie orbitálov atómu v základnom stave je Pubovoľne a neriadi sa žiadnymi pravidlami"
+      },
+      {
+        "id": "c",
+        "text": "orbitály s nižšou energiou sa zapínajú elektrónmi skôr, ako orbitály s vyššou energiou"
+      },
+      {
+        "id": "d",
+        "text": "v degenerovaných orbitáloch vznikajú elektrónové páry až po obsadení každého orbitálu jedným elektrónom"
+      },
+      {
+        "id": "e",
+        "text": "najskôr sa zapínajú orbitály s nižším súčtom (n + I)"
+      },
+      {
+        "id": "f",
+        "text": "ak n + I je zhodné, potom sa zapĺňa najprv orbital s vyššou hodnotou n"
+      },
+      {
+        "id": "g",
+        "text": "počet degenerovaných orbitálov je daný vzťahom 21 + 1"
+      },
+      {
+        "id": "h",
+        "text": "orbital 4s má vždy nižšiu energiu ako orbital 3d"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Výstavbový princíp určuje, že elektróny najprv obsadzujú orbitály s nižšou energiou, riadené pravidlom najnižšieho súčtu (n + l) (c, e). Podľa Hundovho pravidla sa v súbore (2l + 1) degenerovaných orbitálov tvoria elektrónové páry až po tom, čo je každý orbitál obsadený jedným elektrónom s paralelným spinom (d, g). Degenerované orbitály sa líšia hodnotou magnetického kvantového čísla m (a) a pri rovnakom súčte (n + l) sa skôr zapĺňa orbitál s nižším n (f)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "142. Vyberte nesprávne tvrdenie o stavbe elektrónového obalu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v atóme nemôžu existovať dva elektróny, ktoré by mali všetky štyri kvantovecislarovnake"
+      },
+      {
+        "id": "b",
+        "text": "spinové kvantové išlo popisuje vnútorný moment hybnosti elektrónu"
+      },
+      {
+        "id": "c",
+        "text": "sparovaneelektronydegenerovnychvrbitalechemaizneveahypaine"
+      },
+      {
+        "id": "d",
+        "text": "kombináciou všetkých štyroch kvantových čísel je možné jednoznačne charakterizovať ktoryko'vek elektrón v obale atómu"
+      },
+      {
+        "id": "e",
+        "text": "ionizačná energia je energia, ktorá sa uvoľni pri prijatí jedného, popr. viac elektrónov atómom"
+      },
+      {
+        "id": "f",
+        "text": "u atómov 2oCa a i9K sa zapína najprv orbital 3d, potom 4s"
+      },
+      {
+        "id": "g",
+        "text": "niektoré atómy môžu mať viac valenčných excitovaných stavov"
+      },
+      {
+        "id": "h",
+        "text": "rotáciu elektrónu charakterizuje magnetické kvantové číslo"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "K nesprávnym tvrdeniam patria c, e, f a h: ionizačná energia je energia potrebná na odtrhnutie elektrónu z atómu (energia spotrebovaná, nie uvoľnená pri prijatí elektrónu – čo je definícia elektrónovej afinity) (e). Pri atómoch K a Ca sa v súlade s pravidlom (n + l) najprv zapĺňa orbitál 4s (4 + 0 = 4) a až po ňom orbitál 3d (3 + 2 = 5) (f). Rotáciu a vlastný moment hybnosti elektrónu vyjadruje spinové kvantové číslo s (ms), nie magnetické kvantové číslo m (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "143. Vyberte správne zápisy elektrónových konfigurácii: 38",
+    "options": [
+      {
+        "id": "a",
+        "text": "24Cr: [Ar] 3d’4s]"
+      },
+      {
+        "id": "b",
+        "text": "H-: [He]"
+      },
+      {
+        "id": "c",
+        "text": "26Fe: [Ar] 3d°4s?"
+      },
+      {
+        "id": "d",
+        "text": "29Cu2+: [Ar] 3ď4s0"
+      },
+      {
+        "id": "e",
+        "text": "26Fe3+: [Ar] 3ď4s?"
+      },
+      {
+        "id": "f",
+        "text": "25Mn2+: [Ar] 4s?3d3"
+      },
+      {
+        "id": "g",
+        "text": "29Cu: [Ar] 3d’'4s?"
+      },
+      {
+        "id": "h",
+        "text": "24Cr: [Ar] 3ď4s?"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Chróm vykazuje v dôsledku vysokej stability polozaplnenej d-podvrstvy anomálnu konfiguráciu [Ar] 3d5 4s1 (a), neutrálne železo má konfiguráciu [Ar] 3d6 4s2 (c) a hydridový ión H- má stabilnú konfiguráciu hélia 1s2 alias [He] (b). Katión Cu2+ vzniká odtrhnutím 4s elektrónu a jedného 3d elektrónu z atómu medi, čím vzniká stabilný stav [Ar] 3d9 (d). Zápisy s 3d4 4s2 pre chróm (h) a 4s2 3d3 pre Mn2+ (f) sú chybné."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "144. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pri excitaci dôjde k rozštiepeniu elektrónového páru s najnižšou energiou"
+      },
+      {
+        "id": "b",
+        "text": "ionizačná energia je energia potrebná na odtrhnutie valenčného elektrónu od atómu"
+      },
+      {
+        "id": "c",
+        "text": "pri excitácii dôjde k preskoku elektrónu do energeticky najbližšieho prázdneho orbitálu"
+      },
+      {
+        "id": "d",
+        "text": "u každého atómu môže existovať práve jeden excitovaný stav"
+      },
+      {
+        "id": "e",
+        "text": "Čím je hodnota ionizačnej energie nižšia, tým je prvok stálejší"
+      },
+      {
+        "id": "f",
+        "text": "čím je hodnota elektrónovej afinity nižšia, tým je prvok elektronegatívnejší, teda reaktívnejší"
+      },
+      {
+        "id": "g",
+        "text": "valenčné excitované stavy sú pre vlastnosti prvkov najdôležitejšími excitovanymistavmi"
+      },
+      {
+        "id": "h",
+        "text": "pri vytváraní valenčných excitovaných stavov prvok excituje valenčné elektróny do prázdnych orbitálov valenčnej vrstvy s rovnakým n ako je n valennych elektrónov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Ionizačná energia predstavuje energiu potrebnú na odtrhnutie valenčného elektrónu od atómu v základnom plynnom stave (b). Pri tvorbe valenčných excitovaných stavov sa elektrónové páry valenčnej sféry štiepia a elektróny preskakujú do energeticky najbližších prázdnych orbitálov s rovnakým n (napr. 3s/3p -> 3d), čo priamo podmieňuje väzbovosť prvkov v zlúčeninách (c, g, h). Štiepia sa väzbové páry s najvyššou (nie najnižšou) energiou (a) a nízka ionizačná energia znamená vysokú elektropozitivitu a reaktivitu, nie stabilitu prvku (e)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "145. Vyberte nesprávne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "najvnútornejší orbital má najnižšiu energiu a n = 0"
+      },
+      {
+        "id": "b",
+        "text": "magnetické kvantové číslo je nezávisle od hodnoty l"
+      },
+      {
+        "id": "c",
+        "text": "orbitály s vyšším n sú od jadra vzdialenejšie a majú vyššiu energiu"
+      },
+      {
+        "id": "d",
+        "text": "orbital je priestor, v ktorom sa elektrón vyskytuje s vysokou pravdepodobnosťou (> 95 %)"
+      },
+      {
+        "id": "e",
+        "text": "môžeme súčasne presne určiť hmotnosť (hybnosť) elektrónov aj ich polohu a vypočítať ich presne dráhy a rýchlosti"
+      },
+      {
+        "id": "f",
+        "text": "pre elektrón platí Heisenbergov princíp neurčitosti"
+      },
+      {
+        "id": "g",
+        "text": "od jednotlivých excitovaných stavov atómu odvodzujeme zlúčeniny s rôznym oxidačným číslom"
+      },
+      {
+        "id": "h",
+        "text": "nespárované elektróny v degenerovaných orbitáloch majú rôzny spin"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "K nesprávnym tvrdeniam patria: hlavné kvantové číslo n nadobúda iba kladné celé čísla n ≥ 1, hodnota n = 0 neexistuje (a). Magnetické kvantové číslo m je priamo závislé od vedľajšieho čísla l (m ∈ <-l; +l>) (b) a nespárované elektróny v degenerovaných orbitáloch musia mať podľa Hundovho pravidla rovnaký paralelný spin (h). Súčasné presné stanovenie polohy aj hybnosti (rýchlosti) mikroskopických častíc striktne vylučuje Heisenbergov princíp neurčitosti (e)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "146. Pri rádioaktívnej premene llc -→ llsB:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je nadbytok neutrónov v jadre uhlíka"
+      },
+      {
+        "id": "b",
+        "text": "sa uvoľni Žiarenie α"
+      },
+      {
+        "id": "c",
+        "text": "sa uvoľni žiarenie β+"
+      },
+      {
+        "id": "d",
+        "text": "dochádza k emisií pozitrónov"
+      },
+      {
+        "id": "e",
+        "text": "sa Žiadne Žiarenie neuvoľňuje, premena neprebieha"
+      },
+      {
+        "id": "f",
+        "text": "jenadbytokprotonov,pretodochadzakpremene'ip-→'on++e g erotanvekisloznsazmreni nazhadzakpremene'ip→on++ie g protonovekislo Zsazmeninazhdzakemisi elektrenoy"
+      },
+      {
+        "id": "g",
+        "text": "protónové číslo Z sa zmení na Z - 1"
+      },
+      {
+        "id": "h",
+        "text": "je nadbytok protónov, preto dochádza k emisií elektrónov 39"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Nuklid uhlíka 11_6C má pomer N/Z = 5/6, čo predstavuje jadro s nadbytkom protónov oproti stabilnému izotopu 12_6C (c, f). Stabilizuje sa rádioaktívnou beta plus (β+) premenou, pri ktorej sa jadrový protón premieňa na neutrón za vyžiarenia pozitrónu (1_1p -> 1_0n + e+) a elektrónového neutrína (d). V dôsledku tejto premeny klesá protónové číslo o jednotku (Z -> Z - 1, zo 6 na 5 za vzniku bóru 11_5B), zatiaľ čo nukleónové číslo A = 11 zostáva zachované (g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "147. Pri rádioaktívnej premene 80m35Br -→ 8035Br",
+    "options": [
+      {
+        "id": "a",
+        "text": "je emitované Žiarenie α"
+      },
+      {
+        "id": "b",
+        "text": "dochádza k uvoľneniu β-Žiarenia"
+      },
+      {
+        "id": "c",
+        "text": "sú emitované pozitróny"
+      },
+      {
+        "id": "d",
+        "text": "sa uvoľňuje Žiarenie"
+      },
+      {
+        "id": "e",
+        "text": "neprebieha premena, a preto sa neuvoľňuje Žiadne Žiarenie"
+      },
+      {
+        "id": "f",
+        "text": "sa nemení protónové číslo"
+      },
+      {
+        "id": "g",
+        "text": "sa uvoľni elektromagnetické vlnenie, ktoré sa v magnetickom a elektrickom poli nevychyľuje"
+      },
+      {
+        "id": "h",
+        "text": "dochádza k emisií najprenikavejšieho rádioaktívneho Žiarenia"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Prechod metastabilného jadra 80m_35Br do základného stavu 80_35Br predstavuje izomérny prechod (jadrovú deexcitáciu) sprevádzaný uvoľnením gama (γ) žiarenia (d). Pri emisii gama fotónu sa nemení protónové číslo Z = 35 ani nukleónové číslo A = 80 (f). Žiarenie gama je vysokofrekvenčné elektromagnetické žiarenie bez elektrického náboja, ktoré sa nevychyľuje v elektrickom ani magnetickom poli a spomedzi bežných rádioaktívnych žiarení je najprenikavejšie (g, h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "148. Rádioaktívne Žiarenie β-:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa uvoľni pri premene 401gK -→ 4020Ca"
+      },
+      {
+        "id": "b",
+        "text": "je tok vodíkových jadier"
+      },
+      {
+        "id": "c",
+        "text": "je prúd uvoľnených pozitrónov"
+      },
+      {
+        "id": "d",
+        "text": "je najprenikavejšie rádioaktívne Žiarenie"
+      },
+      {
+        "id": "e",
+        "text": "má ionizačnú schopnosť, je to ionizujúce Žiarenie"
+      },
+      {
+        "id": "f",
+        "text": "je možné ovplyvniť elektrickým poľom"
+      },
+      {
+        "id": "g",
+        "text": "je elektromagnetické Žiarenie"
+      },
+      {
+        "id": "h",
+        "text": "jeho podstatou je premena 'on -→ 'ip + °-ie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Podstatou beta mínus (β-) rádioaktivity je samovoľná jadrová premena prebytočného neutrónu na protón za vyžiarenia rýchleho elektrónu a antineutrína (1_0n -> 1_1p + e-) (h). Vyžiarený prúd elektrónov tvorí korpuskulárne ionizujúce žiarenie so záporným elementárnym nábojom, ktoré je možné odchýliť elektrickým aj magnetickým poľom (e, f). Príkladom je prirodzená premena draslíka 40_19K na vápnik 40_20Ca (a); beta žiarenie nie je elektromagnetickej povahy (g) a najvyššiu prenikavosť vykazuje gama žiarenie (d)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "149. Izotopy sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prvky, ktoré majú rôzne chemické vlastnosti, ale rovnaké fyzikálne vlastnosti"
+      },
+      {
+        "id": "b",
+        "text": "atómy so zhodným protónovým a nukleónovým číslom"
+      },
+      {
+        "id": "c",
+        "text": "látky, ktorých atómy obsahujú atómové jadra s rovnakým nukleónovým, ale rôznym protónovým číslom"
+      },
+      {
+        "id": "d",
+        "text": "zlúčeniny, tvorené z rádioizotopov"
+      },
+      {
+        "id": "e",
+        "text": "atómy prócia, deutéria a tritia"
+      },
+      {
+        "id": "f",
+        "text": "prvky s rovnakými atómovými číslami, ale rôznymi kvantovými islamí"
+      },
+      {
+        "id": "g",
+        "text": "atómy toho istého prvku, jadra ktorých majú (obsahujú) rovnaký počet protónov, ale rôzny počet neutrónov"
+      },
+      {
+        "id": "h",
+        "text": "chemické indivídua s rovnakými chemickými, ale rôznymi fyzikálnymi vlastnosťami"
+      }
+    ],
+    "correct_answers": [
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Izotopy sú nuklidy rovnakého prvku, ktorých atómové jadrá majú zhodný počet protónov (rovnaké Z), no líšia sa počtom neutrónov (rôzne nukleónové číslo A) (g). Typickým príkladom sú izotopy vodíka prócium (1H), deutérium (2H) a trícium (3H) (e). Keďže majú rovnakú elektrónovú konfiguráciu, vykazujú prakticky identické chemické vlastnosti, no kvôli rozdielnej hmotnosti jadier sa mierne líšia fyzikálnymi vlastnosťami (h). Atómy s rovnakým A a rôznym Z sú izobary (c)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "150. Izobary:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú látky, ktorých atómy obsahujú jadra s rovnakým protónovým číslom"
+      },
+      {
+        "id": "b",
+        "text": "sú látky, ktorých atómy obsahujú atómové jadra s rôznym protónovým a s rôznym nukleónovým číslom"
+      },
+      {
+        "id": "c",
+        "text": "môžu vznikať pri rádioaktívnom rozpade β+"
+      },
+      {
+        "id": "d",
+        "text": "sú látky, ktorých atómy obsahujú jadra s rovnakým nukleónovým ale rôznym protónovým číslom"
+      },
+      {
+        "id": "e",
+        "text": "nemôžu vzniknúť pri rádioaktívnom rozpade β-"
+      },
+      {
+        "id": "f",
+        "text": "sú napr. 11248Cd a li250Sn"
+      },
+      {
+        "id": "g",
+        "text": "sú látky, ktorých atómy obsahujú v jadre rovnaký počet neutrónov, ale líšia sa počtom protónov"
+      },
+      {
+        "id": "h",
+        "text": "nuklidy majúce rovnaké nukleónové číslo (napr. 12sB, 12C, 127N) 40"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Izobary sú nuklidy rôznych chemických prvkov, ktoré majú zhodné nukleónové číslo A (rovnaký celkový počet nukleónov), ale odlišné protónové číslo Z (d, h). Bežne vznikajú pri beta rádioaktívnych premenách (β- aj β+), pri ktorých sa protónové číslo mení o ±1, kým celkový počet nukleónov A zostáva konštantný (c). Príkladom izobárických dvojíc a trojíc sú nuklidy 112_48Cd a 112_50Sn, resp. 12_5B, 12_6C a 12_7N (f, h)."
+  }
+]

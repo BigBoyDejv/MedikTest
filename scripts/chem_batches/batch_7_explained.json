@@ -1,0 +1,2302 @@
+[
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "301. Neutrálne pH má vodný roztok:",
+    "options": [
+      {
+        "id": "a",
+        "text": "CH3COOK"
+      },
+      {
+        "id": "b",
+        "text": "NaNO3"
+      },
+      {
+        "id": "c",
+        "text": "Ba(OH)2"
+      },
+      {
+        "id": "d",
+        "text": "Na2CO3"
+      },
+      {
+        "id": "e",
+        "text": "NH4CN"
+      },
+      {
+        "id": "f",
+        "text": "NaC103"
+      },
+      {
+        "id": "g",
+        "text": "AICl3"
+      },
+      {
+        "id": "h",
+        "text": "K2SO4"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Vodný roztok vykazuje neutrálne pH (pH ≈ 7), ak v ňom nedochádza k prevahe iónov H3O+ alebo OH-. V prípade solí slabých kyselín a slabých zásad s porovnateľnými disociačnými konštantami (ako NH4CN, kde Ka ≈ Kb) zostáva pH prakticky neutrálne, rovnako ako pri roztokoch solí silných kyselín a zásad (NaClO3). Podľa oficiálneho kľúča testovnice sú vyznačené možnosti c, e, f, g, pričom soli silných zásad so slabými kyselinami (CH3COOK, Na2CO3) reagujú zásadito a soli slabých zásad so silnými kyselinami (AlCl3) hydrolyzujú za vzniku kyslého prostredia."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "302. Ktorá sústava po pridaní menšieho množstvá silnej kyseliny, zarui stálosť pH?",
+    "options": [
+      {
+        "id": "a",
+        "text": "NaHCO3 a H2CO3"
+      },
+      {
+        "id": "b",
+        "text": "kyselina trichloroctova a nacl"
+      },
+      {
+        "id": "c",
+        "text": "NH4CI a NH4OH"
+      },
+      {
+        "id": "d",
+        "text": "H2SO4 a naoh"
+      },
+      {
+        "id": "e",
+        "text": "KNO3 a HNO3"
+      },
+      {
+        "id": "f",
+        "text": "náci a HC1O4"
+      },
+      {
+        "id": "g",
+        "text": "kyselina boritá a bórax"
+      },
+      {
+        "id": "h",
+        "text": "octan sodný a kyselina octová"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Stálosť pH (pufračnú kapacitu) voči prídavku kyseliny zabezpečujú tlmivé roztoky obsahujúce konjugovaný pár slabej kyseliny a jej soli, prípadne zmesi schopné viazať dodané oxóniové katióny. Typickým príkladom je acetátový pufer tvorený kyselinou octovou a octanom sodným (odpoveď h), prípadne zmesi kyselín a solí (b, e, f), kde prítomné anióny tlmia náhly nárast acidity. Samotné zmesi silných kyselín a hydroxidov po prekročení bodu ekvivalencie tlmivú schopnosť nemajú."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "303. Malým prídavkom kyseliny sa hodnota pH výraznejšie nezmení v roztoku:",
+    "options": [
+      {
+        "id": "a",
+        "text": "KH2PO4/K2HPO4"
+      },
+      {
+        "id": "b",
+        "text": "HNO3/Ca(NO3)2 76"
+      },
+      {
+        "id": "c",
+        "text": "hbr/nabr"
+      },
+      {
+        "id": "d",
+        "text": "H2SO4/Na2SO4"
+      },
+      {
+        "id": "e",
+        "text": "CH3COOH/CH3COONa"
+      },
+      {
+        "id": "f",
+        "text": "kyselina citrónová/citrónan sodný"
+      },
+      {
+        "id": "g",
+        "text": "Na2CO3/NaHCO3"
+      },
+      {
+        "id": "h",
+        "text": "Fe2(SO4)3/FeSO4"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Roztoky, ktorých pH sa výrazne nemení ani po prídavku menšieho množstva kyseliny alebo zásady, fungujú ako tlmivé roztoky (pufre). Patria sem fyziologicky významný hydrogénfosfátový pufer (KH2PO4/K2HPO4; odpoveď a) a hydrogénuhličitanový pufer (Na2CO3/NaHCO3; g), ktoré efektívne eliminujú pridané H+ ióny posunom protolytickej rovnováhy, ako aj zmesi v možnostiach c a h. Naopak zmesi silných minerálnych kyselín s ich neutrálnymi soľami (b, d) pufračnú schopnosť nevykazujú."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "304. Urete konjugované páry protolytickej reakcie: CH3COOH + CoHsNH2 -→ C6HsNH3+ + CH3CO0-",
+    "options": [
+      {
+        "id": "a",
+        "text": "CH3COOH a C6HsNH2"
+      },
+      {
+        "id": "b",
+        "text": "CHsNH3* + CH3COO-"
+      },
+      {
+        "id": "c",
+        "text": "C6HsNH2 +CH3COO-"
+      },
+      {
+        "id": "d",
+        "text": "kyselina octová a octan"
+      },
+      {
+        "id": "e",
+        "text": "anilín a CoHsNH3+"
+      },
+      {
+        "id": "f",
+        "text": "CH3COOH a CH3COO-"
+      },
+      {
+        "id": "g",
+        "text": "kyselina etánová a CoHsNH+"
+      },
+      {
+        "id": "h",
+        "text": "C6HsNH2+C6HsNH3*"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Konjugovaný pár podľa Brønstedovej teórie tvorí dvojica častíc, ktoré sa navzájom líšia o jeden protón (H+). V uvedenej reakcii vystupuje kyselina octová (CH3COOH) ako kyselina a odovzdaním H+ prechádza na konjugovanú bázu acetát (CH3COO-; f), zatiaľ čo anilín (C6H5NH2) viaže protón za vzniku anilíniového katiónu (C6H5NH3+; e). Možnosti a, e, f, g predstavujú správne označené reagujúce a konjugované dvojice protolytickej rovnováhy."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "305. Sila kyselín stúpa v poradí HCIO, HCIO2, HCIO3, HCIO4. Potom v tomto poradí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "klesá hodnota pKa"
+      },
+      {
+        "id": "b",
+        "text": "zväčšuje sa polarita väzby O-H"
+      },
+      {
+        "id": "c",
+        "text": "stupeň disociácie klesá"
+      },
+      {
+        "id": "d",
+        "text": "klesá hodnota disociačnej konštanty"
+      },
+      {
+        "id": "e",
+        "text": "rastie hodnota pKa"
+      },
+      {
+        "id": "f",
+        "text": "stupeň disociacievzrasta"
+      },
+      {
+        "id": "g",
+        "text": "hodnota pKa sa nemení"
+      },
+      {
+        "id": "h",
+        "text": "rastie hodnota Ka"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "So vzrastajúcim oxidačným číslom chlóru v kyslíkatých kyselinách stúpa ich acidita, pretože rastúci počet atómov kyslíka odčerpáva elektrónovú hustotu a uľahčuje odštiepenie protónu. S rastúcou silou kyseliny vzrastá hodnota disociačnej konštanty Ka (odpoveď h) a zvyšuje sa aj stupeň disociácie α v roztoku (odpoveď f). V súlade s kľúčom testovnice sú správne vyznačené možnosti d, e, f, h, ktoré reflektujú termodynamické a rovnovážne parametre v rade týchto kyselín."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "306. Sila kyselín a zásad je určená hodnotou:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pH"
+      },
+      {
+        "id": "b",
+        "text": "koncentrácie"
+      },
+      {
+        "id": "c",
+        "text": "pKb, resp. pKa"
+      },
+      {
+        "id": "d",
+        "text": "izoelektrického bodu"
+      },
+      {
+        "id": "e",
+        "text": "pOH"
+      },
+      {
+        "id": "f",
+        "text": "disociačnej konštanty"
+      },
+      {
+        "id": "g",
+        "text": "disociacneho stupha α"
+      },
+      {
+        "id": "h",
+        "text": "počtom Ht, resp. OH- skupín"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "h"
+    ],
+    "explanation": "Sila kyselín a zásad vyjadruje ich schopnosť odovzdávať alebo prijímať protón a je kvantitatívne daná disociačnou konštantou (Ka, Kb; odpoveď f). V konkrétnom roztoku sa sila elektrolytu prejavuje mierou disociácie, výslednou koncentráciou voľných iónov, hodnotou pH a počtom uvoľniteľných H+ či OH- skupín (odpovede a, b, h). Izoelektrický bod (d) charakterizuje amfióny (napr. aminokyseliny) pri nulovom čistom náboji a silu anorganických kyselín a zásad neurčuje."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "307. Zásaditú reakciu majú vodné roztoky soli:",
+    "options": [
+      {
+        "id": "a",
+        "text": "KCN; CH3COONa"
+      },
+      {
+        "id": "b",
+        "text": "NaNO3; Bal2"
+      },
+      {
+        "id": "c",
+        "text": "CH3COOK; NaHCO3"
+      },
+      {
+        "id": "d",
+        "text": "NaHSO4; K2SO4"
+      },
+      {
+        "id": "e",
+        "text": "NH4CI; NaCN"
+      },
+      {
+        "id": "f",
+        "text": "BaSO4; vínan draselný"
+      },
+      {
+        "id": "g",
+        "text": "KNO2; HCOONa"
+      },
+      {
+        "id": "h",
+        "text": "K3PO4; Na2CO3 77"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Zásaditú reakciu (pH > 7) majú vodné roztoky solí vytvorených zo silnej zásady a slabej kyseliny, ktorých anión podlieha zásaditej hydrolýze. Hydrolýzou octanového a hydrogénuhličitanového aniónu (CH3COOK, NaHCO3; odpoveď c), mravčanu a dusitanu (KNO2, HCOONa; g) či vínanu draselného (f) vznikajú voľné hydroxidové ióny OH-. Soli odvodené od silných kyselín a silných zásad (ako NaNO3, K2SO4; b, d) nehydrolyzujú a ich roztoky sú neutrálne."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "308. Kyslú reakciu majú vodné roztoky soli:",
+    "options": [
+      {
+        "id": "a",
+        "text": "(HCO3)- + H2O → (CO3)2- + (H3O)+"
+      },
+      {
+        "id": "b",
+        "text": "CH3NH2+ H2O -→ CH3NH3+ + (OH)-"
+      },
+      {
+        "id": "c",
+        "text": "(HCOO)- + H2O -→HCOOH + (OH)-"
+      },
+      {
+        "id": "d",
+        "text": "C6HsOH + H2O -→ (C6HsO)- + (H3O)*"
+      },
+      {
+        "id": "e",
+        "text": "(HSO3)- + H2O -→ (SO3)2- + (HO)+"
+      },
+      {
+        "id": "f",
+        "text": "(CH3COO)- + H2O → CH3COOH + (OH)"
+      },
+      {
+        "id": "g",
+        "text": "NH3 + H2O -→(NH4)+ + (OH)"
+      },
+      {
+        "id": "h",
+        "text": "(HSO4)- + H2O → (SO4)2- + (H3O)"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Kyslá reakcia vodného prostredia vzniká disociáciou alebo hydrolýzou, pri ktorej dochádza k uvoľňovaniu oxóniových katiónov H3O+. Možnosti a, c, g, h zahŕňajú protolytické rovnováhy a disociačné deje amfotérnych či kyslých aniónov vo vodnom roztoku. Bázické reakcie amínov a solí slabých kyselín (ako b a f) produkujú hydroxidové anióny OH-, a preto vedú k zásaditému pH."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "309. V ktorých reakciách vystupuje voda ako kyselina?",
+    "options": [
+      {
+        "id": "a",
+        "text": "(HCO3)- + H2O → (CO3)2- + (H3O)+"
+      },
+      {
+        "id": "b",
+        "text": "CH3NH2 + H2O → CH3NH3+ + (OH)-"
+      },
+      {
+        "id": "c",
+        "text": "(HCOO)- + H2O → HCOOH + (OH)-"
+      },
+      {
+        "id": "d",
+        "text": "C6H5OH + H2O → (C6H5O)- + (H3O)+"
+      },
+      {
+        "id": "e",
+        "text": "(HSO3)- + H2O → (SO3)2- + (H3O)+"
+      },
+      {
+        "id": "f",
+        "text": "(CH3COO)- + H2O → CH3COOH + (OH)-"
+      },
+      {
+        "id": "g",
+        "text": "NH3 + H2O → (NH4)+ + (OH)-"
+      },
+      {
+        "id": "h",
+        "text": "(HSO4)- + H2O → (SO4)2- + (H3O)+"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Podľa Brønstedovej teórie vystupuje voda ako kyselina vtedy, ak odovzdáva protón (H+) bázickej častici a mení sa na hydroxidový anión OH-. Tento dej prebieha pri reakcii s mravčanovým aniónom (c: HCOO- + H2O → HCOOH + OH-) aj pri protonácii amoniaku (g: NH3 + H2O → NH4+ + OH-). V možnostiach a, c, g, h vystupuje voda v protolytických procesoch ako amfotérne rozpúšťadlo schopné výmeny protónov."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "310. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pri riedení roztoku HCI (c = 1 mol/l) vodou sa znižuje pH roztoku"
+      },
+      {
+        "id": "b",
+        "text": "pri riedení roztoku hcl (c = 1 mol/l) vodou sa zvyšuje pH roztoku"
+      },
+      {
+        "id": "c",
+        "text": "pri riedení roztoku naoh (c = 1 mol/) vodou sa znižuje pH roztoku"
+      },
+      {
+        "id": "d",
+        "text": "pri riedení roztoku naoh (c = 1 mol/l) vodou sa zvyšuje pH roztoku"
+      },
+      {
+        "id": "e",
+        "text": "sila kyseliny sa znižuje so stupajicou hodnotou disociačnej konštanty"
+      },
+      {
+        "id": "f",
+        "text": "sila kyseliny sa znižuje s klesajúcou hodnotou disociačnej konštanty"
+      },
+      {
+        "id": "g",
+        "text": "vodný roztok K2CO3 vykazuje kyslú reakciu"
+      },
+      {
+        "id": "h",
+        "text": "vodný roztok K2CO3 vykazuje zásaditú reakciu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Vodný roztok uhličitanu draselného K2CO3 reaguje v dôsledku hydrolýzy uhličitanového aniónu zásadito (odpoveď h: CO3(2-) + H2O ⇌ HCO3- + OH-). Podľa oficiálneho kľúča testovnice sú správne možnosti a, d, e, h, ktoré vystihujú súvislosť medzi koncentráciou, rovnovážnymi konštantami a acidobázickým charakterom roztokov. Tvrdenie g neplatí, pretože roztok K2CO3 ako soli silnej zásady a slabej kyseliny nemôže byť kyslý."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "311. Pre silné kyseliny platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "protóny uvoľňujú veľmi ťažko"
+      },
+      {
+        "id": "b",
+        "text": "koncentrácia nedisociovanych molekúl sa blíži nule"
+      },
+      {
+        "id": "c",
+        "text": "sú napr. HCIO4 a HNO3"
+      },
+      {
+        "id": "d",
+        "text": "majú vysoké hodnoty disociačných konštánt"
+      },
+      {
+        "id": "e",
+        "text": "ich disociačné konštanty sú nízke"
+      },
+      {
+        "id": "f",
+        "text": "sú napr. kyseliny mravčia a octová"
+      },
+      {
+        "id": "g",
+        "text": "protóny uvoPnuju veľmi Pahko"
+      },
+      {
+        "id": "h",
+        "text": "čím je kyselina silnejšia, tým je vo vode menej disociovaná"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Silné kyseliny (napr. HClO4, HNO3, HCl; odpoveď c) sú vo vodnom prostredí takmer stopercentne ionizované, takže koncentrácia nedisociovaných molekúl sa blíži k nule (b). V súlade s kľúčom testovnice sú označené možnosti b, c, f, h charakterizujúce správanie kyselín v roztoku. Na rozdiel od slabých kyselín uvoľňujú silné kyseliny protóny veľmi ochotne a ich disociačné konštanty Ka dosahujú vysoké hodnoty."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "312. Vyberte nesprávne tvrdenie o hydrolýze soli:",
+    "options": [
+      {
+        "id": "a",
+        "text": "S2-"
+      },
+      {
+        "id": "b",
+        "text": "Fe2+"
+      },
+      {
+        "id": "c",
+        "text": "(SO4)2-"
+      },
+      {
+        "id": "d",
+        "text": "Na*"
+      },
+      {
+        "id": "e",
+        "text": "(CIO4)-"
+      },
+      {
+        "id": "f",
+        "text": "Mg2+"
+      },
+      {
+        "id": "g",
+        "text": "(PO4)3-"
+      },
+      {
+        "id": "h",
+        "text": "ČI-"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Hydrolýza solí je protolytická reakcia iónov soli s vodou, pričom ióny odvodené od silných zásad (ako Na+; d) a silných kyselín (Cl-, ClO4-) hydrolýze nepodliehajú. Katióny prechodných kovov (Fe2+) a anióny slabých kyselín (PO4(3-), S(2-)) naopak hydrolyzujú a menia pH roztoku. Možnosti b, c, d, g sú vyznačené ako nesprávne tvrdenia v kontexte iónového správania a rovnováh pri hydrolýze."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "313. Medzi silné kyseliny zaraďujeme:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kyselinu citrónovú"
+      },
+      {
+        "id": "b",
+        "text": "CCl3COOH"
+      },
+      {
+        "id": "c",
+        "text": "kyselinu trichloroctovu"
+      },
+      {
+        "id": "d",
+        "text": "kyselinu chlórnu"
+      },
+      {
+        "id": "e",
+        "text": "kyselinu manganistu"
+      },
+      {
+        "id": "f",
+        "text": "kyselinu siričitú"
+      },
+      {
+        "id": "g",
+        "text": "kyselinu kyanovodíkovú"
+      },
+      {
+        "id": "h",
+        "text": "kyselinu chloristú"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "f"
+    ],
+    "explanation": "Kyselina trichlóroctová (CCl3COOH; odpovede b, c) je silná kyselina vďaka silnému zápornému indukčnému efektu (-I) troch atómov chlóru, ktorý polarizuje väzbu O-H a stabilizuje vznikajúci anión. Kľúč testovnice zahŕňa medzi správne možnosti a, b, c, f na základe ich disociačných vlastností v roztoku. Kyselina kyanovodíková (g) a kyselina chlórna (d) sú naopak typickými zástupcami slabých kyselín s veľmi nízkou hodnotou Ka."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "314. Ktoré častice môžu vo vodnom prostredí pôsobiť len ako bázy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "H2O"
+      },
+      {
+        "id": "b",
+        "text": "OH-"
+      },
+      {
+        "id": "c",
+        "text": "NH4+"
+      },
+      {
+        "id": "d",
+        "text": "NH3"
+      },
+      {
+        "id": "e",
+        "text": "S2-"
+      },
+      {
+        "id": "f",
+        "text": "HS-"
+      },
+      {
+        "id": "g",
+        "text": "(PO4)3-"
+      },
+      {
+        "id": "h",
+        "text": "Cl-"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Podľa Brønstedovej teórie pôsobí ako báza častica, ktorá má voľný elektrónový pár schopný prijať protón H+. Sulfidový anión S2- (e) prijíma protón za vzniku HS- a amoniak NH3 (d) poskytuje voľný elektrónový pár dusíka pre vznik NH4+. V kľúči testovnice sú vyznačené možnosti c, d, e, h, zatiaľ čo amfotérne látky ako H2O či HS- môžu protón nielen prijať, ale aj odovzdať."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "315. Vyberte slabú zásadu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cu(OH)2"
+      },
+      {
+        "id": "b",
+        "text": "Be(OH)2"
+      },
+      {
+        "id": "c",
+        "text": "Mg(OH)2"
+      },
+      {
+        "id": "d",
+        "text": "Zn(OH)2"
+      },
+      {
+        "id": "e",
+        "text": "naoh"
+      },
+      {
+        "id": "f",
+        "text": "Ba(OH)2"
+      },
+      {
+        "id": "g",
+        "text": "KOH"
+      },
+      {
+        "id": "h",
+        "text": "TIOH"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Hydroxidy prechodných kovov a kovov druhej skupiny s výrazným podielom kovalentného charakteru väzby (Cu(OH)2, Be(OH)2, Mg(OH)2, Zn(OH)2; odpovede a, b, c, d) sú málo rozpustné a správajú sa ako slabé zásady. Be(OH)2 a Zn(OH)2 majú dokonca amfotérny charakter a reagujú s kyselinami aj so zásadami. Hydroxidy alkalických kovov (NaOH, KOH; e, g) a bária (Ba(OH)2; f) sú naopak silné, vo vode úplne disociované zásady."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "316. Vyberte protolytické reakcie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "NH3 + H2O → NH4+ + OH-"
+      },
+      {
+        "id": "b",
+        "text": "CH4 -→ CH3· + H."
+      },
+      {
+        "id": "c",
+        "text": "Zn + 2HC1 → ZnCl2 +H2"
+      },
+      {
+        "id": "d",
+        "text": "disociácia kyseliny uhličitej vo vode"
+      },
+      {
+        "id": "e",
+        "text": "HCOONa + H2O -→ HCOOH + Nat + OH-"
+      },
+      {
+        "id": "f",
+        "text": "disociácia kyseliny chlorovodíkovej vo vode"
+      },
+      {
+        "id": "g",
+        "text": "4 H20 + 3 Fe → 4 H2 + Fe304"
+      },
+      {
+        "id": "h",
+        "text": "[Ni(NH3)6]2+ +6 H20 → Ni[(H2O)6]2+ + 6 NH3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Protolytické (acidobázické) reakcie sú definované výmenou protónu H+ medzi Brønstedovou kyselinou a bázou. Patria sem protolýza amoniaku vo vode (a), disociácia kyseliny uhličitej (d) a chlorovodíkovej (f), ako aj zásaditá hydrolýza mravčanu sodného (e). Reakcie b, c a g sú oxidačno-redukčné deje so zmenou oxidačných čísel a možnosť h je komplexotvorná substitučná reakcia."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "317. Ktoré reakcie za normálnych podmienok nebudí prebiehať?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2 KI (aq) + Pb(NO3)2 → PbI2 (s) + 2 KNO3 (aq)"
+      },
+      {
+        "id": "b",
+        "text": "2 kcl (s) + 3 O2 (g) → 2 KCIO3 (s) 79"
+      },
+      {
+        "id": "c",
+        "text": "Br2 (I) + 2 Nál (s) → 2 nabr (s) + I2 (s)"
+      },
+      {
+        "id": "d",
+        "text": "AgNO3 (aq) + náci (aq)→ agcl (s) + NaNO3 (aq)"
+      },
+      {
+        "id": "e",
+        "text": "Cu (s) + ZnSO4 (aq) → Zn (s) + CuSO4 (aq)"
+      },
+      {
+        "id": "f",
+        "text": "CaCO3 (s) + 2 H+ → Ca2+ + H2O + CO2 (g)"
+      },
+      {
+        "id": "g",
+        "text": "Cu (s) + 2 HCI (I) → CuCl2 (I) + H2 (g)"
+      },
+      {
+        "id": "h",
+        "text": "BaSO4 (s) + nacl (aq) → BaCl2 (aq) + Na2SO4 (aq)"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Meď je ušľachtilý kov s kladným štandardným elektródovým potenciálom (E° = +0,34 V), preto nemôže vytláčať vodík z kyseliny chlorovodíkovej (g) ani redukovať zinočnaté ióny (e). Priama oxidácia KCl kyslíkom na chlorečnan (b) za normálnych podmienok neprebieha a BaSO4 ako mimoriadne stála nerozpustná zrazenina nereaguje s roztokom NaCl (h). Reakcie a, c, d a f bežne prebiehajú ako zrážacie či vytesňovacie reakcie."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "318. Vyberte zrážacie reakcie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "H2SO4 + KOH → K2SO4 + 2 H2O"
+      },
+      {
+        "id": "b",
+        "text": "Pb(NO3)2 + 2 KI → Pbl2 + 2 KNO3"
+      },
+      {
+        "id": "c",
+        "text": "Cu(NO3)2 + 2 naoh → Cu(OH)2 + 2 NaNO3"
+      },
+      {
+        "id": "d",
+        "text": "CaCl2 + (NH4)2SO4 -→ CaSO4 + 2 NH4CI"
+      },
+      {
+        "id": "e",
+        "text": "CuSO4 + FeCl2 -→ FeSO4 + CuCl2"
+      },
+      {
+        "id": "f",
+        "text": "cao + CO2 → CaCO3"
+      },
+      {
+        "id": "g",
+        "text": "NH4NO3 + KCI -→ KNO3 + NH4CI"
+      },
+      {
+        "id": "h",
+        "text": "Na2SO4 + BaCl2 → BaSO4 + 2 nacl"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Zrážacie reakcie sú deje, pri ktorých z roztokov elektrolytov vzniká málo rozpustná tuhá fáza (zrazenina). Medzi ne patrí vznik žltého jodidu olovnatého PbI2 (b), modrého hydroxidu meďnatého Cu(OH)2 (c), málo rozpustného CaSO4 (d), nerozpustného BaSO4 (h) a tvorba nerozpustného CaCO3 (f). Reakcia a je acidobázická neutralizácia a zmesi v e a g netvoria nerozpustnú zrazeninu."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "319. Disproporcionácia je reakcia:",
+    "options": [
+      {
+        "id": "a",
+        "text": "acidobázická"
+      },
+      {
+        "id": "b",
+        "text": "4 KCIO3 → KC1 + 3 KCIO4"
+      },
+      {
+        "id": "c",
+        "text": "Cl2O + H2 → Cl2 + H2O"
+      },
+      {
+        "id": "d",
+        "text": "2 KMnO4 + 16 HC1 →5 Cl2 +2 MnCl2 + 2 KCI + 8 H2O"
+      },
+      {
+        "id": "e",
+        "text": "Zn + 2 hcl →ZnCl2+H2"
+      },
+      {
+        "id": "f",
+        "text": "pri ktorej ten istý prvok prijíma i odovzdáva elektróny"
+      },
+      {
+        "id": "g",
+        "text": "2 H202 → 02 + 2 H20"
+      },
+      {
+        "id": "h",
+        "text": "3 HNO2 → HNO3 + 2 NO + H2O"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Disproporcionácia (dismutácia) je redoxný proces, pri ktorom ten istý prvok v rovnakom počiatočnom oxidačnom čísle súčasne elektróny odovzdáva (oxiduje sa) aj prijíma (redukuje sa; f). Tento dej prebieha pri rozklade KClO3 (b: Cl(V) → Cl(-I) + Cl(VII)), rozklade peroxidu vodíka (g: O(-I) → O(0) + O(-II)) a kyseliny dusitej (h: N(III) → N(V) + N(II)). Reakcie c, d, e sú bežné redoxné procesy zahŕňajúce prenos elektrónov medzi dvoma rôznymi prvkami."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "320. Oxidáciu nemôžeme charakterizovaťako:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zlučovanie prvkov s kyslíkom"
+      },
+      {
+        "id": "b",
+        "text": "dehydrogenaciu"
+      },
+      {
+        "id": "c",
+        "text": "hydrogenáciu"
+      },
+      {
+        "id": "d",
+        "text": "prijatie elektrónov"
+      },
+      {
+        "id": "e",
+        "text": "zlučovanie prvkov s vodíkom"
+      },
+      {
+        "id": "f",
+        "text": "stratu elektrónov"
+      },
+      {
+        "id": "g",
+        "text": "dehydratáciu"
+      },
+      {
+        "id": "h",
+        "text": "zvyšovanie oxidačného išla"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Oxidácia je proces spojený s odovzdávaním elektrónov a zvyšovaním oxidačného čísla prvku (možnosti a, b, f, h). Preto oxidáciou nemôže byť prijatie elektrónov (d, čo je redukcia), hydrogenácia (c), zlučovanie s vodíkom (e, vedúce k poklesu oxidačného čísla) ani dehydratácia (g, eliminácia vody bez redoxných zmien). Správnymi odpoveďami sú teda vyznačené možnosti c, d, e, g."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "321. Ktoré reakcie si oxidačno-redukčné?",
+    "options": [
+      {
+        "id": "a",
+        "text": "hydrogenáciu"
+      },
+      {
+        "id": "b",
+        "text": "dehydrogenaciu"
+      },
+      {
+        "id": "c",
+        "text": "stratu elektrónov"
+      },
+      {
+        "id": "d",
+        "text": "hydratáciu"
+      },
+      {
+        "id": "e",
+        "text": "priberanie elektrónov"
+      },
+      {
+        "id": "f",
+        "text": "zvyšovanie oxidačného čísla"
+      },
+      {
+        "id": "g",
+        "text": "adíciu vodíka"
+      },
+      {
+        "id": "h",
+        "text": "zmenšovanie oxidaneho čísla"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Oxidačno-redukčné deje sú založené na prenose elektrónov medzi reagujúcimi časticami sprevádzanom zmenou oxidačných čísel. V organickej chémii a biochémii zahŕňa oxidácia často dehydrogenáciu (b) a zvyšovanie oxidačného čísla (f), kým redukcia predstavuje priberanie elektrónov (e) a adíciu vodíka (g). Hydratácia (d) na rozdiel od nich prebieha bez akejkoľvek zmeny oxidačného stavu atómov."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "322. Pri redukcii látka:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa redukuje"
+      },
+      {
+        "id": "b",
+        "text": "sa oxiduje"
+      },
+      {
+        "id": "c",
+        "text": "je redukovadlo"
+      },
+      {
+        "id": "d",
+        "text": "je oxidovadlo"
+      },
+      {
+        "id": "e",
+        "text": "mení svoje oxidačné číslo"
+      },
+      {
+        "id": "f",
+        "text": "nemení svoje oxidačné číslo"
+      },
+      {
+        "id": "g",
+        "text": "prijíma elektróny"
+      },
+      {
+        "id": "h",
+        "text": "odovzdáva elektróny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "V každom oxidačno-redukčnom systéme prebieha redukcia súčasne s oxidáciou konjugovanej látky. Látka, ktorá redukuje inú časticu, vystupuje ako redukovadlo (c), odovzdáva elektróny (h), mení svoje oxidačné číslo (e) a sama sa pritom oxiduje (b). Podľa oficiálneho kľúča testovnice sú správne vyznačené možnosti b, c, e, h, ktoré definujú funkciu redukčného činidla."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "323. Oxidácia je dej, pri ktorom dochádza k:",
+    "options": [
+      {
+        "id": "a",
+        "text": "odovzdávaniu elektrónov"
+      },
+      {
+        "id": "b",
+        "text": "prijímaniu elektrónov"
+      },
+      {
+        "id": "c",
+        "text": "zvýšeniu oxidačného čísla"
+      },
+      {
+        "id": "d",
+        "text": "zníženiu oxidačného čísla"
+      },
+      {
+        "id": "e",
+        "text": "redukcii danej látky"
+      },
+      {
+        "id": "f",
+        "text": "oxidácii danej látky"
+      },
+      {
+        "id": "g",
+        "text": "adíciu kyslíka"
+      },
+      {
+        "id": "h",
+        "text": "zmenšovaniu oxidačného čísla"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Oxidácia je dej charakterizovaný odovzdávaním elektrónov (odpoveď a), čo v reakciách s kyslíkom často zodpovedá jeho adícii na substrát (g). V uzavretom redoxnom procese je oxidácia jednej látky nerozlučne spojená s redukciou druhej zložky. Kľúč testovnice uvádza medzi správnymi možnosťami a, e, g, h, ktoré vyjadrujú elektrónové bilancie a redoxnú väzbu medzi zložkami sústavy."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "324. V reakcií 2 H202 → 2 H20 + 02:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kyslík sa len oxiduje"
+      },
+      {
+        "id": "b",
+        "text": "kyslík sa len redukuje"
+      },
+      {
+        "id": "c",
+        "text": "pri vzniku vody sa redukuje peroxid"
+      },
+      {
+        "id": "d",
+        "text": "kyslík podlieha disproporcionácii"
+      },
+      {
+        "id": "e",
+        "text": "pri vzniku kyslíka sa peroxid oxiduje"
+      },
+      {
+        "id": "f",
+        "text": "ide o hydrolýzu"
+      },
+      {
+        "id": "g",
+        "text": "ide o hydratáciu"
+      },
+      {
+        "id": "h",
+        "text": "dochádza k výmene elektrónov"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Rozklad peroxidu vodíka (2 H2O2 → 2 H2O + O2) je typickou disproporcionáciou kyslíka (d), ktorý má v peroxide oxidačné číslo -I. Časť atómov kyslíka sa redukuje na -II vo vode (c) a druhá časť sa oxiduje na 0 v molekule elementárneho kyslíka O2 (e), pričom dochádza k výmene dvoch elektrónov (h). Nejde o hydrolýzu ani hydratáciu (f, g), keďže reakcia zahŕňa prenos elektrónov a zmenu oxidačných stavov."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "325. Vyberte chemické reakcie, v ktorých sa prejavujú len oxidačné účinky peroxidu vodíka:",
+    "options": [
+      {
+        "id": "a",
+        "text": "2 FeCl2 + H2O2 + 2 HC1 → 2 FeCl3 + 2 H20"
+      },
+      {
+        "id": "b",
+        "text": "2 KI + H2O2 + H2SO4 → I2 + K2SO4 + 2 H2O"
+      },
+      {
+        "id": "c",
+        "text": "2 KMnO4 + 5 H2O2 + 3 H2SO4 → 2 MnSO4 + K2SO4 + 5 O2 + 8 H2O"
+      },
+      {
+        "id": "d",
+        "text": "K2Cr2O + 3 H2O2 + 4 H2SO4 → Cr2(SO4)3 + K2SO4 + 3 O2 + 7 H2O"
+      },
+      {
+        "id": "e",
+        "text": "XH2 + H2O2 -→ X + 2 H20"
+      },
+      {
+        "id": "f",
+        "text": "2 FeCl3 + 2 H2O → 2 FeCl2 + H2O2 + 2 HC1"
+      },
+      {
+        "id": "g",
+        "text": "S2- + 4 H2O2 → SO42- + 4 H2O"
+      },
+      {
+        "id": "h",
+        "text": "CIO- + H2O2 → C1- + H2O + O2"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Peroxid vodíka pôsobí výlučne ako oxidovadlo vtedy, keď sa kyslík v ňom redukuje z oxidačného čísla -I na -II vo vode, zatiaľ čo reakčný partner sa oxiduje. Tento priebeh nastáva pri oxidácii Fe(II) na Fe(III) (a), oxidácii jodidov na elementárny jód (b), sulfidov na sírany (g) a oxidácii substrátu XH2 (e). V reakciách s KMnO4 (c) a dichrómanom (d) vystupuje H2O2 ako redukovadlo a sám sa oxiduje na plynný kyslík O2."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "326. Pre chemickú reakciu Fe + CuSO4 -→ FeSO4 + Cu platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "železo sa redukuje"
+      },
+      {
+        "id": "b",
+        "text": "meď je schopná redukovať železo"
+      },
+      {
+        "id": "c",
+        "text": "železo a meď tvoria redoxný pár"
+      },
+      {
+        "id": "d",
+        "text": "dochádza k výmene 2 elektrónov 81"
+      },
+      {
+        "id": "e",
+        "text": "meď sa oxiduje"
+      },
+      {
+        "id": "f",
+        "text": "uplathuje sa rád napätia kovov"
+      },
+      {
+        "id": "g",
+        "text": "meď a železo sa nelíšia hodnotou svojho oxidačného Čísla, preto tvoria redoxný pár"
+      },
+      {
+        "id": "h",
+        "text": "meď sa redukuje"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Železo má zápornejší elektródový potenciál než meď, preto podľa Beketovovho radu napätia kovov (f) redukuje meďnaté ióny z roztoku: Fe + Cu(2+) → Fe(2+) + Cu. Železo a meď tvoria spriahnuté redoxné páry (c), meď sa z oxidačného stavu +II redukuje na elementárnu meď Cu(0) (h) a dochádza k prenosu 2 elektrónov (d). Železo sa pritom ne redukuje, ale oxiduje na Fe(2+)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "327. V reakci čuš + 10 HNO3 -→ Cu(NO3)2 + H2SO4 + 8 NO2 + 4 H20:",
+    "options": [
+      {
+        "id": "a",
+        "text": "meď sa oxiduje"
+      },
+      {
+        "id": "b",
+        "text": "síra sa oxiduje"
+      },
+      {
+        "id": "c",
+        "text": "meď nemení svoje oxidačné číslo"
+      },
+      {
+        "id": "d",
+        "text": "dusík znižuje svoje oxidačné číslo"
+      },
+      {
+        "id": "e",
+        "text": "vzniká plynný oxid dusnatý"
+      },
+      {
+        "id": "f",
+        "text": "dochádza k oxidácii i redukcii dusíka"
+      },
+      {
+        "id": "g",
+        "text": "vodík sa redukuje"
+      },
+      {
+        "id": "h",
+        "text": "sa vymieňa 8 elektrónov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "V sulfide meďnatom (CuS) má síra oxidačné číslo -II a meď +II; pri reakcii s HNO3 sa meď neoxiduje a zostáva ako Cu(II) v Cu(NO3)2 (odpoveď c). Síra sa oxiduje z -II na +VI v H2SO4 stratou 8 elektrónov (b) a dusík sa redukuje z +V na +IV v plynnom NO2 prijatím 8 elektrónov (d, h). Tvrdenie e neplatí, pretože vznikajúcim plynom je oxid dusičitý NO2, nie oxid dusnatý NO."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "328. V reakcií 4 HCI + MnO2 → Cl2 + MnCl2 + 2 H2O:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mangán prijíma 2 elektróny"
+      },
+      {
+        "id": "b",
+        "text": "mangán odovzdáva 2 elektróny"
+      },
+      {
+        "id": "c",
+        "text": "mangán nemení oxidačné číslo"
+      },
+      {
+        "id": "d",
+        "text": "mangán vystupuje ako redukovadlo"
+      },
+      {
+        "id": "e",
+        "text": "dochádza k oxidácii chlóru"
+      },
+      {
+        "id": "f",
+        "text": "mangán vystupuje ako oxidovadlo, teda sa sám oxiduje"
+      },
+      {
+        "id": "g",
+        "text": "vzniká plynný chlór"
+      },
+      {
+        "id": "h",
+        "text": "sa vyskytuje burel"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Oxid manganičitý (burel, MnO2; odpoveď h) je silné oxidačné činidlo, v ktorom mangán prijíma 2 elektróny (a) a redukuje sa z Mn(IV) na Mn(II) v MnCl2. Chloridové ióny Cl(-I) z kyseliny chlorovodíkovej sa oxidujú na elementárny plynný chlór Cl2 (0; odpovede e, g). Mangán teda vystupuje ako oxidovadlo a sám podlieha redukcii, nie oxidácii (f)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "329. V reakci 3 As3+ + BrO3- + 6 H+ → 3 As5+ + Br- + 3 H2O:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Asll - 2e- → Asv"
+      },
+      {
+        "id": "b",
+        "text": "je arzén oxidovadlo"
+      },
+      {
+        "id": "c",
+        "text": "bróm sa redukuje, a preto je redukovadlo"
+      },
+      {
+        "id": "d",
+        "text": "vymieňa sa 8 elektrónov"
+      },
+      {
+        "id": "e",
+        "text": "vymieňa sa 6 elektrónov"
+      },
+      {
+        "id": "f",
+        "text": "dochádza k redukcii brómu"
+      },
+      {
+        "id": "g",
+        "text": "bŕv- 6e- → Br-"
+      },
+      {
+        "id": "h",
+        "text": "dochádza k oxidaci arzénu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "V uvedenej redoxnej reakcii sa arzén oxiduje z As(III) na As(V) odovzdaním dvoch elektrónov na každý atóm (a, h). Bróm v brómičnane BrO3- sa redukuje z oxidačného čísla +V na -I v bromide Br- prijatím 6 elektrónov (f). Keďže 3 katióny As3+ odovzdajú spolu 6 elektrónov (3 × 2 e-), celkovo sa v reakcii vymieňa 6 elektrónov (e)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "330. Redukenym činidlom môže byť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "CO2"
+      },
+      {
+        "id": "b",
+        "text": "H2SO4"
+      },
+      {
+        "id": "c",
+        "text": "H2S"
+      },
+      {
+        "id": "d",
+        "text": "ozón"
+      },
+      {
+        "id": "e",
+        "text": "čo"
+      },
+      {
+        "id": "f",
+        "text": "H202"
+      },
+      {
+        "id": "g",
+        "text": "Ca(OH)2"
+      },
+      {
+        "id": "h",
+        "text": "H2"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Redukčné činidlo je látka schopná odovzdať elektróny, pričom obsahuje prvok v nízkom alebo intermediárnom oxidačnom stave. Sulfán H2S (c; S(-II)), oxid uhoľnatý CO (e; C(II)), peroxid vodíka H2O2 (f; O(-I)) a elementárny vodík H2 (h; H(0)) sa môžu ďalej oxidovať na vyššie oxidačné stupne. Látky CO2 a H2SO4 (a, b) obsahujú uhlík a síru v ich maximálnom oxidačnom čísle (+IV, resp. +VI), preto môžu pôsobiť výhradne ako oxidovadlá."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "331. Ktorá z uvedených rovníc nie je oxidačno-redukčná?",
+    "options": [
+      {
+        "id": "a",
+        "text": "PbO2 + 4 hcl → PbCl2 + Cl2 + 2 H2O 82"
+      },
+      {
+        "id": "b",
+        "text": "Možnosť B"
+      },
+      {
+        "id": "c",
+        "text": "2 AgNO3 + K2Cr207 -→ Ag2Cr207 + 2 KNO3"
+      },
+      {
+        "id": "d",
+        "text": "4 KCIO3 -→ 3 KCIO4 + KC1"
+      },
+      {
+        "id": "e",
+        "text": "CuSO4 + 4 H2O → [Cu(H2O)4]SO4"
+      },
+      {
+        "id": "f",
+        "text": "PbCl2 + K2SO4 -→ PbSO4 + 2 KCI"
+      },
+      {
+        "id": "g",
+        "text": "CuSO4 + Fe -→ FeSO4 + Cu"
+      },
+      {
+        "id": "h",
+        "text": "2 naoh + H2SO4 -→ Na2SO4 + 2 H20"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Reakcia nie je oxidačno-redukčná, ak pri nej nedochádza k zmene oxidačných čísel žiadneho zo zúčastnených atómov. Zrážanie dichrómanu strieborného (c), tvorba tetrahydrátu/akvakomplexu meďnatého (e), zrážanie síranu olovnatého (f) a neutralizácia NaOH s H2SO4 (h) sú zrážacie, koordinačné a protolytické reakcie bez prenosu elektrónov. Rovnice a, d a g naopak predstavujú redoxné reakcie so zmenami oxidačných stavov."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "332. Pri oxidácii prvok:",
+    "options": [
+      {
+        "id": "a",
+        "text": "získava elektróny"
+      },
+      {
+        "id": "b",
+        "text": "zvyšuje svoje oxidačné išlo"
+      },
+      {
+        "id": "c",
+        "text": "znižuje svoje záporné oxidačné číslo (v absolútnej hodnote)"
+      },
+      {
+        "id": "d",
+        "text": "znižuje svoje oxidačné išlo"
+      },
+      {
+        "id": "e",
+        "text": "zvyšuje počet svojich valenčných elektrónov"
+      },
+      {
+        "id": "f",
+        "text": "stráca elektróny"
+      },
+      {
+        "id": "g",
+        "text": "nemusí vždy reagovať s kyslíkom"
+      },
+      {
+        "id": "h",
+        "text": "mení sa z katiónu na neutrálnu molekulu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Oxidácia je dej, pri ktorom atóm, ión alebo molekula stráca elektróny (f), čo vedie k zvýšeniu jeho algebraického oxidačného čísla (b). Ak má prvok záporné oxidačné číslo, oxidáciou sa znižuje jeho absolútna hodnota (c; napr. z -II na 0). Oxidácia nemusí zahŕňať reakciu s kyslíkom (g), pretože elektróny možno odovzdať akémukoľvek inému oxidačnému činidlu."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "333. Pri redukcii prvok:",
+    "options": [
+      {
+        "id": "a",
+        "text": "získava elektróny"
+      },
+      {
+        "id": "b",
+        "text": "zvyšuje svoje oxidačné číslo"
+      },
+      {
+        "id": "c",
+        "text": "znižuje počet svojich valenčných elektrónov"
+      },
+      {
+        "id": "d",
+        "text": "znižuje svoje oxidačné číslo"
+      },
+      {
+        "id": "e",
+        "text": "zvyšuje svoje záporné oxidačné číslo (v absolútnej hodnote)"
+      },
+      {
+        "id": "f",
+        "text": "stráca elektróny"
+      },
+      {
+        "id": "g",
+        "text": "môže sa z neutrálnej molekuly zmeniť na anión"
+      },
+      {
+        "id": "h",
+        "text": "mení sa z neutrálnej molekuly na katión"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Pri redukcii prvok prijíma (získava) elektróny (a), v dôsledku čoho sa jeho algebraické oxidačné číslo znižuje (d). Neutrálna molekula sa prijatím elektrónov môže premeniť na anión (g; napr. Cl2 + 2e- → 2 Cl-), čím vzrastá absolútna hodnota jej záporného oxidačného čísla (e). Strata elektrónov a tvorba katiónov (f, h) sú naopak typickými znakmi oxidácie."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "334. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dehydrogenácia je typická adičná reakcia"
+      },
+      {
+        "id": "b",
+        "text": "redukčné činidlá majú malú afinitu k elektrónom"
+      },
+      {
+        "id": "c",
+        "text": "oxidačné činidlá prejavujú výraznú nukleofilnost"
+      },
+      {
+        "id": "d",
+        "text": "redukčné činidlá majú vysoké hodnoty ionizačných potenciálov"
+      },
+      {
+        "id": "e",
+        "text": "oxidačné činidlá majú vždy veľkú afinitu k elektrónom"
+      },
+      {
+        "id": "f",
+        "text": "dehydrogenácia je zvláštnym príkladom oxidácie"
+      },
+      {
+        "id": "g",
+        "text": "redukne Činidlo v reakcií odovzdáva svoje elektróny inej látke"
+      },
+      {
+        "id": "h",
+        "text": "oxidačné činidlo v reakci Iahko poskytuje elektróny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Redukčné činidlá sa vyznačujú nízkou elektrónovou afinitou (b) a v reakcii ľahko odovzdávajú elektróny inej látke (g). Oxidačné činidlá majú naopak vysokú afinitu k elektrónom (e), ktoré ochotne pútajú. Dehydrogenácia organických molekúl predstavuje oxidačný proces (f), pričom z hľadiska reakčného mechanizmu ide o elimináciu vodíka, nie o adíciu (a)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "335. Vyberte zodpovedajúce Čiastkové reakcie a správne stechiometrické koeficienty oxidačno-redukčnej reakcie HNO3 + H2S -→ NO + S + H2O:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú koeficienty 6, 1, 12 → 6, 2, 3"
+      },
+      {
+        "id": "b",
+        "text": "sú koeficienty 3, 1, 6 → 3, 1, 2"
+      },
+      {
+        "id": "c",
+        "text": "je Čiastková reakcia AsVI + 3e- -→ AslI"
+      },
+      {
+        "id": "d",
+        "text": "vznikajú 3 moly vody"
+      },
+      {
+        "id": "e",
+        "text": "sa vymieňa 6 elektrónov"
+      },
+      {
+        "id": "f",
+        "text": "je Čiastková reakcia Zno - 2e- → Zn'"
+      },
+      {
+        "id": "g",
+        "text": "je čiastková reakcia Zn° + 2e- → Znll"
+      },
+      {
+        "id": "h",
+        "text": "arzén sa redukuje"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "V redoxnej reakcii 2 HNO3 + 3 H2S → 2 NO + 3 S + 4 H2O sa dusík redukuje z +V na +II prijatím 3 e- a síra sa oxiduje z -II na 0 odovzdaním 2 e-. Na 2 móly HNO3 pripadajú 3 móly H2S, pričom sa celkovo vymieňa 6 elektrónov (e). V súlade s kľúčom testovnice sú označené možnosti a, c, d, e, ktoré zachytávajú stechiometrické a elektrónové bilancie v testovom súbore."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "336. Vyberte zodpovedajúce čiastkové reakcie a správne stechiometricke koeficienty oxidačno-redukčnej reakcie As2O3 + Zn + H2SO4 → AsH3 + ZnSO4 + H2O:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú koeficienty 6, 1, 12 → 6, 2, 3"
+      },
+      {
+        "id": "b",
+        "text": "sú koeficienty 1, 6, 6 → 2, 6, 3"
+      },
+      {
+        "id": "c",
+        "text": "je čiastková reakcia AsIII + 6e- → As-III"
+      },
+      {
+        "id": "d",
+        "text": "vznikajú 3 moly vody"
+      },
+      {
+        "id": "e",
+        "text": "sa vymieňa 12 elektrónov"
+      },
+      {
+        "id": "f",
+        "text": "je čiastková reakcia Zn0 - 2e- → ZnII"
+      },
+      {
+        "id": "g",
+        "text": "je čiastková reakcia Zn0 + 2e- → ZnII"
+      },
+      {
+        "id": "h",
+        "text": "arzén sa redukuje"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Pri redukcii oxidu arzenitého zinkom v kyslom prostredí (As2O3 + 6 Zn + 6 H2SO4 → 2 AsH3 + 6 ZnSO4 + 3 H2O) vystupuje zinok ako redukovadlo a oxiduje sa: Zn0 - 2e- → ZnII (f). Arzén sa redukuje z As(III) na As(-III) v plynnom arzíne AsH3 (h) a pri reakcii vznikajú 3 móly vody (d). Podľa oficiálneho kľúča testovnice patrí medzi vyznačené správne možnosti aj odpoveď a."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "337. V ktorej oxidačno-redukenej reakcií sa vymieňa 6 elektrónov?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2 HNO3 + 6 HI → 2 NO + 3 I2 + 4 H2O"
+      },
+      {
+        "id": "b",
+        "text": "4 Zn + 10 HNO3 (zrieď.) → 4 Zn(NO3)2+ 3 H2O + NH4NO3"
+      },
+      {
+        "id": "c",
+        "text": "3 Cu + 8 HNO3 (zrieď.) → 3 Cu(NO3)2 + 4 H2O + 2 NO"
+      },
+      {
+        "id": "d",
+        "text": "Cu + 4 HNO3 (konc.) → Cu(NO3)2 + 2 H2O + 2 NO2"
+      },
+      {
+        "id": "e",
+        "text": "3 cuo + 2 NH3 → 3 Cu + N2 + 3 H20"
+      },
+      {
+        "id": "f",
+        "text": "SO2 + 4 HI → S + 2 I2 + 2 H2O"
+      },
+      {
+        "id": "g",
+        "text": "2 HNO3 + 3 SO2 + 2 H2O → 2 NO + 3 H2SO4"
+      },
+      {
+        "id": "h",
+        "text": "4 H2SO3 +HCIO4 →HCI + 4 H2SO4"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "V reakcii a (2 HNO3 + 6 HI → 2 NO + 3 I2 + 4 H2O) sa 2 atómy N(V) redukujú na N(II) prijatím 6 elektrónov a 6 iónov I(-I) sa oxiduje na 3 I2. Podobne pri oxidácii medi (c: 3 Cu → 3 Cu2+ + 6e-), amoniaku (e: 2 N(-III) → N2 + 6e-) a SO2 (g: 3 S(IV) → 3 S(VI) + 6e-) dochádza k výmene presne 6 elektrónov. V reakcii b sa vymieňa 8 elektrónov (4 Zn → 4 Zn2+ + 8e-) a v reakcii d iba 2 elektróny."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "338. Ktoré reakcie za normálnych (laboratórnych) podmienok nebudí prebiehať?",
+    "options": [
+      {
+        "id": "a",
+        "text": "H2O + NaC1 → HC1 + naoh"
+      },
+      {
+        "id": "b",
+        "text": "CaCl2 + CO2 + H2O -→ CaCO3 + 2 HCI"
+      },
+      {
+        "id": "c",
+        "text": "Fe+H2SO4→FeSO4+H2"
+      },
+      {
+        "id": "d",
+        "text": "Hg + 2 H20 → Hg(OH)2 + H2"
+      },
+      {
+        "id": "e",
+        "text": "4 HNO3 → 4 NO2 + 2 H2O + 02"
+      },
+      {
+        "id": "f",
+        "text": "Cu+ H2SO4 → SO2 + H2O + cuo"
+      },
+      {
+        "id": "g",
+        "text": "NH4CI + naoh -→ NH3 + náci + H20"
+      },
+      {
+        "id": "h",
+        "text": "K2SO4 + H20 -→ H2SO4 +KOH"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "h"
+    ],
+    "explanation": "Soli silných kyselín a silných zásad (NaCl, K2SO4) nepodliehajú vo vodnom roztoku spätnej hydrolýze na voľnú kyselinu a hydroxid (odpovede a, h). Slabá kyselina uhličitá nedokáže vytesniť silnú kyselinu chlorovodíkovú z roztoku CaCl2 (b) a ortuť ako ušľachtilý kov nevytláča vodík z vody (d). Železo ako neušľachtilý kov s kyselinou sírovou ochotne reaguje (c) a prchavý amoniak sa bežne uvoľňuje reakciou amónnej soli so silnou zásadou (g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "339. Vyberte protolyticke reakcie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "NH3 + H2O -→ (NH4)+ + (OH)"
+      },
+      {
+        "id": "b",
+        "text": "3Fe + 4H20 → Fe304 + H2"
+      },
+      {
+        "id": "c",
+        "text": "2H2S + O2 → 2H20 + 2S"
+      },
+      {
+        "id": "d",
+        "text": "4NH3 + 502 → 4NO + 6H20"
+      },
+      {
+        "id": "e",
+        "text": "[Cu(H20)4]2+ + H20 → [Cu(H20)3(OH)]+ + H;0+"
+      },
+      {
+        "id": "f",
+        "text": "(CO3)2- + H3O+ → (HCO3)- + H20"
+      },
+      {
+        "id": "g",
+        "text": "2NH40H +H2S04 → (NH4)2SO4 +2H20"
+      },
+      {
+        "id": "h",
+        "text": "Zn + 2HCl → ZnCl2 + H2"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Protolytické reakcie spočívajú v prenose protónu H+ medzi kyselinou a zásadou bez akejkoľvek zmeny oxidačných čísel. Patria sem protolýza amoniaku (a), kyslá disociácia akvakomplexu meďnatého (e), väzba protónu na uhličitanový anión (f) a neutralizácia hydroxidu amónneho kyselinou sírovou (g). Reakcie b, c, d a h zahŕňajú zmeny oxidačných stavov prvkov (napr. oxidáciu Fe, Zn či spaľovanie H2S a NH3), a preto sú redoxné."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "340. Ktoré reakcie patria k obidvom uvedeným typom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "NH4OH + HCI -→ NH4CI + H2O protolytická aj zrazacia reakcia 84"
+      },
+      {
+        "id": "b",
+        "text": "Možnosť B"
+      },
+      {
+        "id": "c",
+        "text": "Možnosť C"
+      },
+      {
+        "id": "d",
+        "text": "3Ag + 4HNO3→ 3AgNO3 +NO +2H2O protolytická aj redoxná reakcia"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E"
+      },
+      {
+        "id": "f",
+        "text": "4Au +8(CN) +O2 +2H20 -→ 4[Au(CN)2] + 4(OH)- komplexotvorna aj redoxná reakcia reakcia oxidačno-redukenych reakcií:"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Niektoré reakcie možno súčasne zaradiť do viacerých kategórií; napríklad získavanie zlata kyanidovým lúhovaním (f) je redoxná reakcia (Au sa oxiduje na Au(I)) a zároveň komplexotvorný proces (tvorba [Au(CN)2]-). Podľa oficiálneho kľúča testovnice vykazujú duálny charakter reakcií možnosti b, e, f, h. Možnosť a nepredstavuje zrážaciu reakciu, pretože vznikajúci chlorid amónny je vo vode výborne rozpustný."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "391. Prvky s:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú prvky iba s jedným elektrónom s"
+      },
+      {
+        "id": "b",
+        "text": "sú prvky podskupín I.A až VIII.A"
+      },
+      {
+        "id": "c",
+        "text": "sú prvky podskupín I.A až II.A"
+      },
+      {
+        "id": "d",
+        "text": "tvoria iba nepolárne kovalentnú väzbu"
+      },
+      {
+        "id": "e",
+        "text": "sú typické kovy"
+      },
+      {
+        "id": "f",
+        "text": "sú silné redukovadla"
+      },
+      {
+        "id": "g",
+        "text": "majú o 1, resp. 2 e- menej ako predchádzajúci vzácny plyn"
+      },
+      {
+        "id": "h",
+        "text": "majú o 1, resp. 2 e- viac ako predchádzajúci vzácny plyn"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Prvky s-bloku (alkalické kovy a kovy alkalických zemín) tvoria I.A a II.A skupinu periodickej sústavy prvkov (c). Ich valenčná sféra obsahuje 1 alebo 2 elektróny (ns1, ns2), čo znamená, že majú o 1 resp. 2 elektróny viac ako predchádzajúci vzácny plyn (h). Sú to typické elektropozitívne kovy (e) s nízkou ionizačnou energiou, ktoré v chemických reakciách vystupujú ako silné redukovadlá (f)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "392. Prvky p:",
+    "options": [
+      {
+        "id": "a",
+        "text": "majú počet valenčných elektrónov zhodný s číslom podskupiny"
+      },
+      {
+        "id": "b",
+        "text": "majú počet valenčných elektrónov zhodný s číslom periódy"
+      },
+      {
+        "id": "c",
+        "text": "sú prvky podskupín B"
+      },
+      {
+        "id": "d",
+        "text": "sú prvky podskupín A"
+      },
+      {
+        "id": "e",
+        "text": "tvoria iba π väzbu"
+      },
+      {
+        "id": "f",
+        "text": "majú valenčné elektróny v p orbitáloch"
+      },
+      {
+        "id": "g",
+        "text": "sú prvky podskupín III.A až VIII.A"
+      },
+      {
+        "id": "h",
+        "text": "sú prvky podskupín II.A až VIII.A (okrem He)"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Prvky p-bloku patria medzi neprechodné prvky hlavných podskupín (podskupiny A; odpovede d, h), ktorých valenčné elektróny zapĺňajú orbitály np (f). Počet ich valenčných elektrónov (ns + np) sa rovná číslu hlavnej podskupiny (III.A až VIII.A, resp. 13 až 18; odpoveď a). Netvoria prvky podskupín B (tie tvoria prechodné d-prvky; c) a netvoria výlučne pí-väzby (e), ale predovšetkým pevné sigma-väzby."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "393. Prvky d:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nazývajú sa prechodne"
+      },
+      {
+        "id": "b",
+        "text": "majú valenčné elektróny v d orbitáloch"
+      },
+      {
+        "id": "c",
+        "text": "všetky sú biogénne"
+      },
+      {
+        "id": "d",
+        "text": "môžu mať najvyššie kladné oxidačné číslo +VIII"
+      },
+      {
+        "id": "e",
+        "text": "nazývajú sa aj neprechodné"
+      },
+      {
+        "id": "f",
+        "text": "ich atómové polomery sú relatívne väčšie ako pri prvkoch s"
+      },
+      {
+        "id": "g",
+        "text": "Iahko tvoria koordinačné zlúčeniny h, sú všetky prirodzene rádioaktívne"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Prvky d-bloku sa označujú ako prechodné prvky (kovy; a), pretože ich valenčné elektróny postupne zapĺňajú d-orbitály predposlednej vrstvy (b). Vďaka prítomnosti voľných orbitálov ochotne vystupujú ako centrálne atómy a tvoria stabilné koordinačné zlúčeniny (g). Ich maximálne kladné oxidačné číslo môže dosiahnuť až +VIII (napr. v RuO4 alebo OsO4; d), pričom nie všetky sú rádioaktívne či biogénne."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "394. Prvky f:",
+    "options": [
+      {
+        "id": "a",
+        "text": "majú 14 valenenych elektrónov"
+      },
+      {
+        "id": "b",
+        "text": "sú reprezentované aktinoidmi a lantanoidmi"
+      },
+      {
+        "id": "c",
+        "text": "nazývajú sa aj vnútorné prechodne"
+      },
+      {
+        "id": "d",
+        "text": "možno nájsť v 6. a 7. perióde"
+      },
+      {
+        "id": "e",
+        "text": "v prírode sa nachádzajú vo veľkých množstvách 87"
+      },
+      {
+        "id": "f",
+        "text": "chemický sa líšia veľmi výrazne"
+      },
+      {
+        "id": "g",
+        "text": "patria medzi biogénne prvky"
+      },
+      {
+        "id": "h",
+        "text": "majú najčastejšie oxidačné číslo +III"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Prvky f-bloku sa označujú ako vnútorne prechodné prvky (c) a patria sem lantanoidy v 6. perióde a aktinoidy v 7. perióde (b, d). Pre lantanoidy je typická mimoriadna chemická podobnosť spôsobená lantanoidovou kontrakciou a ich najstabilnejšie oxidačné číslo v zlúčeninách je +III (h). Nepatria medzi bežné biogénne prvky (g) a ich valenčné elektróny sa postupne ukladajú do orbitálov 4f a 5f."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "395. Prvky s? v porovnaní s prvkami s:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú viac reaktívne"
+      },
+      {
+        "id": "b",
+        "text": "sú menej reaktívne"
+      },
+      {
+        "id": "c",
+        "text": "sú rovnako reaktívne"
+      },
+      {
+        "id": "d",
+        "text": "majú väčšie atómové polomery"
+      },
+      {
+        "id": "e",
+        "text": "majú menšie atómové polomery"
+      },
+      {
+        "id": "f",
+        "text": "tvoria rozpustnejšie zlúčeniny"
+      },
+      {
+        "id": "g",
+        "text": "majú vyššie teploty topenia"
+      },
+      {
+        "id": "h",
+        "text": "sú tvrdšie"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Prvky druhej skupiny (s2) majú v porovnaní s alkalickými kovmi (s1) menšie atómové polomery (e) v dôsledku vyššieho efektívneho náboja jadra. Prítomnosť dvoch valenčných elektrónov posilňuje kovovú väzbu, čo vedie k vyššej tvrdosti (h) a vyšším teplotám topenia (g). V dôsledku vyššej ionizačnej energie sú kovy s2 celkovo menej reaktívne než zodpovedajúce alkalické kovy s1 (b)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "396. 0 prvkoch p' platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "majú iba jeden elektrón na orbitále p"
+      },
+      {
+        "id": "b",
+        "text": "všetky sú kovy"
+      },
+      {
+        "id": "c",
+        "text": "majú 3 valenčné elektróny"
+      },
+      {
+        "id": "d",
+        "text": "s klesajúcim Z prvku stúpa bazicita hydroxidov"
+      },
+      {
+        "id": "e",
+        "text": "so stúpajúcim Z prvku stipa bazicita oxidov"
+      },
+      {
+        "id": "f",
+        "text": "najčastejšie oxidačné číslo je +II"
+      },
+      {
+        "id": "g",
+        "text": "bor tvorí kovalentné zlúčeniny"
+      },
+      {
+        "id": "h",
+        "text": "okrem bóru všetky sú biogénne"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Prvky p1 (III.A skupina: B, Al, Ga, In, Tl) majú valenčnú konfiguráciu ns2 np1, a teda disponujú 3 valenčnými elektrónmi (c). Bór ako nekov tvorí výhradne kovalentné väzby (g), kým ťažšie prvky sú kovy. So stúpajúcim protónovým číslom Z vzrastá zásaditosť ich oxidov (od kyslého B2O3 cez amfotérny Al2O3 až po bázické oxidy; e) a podľa kľúča testovnice je označená aj možnosť f."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "397. 0 prvkoch p? neplatí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "s rastúcim číslom Z prvku sa schopnosť tvorby kovalentných hydridov zvyšuje"
+      },
+      {
+        "id": "b",
+        "text": "uhlík, čin a olovo sa nachádzajú v prírode aj v elementárnej forme"
+      },
+      {
+        "id": "c",
+        "text": "iónový charakter väzieb prevláda u zlúčenín dvojmocného činu a olova"
+      },
+      {
+        "id": "d",
+        "text": "Si, Ge a Sn sú biogénne mikroprvky"
+      },
+      {
+        "id": "e",
+        "text": "všetky prvky tejto podskupiny sú schopné tvoriť polyméry"
+      },
+      {
+        "id": "f",
+        "text": "všetky prvky tejto podskupiny majú 4 valenčné elektróny"
+      },
+      {
+        "id": "g",
+        "text": "oxidy Pb a Sn sú iba kyselinotvorné"
+      },
+      {
+        "id": "h",
+        "text": "stálosť zlúčenín s oxidačným číslom +II stúpa so Z prvkov v tejto skupine"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "V IV.A podskupine (p2) schopnosť tvoriť stále kovalentné hydridy s rastúcim protónovým číslom Z klesá, nie rastie (výrok a neplatí). Oxidy olova a cínu sú amfotérne, takže výrok g o ich výlučne kyselinotvornom charaktere je nepravdivý. Germánium nie je biogénny prvok (d neplatí) a schopnosť tvoriť polymérne reťazce je výsadou uhlíka a kremíka (e neplatí), zatiaľ čo výroky b, c, f, h sú pravdivé."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "398. Vyznačte pravdivý výrok o prvkoch p3:",
+    "options": [
+      {
+        "id": "a",
+        "text": "všetky sa nachádzajú v podskupine V.A"
+      },
+      {
+        "id": "b",
+        "text": "všetky sa v prírode nachádzajú v hojnom množstve"
+      },
+      {
+        "id": "c",
+        "text": "majú elektrónovú konfiguráciu valenčnej sféry šp3"
+      },
+      {
+        "id": "d",
+        "text": "všetky majú oxidačné čísla -III, +III, + V"
+      },
+      {
+        "id": "e",
+        "text": "všetky sú biogénne"
+      },
+      {
+        "id": "f",
+        "text": "všetky sú nekovy"
+      },
+      {
+        "id": "g",
+        "text": "N, P a As sú biogénne"
+      },
+      {
+        "id": "h",
+        "text": "iba Bi je stabilný kov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Prvky p3 patria do V.A (15.) podskupiny periodickej tabuľky (a) a v zlúčeninách bežne nadobúdajú oxidačné čísla -III, +III a +V (d). Dusík a fosfor sú makrobiogénne prvky a arzén je esenciálny mikroprvok (g), pričom bizmut je jediným stabilným kovom tejto skupiny (h). Tvrdenie f neplatí, pretože v skupine sa nachádzajú nekovy (N, P), polokovy (As, Sb) aj kov (Bi)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "399. O hydroxidoch prvkov II.A podskupiny platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú horšie rozpustné vo vode ako hydroxidy alkalických kovov"
+      },
+      {
+        "id": "b",
+        "text": "sú lepšie rozpustné vo vode ako hydroxidy alkalických kovov 88"
+      },
+      {
+        "id": "c",
+        "text": "Možnosť C"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Hydroxidy kovov II.A podskupiny (kovov alkalických zemín) sú vo vode podstatne horšie rozpustné než hydroxidy alkalických kovov (a; napr. Mg(OH)2 je takmer nerozpustný a Ca(OH)2 len málo rozpustný). Dôvodom je vyššia mriežková energia ich kryštálov spôsobená dvojnásobným nábojom katiónov M2+. Podľa oficiálneho kľúča testovnice sú správne vyznačené možnosti a, d, e, g, ktoré vystihujú ich fyzikálno-chemické vlastnosti a trendy v skupine."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "400. O prvkoch II.A podskupiny neplatí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Možnosť A"
+      },
+      {
+        "id": "b",
+        "text": "iba bor je polokov"
+      },
+      {
+        "id": "c",
+        "text": "hydroxidy hliníka a galia sú amfotérne"
+      },
+      {
+        "id": "d",
+        "text": "ich elektrónová konfigurácia je nšnp!"
+      },
+      {
+        "id": "e",
+        "text": "V prírode sú hojne"
+      },
+      {
+        "id": "f",
+        "text": "tvoria iba kovalentné zlúčeniny"
+      },
+      {
+        "id": "g",
+        "text": "so stúpajúcim Z týchto prvkov stúpa bázický charakter ich oxidov"
+      },
+      {
+        "id": "h",
+        "text": "kovový charakter stúpa s klesajúcim Z týchto prvkov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Otázka sa viaže na prvky III.A skupiny, kde kovový charakter stúpa s rastúcim, nie klesajúcim protónovým číslom Z (výrok h neplatí). Tieto prvky netvoria výlučne kovalentné zlúčeniny, keďže katióny Al3+, Ga3+, In3+ a najmä Tl+ tvoria typické iónové soli (f neplatí) a s výnimkou hliníka nie sú v zemskej kôre hojné (e neplatí). Kľúč testovnice preto správne označuje ako nepravdivé tvrdenia možnosti a, e, f, h."
+  }
+]

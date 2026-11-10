@@ -1,0 +1,550 @@
+=== #1 (Q: 151. Pozitívne vlastnosti baktérií sa využívajú:) ===
+Correct: ['b', 'c', 'e', 'f', 'g']
+  a) produkujú do atmosféry kyslík
+  b) spôsobujú infekčné ochorenia 36
+  c) sú schopné žiť vo fyziologický extrémnych podmienkach
+  d) rozkladajú odumreté tela rastlín a Živočíchov
+  e) obohacujú pôdu o organické zlúčeniny potrebné k fotosyntéze rastlín
+  f) zohrávajú nezastupiteľnú úlohu pri cyklickej premene látok v prírode
+  g) mineralizujú organický materiál
+  h) pomáhajú pri samočistení vodných tokov
+
+=== #2 (Q: 152. Význam baktérií v prirodzených ekologických systémoch spočíva v tom, že:) ===
+Correct: ['d', 'f', 'g', 'h']
+  a) produkujú do atmosféry kyslík
+  b) spôsobujú infekčné ochorenia
+  c) sú schopné žiť vo fyziologický extrémnych podmienkach
+  d) rozkladajú odumreté tela rastlín a živočíchov
+  e) obohacujú pôdu o organické zlúčeniny potrebné k fotosyntéze rastlín
+  f) zohrávajú nezastupiteľnú úlohu pri cyklickej premene látok v prírode
+  g) mineralizujú organický materiál
+  h) pomáhajú pri samočistení vodných tokov
+
+=== #3 (Q: 153. Pôda spôsobu zhrubnutia bunkovej steny sa pletivá rozdeľujú na:) ===
+Correct: ['b', 'h']
+  a) krycie, vodivé, základné
+  b) parenchým, kolenchým, sklerenchým
+  c) delivé a trváce
+  d) primárne, latentné, sekundárne
+  e) pericykel, kambium, felogén
+  f) kolaterálne, bikolateralne, koncentrické, radiálne
+  g) mechanické, zásobné, vylučovacie
+  h) parenchymatické a mechanické
+
+=== #4 (Q: 154. Základné pletivo je v rastline lokalizované:) ===
+Correct: ['f']
+  a) na rastovom vrchole stonky
+  b) na rastovom vrchole koreňa
+  c) v lykovej Časti stoniek
+  d) v prieduchoch
+  e) v drevnej časti cievnych zväzkov
+  f) medzi krycím a vodivým pletivom
+  g) medzi parenchýmom a kolenchymom
+  h) medzi kaulomom a fylomom
+
+=== #5 (Q: 155. Označte správnu odpoveď:) ===
+Correct: ['a', 'b', 'c', 'e']
+  a) parenchým a kolenchým tvoria Živé bunky
+  b) sklerenchým má rovnomerne zhrubnuté bunkové steny
+  c) bunky sklerenchýmu sú prestúpené plazmodezmami
+  d) bunky parenchýmu majú na hranách zhrubnuté bunkové steny
+  e) kolenchým je mechanické pletivo
+  f) pokožka nadzemných orgánov sa nazýva rizoderma
+  g) pokožka v koreni rastlín sa nazýva epiderma
+  h) pŕhľava dvojdomá má emergencie na ochranu
+
+=== #6 (Q: 156. Prieduchy:) ===
+Correct: ['c', 'd', 'f', 'g']
+  a) sú viacbunkové itvary z podpokožkových buniek
+  b) môžu byť krycie a žľaznaté
+  c) tvoria dve zatváravé obličkovité bunky
+  d) obsahujú v bunkách chloroplasty
+  e) zabezpečujú vydaj vody vo forme kvapôčiek
+  f) zabezpečujú vydaj vody vo forme vodnej páry
+  g) zabezpečujú príjem CO2
+  h) sa nachádzajú v rizoderme 37
+
+=== #7 (Q: 157. Hydatódy:) ===
+Correct: ['a', 'b', 'e', 'h']
+  a) vylučujú vodu a soli z pokožkových pletív
+  b) sú trvalo otvorené
+  c) tvoria dve zatváravé podpokozkove bunky
+  d) parenchymatické bunky
+  e) sú prieduchy, ktoré stratili zatváraciu schopnosť
+  f) sú trichómy, ktoré stratili zatváraciu schopnosť
+  g) sú napr. v rizoderme pletív
+  h) sklerenchymatické vlákna
+
+=== #8 (Q: 158. Emergencie máji:) ===
+Correct: ['a', 'd', 'e', 'h']
+  a) egreš obyčajný
+  b) muškát
+  c) prh'ava dvojdomá
+  d) mäsožravé rastliny
+  e) ruža Šípová
+  f) vodné rastliny
+  g) korene rastlín
+  h) ochrannú funkciu najmä pred bylinožravými živočíchmi
+
+=== #9 (Q: 159. V xyleme vedi vodu:) ===
+Correct: ['d', 'e', 'f', 'g']
+  a) prieduchy
+  b) kapiláry
+  c) sitkovice
+  d) cievy
+  e) cievice
+  f) tracheidy
+  g) trachey
+  h) trichómy
+
+=== #10 (Q: 160. Sitkovice:) ===
+Correct: ['a', 'd', 'e', 'g']
+  a) tvoria živé bunky, ktorých priečne bunkové steny sú perforované
+  b) tvoria mŕtve bunky s priečnymi priehradkami
+  c) vedú vodu a v nej rozpustené anorganické látky
+  d) vedú asimiláty na miesta spotreby
+  e) vodiví činnosť vykonávajú zväčša jedno až dve vegetačné obdobia
+  f) sú v xyleme
+  g) sú vo floeme
+  h) sú súvislé trubice z pôvodne nad sebou uložených odumretých buniek, ktorým sa priečne priehradky čiastočne alebo úplne rozpadli
+
+=== #11 (Q: 161. Transpirany príď:) ===
+Correct: ['a', 'b', 'e', 'h']
+  a) stúpa drevnou časťou cievnych zväzkov
+  b) stúpa cievami a/alebo cievicami
+  c) stúpa lykovou Časťou cievnych zväzkov
+  d) stúpa sitkovicami
+  e) stúpa od koreňa k listom
+  f) stúpa základným pletivom
+  g) stúpa floémom
+  h) stúpa xylémom 38
+
+=== #12 (Q: 162. Asimilaeny prúd:) ===
+Correct: ['b', 'd', 'e', 'g']
+  a) prúdi drevnou časťou cievnych zväzkov
+  b) prúdi lykovou časťou cievnych zväzkov
+  c) prúdi xylémom
+  d) prúdi smerom od listov na miesto spotreby
+  e) rozvádza hotové asimiláty
+  f) začína v koreňoch a konci v listoch
+  g) prúdi sitkovicami
+  h) stúpa cievami a cievicami
+
+=== #13 (Q: 163. Koreň má funkciu:) ===
+Correct: ['a', 'b', 'e', 'h']
+  a) vyživovaciu
+  b) mechanicki
+  c) vylučovaciu
+  d) pri pohlavnom rozmnožovaní rastlín
+  e) metabolickú
+  f) transpiračnú
+  g) asimilačnú
+  h) pri vegetatívnom rozmnožovaní rastlín
+
+=== #14 (Q: 164. Koreňový vrchol chráni:) ===
+Correct: ['g', 'h']
+  a) pericykel
+  b) primárna kôra
+  c) presýpací škrob
+  d) statolit
+  e) škrobové zrná v amyloplastoch
+  f) kambium
+  g) koreňová čiapočka
+  h) súbor buniek, ktorých bunkové steny slizovateju a tým umožňujú lepšie prenikanie koreňa medzi pôdne častice
+
+=== #15 (Q: 165. Akú funkciu má presýpací škrob v koreňovej čiapočke:) ===
+Correct: ['c', 'e', 'h']
+  a) vyživovaciu
+  b) metabolickú
+  c) podmieňuje pozitívny geotropicky rast koreňa
+  d) zásobnú
+  e) podmieňuje rast koreňa v smere zemskej tiaže
+  f) vylučovaciu
+  g) asimilačnú
+  h) je to statolitový aparát
+
+=== #16 (Q: 166. Aké typy koreňových sústav sa rozlišujú pri rastlinách:) ===
+Correct: ['a', 'b', 'd', 'e', 'f']
+  a) homorízia
+  b) primárna koreňová sústava
+  c) meristematická koreňová sústava
+  d) alorízia
+  e) vedľajšia koreňová sústava 39
+  f) adventívna koreňová sústava
+  g) vegetatívna koreňová sústava
+  h) generatívna koreňová sústava
+
+=== #17 (Q: 167. Koreňové vlásky vyrastajú z:) ===
+Correct: ['b', 'd', 'h']
+  a) bikolateralne
+  b) asimilačné
+  c) koncentrické
+  d) lúčovité
+  e) transpiracné
+  f) radiálne
+  g) kolaterálne
+  h) mechanické
+
+=== #18 (Q: 168. Vek stromov môžeme zistiť na základe:) ===
+Correct: ['a', 'c', 'd', 'f', 'g']
+  a) počtu lenticel
+  b) letokruhov
+  c) bôrky
+  d) rozdielnej štruktúry a farby sekundárneho dreva na jar a v lete
+  e) rozdielnej štruktúry a farby primárneho dreva na jar a v lete
+  f) hrúbky kmeňa
+  g) počtu stržňových lúčov
+  h) počtu vetiev
+
+=== #19 (Q: 169. Postavenie listov na stonke môže byť:) ===
+Correct: ['e', 'f', 'g']
+  a) perovité
+  b) zložené
+  c) vidlicovite
+  d) dlanovite
+  e) striedavé
+  f) protistojné
+  g) praslenovité
+  h) strapcovité
+
+=== #20 (Q: 170. Aký je rozdiel medzi jarným a letným drevom:) ===
+Correct: ['d', 'e', 'h']
+  a) letné drevo je svetlejšie
+  b) letné drevo je zložené z veľkých a tenkých buniek
+  c) jarné drevo je tmavšie a pevnejšie
+  d) jarné drevo je svetlejšie
+  e) letné drevo je tmavšie a pevnejšie
+  f) letné drevo sa označuje ako bel
+  g) jarné drevo sa označuje ako jadro
+  h) jarné drevo je zložené z veľkých buniek s tenkou bunkovou stenou, letné drevo z malých buniek s hrubou bunkovou stenou
+
+=== #21 (Q: 171. Vek stromov určíme pôda:) ===
+Correct: ['b', 'd', 'f', 'h']
+  a) počtu lenticel
+  b) letokruhov
+  c) bôrky
+  d) rozdielnej štruktúry a farby sekundárneho dreva na jar a v lete
+  e) adventívne korene
+  f) kruhov, ktoré vytvára jarné drevo a letné drevo na priereze
+  g) počtu stržňových lúčov 40
+  h) hlavný koreň s bočnými koreňmi
+
+=== #22 (Q: 172. Tvarovo a funkčné premenená stonka môže byť:) ===
+Correct: ['a', 'c', 'e', 'g']
+  a) poplaz
+  b) borka
+  c) úponok
+  d) buľva
+  e) brachyblast
+  f) korok
+  g) podzemok
+  h) stvol
+
+=== #23 (Q: 173. K základným fyziologickým funkciám typického zeleného listu patrí:) ===
+Correct: ['a', 'c', 'd', 'g']
+  a) výmena plynov
+  b) rozvádzať vodu a v nej rozpustené minerálne látky
+  c) vyparovanie vody
+  d) transpirácia
+  e) rozvádzať produkty fotosyntézy
+  f) spevhovať rastlinu
+  g) fotosyntetická asimilácia
+  h) v prípade kaktusov zadržiavať značne množstvo vody
+
+=== #24 (Q: 174. Gutácia sa uskutočňuje cez:) ===
+Correct: ['a', 'e']
+  a) hydatódy
+  b) prieduchy
+  c) lenticely
+  d) prieduchy v kvapalnom stave
+  e) prieduchy, ktoré stratili zatváraciu schopnosť, preto sú trvalo otvorené
+  f) póry
+  g) tentakuly
+  h) hydatódy v podobe vodnej páry
+
+=== #25 (Q: 175. Výmenu plynov pri drevinách zabezpečujú modifikované prieduchy:) ===
+Correct: ['a']
+  a) lenticely
+  b) tentakuly
+  c) póry
+  d) fylomy
+  e) metamorfózy
+  f) nódy
+  g) púčiky
+  h) emergencie
+
+=== #26 (Q: 176. Opadávanie listov:) ===
+Correct: ['a', 'b', 'e', 'g', 'h']
+  a) urýchľuje kyselina abscisová
+  b) urýchľuje v niektorých prípadoch vrstva kôrku, ktorá spôsobí oddelenie listu
+  c) v prípade listnatých stromov je v intervale 2 až 3 roky
+  d) urýchľuje kratšia Životnosť stonky
+  e) spôsobuje na báze listu parenchymaticka odlucovacia vrstva
+  f) urýchľuje kratšia Životnosť čepele listov
+  g) ihličnanov je zvyčajne v intervale 2 až 3 roky
+  h) ihličnanov je niekedy až v intervale 9 rokov
+
+=== #27 (Q: 177. Medzi vegetatívne orgány patrí:) ===
+Correct: ['b', 'c', 'd', 'e', 'f']
+  a) kvet
+  b) stonka
+  c) koreň
+  d) radix
+  e) kaulom
+  f) listy 41
+  g) flos
+  h) semená
+
+=== #28 (Q: 178. Reprodukne orgány: jednopohlavné samičie a samčie šištičky) ===
+Correct: ['a', 'b', 'c', 'd', 'e', 'f', 'h']
+  a) kvet
+  b) semenných rastlín sú listového pôvodu
+  c) nahosemenných rastlín sú uložené v samich sistickach
+  d) nahosemenných rastlín sú uložené v samičích sistickach
+  e) krytosemenných rastlín sú uložené v kvetoch
+  f) magnóliorastov sú uložené v kvetoch
+  g) sú výsledkom opelenia a oplodnenia
+  h) majú za úlohu produkovať pohlavné bunky
+
+=== #29 (Q: 179. Základné rozmnožovacie častice rastlín sú:) ===
+Correct: ['d', 'f']
+  a) listy
+  b) stonky
+  c) korene
+  d) výtrusy
+  e) cibule
+  f) semená
+  g) kvety
+  h) výtrusy, ktoré sú výsledkom procesu opelenia a oplodnenia
+
+=== #30 (Q: 180. Výtrusy:) ===
+Correct: ['d', 'f', 'g', 'h']
+  a) sú výsledkom opelenia
+  b) sú výsledkom oplodnenia
+  c) sú listového pôvodu
+  d) patria k rozmnožovacím časticiam
+  e) suulozenévsistickach
+  f) vznikajú len z telových buniek rastliny
+  g) vznikajú len zo somatických buniek materského organizmu
+  h) sú nepohlavne rozmnožovacie častice, ktoré sú výsledkom redukeneho delenia vo výtrusniciach
+
+=== #31 (Q: 181. Príkladom vrcholikoveho súkvetia je:) ===
+Correct: ['a', 'c', 'f', 'h']
+  a) skrutec
+  b) chocholík
+  c) papraslen
+  d) okolík
+  e) hlávka
+  f) kosáčik
+  g) ibor
+  h) zavinok
+
+=== #32 (Q: 182. Príkladom strapcovitého sikvetia je:) ===
+Correct: ['a', 'b', 'e', 'g', 'h']
+  a) klas
+  b) okolík
+  c) vrcholík
+  d) kosáčik
+  e) sú'ok
+  f) zavinok
+  g) jahňada
+  h) hlávka
+
+=== #33 (Q: 183. Dvojité oplodnenie je typické pre:) ===
+Correct: ['b', 'd']
+  a) nahosemenné rastliny
+  b) magnóliorasty 42
+  c) borovicorasty
+  d) krytosemenné rastliny
+  e) rýniorasty
+  f) všetky cievnaté rastliny
+  g) stielkaté rastliny
+  h) výtrusné rastliny
+
+=== #34 (Q: 184. Perigón je:) ===
+Correct: ['a', 'e', 'f']
+  a) nerozlíšený kvetný obal
+  b) roznotvary kvetný obal
+  c) kvetný obal rozlíšený farebné aj funkčné
+  d) vnitorná farebná koruna
+  e) okvetie
+  f) zložený iba z okvetných lístkov
+  g) kvetný obal borovicorastov
+  h) vonkajší zelený kalich
+
+=== #35 (Q: 185. Gynaeceum si:) ===
+Correct: ['c', 'f', 'g']
+  a) plodolisty borovicorastov
+  b) samičie šištičky borovicorastov
+  c) plodolisty
+  d) tyčinky
+  e) samčie pohlavné orgány
+  f) samičie pohlavné orgány
+  g) piestiky pri vývojovo pokročilejších magnoliorastoch
+  h) integumenty
+
+=== #36 (Q: 186. Medzi katabolické procesy v rastlinách patria:) ===
+Correct: ['a', 'c', 'e', 'g', 'h']
+  a) rozklad cukrov
+  b) vznik energeticky bohatých látok - asimilátov
+  c) rozklad bielkovín a aminokyselín
+  d) vznik glukózy pri fotosyntéze z CO2 a vody
+  e) oxidácia glukózy na vodu a oxid uhličitý
+  f) replikácia DNA
+  g) také, pri ktorých sa uvoľňuje energia chemických väzieb
+  h) napr. dýchanie
+
+=== #37 (Q: 187. Ktoré metabolické procesy v rastlinách sti spojené so spotrebou energie:) ===
+Correct: ['a', 'b', 'e', 'f', 'h']
+  a) anabolické
+  b) asimilačné
+  c) disimilačné
+  d) dýchanie
+  e) fotosyntéza
+  f) endergonické
+  g) oxidácia glukózy na vodu a oxid uhličitý
+  h) vznik glukózy pri fotosyntéze z CO2 a vody
+
+=== #38 (Q: 188. Ktoré metabolické procesy v rastlinách sti spojené s uvoľrovanim energie:) ===
+Correct: ['a', 'b', 'd', 'f']
+  a) tuky
+  b) cukry
+  c) bielkoviny
+  d) katalytické organické látky
+  e) regulačné organické látky
+  f) voda a oxid uhličitý
+  g) asimiláty
+  h) glukóza
+
+=== #39 (Q: 189. Ktoré metabolické procesy v rastlinách sú spojené s uvoľňovaním energie:) ===
+Correct: ['b', 'g', 'h']
+  a) fotosyntéza
+  b) dýchanie
+  c) anabolické
+  d) katabolické
+  e) asimilačné
+  f) disimilačné
+  g) vznik energeticky bohatých látok - asimilátov
+  h) syntéza nových organických látok
+
+=== #40 (Q: 190. Autotrofné organizmy sú:) ===
+Correct: ['b', 'd', 'e', 'h']
+  a) konzumenty organickej hmoty
+  b) fotosyntetizujúce baktérie
+  c) odkázané na prísun organických látok z prostredia
+  d) producenty organickej hmoty
+  e) zelené rastliny
+  f) všetky saprofyty
+  g) huby
+  h) poloparazitické rastliny
+
+=== #41 (Q: 191. K mixotrofnym rastlinám patria:) ===
+Correct: ['a', 'b', 'c', 'd', 'g']
+  a) rosička
+  b) bublinatka
+  c) tučnica
+  d) mucholapka
+  e) imelo biele
+  f) kukučína
+  g) mäsožravé rastliny
+  h) hemiparaziticke rastliny
+
+=== #42 (Q: 192. Bôbovité rastliny poskytujú hPizkovitym baktériám:) ===
+Correct: ['d']
+  a) dusík
+  b) hp'úzky
+  c) bielkoviny
+  d) sacharidy
+  e) vodu a minerálne látky
+  f) oxid uhličitý a vodu
+  g) nitráty
+  h) asimilačné pigmenty
+
+=== #43 (Q: 193. Prvá etapa biologickej oxidácie:) ===
+Correct: ['b', 'd', 'f', 'h']
+  a) prebieha V mitochondriách
+  b) prebieha v cytoplazme buniek v cytoplazme
+  c) prebieha v mitochondriách
+  d) je enzymatické štiepenie glukózy
+  e) sa označuje ako práve kvasenie
+  f) je proces nazývaný glykolýza
+  g) je proces glukoneogenézy
+  h) je štiepenie glukózy až na kyselinu pyrohroznovu 44
+
+=== #44 (Q: 194. Proces odbúravania glukózy až po kyselinu pyrohroznovi:) ===
+Correct: ['b', 'c', 'f', 'h']
+  a) je úplná oxidácia
+  b) je glykolýza
+  c) je neúplná oxidácia
+  d) je aeróbne dýchanie
+  e) dáva čistý energeticky zisk 36 molekúl ATP z jednej molekuly glukózy
+  f) dáva čistý energeticky zisk 2 molekuly ATP z jednej molekuly glukózy
+  g) je mliečne kvasenie
+  h) je katabolický proces
+
+=== #45 (Q: 195. Haustóriá majú:) ===
+Correct: ['b', 'e', 'g']
+  a) reducenty
+  b) hemiparazity
+  c) parazitické Živočíchy
+  d) mäsožravé rastliny
+  e) poloparazity
+  f) korene vyšších rastlín ako spojenie s mykoriznymi hubami
+  g) parazitické rastliny
+  h) konzumenty
+
+=== #46 (Q: 196. Z hľadiska výživy baktérie môžu byť:) ===
+Correct: ['e', 'f', 'g', 'h']
+  a) iba heterotrofné organizmy
+  b) autotrofno-heterotrofne organizmy
+  c) iba autotrofné organizmy
+  d) mixotrofné organizmy
+  e) autotrofné organizmy
+  f) heterotrofné organizmy
+  g) fototrofné organizmy
+  h) chemotrofné organizmy
+
+=== #47 (Q: 197. Fylogeneticky najstarší spôsob tvorby organických látok je:) ===
+Correct: ['a', 'c', 'h']
+  a) prototrofia
+  b) fotoautotrofia
+  c) chemosyntéza
+  d) fotosyntéza
+  e) mixotrofia
+  f) metabióza
+  g) autotrofia na báze fotosyntézy
+  h) chemoautotrofia
+
+=== #48 (Q: 198. Pri mykoríze rastlina poskytuje hube predovšetkým:) ===
+Correct: ['d', 'h']
+  a) vodu
+  b) asimilačné pigmenty
+  c) minerálne látky
+  d) sacharidy
+  e) rastové látky
+  f) vzdušný dusík
+  g) kyslík
+  h) glukózu 45
+
+=== #49 (Q: 199. Mixotrofia:) ===
+Correct: ['a', 'b', 'g', 'h']
+  a) je autotrofno-heterotrofny spôsob výživy
+  b) je spôsob výživy napr. imela bieleho
+  c) je parazitický spôsob Života
+  d) kombinuje autotrofiu a heterotrofiu
+  e) je špecifický spôsob symbiózy
+  f) je autotrofno-saprofyticky spôsob výživy
+  g) je typická pre mäsožravé rastliny prijímať aj organické látky
+  h) využívajú mäsožravé rastliny
+
+=== #50 (Q: 200. Medzi poloparazity patria:) ===
+Correct: ['c', 'd']
+  a) zelené rastliny, ktoré odoberajú vodu a minerálne látky odumretej rastline
+  b) živočíchy odoberajuce vodu a minerálne Živiny hostite'skemu organizmu
+  c) imelo biele
+  d) zelené rastliny, ktoré čerpajú vodu a minerálne látky z hostiteľa
+  e) zelené rastliny, ktoré haustóriami odoberajú hostiteľovi organické látky
+  f) mäsožravé rastliny
+  g) kukučína, ktorá škodí dateline
+  h) choroboplodné baktérie
+

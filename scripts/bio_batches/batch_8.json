@@ -1,0 +1,2267 @@
+[
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "351. Do čreva vyúsťujú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "protonefrídie mäkkýšov"
+      },
+      {
+        "id": "b",
+        "text": "nefrídie kôrovcov"
+      },
+      {
+        "id": "c",
+        "text": "Malpighiho žľazy hmyzu"
+      },
+      {
+        "id": "d",
+        "text": "tykadlove žľazy ploskavcov"
+      },
+      {
+        "id": "e",
+        "text": "nefrony cicavcov"
+      },
+      {
+        "id": "f",
+        "text": "tykadlove žľazy kôrovcov"
+      },
+      {
+        "id": "g",
+        "text": "plamienkové bunky ploskavcov"
+      },
+      {
+        "id": "h",
+        "text": "metanefrídie obrúčkavcov"
+      }
+    ],
+    "correct_answers": [
+      "c"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "352. Protonefrídie sú vylučovacie orgány:",
+    "options": [
+      {
+        "id": "a",
+        "text": "cicavcov"
+      },
+      {
+        "id": "b",
+        "text": "ploskavcov"
+      },
+      {
+        "id": "c",
+        "text": "mäkkýšov"
+      },
+      {
+        "id": "d",
+        "text": "rýb"
+      },
+      {
+        "id": "e",
+        "text": "obrúčkavcov"
+      },
+      {
+        "id": "f",
+        "text": "prvokov"
+      },
+      {
+        "id": "g",
+        "text": "hlavonožcov"
+      },
+      {
+        "id": "h",
+        "text": "vtákopyska"
+      }
+    ],
+    "correct_answers": [
+      "b"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: B."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "353. Vylučovacími orgánmi stavovcov si:",
+    "options": [
+      {
+        "id": "a",
+        "text": "protonefrídie"
+      },
+      {
+        "id": "b",
+        "text": "nefrídie"
+      },
+      {
+        "id": "c",
+        "text": "malpigicke trubice"
+      },
+      {
+        "id": "d",
+        "text": "tykadlove žľazy"
+      },
+      {
+        "id": "e",
+        "text": "obličky"
+      },
+      {
+        "id": "f",
+        "text": "plamienkové bunky"
+      },
+      {
+        "id": "g",
+        "text": "metanefrídie"
+      },
+      {
+        "id": "h",
+        "text": "nefrony"
+      }
+    ],
+    "correct_answers": [
+      "e"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "354. Malpighiho žľazy ako vylučovacie istroje majú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "obrúčkavce"
+      },
+      {
+        "id": "b",
+        "text": "pavúky"
+      },
+      {
+        "id": "c",
+        "text": "kôrovce"
+      },
+      {
+        "id": "d",
+        "text": "stonožky a hmyz"
+      },
+      {
+        "id": "e",
+        "text": "vyššie Červy"
+      },
+      {
+        "id": "f",
+        "text": "ploskavce"
+      },
+      {
+        "id": "g",
+        "text": "všetky lankonozce"
+      },
+      {
+        "id": "h",
+        "text": "mäkkýše"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "355. Súčasťou nefronu cicavcov je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Malpighiho teliesko"
+      },
+      {
+        "id": "b",
+        "text": "Bowmanovo puzdro"
+      },
+      {
+        "id": "c",
+        "text": "Henleho slučka"
+      },
+      {
+        "id": "d",
+        "text": "močovod"
+      },
+      {
+        "id": "e",
+        "text": "močový mechúr"
+      },
+      {
+        "id": "f",
+        "text": "plamienkova bunka"
+      },
+      {
+        "id": "g",
+        "text": "obličková panvička"
+      },
+      {
+        "id": "h",
+        "text": "Malpighiho žľaza 77"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "356. Primárny moč cicavcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vzniká filtráciou krvi v Malpighiho teliesku"
+      },
+      {
+        "id": "b",
+        "text": "obsahujebielkoviny"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje rovnaké látky ako plazma, okrem bielkovín"
+      },
+      {
+        "id": "d",
+        "text": "prechádza z Bowmanovho puzdra do systému kanálikov"
+      },
+      {
+        "id": "e",
+        "text": "je odvádzaný močovodmi do močového mechúra a ďalších potrebných látok"
+      },
+      {
+        "id": "f",
+        "text": "otvorená obehová sústava"
+      },
+      {
+        "id": "g",
+        "text": "obsahuje glukózu a aminokyseliny"
+      },
+      {
+        "id": "h",
+        "text": "má rovnaké zloženie ako plazma"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "357. K osmoregulacnym mechanizmom stavovcov patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vstrebávanie soli cez Žiabre aktívnym transportom pri morských rybách"
+      },
+      {
+        "id": "b",
+        "text": "vylučovanie soli pomocnými orgánmi, napr. nosovou žazou krokodílov"
+      },
+      {
+        "id": "c",
+        "text": "vylučovanie soli žiabrami pri morských rybách"
+      },
+      {
+        "id": "d",
+        "text": "vylučovanie soli žiabrami pri sladkovodných rybách"
+      },
+      {
+        "id": "e",
+        "text": "vstrebávanie soli cez žiabre aktívnym transportom pri sladkovodných rybách"
+      },
+      {
+        "id": "f",
+        "text": "exkrečné mechanizmy na vylučovanie soli niektorých morských vtákov"
+      },
+      {
+        "id": "g",
+        "text": "zakrpatené obličky sladkovodných rýb"
+      },
+      {
+        "id": "h",
+        "text": "vstrebávanie soli pasívnym transportom"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "358. Otvorená obehová sústava sa vyskytuje pri:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ploskavcoch"
+      },
+      {
+        "id": "b",
+        "text": "obruckavcoch"
+      },
+      {
+        "id": "c",
+        "text": "mäkkýšoch"
+      },
+      {
+        "id": "d",
+        "text": "cicavcoch"
+      },
+      {
+        "id": "e",
+        "text": "plazoch"
+      },
+      {
+        "id": "f",
+        "text": "lankonozcoch"
+      },
+      {
+        "id": "g",
+        "text": "plášťovcoch"
+      },
+      {
+        "id": "h",
+        "text": "hlavonožcoch"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "359. Telové tekutiny živočíchov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "privádzajú ku tkanivám kyslík a Živiny"
+      },
+      {
+        "id": "b",
+        "text": "zabezpečujú homeostázu vnútorného prostredia"
+      },
+      {
+        "id": "c",
+        "text": "odvádzajú z tkanív oxid uhličitý a produkty metabolizmu"
+      },
+      {
+        "id": "d",
+        "text": "majú rôzne zloženie v závislosti od fylogenetickej úrovne organizmov"
+      },
+      {
+        "id": "e",
+        "text": "sú produkované výhradne vylučovacou sústavou"
+      },
+      {
+        "id": "f",
+        "text": "privádzajú ku tkanivám hormóny a vitamíny"
+      },
+      {
+        "id": "g",
+        "text": "privádzajú ku tkanivám nervové vzruchy"
+      },
+      {
+        "id": "h",
+        "text": "produkujú enzýmy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "360. Hydrolymfa:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je telová tekutina ploskavcov"
+      },
+      {
+        "id": "b",
+        "text": "obsahuje bunky s transportnými bielkovinami"
+      },
+      {
+        "id": "c",
+        "text": "cirkuluje v uzavretej cievnej sústave"
+      },
+      {
+        "id": "d",
+        "text": "je telová tekutina obrúčkavcov"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje bunky bez transportných bielkovín"
+      },
+      {
+        "id": "f",
+        "text": "prúdi voľne v telovej dutine"
+      },
+      {
+        "id": "g",
+        "text": "je telová tekutina stavovcov 78"
+      },
+      {
+        "id": "h",
+        "text": "prúdi v kanálikoch gastrovaskulárnej sústavy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "361. Obehová sústava stavovcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je kardiovaskulárna sústava"
+      },
+      {
+        "id": "b",
+        "text": "je dokonalá uzavretá srdcovocievna sústava"
+      },
+      {
+        "id": "c",
+        "text": "je oddelená od lymfatickej suistavy"
+      },
+      {
+        "id": "d",
+        "text": "nie je oddelená od lymfatickej sústavy"
+      },
+      {
+        "id": "e",
+        "text": "je pri suchozemských živočíchoch zložitejšia než pri vodných"
+      },
+      {
+        "id": "f",
+        "text": "je pri vodných živočíchoch zložitejšia než pri suchozemských"
+      },
+      {
+        "id": "g",
+        "text": "zabezpečuje výmenu živín, plynov a odpadových látok medzi krvou a bunkami tkanív"
+      },
+      {
+        "id": "h",
+        "text": "je dokonalá otvorená kardiovaskulárna sústava"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "362. Krv cicavcov obsahuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "plazmu a krvné telieska"
+      },
+      {
+        "id": "b",
+        "text": "bielkoviny"
+      },
+      {
+        "id": "c",
+        "text": "anorganické látky"
+      },
+      {
+        "id": "d",
+        "text": "trombocyty s bunkovým jadrom"
+      },
+      {
+        "id": "e",
+        "text": "bezjadrové erytrocyty"
+      },
+      {
+        "id": "f",
+        "text": "bezjadrové leukocyty"
+      },
+      {
+        "id": "g",
+        "text": "bezjadrové krvné doštičky"
+      },
+      {
+        "id": "h",
+        "text": "hormóny"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "363. Plazmatické bielkoviny cicavcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú produkované zväčša pečeňou"
+      },
+      {
+        "id": "b",
+        "text": "prenášajú látky potrebné pre organizmus"
+      },
+      {
+        "id": "c",
+        "text": "sú významné z h'adiska obrany organizmu"
+      },
+      {
+        "id": "d",
+        "text": "sú produkované zväčša kostnou dreňou"
+      },
+      {
+        "id": "e",
+        "text": "sa zucasthuju procesov zrážania krvi"
+      },
+      {
+        "id": "f",
+        "text": "sú zväčša produktom sleziny"
+      },
+      {
+        "id": "g",
+        "text": "ireverzibilne viažu na svoj povrch prenášané látky"
+      },
+      {
+        "id": "h",
+        "text": "reverzibilné viažu na svoj povrch prenášané látky"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "364. Krvná plazma cicavcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je slabo zásaditá"
+      },
+      {
+        "id": "b",
+        "text": "má za fyziologických podmienok stále zloženie"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje 90 - 92 % rozpustených látok"
+      },
+      {
+        "id": "d",
+        "text": "obsahuje 8 - 9 % sušiny"
+      },
+      {
+        "id": "e",
+        "text": "má za fyziologických podmienok pH 5,5 - 6,5"
+      },
+      {
+        "id": "f",
+        "text": "obsahuje plazmatické bielkoviny"
+      },
+      {
+        "id": "g",
+        "text": "obsahuje bezjadrové leukocyty"
+      },
+      {
+        "id": "h",
+        "text": "obsahuje splodiny metabolizmu bielkovín"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "365. Väčšina plazmatických bielkovín vzniká v:",
+    "options": [
+      {
+        "id": "a",
+        "text": "červených krvinkách"
+      },
+      {
+        "id": "b",
+        "text": "slezine"
+      },
+      {
+        "id": "c",
+        "text": "kostnej dreni"
+      },
+      {
+        "id": "d",
+        "text": "srdci"
+      },
+      {
+        "id": "e",
+        "text": "pečeni"
+      },
+      {
+        "id": "f",
+        "text": "tkanivovom moku"
+      },
+      {
+        "id": "g",
+        "text": "lymfatických uzlinách"
+      },
+      {
+        "id": "h",
+        "text": "bunkách cievnych stien"
+      }
+    ],
+    "correct_answers": [
+      "e"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "366. Ktoré organické látky sú celkovo hmotnostné najviac zastúpené v krvnej plazme človeka?",
+    "options": [
+      {
+        "id": "a",
+        "text": "močovina"
+      },
+      {
+        "id": "b",
+        "text": "nukleové kyseliny"
+      },
+      {
+        "id": "c",
+        "text": "glukóza"
+      },
+      {
+        "id": "d",
+        "text": "monosacharidy"
+      },
+      {
+        "id": "e",
+        "text": "bielkoviny"
+      },
+      {
+        "id": "f",
+        "text": "voda"
+      },
+      {
+        "id": "g",
+        "text": "lipidy"
+      },
+      {
+        "id": "h",
+        "text": "kreatín"
+      }
+    ],
+    "correct_answers": [
+      "e"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "367. Medzi krvné telieska patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "erytrocyty"
+      },
+      {
+        "id": "b",
+        "text": "granulocyty"
+      },
+      {
+        "id": "c",
+        "text": "trombocyty"
+      },
+      {
+        "id": "d",
+        "text": "lymfocyty"
+      },
+      {
+        "id": "e",
+        "text": "leukocyty"
+      },
+      {
+        "id": "f",
+        "text": "lyzozómy"
+      },
+      {
+        "id": "g",
+        "text": "krvné farbivá"
+      },
+      {
+        "id": "h",
+        "text": "antigény"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "368. Jednotlivé typy krviniek dospelých cicavcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vznikajú v kostnej dreni"
+      },
+      {
+        "id": "b",
+        "text": "sa vyvíjajú z krvotvornej kmeňovej bunky v kostnej dreni"
+      },
+      {
+        "id": "c",
+        "text": "vznikajú z krvotvornej kmeňovej bunky v krvnej plazme"
+      },
+      {
+        "id": "d",
+        "text": "sú produkované lymfatickým systémom"
+      },
+      {
+        "id": "e",
+        "text": "vznikajú z totipotentnych buniek pečene"
+      },
+      {
+        "id": "f",
+        "text": "vznikajú zo spoločnej krvotvornej kmeňovej bunky"
+      },
+      {
+        "id": "g",
+        "text": "sa diferencujú z rôznych typov kmeňových buniek"
+      },
+      {
+        "id": "h",
+        "text": "žijú v krvnom obehu rôzne dlhú dobu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "369. Biele krvinky:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa vyskytujú len v krvi"
+      },
+      {
+        "id": "b",
+        "text": "sú jadrové bunky"
+      },
+      {
+        "id": "c",
+        "text": "sa nazývajú erytrocyty"
+      },
+      {
+        "id": "d",
+        "text": "sú bezjadrové bunky"
+      },
+      {
+        "id": "e",
+        "text": "sa v krvi vyskytujú vo väčšom počte ako červené krvinky"
+      },
+      {
+        "id": "f",
+        "text": "sa pôda prítomnosti granil v cytoplazme delia na granulocyty a trombocyty"
+      },
+      {
+        "id": "g",
+        "text": "sa podra štruktúry cytoplazmy delia na agranulocyty a granulocyty"
+      },
+      {
+        "id": "h",
+        "text": "sa podra prítomnosti granúl v cytoplazme delia na lymfocyty a monocyty"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "370. Leukocyty:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú nevyhnutné pri zrážaní krvi"
+      },
+      {
+        "id": "b",
+        "text": "sa zucasthuju na obranných reakciách organizmu"
+      },
+      {
+        "id": "c",
+        "text": "zabezpečujú prenos O2"
+      },
+      {
+        "id": "d",
+        "text": "sú biele krvinky"
+      },
+      {
+        "id": "e",
+        "text": "zabezpečujú prenos hormónov"
+      },
+      {
+        "id": "f",
+        "text": "sa zucasthuju na prenose dýchacích plynov"
+      },
+      {
+        "id": "g",
+        "text": "zabezpečujú udržiavanie teploty"
+      },
+      {
+        "id": "h",
+        "text": "hemoglobín"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "371. Erytrocyty bez jadra sa nachádzajú v krvi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vtákov"
+      },
+      {
+        "id": "b",
+        "text": "rýb 80"
+      },
+      {
+        "id": "c",
+        "text": "cicavcov Ipn.I ("
+      },
+      {
+        "id": "d",
+        "text": "plazov"
+      },
+      {
+        "id": "e",
+        "text": "jednobunkových organizmov"
+      },
+      {
+        "id": "f",
+        "text": "vtákov"
+      },
+      {
+        "id": "g",
+        "text": "obojživelníkov"
+      },
+      {
+        "id": "h",
+        "text": "všetkých stavovcov"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "372. Celkový počet červených krviniek na jednotku objemu krvi stavovcov je podmienený:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pohlavím, samce mávajú viac erytrocytov"
+      },
+      {
+        "id": "b",
+        "text": "pohlavím, samice mávajú viac erytrocytov"
+      },
+      {
+        "id": "c",
+        "text": "vekom, mláďatá majú viac erytrocytov"
+      },
+      {
+        "id": "d",
+        "text": "vekom, dospelí jedinci mávajú viac erytrocytov"
+      },
+      {
+        "id": "e",
+        "text": "nadmorskou výškou"
+      },
+      {
+        "id": "f",
+        "text": "ročným obdobím pri nižších stavovcoch"
+      },
+      {
+        "id": "g",
+        "text": "množstvom hemoglobínu v krvi"
+      },
+      {
+        "id": "h",
+        "text": "celkovým počtom leukocytov v krvi"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "373. Leukocyty sa odlišujú od erytrocytov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dížkou Života buniek"
+      },
+      {
+        "id": "b",
+        "text": "funkciami"
+      },
+      {
+        "id": "c",
+        "text": "spôsobom vzniku"
+      },
+      {
+        "id": "d",
+        "text": "metabolizmom"
+      },
+      {
+        "id": "e",
+        "text": "pri cicavcoch tým, že sú bezjadrové"
+      },
+      {
+        "id": "f",
+        "text": "pri vtákoch tým, že sú bezjadrové"
+      },
+      {
+        "id": "g",
+        "text": "početným zastúpením v krvi"
+      },
+      {
+        "id": "h",
+        "text": "rozložením v organizme"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "374. Monocyty:",
+    "options": [
+      {
+        "id": "a",
+        "text": "majú schopnosť diapedézy"
+      },
+      {
+        "id": "b",
+        "text": "sú schopné prenikať do tkanív"
+      },
+      {
+        "id": "c",
+        "text": "majú schopnosť fagocytovať mikroorganizmy"
+      },
+      {
+        "id": "d",
+        "text": "vznikajú z kmeňovej bunky v kostnej dreni"
+      },
+      {
+        "id": "e",
+        "text": "pôda štruktúry cytoplazmy patria k agranulocytom"
+      },
+      {
+        "id": "f",
+        "text": "pôda štruktúry cytoplazmy patria ku granulocytom"
+      },
+      {
+        "id": "g",
+        "text": "prenášajú kyslík dovnútra tkanív"
+      },
+      {
+        "id": "h",
+        "text": "prenášajú živiny z krvi do tkanív"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "375. Trombocyty cicavcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú produkované slezinou"
+      },
+      {
+        "id": "b",
+        "text": "sú produkované pečeňou"
+      },
+      {
+        "id": "c",
+        "text": "sú produkované kostnou dreňou"
+      },
+      {
+        "id": "d",
+        "text": "sú bezjadrové krvinky"
+      },
+      {
+        "id": "e",
+        "text": "sú veľké krvinky s diploidnym jadrom"
+      },
+      {
+        "id": "f",
+        "text": "plnia významnú úlohu pri zastavovaní krvácania"
+      },
+      {
+        "id": "g",
+        "text": "leukocyty"
+      },
+      {
+        "id": "h",
+        "text": "sa uplathuju pri udržiavaní celistvosti cievnych stien"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "376. Podstatou zrážania krvi u stavovcov je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zmena rozpustného fibrinogénu na nerozpustné vlákna fibrínu 81"
+      },
+      {
+        "id": "b",
+        "text": "sťahovanie svaloviny v oblasti poranenia"
+      },
+      {
+        "id": "c",
+        "text": "zmena nerozpustného fibrinogénu na rozpustný fibrín"
+      },
+      {
+        "id": "d",
+        "text": "zmena rozpustného fibrínu na nerozpustný fibrinogén"
+      },
+      {
+        "id": "e",
+        "text": "vytvorenie gélu, ktorý uzavrie poranenie"
+      },
+      {
+        "id": "f",
+        "text": "rozpad erytrocytov"
+      },
+      {
+        "id": "g",
+        "text": "protilátková obrana"
+      },
+      {
+        "id": "h",
+        "text": "hemolýza"
+      }
+    ],
+    "correct_answers": [
+      "a"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "377. Zastavenie krvácania:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je pri živočíchoch zabezpečované viacerými mechanizmami"
+      },
+      {
+        "id": "b",
+        "text": "sa uskutočňuje aglutináciou erytrocytov"
+      },
+      {
+        "id": "c",
+        "text": "je zložitý biochemický proces"
+      },
+      {
+        "id": "d",
+        "text": "sa pri stavovcoch deje za účasti krvných doštičiek"
+      },
+      {
+        "id": "e",
+        "text": "sa pri Živočíchoch s otvorenou cievnou sistavou deje sťahmi svaloviny okolo poranenia"
+      },
+      {
+        "id": "f",
+        "text": "je pri stavovcoch zabezpečované diapedezou monocytov"
+      },
+      {
+        "id": "g",
+        "text": "je iniciované hemolýzou erytrocytov"
+      },
+      {
+        "id": "h",
+        "text": "je pri cicavcoch urýchľované heparínom"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "378. Fibrinogén:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je súčasťou krvnej plazmy"
+      },
+      {
+        "id": "b",
+        "text": "sa zucasthuje na zrážaní krvi"
+      },
+      {
+        "id": "c",
+        "text": "sa nachádza v erytrocytoch"
+      },
+      {
+        "id": "d",
+        "text": "pôsobí proti zrážaniu krvi"
+      },
+      {
+        "id": "e",
+        "text": "zabezpečuje prenos O2"
+      },
+      {
+        "id": "f",
+        "text": "sa zicasthuje na obrane organizmu pred infekciou"
+      },
+      {
+        "id": "g",
+        "text": "je rozpustná plazmatická bielkovina"
+      },
+      {
+        "id": "h",
+        "text": "je nerozpustná plazmatická bielkovina"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "379. Biely trombus:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je Červená zátka"
+      },
+      {
+        "id": "b",
+        "text": "je fibrínová sieťka, v ktorej sa zachytili biele krvinky"
+      },
+      {
+        "id": "c",
+        "text": "pri malých poraneniach provizórne upcháva ranku"
+      },
+      {
+        "id": "d",
+        "text": "vzniká aktivitou tkanivových faktorov"
+      },
+      {
+        "id": "e",
+        "text": "je trombokináza"
+      },
+      {
+        "id": "f",
+        "text": "sa vytvára aktivitou krvných doštičiek okolo poranenia"
+      },
+      {
+        "id": "g",
+        "text": "sa vytvára najmä pri malých poraneniach"
+      },
+      {
+        "id": "h",
+        "text": "pôsobí proti zrážaniu krvi"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "380. Aglutinogeny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú antigény erytrocytov"
+      },
+      {
+        "id": "b",
+        "text": "sú protilátky erytrocytov"
+      },
+      {
+        "id": "c",
+        "text": "sú gény kódujúce antigény"
+      },
+      {
+        "id": "d",
+        "text": "sú protilátky v krvnej plazme"
+      },
+      {
+        "id": "e",
+        "text": "sa tvoria iba v kostnej dreni"
+      },
+      {
+        "id": "f",
+        "text": "sú genetický podmienené"
+      },
+      {
+        "id": "g",
+        "text": "sú látky, ktoré vznikajú pri zrážaní krvi 82"
+      },
+      {
+        "id": "h",
+        "text": "sú prirodzene protilátky"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "381. Aglutininy sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "antigény erytrocytov"
+      },
+      {
+        "id": "b",
+        "text": "protilátky v krvnej plazme"
+      },
+      {
+        "id": "c",
+        "text": "aglutinogeny leukocytov"
+      },
+      {
+        "id": "d",
+        "text": "produkty aglutinogenov"
+      },
+      {
+        "id": "e",
+        "text": "zodpovedné za zhlukovanie erytrocytov"
+      },
+      {
+        "id": "f",
+        "text": "antigény na povrchu leukocytov"
+      },
+      {
+        "id": "g",
+        "text": "zodpovedné za zhlukovanie červených krviniek"
+      },
+      {
+        "id": "h",
+        "text": "prirodzene protilátky voči vlastným krvinkám"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "382. Hemolymfa:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa vyskytuje vo viacerých skupinách bezstavovcov"
+      },
+      {
+        "id": "b",
+        "text": "obsahuje erytrocyty a trombocyty"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje bielkoviny, ktoré majú charakter krvných farbív"
+      },
+      {
+        "id": "d",
+        "text": "prúdi pri mäkkýšoch pulzujúcimi žilami do telových dutín"
+      },
+      {
+        "id": "e",
+        "text": "prúdi v uzavretej cievnej sústave"
+      },
+      {
+        "id": "f",
+        "text": "sa rozlieva voľne v telovej dutine"
+      },
+      {
+        "id": "g",
+        "text": "zabezpečuje rozvádzanie dýchacích plynov"
+      },
+      {
+        "id": "h",
+        "text": "je najdôležitejšou telovou tekutinou stavovcov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "383. Tkanivový mok:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tvorí tekuté prostredie okolo buniek tkanív"
+      },
+      {
+        "id": "b",
+        "text": "vzniká filtráciou krvnej plazmy"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje plazmatické bielkoviny"
+      },
+      {
+        "id": "d",
+        "text": "prenáša nízkomolekulové rozpustné látky"
+      },
+      {
+        "id": "e",
+        "text": "zabezpečuje výmenu plynov medzi krvou a bunkami tkanív"
+      },
+      {
+        "id": "f",
+        "text": "vzniká filtráciou miazgy"
+      },
+      {
+        "id": "g",
+        "text": "obsahuje veľa enzýmov"
+      },
+      {
+        "id": "h",
+        "text": "je filtrovaný v lymfatických uzlinách"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "384. Miazga:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je filtrovaná v lymfatických uzlinách"
+      },
+      {
+        "id": "b",
+        "text": "obsahuje veľa enzýmov"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje biele krvinky"
+      },
+      {
+        "id": "d",
+        "text": "prúdi pri stavovcoch v otvorenom lymfatickom obehu"
+      },
+      {
+        "id": "e",
+        "text": "vzniká z tkanivového moku"
+      },
+      {
+        "id": "f",
+        "text": "plní významnú uilohu v obranných mechanizmoch organizmu"
+      },
+      {
+        "id": "g",
+        "text": "prúdi pri stavovcoch v uzavretom lymfatickom obehu"
+      },
+      {
+        "id": "h",
+        "text": "obsahuje červené krvinky"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "385. Lymfatické orgány stavovcov si:",
+    "options": [
+      {
+        "id": "a",
+        "text": "týmus"
+      },
+      {
+        "id": "b",
+        "text": "slezina"
+      },
+      {
+        "id": "c",
+        "text": "červovitý prívesok slepého čreva"
+      },
+      {
+        "id": "d",
+        "text": "Fabriciov vačok 83"
+      },
+      {
+        "id": "e",
+        "text": "chylus"
+      },
+      {
+        "id": "f",
+        "text": "statocysta"
+      },
+      {
+        "id": "g",
+        "text": "srdce"
+      },
+      {
+        "id": "h",
+        "text": "pankreas"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "386. Lymfatickí sústavu máji:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vtáky"
+      },
+      {
+        "id": "b",
+        "text": "mäkkýše"
+      },
+      {
+        "id": "c",
+        "text": "obrúčkavce"
+      },
+      {
+        "id": "d",
+        "text": "hmyz"
+      },
+      {
+        "id": "e",
+        "text": "ploskavce"
+      },
+      {
+        "id": "f",
+        "text": "ryby"
+      },
+      {
+        "id": "g",
+        "text": "obojživelníky"
+      },
+      {
+        "id": "h",
+        "text": "cicavce"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "387. Aký je význam lymfatickej sústavy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "zucasthuje sa na transporte látok"
+      },
+      {
+        "id": "b",
+        "text": "prenáša hormóny a mediátory k cieľovým bunkám"
+      },
+      {
+        "id": "c",
+        "text": "podieľa sa na termoregulácii v organizme"
+      },
+      {
+        "id": "d",
+        "text": "je dôležitá v obranných mechanizmoch"
+      },
+      {
+        "id": "e",
+        "text": "zachytáva patogénne mikroorganizmy"
+      },
+      {
+        "id": "f",
+        "text": "zneskodhuje nádorové bunky"
+      },
+      {
+        "id": "g",
+        "text": "prenáša plyny z krvi k bunkám a z buniek do krvi"
+      },
+      {
+        "id": "h",
+        "text": "rozvádza teplo z metabolicky aktívnych orgánov do chladnejších tkanív"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "388. Srdce rýb pozostáva z:",
+    "options": [
+      {
+        "id": "a",
+        "text": "2 predsieni a 2 komôr"
+      },
+      {
+        "id": "b",
+        "text": "predsiene a komory, ktorými prechádza odkysličená krv"
+      },
+      {
+        "id": "c",
+        "text": "predsiene a komory, ktorými prechádza okysličená krv"
+      },
+      {
+        "id": "d",
+        "text": "2 predsieni a 1 komory, ktorými prechádza okysličená krv"
+      },
+      {
+        "id": "e",
+        "text": "2 predsieni a 1 komory, ktorými prechádza odkysličená krv"
+      },
+      {
+        "id": "f",
+        "text": "2 predsieni a 2 komôr, ktorými prechádza odkysličená krv"
+      },
+      {
+        "id": "g",
+        "text": "predsiene a komory, z ktorej je krv vháňaná do žilového splavu"
+      },
+      {
+        "id": "h",
+        "text": "predsiene a komory, z ktorej je krv vháňaná do Žiaber"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "389. Úplnú komoroví priehradku v srdci majú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "jašterice"
+      },
+      {
+        "id": "b",
+        "text": "žaby"
+      },
+      {
+        "id": "c",
+        "text": "mloky"
+      },
+      {
+        "id": "d",
+        "text": "hady"
+      },
+      {
+        "id": "e",
+        "text": "ryby"
+      },
+      {
+        "id": "f",
+        "text": "vtáky"
+      },
+      {
+        "id": "g",
+        "text": "cicavce"
+      },
+      {
+        "id": "h",
+        "text": "drsnokožce"
+      }
+    ],
+    "correct_answers": [
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "390. Dospelé obojživelníky majú srdce rozdelené na:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dve predsiene a jednu komoru"
+      },
+      {
+        "id": "b",
+        "text": "dve komory a jednu predsieň krv 84"
+      },
+      {
+        "id": "c",
+        "text": "monocyty"
+      },
+      {
+        "id": "d",
+        "text": "lymfocyty"
+      },
+      {
+        "id": "e",
+        "text": "neutrofilné granulocyty"
+      },
+      {
+        "id": "f",
+        "text": "eozinofilné granulocyty"
+      },
+      {
+        "id": "g",
+        "text": "bazofilné granulocyty"
+      },
+      {
+        "id": "h",
+        "text": "jednu predsieň a jednu komoru, pričom do tela prídi zo srdca okysličená krv"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "391. U cicavcov okysličená krv prúdi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "z I'avej komory do malého krvného obehu"
+      },
+      {
+        "id": "b",
+        "text": "z I'avej komory do veľkého krvného obehu"
+      },
+      {
+        "id": "c",
+        "text": "z pravej predsiene do malého krvného obehu"
+      },
+      {
+        "id": "d",
+        "text": "z pravej komory do veľkého krvného obehu"
+      },
+      {
+        "id": "e",
+        "text": "z I'avej predsiene do malého krvného obehu"
+      },
+      {
+        "id": "f",
+        "text": "z pravej komory do pľúc"
+      },
+      {
+        "id": "g",
+        "text": "pPicnymi žilami do Pávej predsiene"
+      },
+      {
+        "id": "h",
+        "text": "vrátnicou do pečene"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "392. Podnety na srdcoví činnosť vznikajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v mozgu"
+      },
+      {
+        "id": "b",
+        "text": "v mieche"
+      },
+      {
+        "id": "c",
+        "text": "v samotnom srdci"
+      },
+      {
+        "id": "d",
+        "text": "v srdcovnici"
+      },
+      {
+        "id": "e",
+        "text": "v mozočku"
+      },
+      {
+        "id": "f",
+        "text": "v predizenej mieche"
+      },
+      {
+        "id": "g",
+        "text": "vo vencovitých tepnách"
+      },
+      {
+        "id": "h",
+        "text": "v ústrednej nervovej sústave"
+      }
+    ],
+    "correct_answers": [
+      "c"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "393. Záznam zmien elektrického potenciálu srdcového svalu sa označuje ako:",
+    "options": [
+      {
+        "id": "a",
+        "text": "EKG"
+      },
+      {
+        "id": "b",
+        "text": "EEG"
+      },
+      {
+        "id": "c",
+        "text": "fonogram"
+      },
+      {
+        "id": "d",
+        "text": "elektrokardiogram"
+      },
+      {
+        "id": "e",
+        "text": "oscilogram"
+      },
+      {
+        "id": "f",
+        "text": "elektroencefalogram"
+      },
+      {
+        "id": "g",
+        "text": "EMG"
+      },
+      {
+        "id": "h",
+        "text": "elektromyelogram"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "394. Meradlom výkonnosti srdca je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "frekvencia tepu"
+      },
+      {
+        "id": "b",
+        "text": "minútový objem"
+      },
+      {
+        "id": "c",
+        "text": "množstvo krvi, ktoré srdce vytlačí za minútu"
+      },
+      {
+        "id": "d",
+        "text": "množstvo krvi, ktoré srdce vytlačí pri jednej systole"
+      },
+      {
+        "id": "e",
+        "text": "množstvo krvi, ktoré srdce vytlačí pri jednej diastole"
+      },
+      {
+        "id": "f",
+        "text": "množstvo krvi, ktoré srdce vytlačí pri jednom srdcovom cykle"
+      },
+      {
+        "id": "g",
+        "text": "množstvo krvi, ktoré zaplní celý cievny systém tela"
+      },
+      {
+        "id": "h",
+        "text": "celkový objem srdca"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "395. Koronárne tepny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zabezpečujú výživu srdca"
+      },
+      {
+        "id": "b",
+        "text": "odčerpávajú 10 % krvi vytlačenej do aorty pri systole"
+      },
+      {
+        "id": "c",
+        "text": "zabezpečujú okysličovanie srdcového svalu"
+      },
+      {
+        "id": "d",
+        "text": "sú rozvetvené do rozsiahlej kapilárnej siete"
+      },
+      {
+        "id": "e",
+        "text": "vychádzajú z hornej dutej žily"
+      },
+      {
+        "id": "f",
+        "text": "vychádzajú z aorty"
+      },
+      {
+        "id": "g",
+        "text": "vychádzajú z pľúcnice"
+      },
+      {
+        "id": "h",
+        "text": "vychádzajú z pravej komory"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "396. Úplne oddelený pPicny a telový krvný obeh majú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "živočíchy, ktoré majú jednokomorové srdce"
+      },
+      {
+        "id": "b",
+        "text": "vtáky 85"
+      },
+      {
+        "id": "c",
+        "text": "trombocyty"
+      },
+      {
+        "id": "d",
+        "text": "cicavce"
+      },
+      {
+        "id": "e",
+        "text": "obojživelníky"
+      },
+      {
+        "id": "f",
+        "text": "plazy"
+      },
+      {
+        "id": "g",
+        "text": "živočíchy, ktoré majú úplne vyvinutú priehradku medzi srdcovými komorami"
+      },
+      {
+        "id": "h",
+        "text": "živočíchy, ktorých srdce je tvorené jednou predsieňou a jednou komorou"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "397. Vratnicovy obeh:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je sicasťou p'ucneho krvného obehu"
+      },
+      {
+        "id": "b",
+        "text": "je súčasťou telového krvného obehu"
+      },
+      {
+        "id": "c",
+        "text": "je svojim charakterom žilový obeh"
+      },
+      {
+        "id": "d",
+        "text": "privádza živiny vstrebané do krvi v tráviacich orgánoch do srdca"
+      },
+      {
+        "id": "e",
+        "text": "privádza živiny vstrebané do krvi v tráviacich orgánoch do pečene"
+      },
+      {
+        "id": "f",
+        "text": "začína sieťou kapilár v tráviacich orgánoch"
+      },
+      {
+        "id": "g",
+        "text": "vstupuje do pečene vrátnicou"
+      },
+      {
+        "id": "h",
+        "text": "začína sieťou kapilár v pečeni"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "398. K vlastnej výmene látok medzi krvou a tkanivami dochádza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v tenkostenných tepnách"
+      },
+      {
+        "id": "b",
+        "text": "v tepnách s pevnou a pružnou stenou"
+      },
+      {
+        "id": "c",
+        "text": "v kapilárach"
+      },
+      {
+        "id": "d",
+        "text": "v žilách"
+      },
+      {
+        "id": "e",
+        "text": "vo vrátnici"
+      },
+      {
+        "id": "f",
+        "text": "v hornej a dolnej dutej žile"
+      },
+      {
+        "id": "g",
+        "text": "v srdci"
+      },
+      {
+        "id": "h",
+        "text": "v lymfatických uzlinách"
+      }
+    ],
+    "correct_answers": [
+      "c"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "399. Nervová bunka:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je základná struktirna a funkčná jednotka nervovej sústavy Živočíchov"
+      },
+      {
+        "id": "b",
+        "text": "sa skladá z tela bunky a výbežkov dvojakého typu"
+      },
+      {
+        "id": "c",
+        "text": "má jeden odstredivý výbežok - neurit"
+      },
+      {
+        "id": "d",
+        "text": "má jeden odstredivý výbežok - dendrit"
+      },
+      {
+        "id": "e",
+        "text": "má dendrity, ktoré privádzajú vzruchy do tela bunky"
+      },
+      {
+        "id": "f",
+        "text": "má dendrity, ktoré vedi vzruchy z tela bunky"
+      },
+      {
+        "id": "g",
+        "text": "má dostredivý axón"
+      },
+      {
+        "id": "h",
+        "text": "vytvára synapsie s inými nervovými bunkami"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "400. Dostredivé výbežky nervovej bunky:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vedú podráždenie do tela bunky"
+      },
+      {
+        "id": "b",
+        "text": "sa nazývajú neuróny"
+      },
+      {
+        "id": "c",
+        "text": "vytvárajú spoje s inými bunkami"
+      },
+      {
+        "id": "d",
+        "text": "sa nazývajú neurity"
+      },
+      {
+        "id": "e",
+        "text": "sa nazývajú dendrity"
+      },
+      {
+        "id": "f",
+        "text": "vedú podráždenie z tela bunky"
+      },
+      {
+        "id": "g",
+        "text": "sa nazývajú axóny"
+      },
+      {
+        "id": "h",
+        "text": "sú krátke a rozvetvené 86"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, H."
+  }
+]

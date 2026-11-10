@@ -1,0 +1,2300 @@
+[
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "51. Vyberte správne pomenovania a vzorce kyselín odvodených od síry:",
+    "options": [
+      {
+        "id": "a",
+        "text": "H2SOs je kyselina peroxosiricita"
+      },
+      {
+        "id": "b",
+        "text": "H2SO je kyselina peroxosirova 18"
+      },
+      {
+        "id": "c",
+        "text": "H2S2O: je kyselina peroxodisirova"
+      },
+      {
+        "id": "d",
+        "text": "H2S2O je kyselina disirova"
+      },
+      {
+        "id": "e",
+        "text": "H2S2Oz je kyselina peroxodisiričitá"
+      },
+      {
+        "id": "f",
+        "text": "H2SO je kyselina diperoxosirova"
+      },
+      {
+        "id": "g",
+        "text": "H2S2Os je kyselina diperoxodisirova"
+      },
+      {
+        "id": "h",
+        "text": "H2S2O9 je kyselina diperoxodisirova"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "52. Vyberte správne pomenovania a vzorce hydridov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "H3P je fosfán"
+      },
+      {
+        "id": "b",
+        "text": "alh je alan"
+      },
+      {
+        "id": "c",
+        "text": "ash je arzán"
+      },
+      {
+        "id": "d",
+        "text": "GeH4 je german"
+      },
+      {
+        "id": "e",
+        "text": "HzSe je selan"
+      },
+      {
+        "id": "f",
+        "text": "PH3 je fosfán"
+      },
+      {
+        "id": "g",
+        "text": "SeH2 je selan"
+      },
+      {
+        "id": "h",
+        "text": "HS2 je sulfán"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "53. Vyberte odpovede, kde vzorce neodpovedajú uvedeným zlúčeninám:",
+    "options": [
+      {
+        "id": "a",
+        "text": "SiN4 je nitrid kremičitý"
+      },
+      {
+        "id": "b",
+        "text": "gaas je arzenid gality"
+      },
+      {
+        "id": "c",
+        "text": "LiAs3 je arzenid lítny"
+      },
+      {
+        "id": "d",
+        "text": "Pb3N2 je azid olovnatý"
+      },
+      {
+        "id": "e",
+        "text": "Mg3P2 je fosfid horečnatý"
+      },
+      {
+        "id": "f",
+        "text": "CaC2 je karbid vápenatý"
+      },
+      {
+        "id": "g",
+        "text": "SisN4 je nitrid kremičitý"
+      },
+      {
+        "id": "h",
+        "text": "AiSb3 je antimonid hlinitý"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "54. Vyberte odpovede, kde vzorce neodpovedaji uvedeným zlúčeninám:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cu2CO3(OH)2 je hydroxid-uhličitan meďnatý"
+      },
+      {
+        "id": "b",
+        "text": "MnCl2O je chlorid-oxid manganičitý"
+      },
+      {
+        "id": "c",
+        "text": "CasF(PO4)3 je fluorid-tris(fosforečnan) pentavapenaty"
+      },
+      {
+        "id": "d",
+        "text": "KCr(OH)2 je hydroxid draselno-chromitý"
+      },
+      {
+        "id": "e",
+        "text": "CaCl(CIO) je chlorid-chlórnan vápenatý"
+      },
+      {
+        "id": "f",
+        "text": "Cs3CoCl6 je chlorid tricezno-kobaltnatý"
+      },
+      {
+        "id": "g",
+        "text": "COS2 je oxid-sulfid uhličitý"
+      },
+      {
+        "id": "h",
+        "text": "PClsO je chlorid-oxid fosforečný"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "55. Vyberte správne pomenovania a vzorce kyselín:",
+    "options": [
+      {
+        "id": "a",
+        "text": "HOCN je kyselina kyanata"
+      },
+      {
+        "id": "b",
+        "text": "HeSi2O je kyselina heptaoxodikremicita"
+      },
+      {
+        "id": "c",
+        "text": "HBO3 je kyselina trioxoborita"
+      },
+      {
+        "id": "d",
+        "text": "H2S2Os je kyselina dihydrogendisiricita"
+      },
+      {
+        "id": "e",
+        "text": "HBrO4 je kyselina tetraoxobromicna"
+      },
+      {
+        "id": "f",
+        "text": "HeTeO6 je kyselina hexaoxoteluricita"
+      },
+      {
+        "id": "g",
+        "text": "HSiO4 je kyselina tetraoxokremista"
+      },
+      {
+        "id": "h",
+        "text": "HP2O je kyselina tetrahydrogendifosforita"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "56. Vyberte správne pomenovania a vzorce hydrátov soli: 19",
+    "options": [
+      {
+        "id": "a",
+        "text": "Na2SO4. 10 H2O je dekahydrat síranu sodného"
+      },
+      {
+        "id": "b",
+        "text": "AIK(SO4)2. 12 H2O je undekahydrat síranu draselno-hlinitého"
+      },
+      {
+        "id": "c",
+        "text": "Hg(BO3)2 . 2 H2O je dihydrát boritanu ortuťnatého"
+      },
+      {
+        "id": "d",
+        "text": "camg(CO3)2 . 11 H2O je dodekahydrat uhličitanu horečnato-vápenatého"
+      },
+      {
+        "id": "e",
+        "text": "(NH4)2Fe(SO4)2 . 6 H2O je hexahydrát síranu amónno-železnatého"
+      },
+      {
+        "id": "f",
+        "text": "BaCIO4 . 3 H2O je trihydrát chloristanu bárnatého"
+      },
+      {
+        "id": "g",
+        "text": "CaSO4 . 1/2 H2O je hemihydrát síranu vápenatého"
+      },
+      {
+        "id": "h",
+        "text": "Na2Mg(CO3)2 . 10 H2O je dekahydrat uhličitanu horečnato-sodného"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "57. Vyberte odpovede, kde vzorce neodpovedajú uvedeným zlúčeninám:",
+    "options": [
+      {
+        "id": "a",
+        "text": "NH4[CdCl3] je trichlorokademnatan amónny"
+      },
+      {
+        "id": "b",
+        "text": "K2[PtBr6] je hexabromoplatnatan didraselny"
+      },
+      {
+        "id": "c",
+        "text": "Na[Au(CN)2OH] je dikyano-hydroxozlatitan sodný"
+      },
+      {
+        "id": "d",
+        "text": "[Sn3(OH)ČO]Cl2 je chlorid hexahydroxo-karbonyl-ciničitý"
+      },
+      {
+        "id": "e",
+        "text": "Rb[Ag(CN)2] je dikyanostriebornan rubídny"
+      },
+      {
+        "id": "f",
+        "text": "K2[MnF6] je hexafluoromanganicnan draselný"
+      },
+      {
+        "id": "g",
+        "text": "Fe[Hg(SCN)4] je tetratiokyanatoortuťnatan železnatý"
+      },
+      {
+        "id": "h",
+        "text": "Liz[PbF6] je hexafluoroolovicitan lítny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "58. Vyberte správne pomenovania a vzorce nasledujúcich zlicenin:",
+    "options": [
+      {
+        "id": "a",
+        "text": "CaHS je hydrogensulfid vápenatý"
+      },
+      {
+        "id": "b",
+        "text": "KH2B4O je dihydrogentetraboritan draselný"
+      },
+      {
+        "id": "c",
+        "text": "Sr(H2PO3)2 je dihydrogenfosforitan strontnatý"
+      },
+      {
+        "id": "d",
+        "text": "CsHMoO4 je hydrogenmolybdenan cézny"
+      },
+      {
+        "id": "e",
+        "text": "Li2HVO4 je hydrogenvanadicnan lítny"
+      },
+      {
+        "id": "f",
+        "text": "KFe(HCO3)2 je hydrogenuhličitan draselno-železitý"
+      },
+      {
+        "id": "g",
+        "text": "Ag2HIOs je hydrogenjodistan strieborný"
+      },
+      {
+        "id": "h",
+        "text": "NHH2AsO4 je dihydrogenarzenitan amónny"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "59. Tetrachloro-paladnatan amónny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má koordinačné číslo 6"
+      },
+      {
+        "id": "b",
+        "text": "centrálny atóm je donorom elektrónov"
+      },
+      {
+        "id": "c",
+        "text": "ČI a NH4t sú ligandy"
+      },
+      {
+        "id": "d",
+        "text": "má vzorec (NH4)2[PtC14]"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje komplexný anión s nábojovým číslom -2"
+      },
+      {
+        "id": "f",
+        "text": "má centrálny atóm paládium"
+      },
+      {
+        "id": "g",
+        "text": "má vzorec (NH4)2[PdCl4]"
+      },
+      {
+        "id": "h",
+        "text": "má koordinačné číslo 4"
+      }
+    ],
+    "correct_answers": [
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "60. Hexakyano-chromitan hexaammin-kobaltity:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má vzorec [Čr(CN)6][Čo(NH3)6]"
+      },
+      {
+        "id": "b",
+        "text": "obsahuje komplexný anión s nábojovým číslom -3"
+      },
+      {
+        "id": "c",
+        "text": "koordinaneislakomplenehokationuakomplexnhoanionusironake fma vzareekconeaniCrecndg"
+      },
+      {
+        "id": "d",
+        "text": "Čr je centrálnym atómom komplexného katiónu"
+      },
+      {
+        "id": "e",
+        "text": "má iba elektroneutrálne ligandy"
+      },
+      {
+        "id": "f",
+        "text": "má vzorec [Čo(NH3)6][Čr(CN)6]"
+      },
+      {
+        "id": "g",
+        "text": "obsahuje 2 centrálne atómy s rovnakým oxidačným číslom"
+      },
+      {
+        "id": "h",
+        "text": "má vzorec [Čr(NH3)6][Čo(CN)6] 20"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "61. Vyberte odpovede, kde vzorce neodpovedaji uvedeným zliceninam:",
+    "options": [
+      {
+        "id": "a",
+        "text": "NiCO3.6 H2O je uhličitan hexaakvanikelnaty"
+      },
+      {
+        "id": "b",
+        "text": "Zn(SiO3)2jekrcmicitanzirkonicity"
+      },
+      {
+        "id": "c",
+        "text": "Sb2[Ni(NH3)]Cl3 jetriammin-trichloronikelnatan antimonitý"
+      },
+      {
+        "id": "d",
+        "text": "SrwO4 je wolframan strontnatý"
+      },
+      {
+        "id": "e",
+        "text": "Ba(TIO4)2 je telúran bárnatý"
+      },
+      {
+        "id": "f",
+        "text": "NazS2O, je diperoxodisiran sodný"
+      },
+      {
+        "id": "g",
+        "text": "Pb2P2O je difosforecnan diolovnaty"
+      },
+      {
+        "id": "h",
+        "text": "NH[IrCls] jepentachloroiridicitan amónny"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "62. Chróm má oxidacnecislo +VI v zliceninach:",
+    "options": [
+      {
+        "id": "a",
+        "text": "PbCrO4"
+      },
+      {
+        "id": "b",
+        "text": "K2CrO3"
+      },
+      {
+        "id": "c",
+        "text": "CrO3"
+      },
+      {
+        "id": "d",
+        "text": "Na2CrO4"
+      },
+      {
+        "id": "e",
+        "text": "Cr207"
+      },
+      {
+        "id": "f",
+        "text": "K2Cr207"
+      },
+      {
+        "id": "g",
+        "text": "Fe(CrO2)3"
+      },
+      {
+        "id": "h",
+        "text": "(NH4)2CrO3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "63. Fosfor má oxidačné číslo +lll v zlúčeninách:",
+    "options": [
+      {
+        "id": "a",
+        "text": "PBr3"
+      },
+      {
+        "id": "b",
+        "text": "KH2PO2"
+      },
+      {
+        "id": "c",
+        "text": "(NH4)2HPO3"
+      },
+      {
+        "id": "d",
+        "text": "FePO4"
+      },
+      {
+        "id": "e",
+        "text": "CaHPO3"
+      },
+      {
+        "id": "f",
+        "text": "HPO3"
+      },
+      {
+        "id": "g",
+        "text": "P(CN)3"
+      },
+      {
+        "id": "h",
+        "text": "PH3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "64. Aké oxidačné čísla môže mať vodík v rozličných molekulách?",
+    "options": [
+      {
+        "id": "a",
+        "text": "-III v PH3"
+      },
+      {
+        "id": "b",
+        "text": "+I v NaHCO3"
+      },
+      {
+        "id": "c",
+        "text": "+II v H202"
+      },
+      {
+        "id": "d",
+        "text": "-I v lih"
+      },
+      {
+        "id": "e",
+        "text": "-I v HF"
+      },
+      {
+        "id": "f",
+        "text": "+I v NH3"
+      },
+      {
+        "id": "g",
+        "text": "0 ako plynná látka vo vzduchu"
+      },
+      {
+        "id": "h",
+        "text": "+III vtriciu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "65. Aké oxidačné čísla môže mať kyslík v rozličných molekulách?",
+    "options": [
+      {
+        "id": "a",
+        "text": "-III v Fe203"
+      },
+      {
+        "id": "b",
+        "text": "+I v VO"
+      },
+      {
+        "id": "c",
+        "text": "+II v OF2"
+      },
+      {
+        "id": "d",
+        "text": "-I v Na202"
+      },
+      {
+        "id": "e",
+        "text": "+III v H3O+"
+      },
+      {
+        "id": "f",
+        "text": "-II v P2Os"
+      },
+      {
+        "id": "g",
+        "text": "+IV v N204 21"
+      },
+      {
+        "id": "h",
+        "text": "+VI v síranoch"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "66. Bróm môže mať v rozlienych molekulách oxidačné čísla:",
+    "options": [
+      {
+        "id": "a",
+        "text": "+III v KBrO3"
+      },
+      {
+        "id": "b",
+        "text": "+I v Br20"
+      },
+      {
+        "id": "c",
+        "text": "+V v HBrO3"
+      },
+      {
+        "id": "d",
+        "text": "-II v CuBr2"
+      },
+      {
+        "id": "e",
+        "text": "-I v bromovodíku"
+      },
+      {
+        "id": "f",
+        "text": "+VII vKBrO4"
+      },
+      {
+        "id": "g",
+        "text": "0 v kvapalnom skupenstve"
+      },
+      {
+        "id": "h",
+        "text": "+IV v PbBr4"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "67. Aké oxidačné čísla môže mať chlór v rozlienych molekulách?",
+    "options": [
+      {
+        "id": "a",
+        "text": "+VII v NaC104. H2O"
+      },
+      {
+        "id": "b",
+        "text": "+I v Cl20"
+      },
+      {
+        "id": "c",
+        "text": "+II v CIBr2"
+      },
+      {
+        "id": "d",
+        "text": "-I v MnCl2"
+      },
+      {
+        "id": "e",
+        "text": "+III v NaCIO"
+      },
+      {
+        "id": "f",
+        "text": "+IV v CIO2"
+      },
+      {
+        "id": "g",
+        "text": "-II v PbCIO2"
+      },
+      {
+        "id": "h",
+        "text": "-III v AICl3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "68. Vyberte zlúčeniny, v ktorých má železo oxidačné číslo +IIl:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fe(OH)O"
+      },
+      {
+        "id": "b",
+        "text": "K4[Fe(CN)6]"
+      },
+      {
+        "id": "c",
+        "text": "[Fe(H2O)6]Cl3"
+      },
+      {
+        "id": "d",
+        "text": "Fe(HCO3)2"
+      },
+      {
+        "id": "e",
+        "text": "FePO4"
+      },
+      {
+        "id": "f",
+        "text": "Fe(CIO4)2 . 6 H20"
+      },
+      {
+        "id": "g",
+        "text": "feo.Fe2O3"
+      },
+      {
+        "id": "h",
+        "text": "Fe(NO3)2 . 6 H2O"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "69. Vyberte zlúčeniny, v ktorých sa vyskytuje prvok s oxidačným číslom +Ill:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bi(OH)2NO3"
+      },
+      {
+        "id": "b",
+        "text": "P4O6"
+      },
+      {
+        "id": "c",
+        "text": "NH3"
+      },
+      {
+        "id": "d",
+        "text": "Na4[CoF6]"
+      },
+      {
+        "id": "e",
+        "text": "[CrBr2(H2O)4]NO2"
+      },
+      {
+        "id": "f",
+        "text": "Na3[AsS4]"
+      },
+      {
+        "id": "g",
+        "text": "H2PtCl6"
+      },
+      {
+        "id": "h",
+        "text": "HBO2"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "70. Vyberte tie vzorce zlúčenín, kde je P s oxidačným číslom +V, chlórnan sodný a nitrid hlinitý:",
+    "options": [
+      {
+        "id": "a",
+        "text": "H3PO4-Na2CIO-AIN3"
+      },
+      {
+        "id": "b",
+        "text": "HPO3-NaCIO-AIN"
+      },
+      {
+        "id": "c",
+        "text": "H2PO4-NaCIO-AIN3"
+      },
+      {
+        "id": "d",
+        "text": "HPO4- NaCIO - AIN3 22"
+      },
+      {
+        "id": "e",
+        "text": "HPO3 - Na2CIO2 - AIN"
+      },
+      {
+        "id": "f",
+        "text": "HPO- NaCIO2 - AIN3"
+      },
+      {
+        "id": "g",
+        "text": "H4P2O7- NaC1O - AIN"
+      },
+      {
+        "id": "h",
+        "text": "HsPO4- NaCIO - AIN"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "71. Reakciou H3PO4 s Ca(OH)2 môže vznikniť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ca(HPO4)2"
+      },
+      {
+        "id": "b",
+        "text": "CaHPO4"
+      },
+      {
+        "id": "c",
+        "text": "Ca(H2PO4)2"
+      },
+      {
+        "id": "d",
+        "text": "Ca2HPO4"
+      },
+      {
+        "id": "e",
+        "text": "CaH2PO4"
+      },
+      {
+        "id": "f",
+        "text": "CaPO4"
+      },
+      {
+        "id": "g",
+        "text": "Ca3(PO4)2"
+      },
+      {
+        "id": "h",
+        "text": "Ca2(PO4)3"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "72. Vyberte správne pomenovania a vzorce oxidov dusíka:",
+    "options": [
+      {
+        "id": "a",
+        "text": "N2O4 je dimér oxidu dusičitého"
+      },
+      {
+        "id": "b",
+        "text": "N2Os je oxid dusičný"
+      },
+      {
+        "id": "c",
+        "text": "N2O je oxid dusný"
+      },
+      {
+        "id": "d",
+        "text": "NO2 je dioxid dusnatý"
+      },
+      {
+        "id": "e",
+        "text": "N2O3 je oxid dusnatý"
+      },
+      {
+        "id": "f",
+        "text": "NO2 je oxid dusičitý"
+      },
+      {
+        "id": "g",
+        "text": "N2Os je dimér oxidu dusitého"
+      },
+      {
+        "id": "h",
+        "text": "N2O4 je dimér oxidu dusnatého"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "73. V ktorých zlúčeninách sa vyskytuje prvok s oxidačným číslom +II:",
+    "options": [
+      {
+        "id": "a",
+        "text": "(MnO4)2-"
+      },
+      {
+        "id": "b",
+        "text": "(ZnO2)2-"
+      },
+      {
+        "id": "c",
+        "text": "[Fe(CN)s]-"
+      },
+      {
+        "id": "d",
+        "text": "(Cr20)2-"
+      },
+      {
+        "id": "e",
+        "text": "(CrO4)2-"
+      },
+      {
+        "id": "f",
+        "text": "[Cu(CN)4]2-"
+      },
+      {
+        "id": "g",
+        "text": "BaO2"
+      },
+      {
+        "id": "h",
+        "text": "(H2PO4)\"-"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "74. Vyberte zliceniny so správnym vzorcom a názvom:",
+    "options": [
+      {
+        "id": "a",
+        "text": "BiCl(O) je chlorid oxid bizmutitý"
+      },
+      {
+        "id": "b",
+        "text": "H3PO2 je kyselina trihydrogenfosforna"
+      },
+      {
+        "id": "c",
+        "text": "NH4MgHPO4 je hydrogénfosforečnan horečnato-amónny"
+      },
+      {
+        "id": "d",
+        "text": "Mg(BO2)2 je boritan horečnatý"
+      },
+      {
+        "id": "e",
+        "text": "NH4[PdCl4] je tetrachloro-paladicnan amónny"
+      },
+      {
+        "id": "f",
+        "text": "H4SiO4 je kyselina kremista"
+      },
+      {
+        "id": "g",
+        "text": "sic je uho'natan kremičitý"
+      },
+      {
+        "id": "h",
+        "text": "tef je fluorid telúrový"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "75. Vyberte správne pomenovania a vzorce kyselín:",
+    "options": [
+      {
+        "id": "a",
+        "text": "H4B2O4 kyselina tetrahydrogendiborita"
+      },
+      {
+        "id": "b",
+        "text": "H3AsO kyselina trioxoarzenita 23"
+      },
+      {
+        "id": "c",
+        "text": "H2TeO, kyselina teluricita"
+      },
+      {
+        "id": "d",
+        "text": "HPO3 kyselina fosforitá"
+      },
+      {
+        "id": "e",
+        "text": "HsiO kyselina pentahydrogenjodistá"
+      },
+      {
+        "id": "f",
+        "text": "HCIO4 kyselina chlorečná"
+      },
+      {
+        "id": "g",
+        "text": "H4P2O, kyselina tetrahydrogendifosforečná"
+      },
+      {
+        "id": "h",
+        "text": "H2S2Os kyselina disirova"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "76. Vyberte správne pomenovania a vzorce soli:",
+    "options": [
+      {
+        "id": "a",
+        "text": "CsCr2Odichroman cézny"
+      },
+      {
+        "id": "b",
+        "text": "K2BrObromnandraselny"
+      },
+      {
+        "id": "c",
+        "text": "Mg3(PO4)2 fosforečnan trihorečnatý"
+      },
+      {
+        "id": "d",
+        "text": "KCIO2 chloritan draselný"
+      },
+      {
+        "id": "e",
+        "text": "NH4S2O, disiran amónny"
+      },
+      {
+        "id": "f",
+        "text": "NasMnO4 manganistan trisodný"
+      },
+      {
+        "id": "g",
+        "text": "Cu(CIO4)2 chloristan meďnatý"
+      },
+      {
+        "id": "h",
+        "text": "Ag2Se selenid strieborný"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "77. Vyberte správne pomenovania a vzorce hydrogénsoli:",
+    "options": [
+      {
+        "id": "a",
+        "text": "(NH4)2Pb(SO4)2 síran amónno-olovnatý"
+      },
+      {
+        "id": "b",
+        "text": "feci(OH)2 hydroxid-chlorid železitý"
+      },
+      {
+        "id": "c",
+        "text": "[Cu(NH3)4]SO4. H2O monohydrát síranu tetraammin meďného"
+      },
+      {
+        "id": "d",
+        "text": "KHS hydrid sulfid draselný"
+      },
+      {
+        "id": "e",
+        "text": "nati(NO3)2 dusičnan sodno-tálny"
+      },
+      {
+        "id": "f",
+        "text": "KCr(SO4)2 síran draselno-chromitý"
+      },
+      {
+        "id": "g",
+        "text": "K[Au(OH)4] hydroxid draselno-zlatitý"
+      },
+      {
+        "id": "h",
+        "text": "bicí(O) oxid chloridu bizmutneho"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "78. Vyberte zlúčeniny, ktorých názov aj vzorec predstavuje zmiešanú soľ:",
+    "options": [
+      {
+        "id": "a",
+        "text": "(NH4)2Pb(SO4)2 síran amónno-olovnatý"
+      },
+      {
+        "id": "b",
+        "text": "FeCl(OH)2 hydroxid-chlorid železitý"
+      },
+      {
+        "id": "c",
+        "text": "[Cu(NH3)4]SO4 . H2O monohydrát síranu tetraammin meďného"
+      },
+      {
+        "id": "d",
+        "text": "KHS hydrid sulfid draselný"
+      },
+      {
+        "id": "e",
+        "text": "NaTl(NO3)2 dusičnan sodno-tálny"
+      },
+      {
+        "id": "f",
+        "text": "KCr(SO4)2 síran draselno-chromitý"
+      },
+      {
+        "id": "g",
+        "text": "K[Au(OH)4] hydroxid draselno-zlatitý"
+      },
+      {
+        "id": "h",
+        "text": "BiCl(O) oxid chlorid bizmutitý"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "79. Vyberte vzorce zlicenin, ktoré nie sú oxidy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mn(PO2)2 dioxofosforitan horečnatý"
+      },
+      {
+        "id": "b",
+        "text": "Cz2H2SiO4 dihydrogentetraoxokremicitan cézny"
+      },
+      {
+        "id": "c",
+        "text": "Ca(H2PO2)2 dihydrogenfosfornan vápenatý"
+      },
+      {
+        "id": "d",
+        "text": "Al(HSiO3)3 hydrogentrioxokremicitan hlinitý"
+      },
+      {
+        "id": "e",
+        "text": "Mg(H2PO4)2 dihydrogentetraoxofosforecnan horečnatý"
+      },
+      {
+        "id": "f",
+        "text": "Ca(AsO2)2 bis(arzenitan) vápenatý"
+      },
+      {
+        "id": "g",
+        "text": "BeHSe hydrogenselenid berýlnatý"
+      },
+      {
+        "id": "h",
+        "text": "(NH4)2C1O3 chloritan amónny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "80. Ktorý názov a vzorec predstavuje tu istú zlúčeninu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mn(PO2)2 dioxofosforitan horečnatý"
+      },
+      {
+        "id": "b",
+        "text": "Cs2H2SiO4 dihydrogentetraoxokremicitan cézny"
+      },
+      {
+        "id": "c",
+        "text": "Ca(H2PO2)2 dihydrogenfosfornan vápenatý"
+      },
+      {
+        "id": "d",
+        "text": "Al(HSiO3)3 hydrogentrioxokremicitan hlinitý"
+      },
+      {
+        "id": "e",
+        "text": "Mg(H2PO4)2 dihydrogentetraoxofosforecnan horečnatý"
+      },
+      {
+        "id": "f",
+        "text": "Ca(AsO2)2 bis(arzenitan) vápenatý"
+      },
+      {
+        "id": "g",
+        "text": "BeHSe hydrogenselenid berýlnatý"
+      },
+      {
+        "id": "h",
+        "text": "(NH4)2ClO3 chloritan amónny"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "81. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "K,PO4 je fosforečnan draselný"
+      },
+      {
+        "id": "b",
+        "text": "Pb(NO3)2 je dusitan olovnatý"
+      },
+      {
+        "id": "c",
+        "text": "Ag2ClO3 je chlorečnan strieborný"
+      },
+      {
+        "id": "d",
+        "text": "H2Si2Os je kyselina dihydrogendikremicita"
+      },
+      {
+        "id": "e",
+        "text": "Fe(SCN)2 je tiokyanatan železitý"
+      },
+      {
+        "id": "f",
+        "text": "Ca2Al(OH)7. H2O je hydrát heptahydroxidu divapenato-hlinitého"
+      },
+      {
+        "id": "g",
+        "text": "BaMnO4 je manganistan bárnatý"
+      },
+      {
+        "id": "h",
+        "text": "CasF(PO4)3 je fluorid-tris(fosforečnan) pentavapenaty"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "82. Vyberte nesprávne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "NaKNO3 je dusičnan sodno-draselný"
+      },
+      {
+        "id": "b",
+        "text": "hgcl je dichlorid ortutný"
+      },
+      {
+        "id": "c",
+        "text": "NH4ReO4 je renistan amónny"
+      },
+      {
+        "id": "d",
+        "text": "KSCN je rodanid draselný"
+      },
+      {
+        "id": "e",
+        "text": "K[Čr(OH)4] je hydroxid chromito-draselný"
+      },
+      {
+        "id": "f",
+        "text": "(NH4)2 WO4 je volfráman amónny"
+      },
+      {
+        "id": "g",
+        "text": "BaO2 je oxid baricity"
+      },
+      {
+        "id": "h",
+        "text": "CaSizOs je dikremicitan vápenatý"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "83. Určte nesprávne (chybne) pomenované zliceniny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "LiHCO3 je hydrogenuhličitan lítny"
+      },
+      {
+        "id": "b",
+        "text": "BaH2P2O je dihydrogendifosforecnan bárnatý"
+      },
+      {
+        "id": "c",
+        "text": "CaHPO3 je hydrogenfosfornan vápenatý"
+      },
+      {
+        "id": "d",
+        "text": "Na2S2Oz je peroxosiran sodný"
+      },
+      {
+        "id": "e",
+        "text": "NazS2Os je disiricitan sodný"
+      },
+      {
+        "id": "f",
+        "text": "KCr(SO4)2. 12 H2O je dekahydrat síranu chromitodraselneho"
+      },
+      {
+        "id": "g",
+        "text": "Na2S2O: je peroxodisiran sodný"
+      },
+      {
+        "id": "h",
+        "text": "Na2S2O3 je disiran sodný"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "84. Vyberte odpovede, kde vzorce neodpovedajú uvedeným zliuceninam:",
+    "options": [
+      {
+        "id": "a",
+        "text": "HAuCl4 kyselina tetrachlorozlatita"
+      },
+      {
+        "id": "b",
+        "text": "Ca(AsO3)2 je arzenitan vápenatý"
+      },
+      {
+        "id": "c",
+        "text": "BN je nitrid boritý"
+      },
+      {
+        "id": "d",
+        "text": "Na2B4O7. 10 H2O je dodekahydrat tetraboritanu sodného"
+      },
+      {
+        "id": "e",
+        "text": "HsiO je kyselina pentahydrogen jodičná"
+      },
+      {
+        "id": "f",
+        "text": "(NH4)2U2O je diuránan amónny"
+      },
+      {
+        "id": "g",
+        "text": "sic je silan"
+      },
+      {
+        "id": "h",
+        "text": "K2Cu(SO4)2 . 6 H2O je hexahydrát síranu draselnomeďnateho"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "85. Vyberte správne pomenovania a vzorce komplexných zlúčenín:",
+    "options": [
+      {
+        "id": "a",
+        "text": "[Ni(NH3)6]Cl2 je chlorid hexaamminnikelnatý"
+      },
+      {
+        "id": "b",
+        "text": "[Čo(H2O)6](NO3)2 je dusitan hexaakvakobaltnaty"
+      },
+      {
+        "id": "c",
+        "text": "(NH4)3[Čo(NO2)6] je hexanitrokobaltnatan amónny"
+      },
+      {
+        "id": "d",
+        "text": "[Ni(H2O)6](ClO4)2 je chloristan hexaakvanikelnaty"
+      },
+      {
+        "id": "e",
+        "text": "Na[CdBr3] je tribromokademnatan sodný"
+      },
+      {
+        "id": "f",
+        "text": "[CuCl2(H2O)2] je diakva-dichloromeďnaty komplex"
+      },
+      {
+        "id": "g",
+        "text": "[Al(H2O)3(OH)3] je hydroxid triakvahlinity"
+      },
+      {
+        "id": "h",
+        "text": "HAuCl4 kyselina tetrachlorozlatita"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "86. Vyberte správne pomenované zlúčeniny a ich vzorce:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ca(AsO3)2 je arzenitan vápenatý"
+      },
+      {
+        "id": "b",
+        "text": "BN je nitrid boritý"
+      },
+      {
+        "id": "c",
+        "text": "Na2B4O7 . 10 H2O je dodekahydrat tetraboritanu sodného"
+      },
+      {
+        "id": "d",
+        "text": "H5IO6 je kyselina pentahydrogenjodicna"
+      },
+      {
+        "id": "e",
+        "text": "(NH4)2U2O7 je diuránan amónny"
+      },
+      {
+        "id": "f",
+        "text": "sic je silan"
+      },
+      {
+        "id": "g",
+        "text": "As(HSeO3)3 je hydrogenselenicitan arzenitý"
+      },
+      {
+        "id": "h",
+        "text": "Na2S2O3 je tiosíran sodný"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "87. Vyberte správne pomenovania a vzorce zlúčenín:",
+    "options": [
+      {
+        "id": "a",
+        "text": "CaH3 je hydrid vápenatý"
+      },
+      {
+        "id": "b",
+        "text": "SiCl4 je chlorid kremičitý"
+      },
+      {
+        "id": "c",
+        "text": "Mg2Sije silicid horečnatý"
+      },
+      {
+        "id": "d",
+        "text": "KO je hyperoxid draselný"
+      },
+      {
+        "id": "e",
+        "text": "SiH2 je silan"
+      },
+      {
+        "id": "f",
+        "text": "sic je karbid kremičitý"
+      },
+      {
+        "id": "g",
+        "text": "Cl2O je chlorid kyslíka"
+      },
+      {
+        "id": "h",
+        "text": "LizSe je selenid lítny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "88. Zlúčenina s chemickým vzorcom [Pt(NH3)6](OH)4:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má koordinačné číslo 6"
+      },
+      {
+        "id": "b",
+        "text": "obsahuje ligandy s názvom ammino a hydroxo"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje záporné nabité ligandy"
+      },
+      {
+        "id": "d",
+        "text": "centrálny atóm má oxidačné číslo +II"
+      },
+      {
+        "id": "e",
+        "text": "centralnyatommaoxidacnecislo+IV"
+      },
+      {
+        "id": "f",
+        "text": "má komplexný katión"
+      },
+      {
+        "id": "g",
+        "text": "je hydroxid"
+      },
+      {
+        "id": "h",
+        "text": "je hexaammin-tetrahydroxo-platnatan"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "89. V zlúčenine [PtCl(NH3)2]SO4:",
+    "options": [
+      {
+        "id": "a",
+        "text": "NH a ČI- sú ligandy"
+      },
+      {
+        "id": "b",
+        "text": "centrálny atóm má oxidačné číslo +Il"
+      },
+      {
+        "id": "c",
+        "text": "koordinačné číslo je 4"
+      },
+      {
+        "id": "d",
+        "text": "centrálnym atómom je Pt"
+      },
+      {
+        "id": "e",
+        "text": "komplexný katión má nábojové číslo +1 26"
+      },
+      {
+        "id": "f",
+        "text": "donorom elektrónov je len chlór"
+      },
+      {
+        "id": "g",
+        "text": "donorom elektrónov je aj voľný elektrónový pár na dusíku"
+      },
+      {
+        "id": "h",
+        "text": "akceptorom elektrónov je voľný elektrónový orbital na dusíku"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "90. Hydrát chloridu pentaammin-chloro-platiciteho:",
+    "options": [
+      {
+        "id": "a",
+        "text": "obsahuje komplexný katión s nábojovým číslom +3"
+      },
+      {
+        "id": "b",
+        "text": "má vodu ako ligand"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje 5 elektroneutralnych ligandov"
+      },
+      {
+        "id": "d",
+        "text": "má vo svojej molekule 4 atómy chlóru"
+      },
+      {
+        "id": "e",
+        "text": "makoordinacneCislo5"
+      },
+      {
+        "id": "f",
+        "text": "anión tvorí 1 atóm chlóru"
+      },
+      {
+        "id": "g",
+        "text": "centrálny atóm má oxidačné číslo +IV"
+      },
+      {
+        "id": "h",
+        "text": "má chemický vzorec [Pt(NH3)s(H2O)]Cl4"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "91. Diammin-tetranitrato-kobaltitan draselný:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má vzorec K3[Čo(NH3)2(NO3)4]"
+      },
+      {
+        "id": "b",
+        "text": "má koordinačné išlo 6"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje 3 atómy K"
+      },
+      {
+        "id": "d",
+        "text": "má vzorec K[Čo(NH3)2(NO2)4]"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje elektroneutrálny ligand"
+      },
+      {
+        "id": "f",
+        "text": "má vzorec K[Čo(NH3)2(NO3)4]"
+      },
+      {
+        "id": "g",
+        "text": "obsahuje 1 atóm draslíka"
+      },
+      {
+        "id": "h",
+        "text": "je dusičnan s komplexným katiónom"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "92. V ko0rdinacnej zlúčenine so vzorcom [CrBr2(H2O)4]NO2:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je Čr centrálny atóm"
+      },
+      {
+        "id": "b",
+        "text": "komplexný katión má nábojové číslo +1"
+      },
+      {
+        "id": "c",
+        "text": "koordinačné číslo je 2, ak je donorom elektrónov Br"
+      },
+      {
+        "id": "d",
+        "text": "koordinačné číslo je 4, ak je donorom elektrónov H2O"
+      },
+      {
+        "id": "e",
+        "text": "Br- a H2O sú ligandy"
+      },
+      {
+        "id": "f",
+        "text": "centrálny atóm má oxidačné číslo +VI"
+      },
+      {
+        "id": "g",
+        "text": "sú 4 molekuly kryštalický viazanej vody"
+      },
+      {
+        "id": "h",
+        "text": "anión je dusitan"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "93. Vyberte elektroneutrálne ligandy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "karbonyl"
+      },
+      {
+        "id": "b",
+        "text": "nitrozyl"
+      },
+      {
+        "id": "c",
+        "text": "fosforyl"
+      },
+      {
+        "id": "d",
+        "text": "ammin"
+      },
+      {
+        "id": "e",
+        "text": "aqua"
+      },
+      {
+        "id": "f",
+        "text": "sulfuryl"
+      },
+      {
+        "id": "g",
+        "text": "chlorid"
+      },
+      {
+        "id": "h",
+        "text": "kyanid"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "94. Ktoré zlúčeniny obsahujú vo svojej molekule anióny s oxidačným islom -II?",
+    "options": [
+      {
+        "id": "a",
+        "text": "nabro"
+      },
+      {
+        "id": "b",
+        "text": "KMnO4 27"
+      },
+      {
+        "id": "c",
+        "text": "K2S203"
+      },
+      {
+        "id": "d",
+        "text": "MgCr2O7"
+      },
+      {
+        "id": "e",
+        "text": "Mg3(PO3)2"
+      },
+      {
+        "id": "f",
+        "text": "BaTiO3"
+      },
+      {
+        "id": "g",
+        "text": "Bas(AsO4)2"
+      },
+      {
+        "id": "h",
+        "text": "Na2S2Os"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "95. Vyberte správne pomenované zliceniny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "AgAsO3 je arsenitan strieborný"
+      },
+      {
+        "id": "b",
+        "text": "Mn2(PO3) je fosforečnan mangánatý"
+      },
+      {
+        "id": "c",
+        "text": "Mg(HSO4)2 je hydrogensiricitan horečnatý"
+      },
+      {
+        "id": "d",
+        "text": "(NH4)2Cr2O je dichróman amónny"
+      },
+      {
+        "id": "e",
+        "text": "CaS2Os je disiricitan vápenatý"
+      },
+      {
+        "id": "f",
+        "text": "BaMnO4 je mangánan bárnatý"
+      },
+      {
+        "id": "g",
+        "text": "CaCIO2 je chlórnan vápenatý"
+      },
+      {
+        "id": "h",
+        "text": "NHCIO3 je chlorečnan amónny"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "96. Ktoré z uvedených zlúčenín si peroxidy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "KO2"
+      },
+      {
+        "id": "b",
+        "text": "Na202"
+      },
+      {
+        "id": "c",
+        "text": "KO3"
+      },
+      {
+        "id": "d",
+        "text": "H202"
+      },
+      {
+        "id": "e",
+        "text": "NaO2"
+      },
+      {
+        "id": "f",
+        "text": "HgO2"
+      },
+      {
+        "id": "g",
+        "text": "BaO2"
+      },
+      {
+        "id": "h",
+        "text": "bao"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "97. Vyberte tie prvky, ktoré si často centrálnym atómom v komplexných zlúčeninách:",
+    "options": [
+      {
+        "id": "a",
+        "text": "B"
+      },
+      {
+        "id": "b",
+        "text": "Ca"
+      },
+      {
+        "id": "c",
+        "text": "Pt"
+      },
+      {
+        "id": "d",
+        "text": "S"
+      },
+      {
+        "id": "e",
+        "text": "Čo"
+      },
+      {
+        "id": "f",
+        "text": "Fe"
+      },
+      {
+        "id": "g",
+        "text": "K"
+      },
+      {
+        "id": "h",
+        "text": "Ag"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "98. Urete nesprávne (chybne) pomenované zliceniny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Na2CO3 je sóda"
+      },
+      {
+        "id": "b",
+        "text": "K2CO3 je potaš"
+      },
+      {
+        "id": "c",
+        "text": "NaNO3 je kamenec"
+      },
+      {
+        "id": "d",
+        "text": "KCr(SO4)2 . 12 H2O je karnalit"
+      },
+      {
+        "id": "e",
+        "text": "HgClz je kalomel"
+      },
+      {
+        "id": "f",
+        "text": "FeSO4.7H2O je zelená skalica"
+      },
+      {
+        "id": "g",
+        "text": "NO2 je rajský plyn"
+      },
+      {
+        "id": "h",
+        "text": "hgs je rumelka 28"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "99. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ZnSO4. 7 H2O je biela skalica"
+      },
+      {
+        "id": "b",
+        "text": "pbs je sfalerit"
+      },
+      {
+        "id": "c",
+        "text": "SiO2 je korund"
+      },
+      {
+        "id": "d",
+        "text": "kcl je sylvín"
+      },
+      {
+        "id": "e",
+        "text": "KCN je cyankáli"
+      },
+      {
+        "id": "f",
+        "text": "FeS2 je chalkopyrit"
+      },
+      {
+        "id": "g",
+        "text": "NasAIF6 je kryolit"
+      },
+      {
+        "id": "h",
+        "text": "KNO3 je čilský liadok"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "100. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mosadz je zliatina Cu a Zn"
+      },
+      {
+        "id": "b",
+        "text": "sadrovec je Ca(OH)2"
+      },
+      {
+        "id": "c",
+        "text": "hasené vápno je CaCO3"
+      },
+      {
+        "id": "d",
+        "text": "alpaka je zliatina Ni, Zn a Cu"
+      },
+      {
+        "id": "e",
+        "text": "bronz je zliatina Sn a Cu"
+      },
+      {
+        "id": "f",
+        "text": "amalgám je zliatina Sn a Pb"
+      },
+      {
+        "id": "g",
+        "text": "salmiak je NHC1"
+      },
+      {
+        "id": "h",
+        "text": "sadra je cao"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+  }
+]

@@ -1,0 +1,2297 @@
+[
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "151. Prúd héliových jadier:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je infračervené Žiarenie"
+      },
+      {
+        "id": "b",
+        "text": "má silné ionizačné účinky"
+      },
+      {
+        "id": "c",
+        "text": "je najprenikavejším rádioaktívnym Žiarením"
+      },
+      {
+        "id": "d",
+        "text": "je  Žiarenie"
+      },
+      {
+        "id": "e",
+        "text": "je rádioaktívne α Žiarenie"
+      },
+      {
+        "id": "f",
+        "text": "vyžiarením ktorých sa hmotnosť atómu zníži o 4 a protónové číslo Z sa zníži 02"
+      },
+      {
+        "id": "g",
+        "text": "vychyľuje sa v elektrickom a magnetickom poli"
+      },
+      {
+        "id": "h",
+        "text": "vyžiarením ktorých sa hmotnosť atómu zníži o 4 a protónové číslo Z sa zvýši 02"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "152. Rádioaktívne Žiarenie a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa uvo'ni pri reakci 226g8Ra -→ 2286Rn + *2He"
+      },
+      {
+        "id": "b",
+        "text": "sa neuvoľňuje pri prirodzenom rozpade 238 92U a 232 goth"
+      },
+      {
+        "id": "c",
+        "text": "nie je možné dokázať na základe jeho ionizačných schopnosti"
+      },
+      {
+        "id": "d",
+        "text": "po vyžiarení α Častice sa hmotnosť atómu zníži o 4 a protónové číslo sa zmenio +2"
+      },
+      {
+        "id": "e",
+        "text": "má nízku energiu a malú prenikavosť"
+      },
+      {
+        "id": "f",
+        "text": "zadrží už list papiera"
+      },
+      {
+        "id": "g",
+        "text": "je prúd rýchle letiacich atómových jadier hélia"
+      },
+      {
+        "id": "h",
+        "text": "v magnetickom a elektrickom poli sa nevychyľuje"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "153. Polčas (polpremena) rádioaktívneho rozpadu je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "čas, za ktorý sa rozpadne I mol prvku"
+      },
+      {
+        "id": "b",
+        "text": "množstvo rádioaktívneho prvku, ktoré sa rozpadne za rok"
+      },
+      {
+        "id": "c",
+        "text": "Čas, ktorý je potrebný na to, aby sa rozpadla polovica hmotnosti rádioaktívneho prvku"
+      },
+      {
+        "id": "d",
+        "text": "čas, potrebný na to, aby sa rádioaktívny prvok rozpadol kompletne (celý)"
+      },
+      {
+        "id": "e",
+        "text": "u všetkých rádioaktívnych prvkov rovnaký"
+      },
+      {
+        "id": "f",
+        "text": "viac ako 12 rokov pre 3,T"
+      },
+      {
+        "id": "g",
+        "text": "pre 238 92U viac ako milión rokov"
+      },
+      {
+        "id": "h",
+        "text": "čas, za ktorý sa rozpadne 1 g prvku"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "154. Prírodné rádioaktívne rozpadové rady:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tvoria nestabilné atómy, vznikajúce rádioaktívnym rozpadom prirodzene radioaktivnychprvkov"
+      },
+      {
+        "id": "b",
+        "text": "sú napr. tóriový rád a neptúniový rád"
+      },
+      {
+        "id": "c",
+        "text": "končia stabilným izotopom olova"
+      },
+      {
+        "id": "d",
+        "text": "končia izotopom 14 C"
+      },
+      {
+        "id": "e",
+        "text": "obsahujú izotop najťažšieho vzácneho plynu"
+      },
+      {
+        "id": "f",
+        "text": "končia tríciom"
+      },
+      {
+        "id": "g",
+        "text": "končia stabilným izotopom bizmutu"
+      },
+      {
+        "id": "h",
+        "text": "predstavujú rozpad nestabilných nuklidov vyskytujúcich sa v prírode, sprevádzaný vyžiarením nevidíte'neho Žiarenia"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "155. Izotopy st:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nuklidy,ktoré majú rovnaké nukleónové a iné protónové číslo 41"
+      },
+      {
+        "id": "b",
+        "text": "nuklidy, ktoré majú rovnaké nukleónové aj protónové číslo"
+      },
+      {
+        "id": "c",
+        "text": "nukleóny, ktoré majú rovnaké nuklidove a iné protónové išlo"
+      },
+      {
+        "id": "d",
+        "text": "nukleóny, ktoré majú rovnaké protónové a iné nuklidove Číslo"
+      },
+      {
+        "id": "e",
+        "text": "napr. 5827Co a 6027Co"
+      },
+      {
+        "id": "f",
+        "text": "nuklidy s rovnakým počtom elektrónov a protónov ale rôznym počtom neutrónov v jadre atómu"
+      },
+      {
+        "id": "g",
+        "text": "nuklidy, ktoré sa líšia relatívnou atómovou hmotnosťou"
+      },
+      {
+        "id": "h",
+        "text": "nuklidy, ktoré majú rovnaké protónové a iné nukleónové číslo"
+      }
+    ],
+    "correct_answers": [
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "156. Rádioaktívne Žiarenie :",
+    "options": [
+      {
+        "id": "a",
+        "text": "je najprenikavejším rádioaktívnym Žiarením"
+      },
+      {
+        "id": "b",
+        "text": "pri jeho vyžiarení sa protónové číslo Z zmení o -1"
+      },
+      {
+        "id": "c",
+        "text": "pri jeho vyžiarení sa protónové išlo nemení"
+      },
+      {
+        "id": "d",
+        "text": "sa uvoľni pri premene 99m 49In -→ 99 49ln"
+      },
+      {
+        "id": "e",
+        "text": "má najväčšie ionizačné schopnosti"
+      },
+      {
+        "id": "f",
+        "text": "je elektromagnetické žiarenie"
+      },
+      {
+        "id": "g",
+        "text": "sa neuvoľňuje pri deexcitacii vzbudeného jadra atómu"
+      },
+      {
+        "id": "h",
+        "text": "je emisia neutrónov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "157. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "konenym produktom premeny je stabilný izotop 206g2Pb"
+      },
+      {
+        "id": "b",
+        "text": "po štyroch rozpadoch α a po dvoch rozpadoch β- vznikne izotop radónu"
+      },
+      {
+        "id": "c",
+        "text": "konečným produktom premeny je stabilný izotop 21283Bi"
+      },
+      {
+        "id": "d",
+        "text": "v tomto rade sa uskutočňuje 8 premien α a 6 premien β-"
+      },
+      {
+        "id": "e",
+        "text": "v tomto rade sa uskutočňuje 6 premien α a 4 premeny β-"
+      },
+      {
+        "id": "f",
+        "text": "po štyroch rozpadoch α a po dvoch rozpadoch β vznikne izotop rádia"
+      },
+      {
+        "id": "g",
+        "text": "po prvom rozpade α vznikne 234goTh"
+      },
+      {
+        "id": "h",
+        "text": "v tomto rade sa uskutočňujú iba premeny α"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "158. Jadro 238U92 sa postupne mení na iné jadra (tzv. uránový rozpadový rád). Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "východiskovým nuklidom je urán 238"
+      },
+      {
+        "id": "b",
+        "text": "po štyroch rozpadoch alfa a po dvoch rozpadoch beta- vznikne izotop radónu"
+      },
+      {
+        "id": "c",
+        "text": "konečným produktom premeny je stabilný izotop olova 206Pb"
+      },
+      {
+        "id": "d",
+        "text": "v tomto rade sa uskutočňuje 8 premien alfa a 6 premien beta-"
+      },
+      {
+        "id": "e",
+        "text": "v tomto rade sa uskutočňuje 6 premien alfa a 4 premeny beta-"
+      },
+      {
+        "id": "f",
+        "text": "po štyroch rozpadoch alfa a po dvoch rozpadoch beta vznikne izotop rádia"
+      },
+      {
+        "id": "g",
+        "text": "po prvom rozpade alfa vznikne 234Th90"
+      },
+      {
+        "id": "h",
+        "text": "v tomto rade sa uskutočňujú iba premeny alfa"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "159. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "atómy 14N a 13C obsahujú 7 neutrónov"
+      },
+      {
+        "id": "b",
+        "text": "27Al a 31P obsahujú rovnaký počet neutrónov"
+      },
+      {
+        "id": "c",
+        "text": "12C, 13C a 32S, 34S sú izotopy"
+      },
+      {
+        "id": "d",
+        "text": "atómy 12C, 32S a 4N obsahujú rovnaký počet neutrónov a protónov"
+      },
+      {
+        "id": "e",
+        "text": "ostreľovaním stabilného izotopu 3iP deuterónmi vzniká rádioaktívny izotop 32P"
+      },
+      {
+        "id": "f",
+        "text": "atómy 13C a 32S obsahujú rovnaký počet neutrónov a protónov"
+      },
+      {
+        "id": "g",
+        "text": "ani jeden z prvkov nie je rádioaktívny"
+      },
+      {
+        "id": "h",
+        "text": "atómy 13C a 12C obsahujú 6 neutrónov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "160. Vyberte správne tvrdenie o zložení atómových jadier a izotopoch:",
+    "options": [
+      {
+        "id": "a",
+        "text": "atómy 14N a 13C obsahujú 7 neutrónov"
+      },
+      {
+        "id": "b",
+        "text": "27Al a 31P obsahujú rovnaký počet neutrónov"
+      },
+      {
+        "id": "c",
+        "text": "12C, 13C a 32S, 34S sú izotopy"
+      },
+      {
+        "id": "d",
+        "text": "atómy 12C, 32S a 14N obsahujú rovnaký počet neutrónov a protónov"
+      },
+      {
+        "id": "e",
+        "text": "ostreľovaním stabilného izotopu 31P deuterónmi vzniká rádioaktívny izotop 32P"
+      },
+      {
+        "id": "f",
+        "text": "atómy 13C a 32S obsahujú rovnaký počet neutrónov a protónov"
+      },
+      {
+        "id": "g",
+        "text": "ani jeden z uvedených prvkov nie je rádioaktívny"
+      },
+      {
+        "id": "h",
+        "text": "atómy 13C a 12C obsahujú 6 neutrónov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "161. Kovová väzba:",
+    "options": [
+      {
+        "id": "a",
+        "text": "charakterizuje ju elektrónový plyn"
+      },
+      {
+        "id": "b",
+        "text": "vytvára sa medzi prvkami s vysokými hodnotami elektronegativity"
+      },
+      {
+        "id": "c",
+        "text": "môže byť aj násobná"
+      },
+      {
+        "id": "d",
+        "text": "je príčinou dobrej elektrickej a tepelnej vodivosti kovových zlúčenín"
+      },
+      {
+        "id": "e",
+        "text": "má smerový charakter"
+      },
+      {
+        "id": "f",
+        "text": "je delokalizovaná kovalentná väzba"
+      },
+      {
+        "id": "g",
+        "text": "je polárna"
+      },
+      {
+        "id": "h",
+        "text": "tvorí sa medzi atómami kovov v tuhom skupenstve"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "162. O medzimolekulových silách (interakciách) platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú to iba príťažlivé interakcie medzi molekulami"
+      },
+      {
+        "id": "b",
+        "text": "určujú skupenský stav látok"
+      },
+      {
+        "id": "c",
+        "text": "ovplyvňujú teplotu topenia a varu látok"
+      },
+      {
+        "id": "d",
+        "text": "nemají vplyv na skupenský stav látok"
+      },
+      {
+        "id": "e",
+        "text": "vodikovavazba nepatrido skupinymedzimolekulovychsil"
+      },
+      {
+        "id": "f",
+        "text": "môžu ovplyvniť aj pôsobenie liečivá na organizmus"
+      },
+      {
+        "id": "g",
+        "text": "sú podstatne slabšie ako chemické väzby"
+      },
+      {
+        "id": "h",
+        "text": "sú to len van der Waalsove sily"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "163. Molekula SO3:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je rovinnou molekulou, atóm síry je sp3 hybridizovaný"
+      },
+      {
+        "id": "b",
+        "text": "je rovinnou molekulou, atóm síry je sp? hybridizovaný"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje tri o väzby"
+      },
+      {
+        "id": "d",
+        "text": "atóm síry nie je hybridizovaný"
+      },
+      {
+        "id": "e",
+        "text": "všetky väzby v molekule sú energeticky rovnocenné"
+      },
+      {
+        "id": "f",
+        "text": "je lineárna"
+      },
+      {
+        "id": "g",
+        "text": "obsahuje aj π väzby"
+      },
+      {
+        "id": "h",
+        "text": "väzbový uhol má veľkosť 120°"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "164. O rovinných molekulách platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tvar vysvetľuje sp? hybridizácia"
+      },
+      {
+        "id": "b",
+        "text": "molekuly vody sú rovinné 43"
+      },
+      {
+        "id": "c",
+        "text": "obsahujú vždy aj π väzby"
+      },
+      {
+        "id": "d",
+        "text": "Že sú tvorené len  väzbami"
+      },
+      {
+        "id": "e",
+        "text": "ich hybridné orbitály vznikli hybridizáciou dvoch s a jedného p atómového orbitálu"
+      },
+      {
+        "id": "f",
+        "text": "molekuly môžu mať tvar trojuholníka"
+      },
+      {
+        "id": "g",
+        "text": "do skupiny rovinných molekil patrí benzén"
+      },
+      {
+        "id": "h",
+        "text": "hybridné orbitály zvierajú uhol 120°"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "165. onová väzba:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je príčinou krehkosti iónových zlúčenín"
+      },
+      {
+        "id": "b",
+        "text": "vyznačuje sa mimoriadnou pevnosťou"
+      },
+      {
+        "id": "c",
+        "text": "pri jej vzniku zaniká kovalentný charakter väzby"
+      },
+      {
+        "id": "d",
+        "text": "je extrémne polárna chemická väzba, rozdiel elektronegativít atómov je väčší ako 1,7"
+      },
+      {
+        "id": "e",
+        "text": "má smerový charakter"
+      },
+      {
+        "id": "f",
+        "text": "pri jej vzniku je dôležitá iba veľkosť zlúčených atómov"
+      },
+      {
+        "id": "g",
+        "text": "neovplyvhuje rozpúšťanie iónových zlúčenín v rozpúšťadlách"
+      },
+      {
+        "id": "h",
+        "text": "nemá smerový charakter"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "166. 0 kryštalických látkach neplatí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "môžeme v nich určiť základňu bunku, ktorá sa pravidelne opakuje"
+      },
+      {
+        "id": "b",
+        "text": "geometrický tvar kryštálu závisí od jeho veľkosti"
+      },
+      {
+        "id": "c",
+        "text": "na vlastnosti kryštálu nemajú vplyv chemické väzby medzi časticami kryštálu"
+      },
+      {
+        "id": "d",
+        "text": "všetky vedú elektrický prúd"
+      },
+      {
+        "id": "e",
+        "text": "vyznačujú sa simernostou"
+      },
+      {
+        "id": "f",
+        "text": "povrch kryštálov tvoria rovinné kryštálové plochy, hrany a vrcholy"
+      },
+      {
+        "id": "g",
+        "text": "rozdeľujeme ich na iónové, atómové a molekulové"
+      },
+      {
+        "id": "h",
+        "text": "Možnosť H (pozri testovnicu)"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "167. Vyberte látky vytvárajúce molekulové kryštály:",
+    "options": [
+      {
+        "id": "a",
+        "text": "aragonit"
+      },
+      {
+        "id": "b",
+        "text": "zafír"
+      },
+      {
+        "id": "c",
+        "text": "vzácne plyny"
+      },
+      {
+        "id": "d",
+        "text": "C12"
+      },
+      {
+        "id": "e",
+        "text": "azán"
+      },
+      {
+        "id": "f",
+        "text": "NaC1"
+      },
+      {
+        "id": "g",
+        "text": "kbr"
+      },
+      {
+        "id": "h",
+        "text": "metán"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "168. Vyberte látky s atómovou kryštálovou štruktúrou:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ametyst"
+      },
+      {
+        "id": "b",
+        "text": "rubín"
+      },
+      {
+        "id": "c",
+        "text": "kalcit"
+      },
+      {
+        "id": "d",
+        "text": "modrá skalica"
+      },
+      {
+        "id": "e",
+        "text": "kremeň"
+      },
+      {
+        "id": "f",
+        "text": "suchý P'ad"
+      },
+      {
+        "id": "g",
+        "text": "KCI 44"
+      },
+      {
+        "id": "h",
+        "text": "sfalerit"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "169. Iónové kryštály vytvárajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "korund"
+      },
+      {
+        "id": "b",
+        "text": "Al203"
+      },
+      {
+        "id": "c",
+        "text": "kamenná soľ"
+      },
+      {
+        "id": "d",
+        "text": "CaCO3"
+      },
+      {
+        "id": "e",
+        "text": "K2SO4"
+      },
+      {
+        "id": "f",
+        "text": "CaF2"
+      },
+      {
+        "id": "g",
+        "text": "H20"
+      },
+      {
+        "id": "h",
+        "text": "H2"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "170. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prekryvom dvoch p orbitálov môže vzniknúť  väzba"
+      },
+      {
+        "id": "b",
+        "text": "pre živé organizmy vodíková väzba nemá veľký význam"
+      },
+      {
+        "id": "c",
+        "text": "vďaka násobným väzbám má I'ad menšiu hustotu ako kvapalná voda"
+      },
+      {
+        "id": "d",
+        "text": "ligandy sa na centrálny atóm v komplexných zlúčeninách viažu donorno -- akceptorovouvazbou"
+      },
+      {
+        "id": "e",
+        "text": "charakter iónových kryštálov majú aj soli obsahujúce komplexné ióny"
+      },
+      {
+        "id": "f",
+        "text": "koordinačná väzba nemá kovalentný charakter uhlíka"
+      },
+      {
+        "id": "g",
+        "text": "prinou farebnosti mnohých organických zlúčenín st aj násobne väzby"
+      },
+      {
+        "id": "h",
+        "text": "molekula obsahujúca iba polárne väzby je celá polárna"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "171. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dipólový moment väzby μ vzniká nerovnomerným rozložením elektrónovej hustoty medzi väzbovými atómami"
+      },
+      {
+        "id": "b",
+        "text": "inhibícia je proces spomalenia rýchlosti chemických reakci pôsobením inhibítorov"
+      },
+      {
+        "id": "c",
+        "text": "ionizačná energia je energia potrebná na odtrhnutie valenčného elektrónu z atómu"
+      },
+      {
+        "id": "d",
+        "text": "katalýza je proces ovplyvňovania rovnováhy chemických reakcií pôsobením katalyzátorov"
+      },
+      {
+        "id": "e",
+        "text": "Čím je ionizačná energia vyššia, tým je prvok reaktívnejší (napr. s-prvky)"
+      },
+      {
+        "id": "f",
+        "text": "ak atóm prijme jeden alebo viac elektrónov, energia sa uvoľňuje a vzniká anión"
+      },
+      {
+        "id": "g",
+        "text": "energia, ktorú musíme dodať atómu, aby prijal jeden alebo viac elektrónov, je elektrónová afinita"
+      },
+      {
+        "id": "h",
+        "text": "Čím je hodnota elektrónovej afinity vyššia, tým je prvok elektropozitivnejsf"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "172. Vodíková väzba, nazývaná aj vodíkový mostík:",
+    "options": [
+      {
+        "id": "a",
+        "text": "môže byť intermolekulárna a intramolekulárna"
+      },
+      {
+        "id": "b",
+        "text": "vzniká hlavne v nepolárnych zlúčeninách"
+      },
+      {
+        "id": "c",
+        "text": "je silnejšia ako kovalentná väzba"
+      },
+      {
+        "id": "d",
+        "text": "je medzi molekulami HF, H2O a NH3"
+      },
+      {
+        "id": "e",
+        "text": "určuje sekvenciu nukleových kyselín"
+      },
+      {
+        "id": "f",
+        "text": "v molekulách bielkovín stabilizuje ich sekundárnu štruktúru 45 a varu"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "nemá vplyv na chemické a fyzikálne vlastnosti zlúčenín"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "173. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sp - hybridizácia: lineárne usporiadanie, 2 hybridné orbitály"
+      },
+      {
+        "id": "b",
+        "text": "sp - hybridizácia: rovinné usporiadanie, 2 hybridné orbitály"
+      },
+      {
+        "id": "c",
+        "text": "sp? - hybridizácia: lineárne usporiadanie, 3 hybridné orbitály"
+      },
+      {
+        "id": "d",
+        "text": "všetky alkány obsahujú rovnako hybridizovaný uhlík"
+      },
+      {
+        "id": "e",
+        "text": "sp3 - hybridizácia: lineárne usporiadanie, 3 hybridné orbitály"
+      },
+      {
+        "id": "f",
+        "text": "sp'd - hybridizácia: rovinné usporiadanie, 3 hybridné orbitály"
+      },
+      {
+        "id": "g",
+        "text": "sp - hybridizácia atómu uhlíka v molekule HCN má za následok lineárny tvar tejto molekuly"
+      },
+      {
+        "id": "h",
+        "text": "sp2- hybridizácia atómu uhlíka v karbonylovej skupine vysveťuje rovinnt priestorovú orientáciu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "174. π väzba:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vzniká prekrývaním orbitálov lokalizovaných na spojnici dvoch jadier"
+      },
+      {
+        "id": "b",
+        "text": "vzniká prekrývaním orbitálov lokalizovaných kolmo na spojnicu jadier dvoch atómov"
+      },
+      {
+        "id": "c",
+        "text": "podmienkou jej vzniku je sp - hybridizácia"
+      },
+      {
+        "id": "d",
+        "text": "podmienkou jej vzniku je sp? - hybridizácia"
+      },
+      {
+        "id": "e",
+        "text": "má rotační symetriu vzh'adom na os väzby"
+      },
+      {
+        "id": "f",
+        "text": "nemá rotačnú symetriu vzhľadom na os väzby"
+      },
+      {
+        "id": "g",
+        "text": "sa môže vyskytovať medzi atómami uhlíka pri sp? hybridizaci"
+      },
+      {
+        "id": "h",
+        "text": "vzniká bočným prekrytím p orbitálov, d orbitálov alebo p a d orbitálov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "175. Vyberte správne tvrdenie o slabých väzbových interakciách:",
+    "options": [
+      {
+        "id": "a",
+        "text": "disperzné sily a hydrofóbne interakcie nepatria k slabým väzbovým interakciám"
+      },
+      {
+        "id": "b",
+        "text": "interakcia dipól - ión uplathujuca sa vo vodných roztokoch obsahujúcich ióny, tzv. hydratácia iónov sem nepatrí"
+      },
+      {
+        "id": "c",
+        "text": "patria sem van der Waalsove sily a vodíková väzba najsilnejšie"
+      },
+      {
+        "id": "d",
+        "text": "najsilnejsiepor-dpor šuzo staoye mezoteuoyoneedle eajsilneisieodstatu rozpustnosti polárnej latkypolarmom rozpistadle esverujupodstaturozpustnstiolameilatpamwaaschsi hydrofobneinterakciesi ibaysledkomposobeniavanderWaalsovychsil geuplaujuedyaksanamolekuladstadoblizoti hmolekulypolarmeie oyplyviovaniemolekil.tóre samozuspajat do"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F (pozri testovnicu)"
+      },
+      {
+        "id": "g",
+        "text": "neuplatuju sa vtedy, ak sa nepolárna molekula dostane do blízkosti molekulypolarnej"
+      },
+      {
+        "id": "h",
+        "text": "spôsobujú yzajomne ovplyvhovanie molekúl, ktoré sa môžu spájať do zložitejších nadmolekulovych štruktúr"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "176. Vyznáte, medzi ktorými prvkami je možný a správne vyznačený vodíkový mostík:",
+    "options": [
+      {
+        "id": "a",
+        "text": "F-H"
+      },
+      {
+        "id": "b",
+        "text": "O...H"
+      },
+      {
+        "id": "c",
+        "text": "C-H"
+      },
+      {
+        "id": "d",
+        "text": "N-H 46"
+      },
+      {
+        "id": "e",
+        "text": "..H"
+      },
+      {
+        "id": "f",
+        "text": "ČI...H"
+      },
+      {
+        "id": "g",
+        "text": "..H"
+      },
+      {
+        "id": "h",
+        "text": "N...H"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "177. Väzbová energia:",
+    "options": [
+      {
+        "id": "a",
+        "text": "čím je vyššia, tým je väzba pevnejšia"
+      },
+      {
+        "id": "b",
+        "text": "čím je nižšia, tým je väzba pevnejšia"
+      },
+      {
+        "id": "c",
+        "text": "je väčšia ako disociačná energia"
+      },
+      {
+        "id": "d",
+        "text": "je menšia ako disociačná energia"
+      },
+      {
+        "id": "e",
+        "text": "je mierou pevnosti väzby"
+      },
+      {
+        "id": "f",
+        "text": "je mierou elektronegativity molekuly"
+      },
+      {
+        "id": "g",
+        "text": "v uvedených molekulách stipa V poradí Cl2, O2, N2"
+      },
+      {
+        "id": "h",
+        "text": "v uvedených molekulách klesá v poradí Cl2, O2, N2"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "178. Van der Waalsove sily:",
+    "options": [
+      {
+        "id": "a",
+        "text": "patria medzi slabé väzbové interakcie"
+      },
+      {
+        "id": "b",
+        "text": "pôsobia medzi časticami polárnymi, nepolárnymi, neutrálnymi alebo nesúcimi náboj vo všetkých troch skupenstvách"
+      },
+      {
+        "id": "c",
+        "text": "ich podstatou je elektrostatické príťažlivé pôsobenie medzi časticami (molekulami, iónmi, atómami), ktoré majú ureity elektrický náboj alebo indukovaný náboj"
+      },
+      {
+        "id": "d",
+        "text": "najslabšie sú disperzné sily"
+      },
+      {
+        "id": "e",
+        "text": "vznikajú medzi aniónmi a katiónmi"
+      },
+      {
+        "id": "f",
+        "text": "vyskytujú sa v komplexných zlúčeninách"
+      },
+      {
+        "id": "g",
+        "text": "charakterizujú primárnu štruktúru bielkovín"
+      },
+      {
+        "id": "h",
+        "text": "veľmi slabé sú interakcie dipól - dipól prejavujúce sa u polárnych molekúl"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "179. Koordinačná, donorné-akceptorova väzba:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa od kovalentnej väzby ničím neodlišuje"
+      },
+      {
+        "id": "b",
+        "text": "je v ione [Al(H2O)6]3+"
+      },
+      {
+        "id": "c",
+        "text": "je v ione [BF6]3-"
+      },
+      {
+        "id": "d",
+        "text": "vzniká medzi atómami dusíka amoniaku a vodíkovým katiónom pri vzniku amónneho katiónu"
+      },
+      {
+        "id": "e",
+        "text": "vyskytuje sa v [B(H2O)6]3+"
+      },
+      {
+        "id": "f",
+        "text": "je medzi atómami uhlíka nenasýtených uhľovodíkov"
+      },
+      {
+        "id": "g",
+        "text": "vzniká tak, že obidva väzbové elektróny poskytuje len jeden atóm"
+      },
+      {
+        "id": "h",
+        "text": "vznikne prekrytím orbitálu obsahujúceho elektrónový pár s vakantným orbitálom"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "180. Ktorá molekula je polárna?",
+    "options": [
+      {
+        "id": "a",
+        "text": "karboxylových kyselín"
+      },
+      {
+        "id": "b",
+        "text": "H20"
+      },
+      {
+        "id": "c",
+        "text": "CH3-O-CH3"
+      },
+      {
+        "id": "d",
+        "text": "báz v DŇA"
+      },
+      {
+        "id": "e",
+        "text": "NH3"
+      },
+      {
+        "id": "f",
+        "text": "CH4"
+      },
+      {
+        "id": "g",
+        "text": "CH3-CH2-OH"
+      },
+      {
+        "id": "h",
+        "text": "CH3-ČO-CH3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "181. Vodíkové väzby (vodíkové mostíky) sa môžu tvoriť medzi molekulami:",
+    "options": [
+      {
+        "id": "a",
+        "text": "karboxylových kyselín"
+      },
+      {
+        "id": "b",
+        "text": "vody H2O"
+      },
+      {
+        "id": "c",
+        "text": "dimetyleteru CH3-O-CH3"
+      },
+      {
+        "id": "d",
+        "text": "dusíkatých báz v DŇA"
+      },
+      {
+        "id": "e",
+        "text": "amoniaku NH3"
+      },
+      {
+        "id": "f",
+        "text": "metánu CH4"
+      },
+      {
+        "id": "g",
+        "text": "etanolu CH3-CH2-OH"
+      },
+      {
+        "id": "h",
+        "text": "acetónu CH3-ČO-CH3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "182. V ktorej molekule sú tri voľne elektrónové páry?",
+    "options": [
+      {
+        "id": "a",
+        "text": "fosfán"
+      },
+      {
+        "id": "b",
+        "text": "hbr"
+      },
+      {
+        "id": "c",
+        "text": "voda"
+      },
+      {
+        "id": "d",
+        "text": "chlorovodík"
+      },
+      {
+        "id": "e",
+        "text": "amoniak"
+      },
+      {
+        "id": "f",
+        "text": "N2"
+      },
+      {
+        "id": "g",
+        "text": "náci"
+      },
+      {
+        "id": "h",
+        "text": "H2"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "183. Medzi charakteristické vlastnosti iónových zlúčenín patrí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dobrá rozpustmostvpolarnychrozpustadlach"
+      },
+      {
+        "id": "b",
+        "text": "nízka teplota topenia a varu (300 °C - 500 °C)"
+      },
+      {
+        "id": "c",
+        "text": "zlá rozpustnosť vo vode"
+      },
+      {
+        "id": "d",
+        "text": "dobrá rozpustnosť v polárnych rozpúšťadlách"
+      },
+      {
+        "id": "e",
+        "text": "vysoká teplota topenia a varu (600 °C - 2 000 °C)"
+      },
+      {
+        "id": "f",
+        "text": "krehkosť a stiepiteľnost pri mechanickom namáhaní"
+      },
+      {
+        "id": "g",
+        "text": "ich taveniny a roztoky nevedú elektrický prúd"
+      },
+      {
+        "id": "h",
+        "text": "ich taveniny a roztoky vedú dobre elektrický prúd"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "184. Pre molekulu kyanovodíka platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "obsahuje sp? hybridizovaný uhlík"
+      },
+      {
+        "id": "b",
+        "text": "má dve o a dve π väzby"
+      },
+      {
+        "id": "c",
+        "text": "má jednu  a tri π väzby"
+      },
+      {
+        "id": "d",
+        "text": "má lineárny tvar"
+      },
+      {
+        "id": "e",
+        "text": "má dve  a tri π väzby"
+      },
+      {
+        "id": "f",
+        "text": "obsahuje sp hybridizovaný uhlík"
+      },
+      {
+        "id": "g",
+        "text": "jeho štyri väzby sú energeticky rovnocenné"
+      },
+      {
+        "id": "h",
+        "text": "má tvar rovinného trojuholníka"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "185. Nepolárna kovalentná väzba je v molekule:",
+    "options": [
+      {
+        "id": "a",
+        "text": "amoniaku"
+      },
+      {
+        "id": "b",
+        "text": "vody"
+      },
+      {
+        "id": "c",
+        "text": "chlóru"
+      },
+      {
+        "id": "d",
+        "text": "vodíka"
+      },
+      {
+        "id": "e",
+        "text": "chlorovodíka 48"
+      },
+      {
+        "id": "f",
+        "text": "kuchynskej soli"
+      },
+      {
+        "id": "g",
+        "text": "kyslíka"
+      },
+      {
+        "id": "h",
+        "text": "fosfánu"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "186. V ktorej molekule sa nevyskytuje n väzba?",
+    "options": [
+      {
+        "id": "a",
+        "text": "CO2"
+      },
+      {
+        "id": "b",
+        "text": "ČO"
+      },
+      {
+        "id": "c",
+        "text": "HCN"
+      },
+      {
+        "id": "d",
+        "text": "NH3"
+      },
+      {
+        "id": "e",
+        "text": "N2"
+      },
+      {
+        "id": "f",
+        "text": "H2S"
+      },
+      {
+        "id": "g",
+        "text": "CH4"
+      },
+      {
+        "id": "h",
+        "text": "Br2"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "187. Iónová väzba sa nachádza v molekule:",
+    "options": [
+      {
+        "id": "a",
+        "text": "oxidu bárnatého"
+      },
+      {
+        "id": "b",
+        "text": "karbidu kremíka"
+      },
+      {
+        "id": "c",
+        "text": "lif"
+      },
+      {
+        "id": "d",
+        "text": "brómu"
+      },
+      {
+        "id": "e",
+        "text": "cao"
+      },
+      {
+        "id": "f",
+        "text": "kbr"
+      },
+      {
+        "id": "g",
+        "text": "BN"
+      },
+      {
+        "id": "h",
+        "text": "HI"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "188. Polaritu molekuly amoniaku spôsobuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "voľný elektrónový pár atómu dusíka"
+      },
+      {
+        "id": "b",
+        "text": "záporný náboj atómov vodíka"
+      },
+      {
+        "id": "c",
+        "text": "schopnosť amoniaku uvoľniť H+"
+      },
+      {
+        "id": "d",
+        "text": "schopnosť amoniaku prijať H-"
+      },
+      {
+        "id": "e",
+        "text": "priestorové usporiadanie vodíkov okolo dusíka"
+      },
+      {
+        "id": "f",
+        "text": "schopnosť amoniaku tvoriť ióny"
+      },
+      {
+        "id": "g",
+        "text": "hybridizácia sp atómu dusíka"
+      },
+      {
+        "id": "h",
+        "text": "neekvivalentná hybridizácia sp3 atómu dusíka"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "189. Ktorá z nasledujúcich molekil nie je polárna?",
+    "options": [
+      {
+        "id": "a",
+        "text": "HC1"
+      },
+      {
+        "id": "b",
+        "text": "02"
+      },
+      {
+        "id": "c",
+        "text": "C2H2"
+      },
+      {
+        "id": "d",
+        "text": "csi"
+      },
+      {
+        "id": "e",
+        "text": "CHCl3"
+      },
+      {
+        "id": "f",
+        "text": "CC14"
+      },
+      {
+        "id": "g",
+        "text": "CO2"
+      },
+      {
+        "id": "h",
+        "text": "H2O"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "190. Chemická väzba:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je založená na priťahovaní jadier"
+      },
+      {
+        "id": "b",
+        "text": "dvojitá môže byť konjugovaná"
+      },
+      {
+        "id": "c",
+        "text": "je založená na vytvorení spoločného elektrónového páru 49"
+      },
+      {
+        "id": "d",
+        "text": "môže vzniknúť iba prekrytím orbitálov s"
+      },
+      {
+        "id": "e",
+        "text": "vzniká v dôsledku gravitačných síl"
+      },
+      {
+        "id": "f",
+        "text": "je výsledkom pôsobenia magnetických síl"
+      },
+      {
+        "id": "g",
+        "text": "u peptidov sa nazýva peptidová"
+      },
+      {
+        "id": "h",
+        "text": "jednoduchá je typická pre nasýtené uhľovodíky"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "191. Pri ktorej z nasledujúcich látok nemôžeme očakávať vznik vodíkových väzieb?",
+    "options": [
+      {
+        "id": "a",
+        "text": "etanol"
+      },
+      {
+        "id": "b",
+        "text": "fluorovodík"
+      },
+      {
+        "id": "c",
+        "text": "metán"
+      },
+      {
+        "id": "d",
+        "text": "amoniak"
+      },
+      {
+        "id": "e",
+        "text": "chlorovodík"
+      },
+      {
+        "id": "f",
+        "text": "dietyléter"
+      },
+      {
+        "id": "g",
+        "text": "inzulín"
+      },
+      {
+        "id": "h",
+        "text": "propán"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "192. Vyberte správne tvrdenie o kovalentnej väzbe:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dížka väzby sa s rastúcou násobnosťou väzby zväčšuje"
+      },
+      {
+        "id": "b",
+        "text": "dížka väzby sa s rasticou násobnosťou väzby zmenšuje"
+      },
+      {
+        "id": "c",
+        "text": "dížka väzby sa s rastuicou väzbovou energiou zmenšuje"
+      },
+      {
+        "id": "d",
+        "text": "dížka väzby sa s rastúcou väzbovou energiou zväčšuje"
+      },
+      {
+        "id": "e",
+        "text": "energia väzby N-N je 167 kj/mol a N=N je 147 kj/mol"
+      },
+      {
+        "id": "f",
+        "text": "energia väzby N=N je 167 kj/mol a N=N je 376 kj/mol"
+      },
+      {
+        "id": "g",
+        "text": "energia väzby N=N je 941 kj/mol a N-N je 167 kj/mol"
+      },
+      {
+        "id": "h",
+        "text": "energia väzby N=N je 376 kj/mol a N-N je 167 kj/mol"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "193. Pre atómovú kryštálovú štruktúru platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "medzi atómami tvoriacimi zlúčeninu dominujú kovalentné väzby"
+      },
+      {
+        "id": "b",
+        "text": "vaesinou existuje v tuhom stave len pri pomerne nízkych teplotách (príp. vysokých tlakoch)"
+      },
+      {
+        "id": "c",
+        "text": "atómovú kryštálovú štruktúru má napr. diamant, zns, karbid kremíka, cucl skupenstve"
+      },
+      {
+        "id": "d",
+        "text": "atómové kryštály existujú pri bežných podmienkach (20°C, 105 Pa) tuhom"
+      },
+      {
+        "id": "e",
+        "text": "kryštály vzácnych plynov majú atómovú kryštálovú štruktúru kryštály"
+      },
+      {
+        "id": "f",
+        "text": "za normálnych podmienok sa vyskytuje vrovnakom skupenstve ako iónové . zkrystalylyen pouenok sa vyskytuje Vrovnakom skupenstve ako iónové g skrystalarne látky. preto sa nerozpistait vo vode gsutopolarlatky,reto sanrozpustajuoode"
+      },
+      {
+        "id": "g",
+        "text": "sú to polárne látky, preto sa nerozpúšťajú vo vode"
+      },
+      {
+        "id": "h",
+        "text": "atómové kryštály pri bežných podmienkach tvoria napr. Br2, CO2, I2, N2"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "194. Molekulové kryštály:",
+    "options": [
+      {
+        "id": "a",
+        "text": "hybridizáciou jedného s a jedného p orbitálu vzniknú dva sp orbitály, lineárne usporiadanie"
+      },
+      {
+        "id": "b",
+        "text": "hybridizáciou dvoch s a jedného p orbitálu vzniknú tri sp? orbitály, trojuholníkové usporiadanie"
+      },
+      {
+        "id": "c",
+        "text": "hybridizáciou troch s a jedného p orbitálu vzniknú štyri sp3 orbitály, oktaédrické usporiadanie"
+      },
+      {
+        "id": "d",
+        "text": "hybridizáciou dvoch p a jedného s orbitálu vzniknú tri sp? orbitály, rovinné usporiadanie"
+      },
+      {
+        "id": "e",
+        "text": "hybridizáciou troch p a jedného s orbitálu vzniknú štyri sp3 orbitály, priestorové usporiadanie"
+      },
+      {
+        "id": "f",
+        "text": "hybridizáciou dvoch p orbitálov vznikne jeden hybridný d orbital, tetraedrické usporiadanie"
+      },
+      {
+        "id": "g",
+        "text": "hybridizáciou dvoch s orbitálov vznikne jeden hybridný p orbital, lineárne usporiadanie"
+      },
+      {
+        "id": "h",
+        "text": "hybridizáciou jedného"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "195. Aké hybridné orbitály a priestorové usporiadanie vzniknú pri hybridizácii:",
+    "options": [
+      {
+        "id": "a",
+        "text": "hybridizáciou jedného s a jedného p orbitálu vzniknú dva sp orbitály, lineárne usporiadanie"
+      },
+      {
+        "id": "b",
+        "text": "hybridizáciou dvoch s a jedného p orbitálu vzniknú tri sp2 orbitály, trojuholníkové usporiadanie"
+      },
+      {
+        "id": "c",
+        "text": "hybridizáciou troch s a jedného p orbitálu vzniknú štyri sp3 orbitály, oktaédrické usporiadanie"
+      },
+      {
+        "id": "d",
+        "text": "hybridizáciou dvoch p a jedného s orbitálu vzniknú tri sp2 orbitály, rovinné usporiadanie"
+      },
+      {
+        "id": "e",
+        "text": "hybridizáciou troch p a jedného s orbitálu vzniknú štyri sp3 orbitály, tetraedrické usporiadanie"
+      },
+      {
+        "id": "f",
+        "text": "hybridné orbitály majú vždy rovnakú energiu a tvar"
+      },
+      {
+        "id": "g",
+        "text": "hybridizácia vysvetľuje rovnocennosť väzieb napr. v molekule metánu CH4"
+      },
+      {
+        "id": "h",
+        "text": "hybridizácia sa týka iba atómových orbitálov d"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "196. Vyberte správne tvrdenie o lineárnych molekulách:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ich tvar vysvetľuje sp3 hybridizácia"
+      },
+      {
+        "id": "b",
+        "text": "lineárne molekuly sú napríklad Cl2, HI, BeCl2"
+      },
+      {
+        "id": "c",
+        "text": "ich tvar vysvetľuje sp hybridizácia"
+      },
+      {
+        "id": "d",
+        "text": "lineárnu molekulu má NH3, H2O"
+      },
+      {
+        "id": "e",
+        "text": "alkíny sú lineárne, keďže obsahujú dvojitú väzbu"
+      },
+      {
+        "id": "f",
+        "text": "molekuly ČO, CO2 majú tiež lineárny tvar"
+      },
+      {
+        "id": "g",
+        "text": "atómy molekúl zvierajú väzbový uhol 180o"
+      },
+      {
+        "id": "h",
+        "text": "ich tvar nemožno vysvetliť hybridizáciou"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "197. Hybridné orbitály sa od pôvodných atómových orbitálov líšia:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tvarom"
+      },
+      {
+        "id": "b",
+        "text": "počtom"
+      },
+      {
+        "id": "c",
+        "text": "orientáciou v priestore"
+      },
+      {
+        "id": "d",
+        "text": "energiou"
+      },
+      {
+        "id": "e",
+        "text": "ničím sa nelíšia"
+      },
+      {
+        "id": "f",
+        "text": "iba energiou"
+      },
+      {
+        "id": "g",
+        "text": "symetriou vzhľadom na jadro"
+      },
+      {
+        "id": "h",
+        "text": "tým, že tvoria dlhšiu kovalentnú väzbu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "198. Vyberte správne tvrdenie o tvare molekil:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rovinná molekula BF3 má nulový dipólový moment"
+      },
+      {
+        "id": "b",
+        "text": "H2S má podobný tvar ako molekula vody"
+      },
+      {
+        "id": "c",
+        "text": "neekvivalentná sp hybridizácia vysveťuje rôznosť väzbových uhlov u tetraedrických molekil"
+      },
+      {
+        "id": "d",
+        "text": "molekuly metánu a amoniaku majú identickú priestoroví struktiru molekil 51"
+      },
+      {
+        "id": "e",
+        "text": "štruktúra molekúl metánu a amoniaku je tetraedricka, ale ich väzbové uhly sa líšia"
+      },
+      {
+        "id": "f",
+        "text": "karbonylová skupina obsahuje sp?- hybridizovaný uhlík, v dôsledku čoho má rovinnú struktiru"
+      },
+      {
+        "id": "g",
+        "text": "väzbové uhly v molekule BF3 sú 180°"
+      },
+      {
+        "id": "h",
+        "text": "NH3 má tvar rovinného trojuholníka"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "199. Dipólový moment:",
+    "options": [
+      {
+        "id": "a",
+        "text": "u dvojatómových molekúl je mierou polarity chemickej väzby"
+      },
+      {
+        "id": "b",
+        "text": "viacatómovej molekuly sa rovná rozdielu vektorov dipólových momentov všetkých väzieb v molekule"
+      },
+      {
+        "id": "c",
+        "text": "molekúl CS2 a CH4 je nulový"
+      },
+      {
+        "id": "d",
+        "text": "dvojatómovej molekuly sa líši od dipólového momentu väzby v danej molekule"
+      },
+      {
+        "id": "e",
+        "text": "všetkých rovinných molekil je väčší ako nula"
+      },
+      {
+        "id": "f",
+        "text": "je vektorová veličina orientovaná od kladného pólu k zápornému"
+      },
+      {
+        "id": "g",
+        "text": "molekúl CO2 a BF3 je rovnaký"
+      },
+      {
+        "id": "h",
+        "text": "je vektorová veličina orientovaná od záporného pólu ku kladnému"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "200. Elektronegativita atómu H je 2,1 a atómu ČI 3,0. Väzba medzi H a ČI v HCI určite nie je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nepolárna kovalentná"
+      },
+      {
+        "id": "b",
+        "text": "kovalentná"
+      },
+      {
+        "id": "c",
+        "text": "iónová"
+      },
+      {
+        "id": "d",
+        "text": "polárne kovalentná"
+      },
+      {
+        "id": "e",
+        "text": "vodíková"
+      },
+      {
+        "id": "f",
+        "text": "sprostredkovaná dvoma elektrónmi"
+      },
+      {
+        "id": "g",
+        "text": "kovová"
+      },
+      {
+        "id": "h",
+        "text": "jednoduchá"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+  }
+]

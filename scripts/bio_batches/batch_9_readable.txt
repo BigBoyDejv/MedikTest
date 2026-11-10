@@ -1,0 +1,550 @@
+=== Q401: 401. Nervové vlákna miechy tvoria: ===
+Correct: ['a']
+  [X] a: bielu hmotu obklopujúcu sivú hmotu
+  [ ] b: siví hmotu obklopenú bielou hmotou
+  [ ] c: bielu hmotu obklopenú sivou hmotou
+  [ ] d: sivú hmotu obklopujúcu bielu hmotu
+  [ ] e: aj bielu aj sivú hmotu
+  [ ] f: základ reflexného oblúka
+  [ ] g: miechový kanálik
+  [ ] h: mozgový kmeň
+
+=== Q402: 402. Miecha: ===
+Correct: ['b', 'd', 'e']
+  [ ] a: je centrom zrakových a sluchových reflexov
+  [X] b: je fylogeneticky najstaršou časťou nervovej sústavy
+  [ ] c: je fylogeneticky najmladšou asťou nervovej sústavy
+  [X] d: je reflexným centrom regulujúcim pohyb svalov končatín
+  [X] e: sa podie’a na riadení niektorých autonómnych funkcii
+  [ ] f: je centrom rovnováhy tela
+  [ ] g: predĺžená miecha
+  [ ] h: sprostredkúva emočne prejavy
+
+=== Q403: 403. Autonómne nervy: ===
+Correct: ['a', 'b', 'e']
+  [X] a: inervujú vnútorné orgány a cievy
+  [X] b: vychádzajú z miechy a mozgu
+  [ ] c: vychádzajú len z miechy
+  [ ] d: vychádzajú len z mozgu
+  [X] e: sú súčasťou vegetatívnej nervovej sústavy, ktorá je fylogeneticky staršia než sústava somatická
+  [ ] f: sú súčasťou vegetatívnej nervovej sústavy, ktorá je fylogeneticky mladšia než sústava somatická
+  [ ] g: riadia pohyb kostrových svalov
+  [ ] h: riadia vôľou ovládané činnosti
+
+=== Q404: 404. Dôležitou funkenou vlastnosťou nervových buniek je: ===
+Correct: ['a', 'b', 'd', 'g']
+  [X] a: dráždivosť
+  [X] b: vodivosť
+  [ ] c: schopnosť bunkového delenia
+  [X] d: schopnosť reagovať na podnety
+  [ ] e: pohyblivosť
+  [ ] f: schopnosť diapedézy
+  [X] g: schopnosť viesť vzruchy bez zmeny informácie
+  [ ] h: schopnosť kontrakcie
+
+=== Q405: 405. Stredný mozog cicavcov: ===
+Correct: ['a', 'b']
+  [X] a: je centrom zrakových a sluchových reflexov
+  [X] b: podmieňuje vzpriamenú polohu hlavy a tela
+  [ ] c: je najvyšším ústredím koordinácie pohybov
+  [ ] d: reguluje teplotu tela 87
+  [ ] e: riadi činnosť srdca a obeh telových tekutín
+  [ ] f: sprostredkúva emočne prejavy
+  [ ] g: koordinuje svalový tonus
+  [ ] h: je fylogeneticky najmladšou Časťou nervovej sústavy
+
+=== Q406: 406. Centrum regulujúce spontánne dýchanie je v: ===
+Correct: ['b', 'c', 'e']
+  [ ] a: mozočku
+  [X] b: predizenej mieche
+  [X] c: moste
+  [ ] d: mozgovej kôre
+  [X] e: zadnom mozgu
+  [ ] f: medzimozgu
+  [ ] g: hypofýze
+  [ ] h: prednom mozgu
+
+=== Q407: 407. Mozgová kôra: ===
+Correct: ['a', 'b', 'c', 'd', 'e']
+  [X] a: má vymedzené oblasti, tzv. korové istredia
+  [X] b: okrem primátov je dobre vyvinutá napr. u slona
+  [X] c: sa začína diferencovať už pri plazoch
+  [X] d: patrí medzi fylogeneticky mladšiu Časť nervovej sústavy
+  [X] e: tvorí pri vtákoch len tenkú vrstvu
+  [ ] f: má povrch zvrásnený len pri evolučne starších cicavcoch
+  [ ] g: sústreďuje informácie prichádzajúce len z okolia organizmu
+  [ ] h: má čuchové receptory
+
+=== Q408: 408. Mozgoví kôru majú najviac vyvinutú: ===
+Correct: ['a', 'd', 'e']
+  [X] a: primáty
+  [ ] b: plazy
+  [ ] c: Žraloky a delfíny
+  [X] d: slony a delfíny
+  [X] e: cicavce
+  [ ] f: vtáky
+  [ ] g: obojživelníky
+  [ ] h: ryby
+
+=== Q409: 409. Mozoček: ===
+Correct: ['a', 'h']
+  [X] a: kontroluje rovnováhu tela a koordinuje pohyby
+  [ ] b: je centrom dýchania
+  [ ] c: je ústredím pre kýchanie
+  [ ] d: je istredim reflexných pohybov
+  [ ] e: riadi innost mozgovej kôry
+  [ ] f: sprostredkúva reakcie na bolesť a chlad
+  [ ] g: je najvyšším istredim autonómnych funkcii
+  [X] h: prijíma signály z analyzátorov vnútorného ucha a svalov
+
+=== Q410: 410. Nadradenou časťou nervového riadenia vnitornych orgánov je: ===
+Correct: ['b', 'g']
+  [ ] a: talamus
+  [X] b: hypotalamus
+  [ ] c: predizena miecha
+  [ ] d: predný mozog
+  [ ] e: mozoček
+  [ ] f: mozgová kôra
+  [X] g: podlôžko
+  [ ] h: 10zko
+
+=== Q411: 411. Prejavom nižšej nervovej činnosti: ===
+Correct: ['a', 'b', 'f', 'g', 'h']
+  [X] a: sú vrodené reakcie na podnety
+  [X] b: sú nepodmienené reflexy
+  [ ] c: sú získané reakcie na podnety
+  [ ] d: sú podmienené reflexy 88
+  [ ] e: je učenie
+  [X] f: sú inštinkty
+  [X] g: si emócie
+  [X] h: je strach
+
+=== Q412: 412. Podmienený reflex: ===
+Correct: ['b', 'd', 'f', 'g']
+  [ ] a: je vrodený
+  [X] b: je prejav vyššej nervovej činnosti
+  [ ] c: je základom vývoja inštinktívneho správania
+  [X] d: je získaný počas ontogenézy jedinca
+  [ ] e: je získaný počas fylogenézy
+  [X] f: vedie k vytváraniu nových, dočasných nervových spojení
+  [X] g: patrí k základným mechanizmom učenia
+  [ ] h: nevyžaduje pre svoj vznik nácvik
+
+=== Q413: 413. Medzi vyššiu nervovú činnosť patrí: ===
+Correct: ['a', 'c', 'f', 'h']
+  [X] a: podmienený reflex
+  [ ] b: nepodmienený reflex
+  [X] c: učenie
+  [ ] d: inštinkt
+  [ ] e: strach
+  [X] f: myslenie
+  [ ] g: rodičovský inštinkt
+  [X] h: pamäť
+
+=== Q414: 414. Fagocytóza: ===
+Correct: ['a', 'b', 'f', 'g', 'h']
+  [X] a: patrí k prejavom bunkovej imunity
+  [X] b: je vrodená a nešpecifická
+  [ ] c: Cortiho orgán
+  [ ] d: patrí k prejavom celulárnej špecifickej imunity
+  [ ] e: je vývojovo mladším typom imunitnej reakcie
+  [X] f: je vývojovo starším typom imunitnej reakcie
+  [X] g: sa vyvinula z pôvodného mechanizmu výživy jednobunkových organizmov
+  [X] h: je obranný mechanizmus spoločný pre všetky skupiny živočíchov
+
+=== Q415: 415. Bunkovú Špecifickú imunitnú reakciu zabezpečujú: ===
+Correct: ['c', 'g', 'h']
+  [ ] a: B lymfocyty
+  [ ] b: neutrofilné granulocyty
+  [X] c: T lymfocyty
+  [ ] d: plazmatické bunky
+  [ ] e: monocyty
+  [ ] f: trombocyty
+  [X] g: lymfocyty
+  [X] h: lymfocyty, ktoré dozrievajú v týmuse
+
+=== Q416: 416. Objaviteľ fagocytózy bol: ===
+Correct: ['b']
+  [ ] a: P. Ehrlich
+  [X] b: I. I. Mečnikov
+  [ ] c: I. M. Sečenov
+  [ ] d: I. P. Pavlov
+  [ ] e: N. Tinbergen
+  [ ] f: L. Pasteur
+  [ ] g: W. Harvey
+  [ ] h: S. W. Fox
+
+=== Q417: 417. Najlepšie vyvinutý sluch so schopnosťou vnímať aj ultrazvukové signály majú: ===
+Correct: ['b', 'c']
+  [ ] a: mačkovité mäsožravce
+  [X] b: netopiere
+  [X] c: veľryby
+  [ ] d: psovité mäsožravce
+  [ ] e: ryby
+  [ ] f: larvy obojživelníkov
+  [ ] g: hmyz
+  [ ] h: obrúčkavce
+
+=== Q418: 418. Protilátky: ===
+Correct: ['a', 'b', 'f']
+  [X] a: sa vytvárajú v plazmatických bunkách po styku B lymfocytov s antigénom
+  [X] b: sú bielkoviny a reagujú len s určitým antigénom
+  [ ] c: reagujú len s antigénom produkovaným B lymfocytmi
+  [ ] d: sa vytvárajú v T lymfocytoch
+  [ ] e: sa vytvárajú v T lymfocytoch po styku s antigénom
+  [X] f: sú imunoglobulíny a reagujú len s určitým antigénom, ktorý vyvoláva ich tvorbu
+  [ ] g: sú antigény špecifické pre daný organizmus
+  [ ] h: sú polysacharidy produkované B lymfocytmi
+
+=== Q419: 419. Protilátková špecifická imunitná reakcia: ===
+Correct: ['b', 'c', 'e']
+  [ ] a: je zabezpečovaná tvorbou protilátok v T lymfocytoch
+  [X] b: je vývojovo mladšia ako nešpecifická imunita
+  [X] c: je sprostredkovaná B lymfocytmi
+  [ ] d: je zabezpečovaná tvorbou antigénov
+  [X] e: je zabezpečovaná tvorbou protilátok plazmatickými bunkami
+  [ ] f: je zabezpečovaná tvorbou aglutinogenov
+  [ ] g: je zabezpečená protilátkami, ktoré produkujú monocyty
+  [ ] h: je zabezpečená protilátkami, ktoré produkujú lymfoblasty vznikajúce z T lymfocytov
+
+=== Q420: 420. Označte správne odpovede: ===
+Correct: ['a', 'b', 'c', 'e', 'f']
+  [X] a: funkcia protilátok je zneškodňovať vírusy a bakteriálne toxíny
+  [X] b: bunkoví špecifickú imunitu zabezpečujú T lymfocyty
+  [X] c: fagocytóza patrí k prejavom nešpecifickej bunkovej imunity
+  [ ] d: špecifická imunita sa vyskytuje už u lankonozcov
+  [X] e: pasívna imunizácia môže byť zabezpečovaná aj materským mliekom
+  [X] f: týmus
+  [ ] g: fagocytóza patrí k prejavom protilatkovej imunity
+  [ ] h: slezina
+
+=== Q421: 421. Proprioreceptory: ===
+Correct: ['a', 'c', 'd']
+  [X] a: sú receptory nachádzajúce sa vo svaloch a sPachach
+  [ ] b: sú exteroreceptory
+  [X] c: sú interoreceptory
+  [X] d: informujú o polohe časti tela
+  [ ] e: informujú o zmenách vonkajšieho prostredia
+  [ ] f: sú pomocné orgány interoreceptorov 90
+  [ ] g: sú v princípe radioreceptory
+  [ ] h: pomáhajú živočíchom orientovať sa
+
+=== Q422: 422. Medzi chemoreceptory patria: ===
+Correct: ['b', 'c']
+  [ ] a: sluchové receptory
+  [X] b: chuťové receptory
+  [X] c: čuchové receptory
+  [ ] d: receptory rovnováhy
+  [ ] e: fotoreceptory
+  [ ] f: receptory kože
+  [ ] g: receptory citlivé na viditeľné svetlo
+  [ ] h: tepelné receptory
+
+=== Q423: 423. Radioreceptory: ===
+Correct: ['a', 'b', 'c', 'd', 'g']
+  [X] a: delíme na fotoreceptory, termoreceptory a vlastne radioreceptory
+  [X] b: určitého typu sú vyvinuté už pri jednobunkovcoch
+  [X] c: umožňujú niektorým Živočíchom reagovať na magnetizmus
+  [X] d: môžu registrovať ionizujúce Žiarenie
+  [ ] e: všetkých typov má dokonale vyvinuté človek
+  [ ] f: môžu reagovať na zmenu chemického zloženia prostredia
+  [X] g: umozhuju Živočíchom orientovať sa v priestore napr. pri sezónnej migraci
+  [ ] h: reagujú na zvukové podnety
+
+=== Q424: 424. Statocysta je ústrojom rovnováhy: ===
+Correct: ['a', 'f']
+  [X] a: kôrovcov
+  [ ] b: hmyzu
+  [ ] c: stavovcov
+  [ ] d: rýb
+  [ ] e: cicavcov
+  [X] f: mäkkýšov
+  [ ] g: plazov
+  [ ] h: vtákov
+
+=== Q425: 425. Statokinetický orgán: ===
+Correct: ['a', 'b', 'c', 'd']
+  [X] a: poskytuje informácie o polohe a pohybe tela
+  [X] b: cicavcov jeulozenyvovnutornom uchu
+  [X] c: majú raky uložený na báze tykadiel
+  [X] d: obsahuje receptorové bunky s citlivými brvami, reagujúcimi na mechanické dráždenie
+  [ ] e: obsahuje Cortiho bunky
+  [ ] f: obsahuje receptorové bunky reagujúce na zmeny teploty
+  [ ] g: je tympanalny orgán kobyliek
+  [ ] h: je dráždený svetelnými podnetmi
+
+=== Q426: 426. Receptorové bunky, meniace zvukový podnet na nervový signál sa nachádzajú: ===
+Correct: ['a', 'b', 'c', 'h']
+  [X] a: pri rybách v bočnej čiare
+  [X] b: pri cicavcoch v Cortiho orgáne vnitorneho ucha
+  [X] c: pri hmyze v tympanalnych orgánoch
+  [ ] d: pri cicavcoch v Cortiho orgáne vonkajšieho ucha
+  [ ] e: pri vtákoch v ušnom bubienku 91
+  [ ] f: pri cicavcoch v strednom uchu
+  [ ] g: pri bezstavovcoch v statocyste
+  [X] h: pri vtákoch a cicavcoch v spoločnom sluchovopolohovom orgáne
+
+=== Q427: 427. Hmyz má oči: ===
+Correct: ['b', 'c', 'h']
+  [ ] a: komorové
+  [X] b: zložené
+  [X] c: facetové
+  [ ] d: ploche
+  [ ] e: miskovité
+  [ ] f: pohárikovité
+  [ ] g: teleskopické
+  [X] h: zložené z omatidii
+
+=== Q428: 428. Chemoreceptory: ===
+Correct: ['b', 'c', 'd', 'g']
+  [ ] a: riadia chemické reakcie
+  [X] b: čuchové veľrybám chýbajú
+  [X] c: čuchové majú dobre vyvinuté psy a kone
+  [X] d: chuťové sú uložené v chuťových pohárikoch
+  [ ] e: nie sú vyvinuté pri hmyze
+  [ ] f: chuťové sú tzv. diaľkové chemoreceptory
+  [X] g: analyzujú prítomnosť chemických látok v ovzduší a vode
+  [ ] h: sú najčastejšie umiestnené vo vnitornych orgánoch
+
+=== Q429: 429. Ektotermné zivotichy si: ===
+Correct: ['a', 'b', 'f', 'g', 'h']
+  [X] a: živočíchy s premenlivou teplotou tela
+  [X] b: živočíchy, ktorých telesná teplota sa mení v závislosti na teplote prostredia
+  [ ] c: živočíchy, ktorých telesná teplota je stala
+  [ ] d: živočíchy, ktorých telesná teplota nezávisí od teploty okolia
+  [ ] e: niektoré bezstavovce a všetky stavovce
+  [X] f: napr. drsnokožce
+  [X] g: všetky bezstavovce
+  [X] h: plazy
+
+=== Q430: 430. Endotermia znamená: ===
+Correct: ['a', 'g']
+  [X] a: stálu telesnú teplotu nezávislú od teploty prostredia
+  [ ] b: stálu telesnú teplotu závislú od teploty prostredia
+  [ ] c: premenlivú telesnú teplotu nezávislú od teploty prostredia
+  [ ] d: prehriatie organizmu
+  [ ] e: zníženie produkcie tepla organizmom
+  [ ] f: podchladenie organizmu
+  [X] g: tyroxín
+  [ ] h: že živočíchy sú schopné regulovať tvorbu tepla v tepelnom obale organizmu
+
+=== Q431: 431. Medzi endotermné zivotichy patria: ===
+Correct: ['c']
+  [ ] a: hmyz
+  [ ] b: obrúčkavce
+  [X] c: cicavce a vtáky
+  [ ] d: plazy
+  [ ] e: obojživelníky
+  [ ] f: drsnokožce
+  [ ] g: ryby
+  [ ] h: všetky bezstavovce 92
+
+=== Q432: 432. Fyzikálna termoregulácia sa uskutočňuje: ===
+Correct: ['a', 'c', 'h']
+  [X] a: rozšírením kožných ciev a odparovaním
+  [ ] b: zvýšeným príjmom potravy
+  [X] c: vydajom tepla vyžarovaním a prúdením
+  [ ] d: pôsobením hormónov štítnej žľazy
+  [ ] e: zvýšením intenzity metabolizmu
+  [ ] f: pôsobením hormónov drene nadobličiek
+  [ ] g: aktivizáciou svalových pohybov
+  [X] h: zmenou prietoku krvi v koži
+
+=== Q433: 433. Hibernanty: ===
+Correct: ['a', 'b', 'e', 'f']
+  [X] a: patria medzi heterotermne organizmy
+  [X] b: sú napr. jež, plch, syse?
+  [ ] c: sú napr. krt, medveď, netopier
+  [ ] d: upadajú do zimného spánku pri trvalom poklese teploty prostredia pod o°C
+  [X] e: čerpajú počas hibernácie energiu zo zásoby tuku
+  [X] f: upadajú do zimného spánku pri trvalom poklese teploty prostredia pod 10℃
+  [ ] g: počas zimného spánku zvyšujú teplotu tepelného jadra organizmu
+  [ ] h: si zabezpečujú prežitie za nepriaznivých podmienok zvýšením aktivity metabolizmu
+
+=== Q434: 434. Hlavným producentom tepla pri endotermných Živočíchoch: ===
+Correct: ['c']
+  [ ] a: sú kostrové svaly
+  [ ] b: je mozog
+  [X] c: je pečeň
+  [ ] d: je podkožný tuk
+  [ ] e: sú endokrinné žľazy
+  [ ] f: sú obličky
+  [ ] g: je dýchacia sústava
+  [ ] h: je tenké črevo
+
+=== Q435: 435. Estivácia je: ===
+Correct: ['b', 'e', 'g']
+  [ ] a: prebytok potravy a nedostatok vody
+  [X] b: letný spánok
+  [ ] c: zvýšenie telesnej teploty Živočícha
+  [ ] d: prehriatie organizmu pri vaesich zmenách teploty prostredia
+  [X] e: typická pre niektoré púštne a stepné Živočíchy
+  [ ] f: typická pre živočíchy polárnych oblasti prostredia
+  [X] g: inzulín
+  [ ] h: zimný spánok
+
+=== Q436: 436. Heterotermia znamená: ===
+Correct: ['a', 'd']
+  [X] a: prispôsobovanie sa teplote prostredia živočíchov so stálou telesnou teplotou
+  [ ] b: prispôsobovanie sa teplote prostredia živočíchov ektotermnych
+  [ ] c: zvýšený bazálny metabolizmus za nepriaznivých podmienok
+  [X] d: že v prípade nepriaznivej teploty prostredia sa endotermne živočíchy stávajú dočasne ektotermnymi
+  [ ] e: že nastupuje fyzikálna termoregulácia
+  [ ] f: že nastupuje chemická termoregulácia 93 teplotou
+  [ ] g: glukagón
+  [ ] h: adrenalín
+
+=== Q437: 437. Epifýza: ===
+Correct: ['a', 'e', 'f']
+  [X] a: melatonín
+  [ ] b: produkuje hormón, ktorý aktivuje tvorbu pohlavných hormónov
+  [ ] c: je funkčnou súčasťou hypofýzy
+  [ ] d: produkuje rastový hormón
+  [X] e: reaguje na intenzitu svetla
+  [X] f: produkuje melatonín
+  [ ] g: produkuje melanín
+  [ ] h: produkuje melanotropny hormón
+
+=== Q438: 438. Hormóny štítnej žľazy: ===
+Correct: ['a', 'b', 'h']
+  [X] a: ovplyvňujú intenzitu metabolizmu
+  [X] b: sú tyroxín a tyronin
+  [ ] c: sú stavebnými látkami
+  [ ] d: patria medzi gestagény
+  [ ] e: sa vytvárajú v hypofýze
+  [ ] f: udržiavajú vhodnú koncentráciu iónov sodíka v krvnej plazme
+  [ ] g: podmieňujú vytvorenie dokonalej obrany organizmu proti infekcii
+  [X] h: regulujú napr. metamorfózu obojživelníkov
+
+=== Q439: 439. Hormóny hmyzu: ===
+Correct: ['a', 'b', 'c', 'd', 'e']
+  [X] a: sú produkované neurosekrecnymi bunkami hlavového gangliá
+  [X] b: sú produkované žľazami nachádzajúcimi sa v hrudi
+  [X] c: môžu byť uvoľňované do vonkajšieho prostredia ako feromóny
+  [X] d: riadia procesy spojené s dokonalou alebo nedokonalou premenou
+  [X] e: môžu mať vnútrodruhovú komunikačnú funkciu
+  [ ] f: sú produkované Malpighiho žľazami
+  [ ] g: sú distribuované do tkanív krvou
+  [ ] h: sú vylučované do uzavretého lymfatického cievneho systému
+
+=== Q440: 440. Prištítne telieska sa prvýkrát objavujú pri: ===
+Correct: ['c']
+  [ ] a: cicavcoch
+  [ ] b: hmyze
+  [X] c: obojživelníkoch
+  [ ] d: vtákoch
+  [ ] e: rybách
+  [ ] f: bezstavovcoch
+  [ ] g: mäkkýšoch
+  [ ] h: plazoch
+
+=== Q441: 441. Inzulín: ===
+Correct: ['a', 'b', 'g', 'h']
+  [X] a: znižuje hladinu glukózy v krvi
+  [X] b: zvyšuje ukladanie glykogénu V pečeni a svaloch
+  [ ] c: zvyšuje hladinu glukózy v krvi
+  [ ] d: urýchľuje rozklad glykogénu v pečeni
+  [ ] e: zvyšuje tvorbu tukov v pankrease
+  [ ] f: znižuje ukladanie glykogénu v pečeni a svaloch 94
+  [X] g: ovplyvňuje metabolizmus sacharidov opačne ako glukagón
+  [X] h: podporuje zvýšené zužitkovanie glukózy v bunkách
+
+=== Q442: 442. Hormóny: ===
+Correct: ['b', 'f', 'g', 'h']
+  [ ] a: pôsobia nešpecifický na bunky cieľových tkanív
+  [X] b: pôsobia špecifický na bunky cieľových tkanív
+  [ ] c: sú stavebnými látkami
+  [ ] d: sú zdrojom ATP
+  [ ] e: sa zucasthuju proteosyntézy
+  [X] f: vylúčené do telových tekutín sú aktívne niekoľko minút alebo dní
+  [X] g: sú vysoko účinné organické látky, ktoré ovplyviuju činnosť telesných orgánov
+  [X] h: pôsobia ako regulátory látkovej premeny
+
+=== Q443: 443. Hormonálne regulaene mechanizmy: ===
+Correct: ['a', 'c', 'g', 'h']
+  [X] a: sa uplathuju už pri bezstavovcoch
+  [ ] b: sa najskôr objavujú pri stavovcoch
+  [X] c: pri stavovcoch sa odlišujú od hormonálnych regulaci pri bezstavovcoch
+  [ ] d: pri stavovcoch sa nelíšia od hormonálnych regulácii pri bezstavovcoch
+  [ ] e: sú pri bezstavovcoch nahradené nervovou reguláciou
+  [ ] f: sú rýchlejšie ako nervové regulácie
+  [X] g: sú pomalšie ako nervové regulácie
+  [X] h: sú priamo ovplyviovane aj nervovým systémom
+
+=== Q444: 444. Feromóny hmyzu: ===
+Correct: ['b', 'd', 'h']
+  [ ] a: vyvolávajú agresivitu
+  [X] b: vyvolávajú únikové reakcie
+  [ ] c: spôsobujú ospanlivosť
+  [X] d: vyvolávajú obranné reakcie
+  [ ] e: spôsobujú pri hmyze spomalenie rastu
+  [ ] f: zabraňujú premene hmyzu
+  [ ] g: majú vplyv na metabolizmus hmyzu
+  [X] h: vyvolávajú pohlavnú aktivitu
+
+=== Q445: 445. Predný lalok hypofýzy stavovcov: ===
+Correct: ['a', 'c', 'e', 'f']
+  [X] a: produkuje hormón prolaktín
+  [ ] b: produkuje melanotropny hormón
+  [X] c: sa nazýva adenohypofýza
+  [ ] d: sa nazýva neurohypofýza
+  [X] e: produkuje hormóny riadiace činnosť nadobličiek
+  [X] f: produkuje rastový hormón
+  [ ] g: produkuje hormón vazopresín
+  [ ] h: produkuje hormón oxytocín
+
+=== Q446: 446. K výskumným oblastiam zaoberajicim sa poznávaním správania zvierat patrí: ===
+Correct: ['a', 'b', 'c', 'd', 'e']
+  [X] a: výskum fyziol6gie podmienených reflexov 95
+  [X] b: testosterón
+  [X] c: behaviorizmus
+  [X] d: etológia
+  [X] e: výskum správania živočíchov V prirodzenom prostredí
+  [ ] f: anatómia
+  [ ] g: cytológia
+  [ ] h: skúmanie fyziológie prenosu nervového signálu
+
+=== Q447: 447. Komunikačné signály Živočíchov: ===
+Correct: ['a', 'b', 'c', 'd', 'g']
+  [X] a: mo2zu byť akustické alebo optické
+  [X] b: majú identifikačnú alebo výstražnú funkciu
+  [X] c: môžu byť dotykové alebo elektrické
+  [X] d: sa uplatňujú napr. pri obrane teritória
+  [ ] e: neovplyvňujú správanie iných príslušníkov druhu
+  [ ] f: nie sú súčasťou sociálneho správania
+  [X] g: slúžia na prenos informácie
+  [ ] h: nemajú informačnú funkciu
+
+=== Q448: 448. Fakultatívne učenie: ===
+Correct: ['b', 'c', 'd']
+  [ ] a: prebieha len v ranom veku živočíchov
+  [X] b: nie je vekovo obmedzené
+  [X] c: prebieha prakticky po celý život jedinca
+  [X] d: vedie k zdokonaľovaniu činnosti živočícha
+  [ ] e: je napr. vpecatenie
+  [ ] f: je prispôsobenie sa endogénnym biologickým rytmom
+  [ ] g: je základom obranných reakci mláďat
+  [ ] h: prebieha na základe nepodmienených reflexov
+
+=== Q449: 449. Inštinktívne správanie Zivotichov: ===
+Correct: ['a', 'c', 'd', 'f', 'h']
+  [X] a: je predmetom skúmania etológie
+  [ ] b: je predmetom skúmania exobiologie )je vrodené správanie vyvolávané endogénnymi alebo exogénnymi podnetmi
+  [X] c: progesterón
+  [X] d: je správanie, ktorého základom sú nepodmienené reflexy
+  [ ] e: je správanie, ktorého základom sú podmienené reflexy
+  [X] f: je napr. obranné a titekove správanie
+  [ ] g: zahŕňa schopnosť generalizácie
+  [X] h: je napr. komfortné správanie
+
+=== Q450: 450. Teritoriálne správanie živočíchov: ===
+Correct: ['a', 'b', 'c', 'd', 'f', 'g']
+  [X] a: prítomný v Žalúdočnej stave
+  [X] b: vylučovaný príušnými žazami
+  [X] c: prítomný v slinách
+  [X] d: natravujuci polysacharidy v ústnej dutine
+  [ ] e: ktorý štiepi bielkoviny v ústnej dutine
+  [X] f: prítomný v Črevnej stave
+  [X] g: ktorý má baktericídne účinky 97
+  [ ] h: 3 páry veľkých slinných žliaz - podjazykové, podsánkové, príušné 455. 1 Ptyalín je enzým:
+

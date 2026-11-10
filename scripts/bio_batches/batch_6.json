@@ -1,0 +1,2276 @@
+[
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "251. Biogenetický zákon formuloval:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Charles Darwin"
+      },
+      {
+        "id": "b",
+        "text": "Karl Linné"
+      },
+      {
+        "id": "c",
+        "text": "Jean Baptiste Lamarck"
+      },
+      {
+        "id": "d",
+        "text": "Ernst Haeckel 56"
+      },
+      {
+        "id": "e",
+        "text": "Aristoteles"
+      },
+      {
+        "id": "f",
+        "text": "Andreas Vesalius"
+      },
+      {
+        "id": "g",
+        "text": "Louis Pasteur"
+      },
+      {
+        "id": "h",
+        "text": "James Watson"
+      }
+    ],
+    "correct_answers": [
+      "d"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "252. Homologické orgány sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "také, ktoré majú rovnaký fylogeneticky pôvod, i keď ich funkcia a tvar môžu byť rozdielne"
+      },
+      {
+        "id": "b",
+        "text": "rôzneho fylogenetického pôvodu, i keď pri recentných zástupcoch môžu mať podobný tvar a plniť rovnakú funkciu"
+      },
+      {
+        "id": "c",
+        "text": "napr. modifikácie končatín cicavcov"
+      },
+      {
+        "id": "d",
+        "text": "napr. šupiny plazov a perie vtákov"
+      },
+      {
+        "id": "e",
+        "text": "napr. krídla vtákov a hmyzu"
+      },
+      {
+        "id": "f",
+        "text": "napr. krídla vtákov a I'udské ruky"
+      },
+      {
+        "id": "g",
+        "text": "napr. p'icne vaky ulitníkov a pľúca stavovcov rozdielnu funkciu"
+      },
+      {
+        "id": "h",
+        "text": "závisí od koncentrácie CO2 a teploty"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "253. Analogické orgány sú: môžu byť rozdielne",
+    "options": [
+      {
+        "id": "a",
+        "text": "glykolýza"
+      },
+      {
+        "id": "b",
+        "text": "napr. modifikácie končatín cicavcov"
+      },
+      {
+        "id": "c",
+        "text": "napr. krídla vtákov a hmyzu"
+      },
+      {
+        "id": "d",
+        "text": "rôzneho fylogenetického pôvodu, i keď pri recentných zástupcoch môžu mať podobný tvar a plniť rovnakú funkciu"
+      },
+      {
+        "id": "e",
+        "text": "napr. šupiny plazov a perie vtákov"
+      },
+      {
+        "id": "f",
+        "text": "napr. krídla vtákov a I'udské ruky"
+      },
+      {
+        "id": "g",
+        "text": "napr. pľúcne vaky pávikov a plica stavovcov"
+      },
+      {
+        "id": "h",
+        "text": "rôzneho fylogenetického pôvodu a pri recentných zástupcoch plnia rozdielnu funkciu"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "254. Procesom gastrulácie vznikajú zárodočné vrstvy označované ako:",
+    "options": [
+      {
+        "id": "a",
+        "text": "endoderm, ektoderm a mezoderm"
+      },
+      {
+        "id": "b",
+        "text": "ektoderm a endoderm"
+      },
+      {
+        "id": "c",
+        "text": "endoderm, mezenchým a ektoderm"
+      },
+      {
+        "id": "d",
+        "text": "blastocel a mezenchým"
+      },
+      {
+        "id": "e",
+        "text": "endoderm, ektoderm a celom"
+      },
+      {
+        "id": "f",
+        "text": "blastocel a celom"
+      },
+      {
+        "id": "g",
+        "text": "mezenchým a mezoderm"
+      },
+      {
+        "id": "h",
+        "text": "mezenchým a celom"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "255. Mezodermového pôvodu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je pokožka"
+      },
+      {
+        "id": "b",
+        "text": "je srdce"
+      },
+      {
+        "id": "c",
+        "text": "je tráviaca sústava"
+      },
+      {
+        "id": "d",
+        "text": "je obehová sústava"
+      },
+      {
+        "id": "e",
+        "text": "sú zmyslové bunky"
+      },
+      {
+        "id": "f",
+        "text": "je nervová sústava"
+      },
+      {
+        "id": "g",
+        "text": "je kostra stavovcov"
+      },
+      {
+        "id": "h",
+        "text": "sú svaly 57"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "256. Ektodermového pôvodu je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pokožka"
+      },
+      {
+        "id": "b",
+        "text": "nervová sústava"
+      },
+      {
+        "id": "c",
+        "text": "pečeň"
+      },
+      {
+        "id": "d",
+        "text": "kostra stavovcov"
+      },
+      {
+        "id": "e",
+        "text": "cievna sústava"
+      },
+      {
+        "id": "f",
+        "text": "vonkajšia kostra lankonozcov"
+      },
+      {
+        "id": "g",
+        "text": "srsť cicavcov"
+      },
+      {
+        "id": "h",
+        "text": "predná časť tráviacej rúry"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "257. Endodermoveho pôvodu je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pokožka"
+      },
+      {
+        "id": "b",
+        "text": "nervová sústava"
+      },
+      {
+        "id": "c",
+        "text": "pečeň"
+      },
+      {
+        "id": "d",
+        "text": "kostra lankonozcov"
+      },
+      {
+        "id": "e",
+        "text": "cievna sústava"
+      },
+      {
+        "id": "f",
+        "text": "vonkajšia kostra lankonozcov"
+      },
+      {
+        "id": "g",
+        "text": "tenké črevo"
+      },
+      {
+        "id": "h",
+        "text": "koncová časť tráviacej rúry"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "258. Hlavnými zásobnými látkami Živočíšnych buniek sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "bielkoviny"
+      },
+      {
+        "id": "b",
+        "text": "tuky"
+      },
+      {
+        "id": "c",
+        "text": "škrob"
+      },
+      {
+        "id": "d",
+        "text": "polysacharidy"
+      },
+      {
+        "id": "e",
+        "text": "enzýmy"
+      },
+      {
+        "id": "f",
+        "text": "glykogén"
+      },
+      {
+        "id": "g",
+        "text": "celulóza"
+      },
+      {
+        "id": "h",
+        "text": "integumenty"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "259. Homeostáza je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "stálosť vnútorného prostredia organizmu"
+      },
+      {
+        "id": "b",
+        "text": "zabezpečovaná činnosťou regulačných mechanizmov"
+      },
+      {
+        "id": "c",
+        "text": "porucha zrážania krvi"
+      },
+      {
+        "id": "d",
+        "text": "obranný mechanizmus"
+      },
+      {
+        "id": "e",
+        "text": "nervová regulácia"
+      },
+      {
+        "id": "f",
+        "text": "podobnosť orgánov vykonávajúcich rovnakú funkciu"
+      },
+      {
+        "id": "g",
+        "text": "nerozlisena pohlavnosť"
+      },
+      {
+        "id": "h",
+        "text": "ovplyvhovana vonkajším prostredím"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "260. Medzi výstelkové tkanivá patrí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "krycí epitel"
+      },
+      {
+        "id": "b",
+        "text": "väzivo"
+      },
+      {
+        "id": "c",
+        "text": "resorpčný epitel"
+      },
+      {
+        "id": "d",
+        "text": "chrupka"
+      },
+      {
+        "id": "e",
+        "text": "zmyslový epitel"
+      },
+      {
+        "id": "f",
+        "text": "kutikula"
+      },
+      {
+        "id": "g",
+        "text": "žazovy epitel"
+      },
+      {
+        "id": "h",
+        "text": "obrvený epitel"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "261. Zrazovy epitel:",
+    "options": [
+      {
+        "id": "a",
+        "text": "obsahuje bunky špecializované na sekréciu"
+      },
+      {
+        "id": "b",
+        "text": "pokrýva povrch tela živočíchov"
+      },
+      {
+        "id": "c",
+        "text": "pokrýva povrch kosti"
+      },
+      {
+        "id": "d",
+        "text": "je funkčným základom žliaz 58"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje bunky schopné meniť vonkajšie podnety na nervový vzruch"
+      },
+      {
+        "id": "f",
+        "text": "je tvorený bezjadrovými bunkami"
+      },
+      {
+        "id": "g",
+        "text": "má podpornú funkciu"
+      },
+      {
+        "id": "h",
+        "text": "má resorpenu funkciu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "262. Epitelové tkanivá:",
+    "options": [
+      {
+        "id": "a",
+        "text": "majú typické vrstevnaté uloženie buniek"
+      },
+      {
+        "id": "b",
+        "text": "nemajú vlastne cievne zásobovanie"
+      },
+      {
+        "id": "c",
+        "text": "majú vlastne cievne zásobovanie"
+      },
+      {
+        "id": "d",
+        "text": "sú tvorené malými bunkami s veľkým množstvom medzibunkovej hmoty"
+      },
+      {
+        "id": "e",
+        "text": "majú schopnosť obnovy po poškodení"
+      },
+      {
+        "id": "f",
+        "text": "obsahujú mineralizovánú medzibunkoví hmotu"
+      },
+      {
+        "id": "g",
+        "text": "môžu zabezpečovať príjem a vylučovanie látok"
+      },
+      {
+        "id": "h",
+        "text": "môžu mať ochrannú funkciu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "263. Derivátom pokožky cicavcov si:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ostne"
+      },
+      {
+        "id": "b",
+        "text": "šupiny rýb"
+      },
+      {
+        "id": "c",
+        "text": "kopytá"
+      },
+      {
+        "id": "d",
+        "text": "pri vajcorodcoch perie"
+      },
+      {
+        "id": "e",
+        "text": "kožné žľazy"
+      },
+      {
+        "id": "f",
+        "text": "chitínová kutikula"
+      },
+      {
+        "id": "g",
+        "text": "pelikula"
+      },
+      {
+        "id": "h",
+        "text": "anorganické schránky"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "264. Morfologickou a funkenou jednotkou hladkého svalu je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "viacjadrové svalové vlákno"
+      },
+      {
+        "id": "b",
+        "text": "svalové vlákno tvorené jednou bunkou"
+      },
+      {
+        "id": "c",
+        "text": "svalová bunka s aspoň piatimi jadrami"
+      },
+      {
+        "id": "d",
+        "text": "myofibrila"
+      },
+      {
+        "id": "e",
+        "text": "myozín"
+      },
+      {
+        "id": "f",
+        "text": "aktín"
+      },
+      {
+        "id": "g",
+        "text": "intermediárny filament"
+      },
+      {
+        "id": "h",
+        "text": "aktinomyozin"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "265. K spojivám patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "epitely, kosti, tkanivá svalové a nervové"
+      },
+      {
+        "id": "b",
+        "text": "väzivo, tkanivá chrupkové a kostné"
+      },
+      {
+        "id": "c",
+        "text": "kosti, väzivo, tkanivá krvné"
+      },
+      {
+        "id": "d",
+        "text": "väzivo a kostné tkanivo"
+      },
+      {
+        "id": "e",
+        "text": "epitely, väzivo, tkanivá chrupkové"
+      },
+      {
+        "id": "f",
+        "text": "väzivo, tkanivá svalové a kostné"
+      },
+      {
+        "id": "g",
+        "text": "resorpčný epitel a okostica"
+      },
+      {
+        "id": "h",
+        "text": "chrupka a kutikula"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "266. Nervové tkanivo tvoria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "gliové bunky"
+      },
+      {
+        "id": "b",
+        "text": "nervové bunky"
+      },
+      {
+        "id": "c",
+        "text": "neuróny"
+      },
+      {
+        "id": "d",
+        "text": "zmyslové bunky"
+      },
+      {
+        "id": "e",
+        "text": "bunky zabezpečujúce výživu neurónov 59"
+      },
+      {
+        "id": "f",
+        "text": "mnohojadrové bunky"
+      },
+      {
+        "id": "g",
+        "text": "bezjadrové, vysoko špecializované bunky"
+      },
+      {
+        "id": "h",
+        "text": "vakuolizovane bunky"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "267. Vnitorne oplodnenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je charakteristické pre všetky stavovce"
+      },
+      {
+        "id": "b",
+        "text": "znamená vývin jedinca z neoplodneného vajíčka"
+      },
+      {
+        "id": "c",
+        "text": "sa vyskytuje u väčšiny rýb a cicavcov"
+      },
+      {
+        "id": "d",
+        "text": "hladké svalové tkanivo"
+      },
+      {
+        "id": "e",
+        "text": "znamená oplodnenie vajíčka mimo tela matky v chránenom uzavretom prostredí"
+      },
+      {
+        "id": "f",
+        "text": "nastáva pri živočíchoch spravidla po kopulaci"
+      },
+      {
+        "id": "g",
+        "text": "je typické pre väčšinu suchozemských živočíchov"
+      },
+      {
+        "id": "h",
+        "text": "je charakteristické pre ryby a obojživelníky"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "268. Vonkajšie oplodnenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je typické pre väčšinu vodných živočíchov"
+      },
+      {
+        "id": "b",
+        "text": "je charakteristické pre všetky stavovce"
+      },
+      {
+        "id": "c",
+        "text": "je charakteristické pre najednoduchšie bezstavovce"
+      },
+      {
+        "id": "d",
+        "text": "znamená, že k fertilizacii dochádza vo vnútri tela samičky, napr. u vtákov a cicavcov"
+      },
+      {
+        "id": "e",
+        "text": "znamená, že vajíčko sa vyvíja bez účasti spermie, napr. u niektorých druhov rýb"
+      },
+      {
+        "id": "f",
+        "text": "je typické pre väčšinu suchozemských živočíchov"
+      },
+      {
+        "id": "g",
+        "text": "sa spravidla vyskytuje u živočíchov so zníženou pohyblivosťou"
+      },
+      {
+        "id": "h",
+        "text": "je typické pre dvoch jedincov, ktorí si navzájom vymieňajú spermie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "269. Samčie gaméty zivotichov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa tvoria v pohlavných žľazách - semenníkoch"
+      },
+      {
+        "id": "b",
+        "text": "sú produkované už počas embryonálneho vývinu"
+      },
+      {
+        "id": "c",
+        "text": "majú hlavičku, ktorá je temer celá tvorená haploidným jadrom"
+      },
+      {
+        "id": "d",
+        "text": "sú spravidla pohyblivé spermatozoidy"
+      },
+      {
+        "id": "e",
+        "text": "sú veľké plazmatické bunky"
+      },
+      {
+        "id": "f",
+        "text": "majú spravidla bičík a diploidné bunkové jadro"
+      },
+      {
+        "id": "g",
+        "text": "obsahujú zásobu živín, potrebných pre vývin zygoty"
+      },
+      {
+        "id": "h",
+        "text": "pri niektorých druhoch sú schopné partenogenetickeho vývinu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "270. Nepohlavne rozmnožovanie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "predstavuje vývin nového jedinca zo somatických buniek rodičovského organizmu"
+      },
+      {
+        "id": "b",
+        "text": "je Časté pri gonochoristoch"
+      },
+      {
+        "id": "c",
+        "text": "je typický spôsob rozmnožovania jednobunkovcov"
+      },
+      {
+        "id": "d",
+        "text": "je typický spôsob rozmnožovania hermafroditov"
+      },
+      {
+        "id": "e",
+        "text": "je také, pri ktorom je potomstvo genetický identické s rodičovským organizmom 60"
+      },
+      {
+        "id": "f",
+        "text": "myoglobín"
+      },
+      {
+        "id": "g",
+        "text": "je partenogenéza"
+      },
+      {
+        "id": "h",
+        "text": "je označované ako vegetatívne"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "271. Celom je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prvotná telová dutina"
+      },
+      {
+        "id": "b",
+        "text": "druhotná telová dutina vznikajúca v štádiu blastuly"
+      },
+      {
+        "id": "c",
+        "text": "druhotná telová dutina obklopená endodermom"
+      },
+      {
+        "id": "d",
+        "text": "druhotná telová dutina uzavretá mezodermom"
+      },
+      {
+        "id": "e",
+        "text": "prvotná telová dutina uzavretá ektodermom"
+      },
+      {
+        "id": "f",
+        "text": "prvotná telová dutina obklopená mezodermom"
+      },
+      {
+        "id": "g",
+        "text": "telová dutina medzi ektodermom a mezodermom"
+      },
+      {
+        "id": "h",
+        "text": "telová dutina medzi mezodermom a endodermom"
+      }
+    ],
+    "correct_answers": [
+      "d"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "272. Hermafroditizmus:",
+    "options": [
+      {
+        "id": "a",
+        "text": "znamená rozlíšenosť pohlavia"
+      },
+      {
+        "id": "b",
+        "text": "znamená diferencovanú pohlavnosť"
+      },
+      {
+        "id": "c",
+        "text": "znamená obojpohlavnost"
+      },
+      {
+        "id": "d",
+        "text": "znamená vývoj samičích i samčích gonád u toho istého jedinca"
+      },
+      {
+        "id": "e",
+        "text": "znamená bezpohlavnosť"
+      },
+      {
+        "id": "f",
+        "text": "sa vyskytuje pri parazitický žijúcich organizmoch"
+      },
+      {
+        "id": "g",
+        "text": "sa vyskytuje pri ulitníkoch"
+      },
+      {
+        "id": "h",
+        "text": "je častý pri ploskavcoch"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "273. Gonochorizmus znamená:",
+    "options": [
+      {
+        "id": "a",
+        "text": "obojpohlavnost"
+      },
+      {
+        "id": "b",
+        "text": "odlišnosť jedincov v primárnych pohlavných znakoch"
+      },
+      {
+        "id": "c",
+        "text": "bezpohlavnosť"
+      },
+      {
+        "id": "d",
+        "text": "že samci a samici jedinci sú oddeleného pohlavia"
+      },
+      {
+        "id": "e",
+        "text": "vývoj samčích i samičích gonád u toho istého jedinca"
+      },
+      {
+        "id": "f",
+        "text": "diferencovanú pohlavnosť"
+      },
+      {
+        "id": "g",
+        "text": "odlišnosť jedincov v sekundárnych pohlavných znakoch"
+      },
+      {
+        "id": "h",
+        "text": "hermafroditizmus"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "274. Sexuálny dimorfizmus je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "odlíšenie jedincov gonádami i ďalšími morfologicko-funkcnymi vlastnosťami"
+      },
+      {
+        "id": "b",
+        "text": "podobnosť jedincov odliseneho pohlavia"
+      },
+      {
+        "id": "c",
+        "text": "rozdielnosť jedincov v primárnych i sekundárnych pohlavných znakoch"
+      },
+      {
+        "id": "d",
+        "text": "tvorba rozdielnych pohlavných buniek"
+      },
+      {
+        "id": "e",
+        "text": "odlišnosť jedincov len v gonádach a gamétach"
+      },
+      {
+        "id": "f",
+        "text": "pozorovateľný pri gonochoristoch"
+      },
+      {
+        "id": "g",
+        "text": "pozorovateľný pri hermafroditoch"
+      },
+      {
+        "id": "h",
+        "text": "typický pre pásomnice"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "275. Partenogenéza je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vývin oplodneného vajíčka"
+      },
+      {
+        "id": "b",
+        "text": "vývin neoplodneného vajíčka 61"
+      },
+      {
+        "id": "c",
+        "text": "vývin jedinca zo somatickej bunky"
+      },
+      {
+        "id": "d",
+        "text": "vonkajšie oplodnenie"
+      },
+      {
+        "id": "e",
+        "text": "vývin vajíčka bez oplodnenia"
+      },
+      {
+        "id": "f",
+        "text": "vývin jedinca zo somatického tkanivá"
+      },
+      {
+        "id": "g",
+        "text": "oplodnenie vajíčka viacerými spermiami"
+      },
+      {
+        "id": "h",
+        "text": "vnútorné oplodnenie"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "276. Oogamia je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vývin jedinca z neoplodneného vajíčka"
+      },
+      {
+        "id": "b",
+        "text": "typická pre jednobunkové živočíchy"
+      },
+      {
+        "id": "c",
+        "text": "splývanie pohyblivého vajíčka s nepohyblivou spermiou"
+      },
+      {
+        "id": "d",
+        "text": "prechodne spájanie dvoch vajíčok"
+      },
+      {
+        "id": "e",
+        "text": "splynutie nepohyblivého vajíčka s pohyblivou spermiou"
+      },
+      {
+        "id": "f",
+        "text": "kopulácia"
+      },
+      {
+        "id": "g",
+        "text": "konjugácia"
+      },
+      {
+        "id": "h",
+        "text": "typická pre mnohobunkové živočíchy"
+      }
+    ],
+    "correct_answers": [
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "277. Samooplodnenie hermafroditov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je základný spôsob tvorby zygot"
+      },
+      {
+        "id": "b",
+        "text": "je zriedkavý jav pri rozmnožovaní"
+      },
+      {
+        "id": "c",
+        "text": "prebieha len v prípade, keď je znížená možnosť vzájomného párenia"
+      },
+      {
+        "id": "d",
+        "text": "je bežný spôsob rozmnožovania dážďoviek"
+      },
+      {
+        "id": "e",
+        "text": "je bežný spôsob rozmnožovania pásomníc"
+      },
+      {
+        "id": "f",
+        "text": "je pri mnohých druhoch znemožnené tým, že samčie a samičie gaméty nedozrievajú súčasne"
+      },
+      {
+        "id": "g",
+        "text": "je možné len pri druhoch s pohlavnou dvojtvarostou"
+      },
+      {
+        "id": "h",
+        "text": "nie je nikdy možné"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "278. Vajcoživorodé živočíchy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú napr. vtáky"
+      },
+      {
+        "id": "b",
+        "text": "kladú oplodnené vajíčka"
+      },
+      {
+        "id": "c",
+        "text": "sú také, ktorých oplodnené vajíčka sa vyvijajt v tele samice a obaly vajíčok pukajú pri kladení"
+      },
+      {
+        "id": "d",
+        "text": "sú niektoré obojživelníky"
+      },
+      {
+        "id": "e",
+        "text": "kladi neoplodnené vajíčka"
+      },
+      {
+        "id": "f",
+        "text": "sú gonochoristi"
+      },
+      {
+        "id": "g",
+        "text": "sú niektoré klepietkavce"
+      },
+      {
+        "id": "h",
+        "text": "sú také, ktorých oplodnenie nastáva mimotelovo"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "279. Označte správnu odpoveď:",
+    "options": [
+      {
+        "id": "a",
+        "text": "samičie gaméty majú hlavičku, krček a bičík"
+      },
+      {
+        "id": "b",
+        "text": "vajíčko cicavcov obsahuje malo zítka"
+      },
+      {
+        "id": "c",
+        "text": "vajíčka obojživelníkov majú rôsolovité obaly"
+      },
+      {
+        "id": "d",
+        "text": "vajíčka obrúčkavcov majú rôsolovité obaly"
+      },
+      {
+        "id": "e",
+        "text": "sú spojené interkalárnymi diskami"
+      },
+      {
+        "id": "f",
+        "text": "vajíčko cicavcov obsahuje veľa zítka"
+      },
+      {
+        "id": "g",
+        "text": "vajíčka hlavonožcov majú malé množstvo živín 62"
+      },
+      {
+        "id": "h",
+        "text": "u obrúčkavcov bielkovinové obaly obklopujú viacero vajíčok dohromady"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "280. Ontogenéza mnohobunkových živočíchov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "začína oplodnením a konci smrťou jedinca"
+      },
+      {
+        "id": "b",
+        "text": "začína oplodnením a konci produkciou vlastného potomstva"
+      },
+      {
+        "id": "c",
+        "text": "je genetický riadený proces"
+      },
+      {
+        "id": "d",
+        "text": "má embryonálnu a postembryonalnu etapu"
+      },
+      {
+        "id": "e",
+        "text": "začína oplodnením a konci narodením alebo vyliahnutím jedinca"
+      },
+      {
+        "id": "f",
+        "text": "začína narodením alebo vyliahnutím jedinca a konci smrťou"
+      },
+      {
+        "id": "g",
+        "text": "zahrha procesy ryhovania vajíčka"
+      },
+      {
+        "id": "h",
+        "text": "zahrha proces pohlavného dospievania"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "281. Počas embryonálneho vývinu prebieha:",
+    "options": [
+      {
+        "id": "a",
+        "text": "gastrulácia"
+      },
+      {
+        "id": "b",
+        "text": "brázdenie neoplodneného vajíčka pri partenogenéze"
+      },
+      {
+        "id": "c",
+        "text": "brázdenie oplodneného vajíčka"
+      },
+      {
+        "id": "d",
+        "text": "brázdenie spermatozoidu pri partenogenéze"
+      },
+      {
+        "id": "e",
+        "text": "organogenéza"
+      },
+      {
+        "id": "f",
+        "text": "diferenciácia zárodočných vrstiev"
+      },
+      {
+        "id": "g",
+        "text": "diferenciácia buniek"
+      },
+      {
+        "id": "h",
+        "text": "delenie oplodneného vajíčka pri partenogenéze"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "282. Spermatozoidy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú pohyblivé samčie gaméty"
+      },
+      {
+        "id": "b",
+        "text": "sú pohyblivé samičie gaméty"
+      },
+      {
+        "id": "c",
+        "text": "väčšiny živočíchov majú diferencovanú hlavičku, krček a bičík"
+      },
+      {
+        "id": "d",
+        "text": "sú diploidné bunky"
+      },
+      {
+        "id": "e",
+        "text": "sú haploidné bunky"
+      },
+      {
+        "id": "f",
+        "text": "majú hlavičku, obsahujúcu genetickú informáciu"
+      },
+      {
+        "id": "g",
+        "text": "majú hlavičku, obsahujúce zásobné látky potrebné pre výživu"
+      },
+      {
+        "id": "h",
+        "text": "sú nepohyblivé samčie gaméty hermafroditov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "283. Samičie gaméty Živočíchov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa tvoria v ovariach"
+      },
+      {
+        "id": "b",
+        "text": "sú haploidné"
+      },
+      {
+        "id": "c",
+        "text": "sú diploidné"
+      },
+      {
+        "id": "d",
+        "text": "sú vždy nepohyblivé"
+      },
+      {
+        "id": "e",
+        "text": "môžu byť schopné aktívneho pohybu"
+      },
+      {
+        "id": "f",
+        "text": "gangliá"
+      },
+      {
+        "id": "g",
+        "text": "nervové vlákna"
+      },
+      {
+        "id": "h",
+        "text": "vznikajú mitotickým delením somatických buniek"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "284. Vajíčka zivotichov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú samičie gaméty"
+      },
+      {
+        "id": "b",
+        "text": "sú pohyblivé bunky"
+      },
+      {
+        "id": "c",
+        "text": "sú haploidné"
+      },
+      {
+        "id": "d",
+        "text": "vznikajú meiotickym delením z diploidných buniek 63"
+      },
+      {
+        "id": "e",
+        "text": "sú vždy chránené papierovitými blanami"
+      },
+      {
+        "id": "f",
+        "text": "obsahujú jadro a zásobné látky"
+      },
+      {
+        "id": "g",
+        "text": "sa tvoria v semenníkoch"
+      },
+      {
+        "id": "h",
+        "text": "zabezpečujú prenos vzruchov len jedným smerom"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "285. Schránky jednobunkovcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "plnia funkciu pohybovej organely"
+      },
+      {
+        "id": "b",
+        "text": "obsahujú uhličitan vápenatý"
+      },
+      {
+        "id": "c",
+        "text": "obsahujú oxid kremičitý"
+      },
+      {
+        "id": "d",
+        "text": "obsahujú celulózu"
+      },
+      {
+        "id": "e",
+        "text": "majú ochrannú funkciu"
+      },
+      {
+        "id": "f",
+        "text": "obsahujú bielkoviny a lipidy"
+      },
+      {
+        "id": "g",
+        "text": "vznikajú mineralizáciou plazmatickej membrány"
+      },
+      {
+        "id": "h",
+        "text": "nahrádzajú plazmatickú bunkovú membránu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "286. Pokožka živočíchov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "môže byť tvorená viacvrstvovým epitelom"
+      },
+      {
+        "id": "b",
+        "text": "vznikla diferenciáciou z mezodermu"
+      },
+      {
+        "id": "c",
+        "text": "môže obsahovať krycie bunky"
+      },
+      {
+        "id": "d",
+        "text": "je povrchová vrstva tela jednobunkovcov"
+      },
+      {
+        "id": "e",
+        "text": "vznikla diferenciáciou z ektodermu"
+      },
+      {
+        "id": "f",
+        "text": "môže byť tvorená obrveným epitelom"
+      },
+      {
+        "id": "g",
+        "text": "článkonožcov môže byť chránená nebunkovou vrstvou - pelikulou"
+      },
+      {
+        "id": "h",
+        "text": "hubiek je mezodermového pôvodu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "287. V koži stavovcov sa môžu nachádzať žľazy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "potné a pachové"
+      },
+      {
+        "id": "b",
+        "text": "mazové a slizové"
+      },
+      {
+        "id": "c",
+        "text": "mliečne a pohlavné"
+      },
+      {
+        "id": "d",
+        "text": "jedové a slizové"
+      },
+      {
+        "id": "e",
+        "text": "mazoveé a mliečne"
+      },
+      {
+        "id": "f",
+        "text": "jedové a slinné"
+      },
+      {
+        "id": "g",
+        "text": "pigmentové a tukové"
+      },
+      {
+        "id": "h",
+        "text": "potné a pohlavné"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "288. Koža cicavcov pozostáva z:",
+    "options": [
+      {
+        "id": "a",
+        "text": "viacvrstvového zrohovateleho epitelu"
+      },
+      {
+        "id": "b",
+        "text": "vrstvy zamše a podkožného väziva"
+      },
+      {
+        "id": "c",
+        "text": "ochrannej povrchovej vrstvy - kutikuly"
+      },
+      {
+        "id": "d",
+        "text": "derivátov pokožky, napr. peria"
+      },
+      {
+        "id": "e",
+        "text": "pokožky, ktorá je mezodermového pôvodu"
+      },
+      {
+        "id": "f",
+        "text": "vrstvy zamše, ktorá je mezodermového pôvodu"
+      },
+      {
+        "id": "g",
+        "text": "pokožky a zamše, ktoré sú ektodermového pôvodu"
+      },
+      {
+        "id": "h",
+        "text": "mnohojadrových zrohovatelych buniek"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "289. Na povrchu kosti s výnimkou kibovych plôch je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "okostica"
+      },
+      {
+        "id": "b",
+        "text": "väzivová blana"
+      },
+      {
+        "id": "c",
+        "text": "epitelová ochranná vrstva"
+      },
+      {
+        "id": "d",
+        "text": "hubové kostné tkanivo"
+      },
+      {
+        "id": "e",
+        "text": "kostná dreň"
+      },
+      {
+        "id": "f",
+        "text": "chrupka"
+      },
+      {
+        "id": "g",
+        "text": "mineralizovaná chrupka"
+      },
+      {
+        "id": "h",
+        "text": "glykokalyx 64"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "290. Kostru trupu stavovcov tvorí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "chrbtica a kostra hrudníka s rebrami"
+      },
+      {
+        "id": "b",
+        "text": "columna vertebralis a kostra hrudníka s rebrami"
+      },
+      {
+        "id": "c",
+        "text": "chrbtica s lebkou"
+      },
+      {
+        "id": "d",
+        "text": "kostra hrudníka a horných končatín"
+      },
+      {
+        "id": "e",
+        "text": "spojivové tkanivo - kosť, chrupka a väzivo"
+      },
+      {
+        "id": "f",
+        "text": "spojivové tkanivo - kosť, väzivo a svaly"
+      },
+      {
+        "id": "g",
+        "text": "chorda dorsalis"
+      },
+      {
+        "id": "h",
+        "text": "chrbtica a chrbtové svaly"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "291. Základom vnitornej kostry stavovcov z fylogenetického hp'adiska je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "chorda dorsalis"
+      },
+      {
+        "id": "b",
+        "text": "chrbtová struna"
+      },
+      {
+        "id": "c",
+        "text": "chrbtica endodermoveho pôvodu"
+      },
+      {
+        "id": "d",
+        "text": "lebka a kostra hrudníka"
+      },
+      {
+        "id": "e",
+        "text": "spojivové tkanivo ektodermového pôvodu"
+      },
+      {
+        "id": "f",
+        "text": "modifikovaná vonkajšia kostra"
+      },
+      {
+        "id": "g",
+        "text": "povrazec vakuolizovanych buniek mezodermu"
+      },
+      {
+        "id": "h",
+        "text": "chorda dorsalis endodermoveho pôvodu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "292. Väzivo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je typ podporného tkanivá"
+      },
+      {
+        "id": "b",
+        "text": "obsahuje množstvo medzibunkovej hmoty s kolagénovými a elastickými vláknami"
+      },
+      {
+        "id": "c",
+        "text": "tvorí napríklad medzistavcové platničky"
+      },
+      {
+        "id": "d",
+        "text": "tvorí napr. sPachy a puzdra orgánov"
+      },
+      {
+        "id": "e",
+        "text": "vypĺňa priestor medzi orgánmi"
+      },
+      {
+        "id": "f",
+        "text": "zabezpečuje pevnosť kosti"
+      },
+      {
+        "id": "g",
+        "text": "je základom kostry drsnokožcov"
+      },
+      {
+        "id": "h",
+        "text": "je tvorené bunkami s vysokým obsahom minerálnych látok"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "293. Povrch tela lankonozcov tvorí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kutikula"
+      },
+      {
+        "id": "b",
+        "text": "súvislá nebunková vrstva"
+      },
+      {
+        "id": "c",
+        "text": "chitínová kutikula"
+      },
+      {
+        "id": "d",
+        "text": "spongín, ktorý môže byť inkrustovaný oxidom kremičitým"
+      },
+      {
+        "id": "e",
+        "text": "pelikula"
+      },
+      {
+        "id": "f",
+        "text": "pigmentované bunky"
+      },
+      {
+        "id": "g",
+        "text": "pokožka tvorená viacvrstvovým epitelom"
+      },
+      {
+        "id": "h",
+        "text": "pokožka tvorená jednovrstvovým epitelom"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "294. Čelí kostru stavovcov tvoria tieto funkčné celky:",
+    "options": [
+      {
+        "id": "a",
+        "text": "tvarová a mozgová časť lebky"
+      },
+      {
+        "id": "b",
+        "text": "chrbtica a kostra hrudníka s rebrami"
+      },
+      {
+        "id": "c",
+        "text": "kostra lebky, kostra trupu, kostra horných a dolných končatín"
+      },
+      {
+        "id": "d",
+        "text": "tvarová a mozgová časť lebky, kostra trupu, kostra horných a dolných končatín 65 končatín"
+      },
+      {
+        "id": "e",
+        "text": "tráviaca dutina pŕhlivcov"
+      },
+      {
+        "id": "f",
+        "text": "kostra trupu, kostra horných a dolných končatín"
+      },
+      {
+        "id": "g",
+        "text": "kostra lebky, kostra horných a dolných končatín"
+      },
+      {
+        "id": "h",
+        "text": "kostra lebky, kostra trupu, kosti predných a zadných končatín"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "295. Jednobunkové organizmy sa pohybujú pomocou:",
+    "options": [
+      {
+        "id": "a",
+        "text": "panôžok"
+      },
+      {
+        "id": "b",
+        "text": "bičíkov"
+      },
+      {
+        "id": "c",
+        "text": "bŕv"
+      },
+      {
+        "id": "d",
+        "text": "svalov"
+      },
+      {
+        "id": "e",
+        "text": "mikrotubularnych struktir"
+      },
+      {
+        "id": "f",
+        "text": "intermediárnych filamentov"
+      },
+      {
+        "id": "g",
+        "text": "pohybovej vakuoly"
+      },
+      {
+        "id": "h",
+        "text": "koznosvalového vaku"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "296. Kinéza je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zrýchlenie pohybovej aktivity vzh'adom na určitý podnet"
+      },
+      {
+        "id": "b",
+        "text": "zmena smeru pohybu vzhľadom na určitý podnet"
+      },
+      {
+        "id": "c",
+        "text": "spomalenie pohybovej aktivity vzhľadom na určitý podnet"
+      },
+      {
+        "id": "d",
+        "text": "zmena trvania bunkového cyklu jednobunkovcov"
+      },
+      {
+        "id": "e",
+        "text": "obdobie zníženej aktivity organizmu v nepriaznivých podmienkach"
+      },
+      {
+        "id": "f",
+        "text": "kontrakcia myofibríl v svalovom vlákne"
+      },
+      {
+        "id": "g",
+        "text": "Šírenie vzruchu"
+      },
+      {
+        "id": "h",
+        "text": "spôsob pohlavného rozmnožovania nálevníkov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "297. Podľa chemického zloženia, Štruktúry a spôsobu sťahovania rozlišujeme kostrové svalové vlákna:",
+    "options": [
+      {
+        "id": "a",
+        "text": "červené, rýchlo vytvárajúce veľký kyslíkový dlh"
+      },
+      {
+        "id": "b",
+        "text": "biele, schopné rýchlej kontrakcie"
+      },
+      {
+        "id": "c",
+        "text": "biele, schopné pomalšej kontrakcie"
+      },
+      {
+        "id": "d",
+        "text": "červené, schopné pomalšej kontrakcie"
+      },
+      {
+        "id": "e",
+        "text": "biele, prispôsobené na vytrvalú prácu"
+      },
+      {
+        "id": "f",
+        "text": "biele, rýchlo vytvárajúce veľký kyslíkový dlh"
+      },
+      {
+        "id": "g",
+        "text": "červené, schopné rýchlej kontrakcie"
+      },
+      {
+        "id": "h",
+        "text": "červené, prispôsobené na vytrvalú prácu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "298. Pomalé svalové vlákna kostrových svalov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú viac prispôsobené na vytrvalostnú prácu"
+      },
+      {
+        "id": "b",
+        "text": "obsahujú menej myoglobinu"
+      },
+      {
+        "id": "c",
+        "text": "sa unavia rýchlejšie"
+      },
+      {
+        "id": "d",
+        "text": "obsahujú viac myoglobinu"
+      },
+      {
+        "id": "e",
+        "text": "sa nazývajú červené svalové vlákna"
+      },
+      {
+        "id": "f",
+        "text": "prevažujú napr. v lietacích svaloch vtákov"
+      },
+      {
+        "id": "g",
+        "text": "sú tvorené jednojadrovými bunkami"
+      },
+      {
+        "id": "h",
+        "text": "sú tvorené bezjadrovými bunkami"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "299. Hladké svalové tkanivo:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je tvorené mnohojadrovymi svalovými vláknami"
+      },
+      {
+        "id": "b",
+        "text": "tvorí pohybový aparát mnohých nižších bezstavovcov"
+      },
+      {
+        "id": "c",
+        "text": "tvorí kostrové svaly stavovcov 66"
+      },
+      {
+        "id": "d",
+        "text": "tvorí steny vnútorných orgánov stavovcov"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje veľké množstvo kolagénových vláken"
+      },
+      {
+        "id": "f",
+        "text": "je schopné kontrakcie"
+      },
+      {
+        "id": "g",
+        "text": "je pri cicavcoch riadené autonómnym nervovým systémom"
+      },
+      {
+        "id": "h",
+        "text": "je tvorené jednojadrovými vretenovitými bunkami"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "300. Hladké svaly:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú malo unaviteľne"
+      },
+      {
+        "id": "b",
+        "text": "majú menšiu schopnosť kontrakcie než priečne pruhované svaly"
+      },
+      {
+        "id": "c",
+        "text": "majú väčšiu schopnosť kontrakcie než priečne pruhované svaly"
+      },
+      {
+        "id": "d",
+        "text": "sú súčasťou stien tráviacej rúry stavovcov"
+      },
+      {
+        "id": "e",
+        "text": "sú súčasťou kostrového svalstva"
+      },
+      {
+        "id": "f",
+        "text": "môžu reagovať na tepelné podnety"
+      },
+      {
+        "id": "g",
+        "text": "podliehajú priamej regulácii ústrednej nervovej sústavy"
+      },
+      {
+        "id": "h",
+        "text": "sú regulované látkovo"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F, H."
+  }
+]

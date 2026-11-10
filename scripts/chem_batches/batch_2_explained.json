@@ -1,0 +1,2300 @@
+[
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "51. Vyberte správne pomenovania a vzorce kyselín odvodených od síry:",
+    "options": [
+      {
+        "id": "a",
+        "text": "H2SOs je kyselina peroxosiricita"
+      },
+      {
+        "id": "b",
+        "text": "H2SO je kyselina peroxosirova 18"
+      },
+      {
+        "id": "c",
+        "text": "H2S2O: je kyselina peroxodisirova"
+      },
+      {
+        "id": "d",
+        "text": "H2S2O je kyselina disirova"
+      },
+      {
+        "id": "e",
+        "text": "H2S2Oz je kyselina peroxodisiričitá"
+      },
+      {
+        "id": "f",
+        "text": "H2SO je kyselina diperoxosirova"
+      },
+      {
+        "id": "g",
+        "text": "H2S2Os je kyselina diperoxodisirova"
+      },
+      {
+        "id": "h",
+        "text": "H2S2O9 je kyselina diperoxodisirova"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne pomenovania kyselín síry sú: H2S2O8 je kyselina peroxodisírová (c), H2S2O7 je kyselina disírová (d), H2SO6 je kyselina diperoxosírová (f) a H2S2O9 je kyselina diperoxodisírová (h). Vzorec H2SO5 patrí kyseline peroxosírovej (Caroovej kyseline), nie peroxosiričitej (a), vzorec H2SO je neúplný (b) a H2S2O7 je disírová a nie peroxodisiričitá (e)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "52. Vyberte správne pomenovania a vzorce hydridov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "H3P je fosfán"
+      },
+      {
+        "id": "b",
+        "text": "alh je alan"
+      },
+      {
+        "id": "c",
+        "text": "ash je arzán"
+      },
+      {
+        "id": "d",
+        "text": "GeH4 je german"
+      },
+      {
+        "id": "e",
+        "text": "HzSe je selan"
+      },
+      {
+        "id": "f",
+        "text": "PH3 je fosfán"
+      },
+      {
+        "id": "g",
+        "text": "SeH2 je selan"
+      },
+      {
+        "id": "h",
+        "text": "HS2 je sulfán"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne systematické názvy a vzorce hydridov p-prvkov sú AsH3 – arzán (c), GeH4 – germán (d), H2Se – selán (e) a PH3 – fosfán (f). Vzorec fosfánu sa štandardne zapisuje ako PH3 a nie H3P (a), alan má vzorec AlH3 (b), pre selán je správny vzorec H2Se a nie SeH2 (g) a sulfán má stechiometriu H2S, nie HS2 (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "53. Vyberte odpovede, kde vzorce neodpovedajú uvedeným zlúčeninám:",
+    "options": [
+      {
+        "id": "a",
+        "text": "SiN4 je nitrid kremičitý"
+      },
+      {
+        "id": "b",
+        "text": "gaas je arzenid gality"
+      },
+      {
+        "id": "c",
+        "text": "LiAs3 je arzenid lítny"
+      },
+      {
+        "id": "d",
+        "text": "Pb3N2 je azid olovnatý"
+      },
+      {
+        "id": "e",
+        "text": "Mg3P2 je fosfid horečnatý"
+      },
+      {
+        "id": "f",
+        "text": "CaC2 je karbid vápenatý"
+      },
+      {
+        "id": "g",
+        "text": "SisN4 je nitrid kremičitý"
+      },
+      {
+        "id": "h",
+        "text": "AiSb3 je antimonid hlinitý"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Vzorce neodpovedajú zadaným názvom v možnostiach a, c, d, h. Nitrid kremičitý má stechiometrický vzorec Si3N4, nie SiN4 (a); arzenid lítny pozostáva z katiónov Li+ a aniónu As3-, teda Li3As, nie LiAs3 (c); azid olovnatý obsahuje azidový anión N3-, preto má vzorec Pb(N3)2, kým Pb3N2 je nitrid olovnatý (d); a antimonid hlinitý má pomer prvkov 1:1, teda AlSb (h). Zlúčeniny GaAs, Mg3P2, CaC2 a Si3N4 sú zapísané správne."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "54. Vyberte odpovede, kde vzorce neodpovedaji uvedeným zlúčeninám:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cu2CO3(OH)2 je hydroxid-uhličitan meďnatý"
+      },
+      {
+        "id": "b",
+        "text": "MnCl2O je chlorid-oxid manganičitý"
+      },
+      {
+        "id": "c",
+        "text": "CasF(PO4)3 je fluorid-tris(fosforečnan) pentavapenaty"
+      },
+      {
+        "id": "d",
+        "text": "KCr(OH)2 je hydroxid draselno-chromitý"
+      },
+      {
+        "id": "e",
+        "text": "CaCl(CIO) je chlorid-chlórnan vápenatý"
+      },
+      {
+        "id": "f",
+        "text": "Cs3CoCl6 je chlorid tricezno-kobaltnatý"
+      },
+      {
+        "id": "g",
+        "text": "COS2 je oxid-sulfid uhličitý"
+      },
+      {
+        "id": "h",
+        "text": "PClsO je chlorid-oxid fosforečný"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Vzorce neodpovedajú uvedeným zlúčeninám v možnostiach d, f, g, h. Hydroxid draselno-chromitý KCr(OH)4 vyžaduje štyri hydroxidové anióny na kompenzáciu nábojov K+ a Cr3+, vzorec KCr(OH)2 nie je elektroneutrálny (d); Cs3CoCl6 nevychádza nábojovo pre kobaltnatý katión Co2+ (f); oxid-sulfid uhličitý má vzorec COS, nie COS2 (g); chlorid-oxid fosforečný má vzorec POCl3, zatiaľ čo PCl5O by prekračoval maximálnu väzbovosť fosforu (h). Možnosti a, b, c, e uvádzajú korektné podvojné a zmiešané soli."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "55. Vyberte správne pomenovania a vzorce kyselín:",
+    "options": [
+      {
+        "id": "a",
+        "text": "HOCN je kyselina kyanata"
+      },
+      {
+        "id": "b",
+        "text": "HeSi2O je kyselina heptaoxodikremicita"
+      },
+      {
+        "id": "c",
+        "text": "HBO3 je kyselina trioxoborita"
+      },
+      {
+        "id": "d",
+        "text": "H2S2Os je kyselina dihydrogendisiricita"
+      },
+      {
+        "id": "e",
+        "text": "HBrO4 je kyselina tetraoxobromicna"
+      },
+      {
+        "id": "f",
+        "text": "HeTeO6 je kyselina hexaoxoteluricita"
+      },
+      {
+        "id": "g",
+        "text": "HSiO4 je kyselina tetraoxokremista"
+      },
+      {
+        "id": "h",
+        "text": "HP2O je kyselina tetrahydrogendifosforita"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne pomenovania a vzorce kyselín sú: HOCN – kyselina kyanatá (a), H6Si2O7 – kyselina heptaoxodikremičitá (b), H3BO3 – kyselina trioxoboritá (c) a H2S2O5 – kyselina dihydrogendisiričitá (d). Kyselina HBrO4 je tetraoxobromistá, nie brómična (e); H6TeO6 je kyselina hexaoxotelúrová s Te(VI), nie telúričitá (f); kyselina tetraoxokremičitá má vzorec H4SiO4, nie HSiO4 (g); a kyselina tetrahydrogendifosforitá je H4P2O5 (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "56. Vyberte správne pomenovania a vzorce hydrátov soli: 19",
+    "options": [
+      {
+        "id": "a",
+        "text": "Na2SO4. 10 H2O je dekahydrat síranu sodného"
+      },
+      {
+        "id": "b",
+        "text": "AIK(SO4)2. 12 H2O je undekahydrat síranu draselno-hlinitého"
+      },
+      {
+        "id": "c",
+        "text": "Hg(BO3)2 . 2 H2O je dihydrát boritanu ortuťnatého"
+      },
+      {
+        "id": "d",
+        "text": "camg(CO3)2 . 11 H2O je dodekahydrat uhličitanu horečnato-vápenatého"
+      },
+      {
+        "id": "e",
+        "text": "(NH4)2Fe(SO4)2 . 6 H2O je hexahydrát síranu amónno-železnatého"
+      },
+      {
+        "id": "f",
+        "text": "BaCIO4 . 3 H2O je trihydrát chloristanu bárnatého"
+      },
+      {
+        "id": "g",
+        "text": "CaSO4 . 1/2 H2O je hemihydrát síranu vápenatého"
+      },
+      {
+        "id": "h",
+        "text": "Na2Mg(CO3)2 . 10 H2O je dekahydrat uhličitanu horečnato-sodného"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne vzorce a názvy hydrátov solí sú v možnostiach a, e, g, h: Na2SO4·10H2O (dekahydrát síranu sodného), (NH4)2Fe(SO4)2·6H2O (hexahydrát síranu amónno-železnatého – Mohrova soľ), CaSO4·1/2H2O (hemihydrát síranu vápenatého – pálená sadra) a Na2Mg(CO3)2·10H2O (dekahydrát uhličitanu horečnato-sodného). V možnosti b predpona undeka- označuje 11 (pričom vzorec má 12 H2O – dodekahydrát), v d predpona dodeka- nezodpovedá 11 molekulám vody a vo f chýba správny pomer pre chloristan bárnatý Ba(ClO4)2·3H2O."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "57. Vyberte odpovede, kde vzorce neodpovedajú uvedeným zlúčeninám:",
+    "options": [
+      {
+        "id": "a",
+        "text": "NH4[CdCl3] je trichlorokademnatan amónny"
+      },
+      {
+        "id": "b",
+        "text": "K2[PtBr6] je hexabromoplatnatan didraselny"
+      },
+      {
+        "id": "c",
+        "text": "Na[Au(CN)2OH] je dikyano-hydroxozlatitan sodný"
+      },
+      {
+        "id": "d",
+        "text": "[Sn3(OH)ČO]Cl2 je chlorid hexahydroxo-karbonyl-ciničitý"
+      },
+      {
+        "id": "e",
+        "text": "Rb[Ag(CN)2] je dikyanostriebornan rubídny"
+      },
+      {
+        "id": "f",
+        "text": "K2[MnF6] je hexafluoromanganicnan draselný"
+      },
+      {
+        "id": "g",
+        "text": "Fe[Hg(SCN)4] je tetratiokyanatoortuťnatan železnatý"
+      },
+      {
+        "id": "h",
+        "text": "Liz[PbF6] je hexafluoroolovicitan lítny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Vzorce neodpovedajú uvedeným názvom v možnostiach b, c, d, f. V K2[PtBr6] má platina oxidačné číslo +IV, preto ide o hexabromoplatičitan draselný (nie platnatan) a predpona „didraselný“ je v anorganickom názvosloví nesprávna (b); vzorec v c nezodpovedá dikyano-hydroxozlatitanu sodnému (nábojové pomery nevychádzajú); komplex v d nezodpovedá hexahydroxo-karbonylciničitanu; v f má mangán v anióne [MnF6]2- oxidačné číslo +IV, ide teda o hexafluoromanganičitan, nie manganičnan (+V) (f)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "58. Vyberte správne pomenovania a vzorce nasledujúcich zlicenin:",
+    "options": [
+      {
+        "id": "a",
+        "text": "CaHS je hydrogensulfid vápenatý"
+      },
+      {
+        "id": "b",
+        "text": "KH2B4O je dihydrogentetraboritan draselný"
+      },
+      {
+        "id": "c",
+        "text": "Sr(H2PO3)2 je dihydrogenfosforitan strontnatý"
+      },
+      {
+        "id": "d",
+        "text": "CsHMoO4 je hydrogenmolybdenan cézny"
+      },
+      {
+        "id": "e",
+        "text": "Li2HVO4 je hydrogenvanadicnan lítny"
+      },
+      {
+        "id": "f",
+        "text": "KFe(HCO3)2 je hydrogenuhličitan draselno-železitý"
+      },
+      {
+        "id": "g",
+        "text": "Ag2HIOs je hydrogenjodistan strieborný"
+      },
+      {
+        "id": "h",
+        "text": "NHH2AsO4 je dihydrogenarzenitan amónny"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne pomenované kyslé soli (hydrogénsoli) sú Sr(H2PO3)2 – dihydrogenfosforitan strontnatý (c), CsHMoO4 – hydrogenmolybdenan cézny (d), Li2HVO4 – hydrogenvanadičnan lítny (e) a Ag2HIO5 – hydrogenjodistan strieborný (g). Hydrogensulfid vápenatý má vzorec Ca(HS)2, pretože vápnik tvorí dvojmocný katión Ca2+ (a); v b je neúplný vzorec tetraboritanu; v f nie je zlúčenina elektroneutrálna (K+ a Fe3+ vyžadujú 4 anióny HCO3-); v h je anión H2AsO4- dihydrogenarzeničnanový, nie arzenitanový."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "59. Tetrachloro-paladnatan amónny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má koordinačné číslo 6"
+      },
+      {
+        "id": "b",
+        "text": "centrálny atóm je donorom elektrónov"
+      },
+      {
+        "id": "c",
+        "text": "ČI a NH4t sú ligandy"
+      },
+      {
+        "id": "d",
+        "text": "má vzorec (NH4)2[PtC14]"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje komplexný anión s nábojovým číslom -2"
+      },
+      {
+        "id": "f",
+        "text": "má centrálny atóm paládium"
+      },
+      {
+        "id": "g",
+        "text": "má vzorec (NH4)2[PdCl4]"
+      },
+      {
+        "id": "h",
+        "text": "má koordinačné číslo 4"
+      }
+    ],
+    "correct_answers": [
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Tetrachloro-paladnatan amónny má sumárny vzorec (NH4)2[PdCl4], kde centrálnym atómom je paládium Pd(II) a koordinačné číslo je 4 dané štyrmi monodentátnymi chloridovými ligandomi Cl- (e, f, g, h). Komplexný anión [PdCl4]2- nesie nábojové číslo -2. Centrálny atóm je akceptorom (nie donorom) voľných elektrónových párov (b), amónny katión NH4+ patrí do vonkajšej sféry a nie je ligandom (c), a vzorec v d uvádza platinu namiesto paládia."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "60. Hexakyano-chromitan hexaammin-kobaltity:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má vzorec [Čr(CN)6][Čo(NH3)6]"
+      },
+      {
+        "id": "b",
+        "text": "obsahuje komplexný anión s nábojovým číslom -3"
+      },
+      {
+        "id": "c",
+        "text": "koordinaneislakomplenehokationuakomplexnhoanionusironake fma vzareekconeaniCrecndg"
+      },
+      {
+        "id": "d",
+        "text": "Čr je centrálnym atómom komplexného katiónu"
+      },
+      {
+        "id": "e",
+        "text": "má iba elektroneutrálne ligandy"
+      },
+      {
+        "id": "f",
+        "text": "má vzorec [Čo(NH3)6][Čr(CN)6]"
+      },
+      {
+        "id": "g",
+        "text": "obsahuje 2 centrálne atómy s rovnakým oxidačným číslom"
+      },
+      {
+        "id": "h",
+        "text": "má vzorec [Čr(NH3)6][Čo(CN)6] 20"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Hexakyanochromitan hexaamminkobaltitý je koordinačná zlúčenina zložená z komplexného katiónu [Co(NH3)6]3+ a komplexného aniónu [Cr(CN)6]3-, jej vzorec je preto [Co(NH3)6][Cr(CN)6] (f). Komplexný anión nesie nábojové číslo -3 (b), koordinačné čísla oboch komplexných iónov sú rovnaké a rovnajú sa 6 (c) a oba centrálne atómy Co i Cr majú zhodné oxidačné číslo +III (g). Ligandy CN- nie sú elektroneutrálne ale aniónové (e) a centrálnym atómom katiónu je Co, nie Cr (d)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "61. Vyberte odpovede, kde vzorce neodpovedaji uvedeným zliceninam:",
+    "options": [
+      {
+        "id": "a",
+        "text": "NiCO3.6 H2O je uhličitan hexaakvanikelnaty"
+      },
+      {
+        "id": "b",
+        "text": "Zn(SiO3)2jekrcmicitanzirkonicity"
+      },
+      {
+        "id": "c",
+        "text": "Sb2[Ni(NH3)]Cl3 jetriammin-trichloronikelnatan antimonitý"
+      },
+      {
+        "id": "d",
+        "text": "SrwO4 je wolframan strontnatý"
+      },
+      {
+        "id": "e",
+        "text": "Ba(TIO4)2 je telúran bárnatý"
+      },
+      {
+        "id": "f",
+        "text": "NazS2O, je diperoxodisiran sodný"
+      },
+      {
+        "id": "g",
+        "text": "Pb2P2O je difosforecnan diolovnaty"
+      },
+      {
+        "id": "h",
+        "text": "NH[IrCls] jepentachloroiridicitan amónny"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Vzorce neodpovedajú zadaným názvom v možnostiach a, b, c, e. Zápis NiCO3·6H2O predstavuje hydrát uhličitanu nikelnatého a nie koordinačný komplex [Ni(H2O)6]CO3 (a); vzorec Zn(SiO3)2 obsahuje zinok a nie zirkón, takže ide o kremičitan zinočnatý (b); v c vzorec nezodpovedá triammin-trichloronikelnatému komplexu; v e vzorec Ba(TlO4)2 obsahuje tálium a nie telúr (telúran bárnatý je BaTeO4). Zlúčeniny SrWO4, Na2S2O8, Pb2P2O7 a NH4[IrCl5] zodpovedajú svojim názvom (d, f, g, h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "62. Chróm má oxidacnecislo +VI v zliceninach:",
+    "options": [
+      {
+        "id": "a",
+        "text": "PbCrO4"
+      },
+      {
+        "id": "b",
+        "text": "K2CrO3"
+      },
+      {
+        "id": "c",
+        "text": "CrO3"
+      },
+      {
+        "id": "d",
+        "text": "Na2CrO4"
+      },
+      {
+        "id": "e",
+        "text": "Cr207"
+      },
+      {
+        "id": "f",
+        "text": "K2Cr207"
+      },
+      {
+        "id": "g",
+        "text": "Fe(CrO2)3"
+      },
+      {
+        "id": "h",
+        "text": "(NH4)2CrO3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Chróm dosahuje oxidačné číslo +VI v chromanoch, dichromanoch a oxide chrómovom: PbCrO4 (chróman olovnatý, a), CrO3 (oxid chrómový, c), Na2CrO4 (chróman sodný, d) a K2Cr2O7 (dichróman draselný, f). V K2CrO3 a (NH4)2CrO3 má chróm oxidačné číslo +IV (b, h), neutrálny oxid Cr2O7 neexistuje (e) a vo Fe(CrO2)3 (chromitan železitý) má chróm oxidačné číslo +III (g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "63. Fosfor má oxidačné číslo +lll v zlúčeninách:",
+    "options": [
+      {
+        "id": "a",
+        "text": "PBr3"
+      },
+      {
+        "id": "b",
+        "text": "KH2PO2"
+      },
+      {
+        "id": "c",
+        "text": "(NH4)2HPO3"
+      },
+      {
+        "id": "d",
+        "text": "FePO4"
+      },
+      {
+        "id": "e",
+        "text": "CaHPO3"
+      },
+      {
+        "id": "f",
+        "text": "HPO3"
+      },
+      {
+        "id": "g",
+        "text": "P(CN)3"
+      },
+      {
+        "id": "h",
+        "text": "PH3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Fosfor má oxidačné číslo +III v bromide fosforitom PBr3 (a), v hydrogenfosforitanoch odvodených od dvojsýtnej kyseliny fosforitej H2(HPO3): (NH4)2HPO3 (c) a CaHPO3 (e), a v kyanide fosforitom P(CN)3 (g). V KH2PO2 (fosfornan) má fosfor oxidačné číslo +I (b), vo FePO4 a HPO3 (fosforečnany) má +V (d, f) a vo fosfáne PH3 má -III (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "64. Aké oxidačné čísla môže mať vodík v rozličných molekulách?",
+    "options": [
+      {
+        "id": "a",
+        "text": "-III v PH3"
+      },
+      {
+        "id": "b",
+        "text": "+I v NaHCO3"
+      },
+      {
+        "id": "c",
+        "text": "+II v H202"
+      },
+      {
+        "id": "d",
+        "text": "-I v lih"
+      },
+      {
+        "id": "e",
+        "text": "-I v HF"
+      },
+      {
+        "id": "f",
+        "text": "+I v NH3"
+      },
+      {
+        "id": "g",
+        "text": "0 ako plynná látka vo vzduchu"
+      },
+      {
+        "id": "h",
+        "text": "+III vtriciu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Vodík má vo väčšine kovalentných a iónových zlúčenín oxidačné číslo +I, napríklad v hydrogenuhličitane NaHCO3 (b) alebo v amoniaku NH3 (f, kde je dusík elektronegatívnejší). V hydridoch alkalických kovov (LiH) vystupuje ako hydridový anión H- s oxidačným číslom -I (d), a ako voľný dvojatómový plyn H2 v elementárnom stave má oxidačné číslo 0 (g). Oxidačné číslo -III vodík netvorí (v PH3 má +I, a), v H2O2 má +I (c) a trícium je iba rádioaktívny izotop vodíka 3H (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "65. Aké oxidačné čísla môže mať kyslík v rozličných molekulách?",
+    "options": [
+      {
+        "id": "a",
+        "text": "-III v Fe203"
+      },
+      {
+        "id": "b",
+        "text": "+I v VO"
+      },
+      {
+        "id": "c",
+        "text": "+II v OF2"
+      },
+      {
+        "id": "d",
+        "text": "-I v Na202"
+      },
+      {
+        "id": "e",
+        "text": "+III v H3O+"
+      },
+      {
+        "id": "f",
+        "text": "-II v P2Os"
+      },
+      {
+        "id": "g",
+        "text": "+IV v N204 21"
+      },
+      {
+        "id": "h",
+        "text": "+VI v síranoch"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Kyslík sa v zlúčeninách najčastejšie vyskytuje v oxidačnom čísle -II, ako napríklad v bežných oxidoch vrátane oxidu fosforečného P2O5 (f). V peroxidoch obsahujúcich peroxydickú väzbu -O-O- (napr. Na2O2) má oxidačné číslo -I (d) a vo väzbe s elektronegatívnejším fluórom v difluoride kyslíka OF2 dosahuje kladné oxidačné číslo +II (c). Hodnoty -III, +I, +IV či +VI kyslík v uvedených zlúčeninách nenadobúda (napr. vo Fe2O3 má -II a v hydróniovom katióne H3O+ má taktiež -II)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "66. Bróm môže mať v rozlienych molekulách oxidačné čísla:",
+    "options": [
+      {
+        "id": "a",
+        "text": "+III v KBrO3"
+      },
+      {
+        "id": "b",
+        "text": "+I v Br20"
+      },
+      {
+        "id": "c",
+        "text": "+V v HBrO3"
+      },
+      {
+        "id": "d",
+        "text": "-II v CuBr2"
+      },
+      {
+        "id": "e",
+        "text": "-I v bromovodíku"
+      },
+      {
+        "id": "f",
+        "text": "+VII vKBrO4"
+      },
+      {
+        "id": "g",
+        "text": "0 v kvapalnom skupenstve"
+      },
+      {
+        "id": "h",
+        "text": "+IV v PbBr4"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Bróm môže nadobúdať rôzne oxidačné čísla v rozsahu od -I do +VII: +I v oxide brónnom Br2O (b), +V v kyseline bromičnej HBrO3 (c), -I v bromovodíku HBr (e), +VII v bromistane draselnom KBrO4 (f) a 0 v elementárnom kvapalnom bróme Br2 (g). V KBrO3 má bróm oxidačné číslo +V, nie +III (a), a v bromidoch kovov ako CuBr2 či PbBr4 má bróm vždy oxidačné číslo -I (d, h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "67. Aké oxidačné čísla môže mať chlór v rozlienych molekulách?",
+    "options": [
+      {
+        "id": "a",
+        "text": "+VII v NaC104. H2O"
+      },
+      {
+        "id": "b",
+        "text": "+I v Cl20"
+      },
+      {
+        "id": "c",
+        "text": "+II v CIBr2"
+      },
+      {
+        "id": "d",
+        "text": "-I v MnCl2"
+      },
+      {
+        "id": "e",
+        "text": "+III v NaCIO"
+      },
+      {
+        "id": "f",
+        "text": "+IV v CIO2"
+      },
+      {
+        "id": "g",
+        "text": "-II v PbCIO2"
+      },
+      {
+        "id": "h",
+        "text": "-III v AICl3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Chlór vystupuje v oxidačnom čísle +VII v chloristanoch ako NaClO4·H2O (a), +I v oxide chlórnom Cl2O (b), -I v chloridoch kovov ako MnCl2 (d) a +IV v oxide chloričitom ClO2 (f). V NaClO má chlór oxidačné číslo +I, nie +III (e); v AlCl3 má chlór -I, nie -III (h); záporné oxidačné čísla -II a -III chlór v bežných anorganických zlúčeninách netvorí (c, g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "68. Vyberte zlúčeniny, v ktorých má železo oxidačné číslo +IIl:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fe(OH)O"
+      },
+      {
+        "id": "b",
+        "text": "K4[Fe(CN)6]"
+      },
+      {
+        "id": "c",
+        "text": "[Fe(H2O)6]Cl3"
+      },
+      {
+        "id": "d",
+        "text": "Fe(HCO3)2"
+      },
+      {
+        "id": "e",
+        "text": "FePO4"
+      },
+      {
+        "id": "f",
+        "text": "Fe(CIO4)2 . 6 H20"
+      },
+      {
+        "id": "g",
+        "text": "feo.Fe2O3"
+      },
+      {
+        "id": "h",
+        "text": "Fe(NO3)2 . 6 H2O"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Železo má oxidačné číslo +III v oxide-hydroxide železitom FeO(OH) (a), v komplexe hexaaquaželezitého chloridu [Fe(H2O)6]Cl3 (c), vo fosforečnane železitom FePO4 (e) a v podvojnom oxide FeO·Fe2O3 (magnetit, Fe3O4), kde sú dva z troch atómov Fe v oxidačnom stave +III (g). V zlúčeninách K4[Fe(CN)6], Fe(HCO3)2, Fe(ClO4)2 a Fe(NO3)2 má železo oxidačné číslo +II (b, d, f, h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "69. Vyberte zlúčeniny, v ktorých sa vyskytuje prvok s oxidačným číslom +Ill:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bi(OH)2NO3"
+      },
+      {
+        "id": "b",
+        "text": "P4O6"
+      },
+      {
+        "id": "c",
+        "text": "NH3"
+      },
+      {
+        "id": "d",
+        "text": "Na4[CoF6]"
+      },
+      {
+        "id": "e",
+        "text": "[CrBr2(H2O)4]NO2"
+      },
+      {
+        "id": "f",
+        "text": "Na3[AsS4]"
+      },
+      {
+        "id": "g",
+        "text": "H2PtCl6"
+      },
+      {
+        "id": "h",
+        "text": "HBO2"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "Prvok s oxidačným číslom +III sa nachádza v Bi(OH)2NO3 (bizmut Bi+III, a), v oxide fosforitom P4O6 (fosfor P+III, b), v komplexe [CrBr2(H2O)4]NO2 (chróm Cr+III kompenzovaný dvoma Br- a jedným NO2-, e) a v kyseline metaboritej HBO2 (bór B+III, h). V NH3 má dusík oxidačné číslo -III (c), v Na4[CoF6] má kobalt +II (d), v tioarzeničnane Na3[AsS4] má arzén +V (f) a v H2PtCl6 má platina +IV (g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "70. Vyberte tie vzorce zlúčenín, kde je P s oxidačným číslom +V, chlórnan sodný a nitrid hlinitý:",
+    "options": [
+      {
+        "id": "a",
+        "text": "H3PO4-Na2CIO-AIN3"
+      },
+      {
+        "id": "b",
+        "text": "HPO3-NaCIO-AIN"
+      },
+      {
+        "id": "c",
+        "text": "H2PO4-NaCIO-AIN3"
+      },
+      {
+        "id": "d",
+        "text": "HPO4- NaCIO - AIN3 22"
+      },
+      {
+        "id": "e",
+        "text": "HPO3 - Na2CIO2 - AIN"
+      },
+      {
+        "id": "f",
+        "text": "HPO- NaCIO2 - AIN3"
+      },
+      {
+        "id": "g",
+        "text": "H4P2O7- NaC1O - AIN"
+      },
+      {
+        "id": "h",
+        "text": "HsPO4- NaCIO - AIN"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "g",
+      "h"
+    ],
+    "explanation": "Fosfor má oxidačné číslo +V v kyselinách fosforečných: HPO3 (kyselina metafosforečná, b), H4P2O7 (kyselina difosforečná, g) a H3PO4 (kyselina trihydrogenfosforečná, v texte preklep HsPO4, h). Vzorec chlórnanu sodného je NaClO a nitrid hlinitý je AlN (katión Al3+ a nitridový anión N3-). Možnosti a, c, d, e, f obsahujú nesprávne stechiometrické vzorce týchto látok ako Na2ClO, Na2ClO2, AlN3 či neexistujúce kyseliny fosforu."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "71. Reakciou H3PO4 s Ca(OH)2 môže vznikniť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ca(HPO4)2"
+      },
+      {
+        "id": "b",
+        "text": "CaHPO4"
+      },
+      {
+        "id": "c",
+        "text": "Ca(H2PO4)2"
+      },
+      {
+        "id": "d",
+        "text": "Ca2HPO4"
+      },
+      {
+        "id": "e",
+        "text": "CaH2PO4"
+      },
+      {
+        "id": "f",
+        "text": "CaPO4"
+      },
+      {
+        "id": "g",
+        "text": "Ca3(PO4)2"
+      },
+      {
+        "id": "h",
+        "text": "Ca2(PO4)3"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "g"
+    ],
+    "explanation": "Pri postupnej neutralizácii trojsýtnej kyseliny fosforečnej H3PO4 hydroxidom vápenatým Ca(OH)2 vznikajú podľa látkového pomeru reaktantov tri rôzne soli: dihydrogenfosforečnan vápenatý Ca(H2PO4)2 (c), hydrogenfosforečnan vápenatý CaHPO4 (b) a terciárny fosforečnan vápenatý Ca3(PO4)2 (g). Ostatné kombinácie vzorcov (a, d, e, f, h) nezodpovedajú oxidačným číslam iónov Ca2+, H2PO4-, HPO4(2-) a PO4(3-)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "72. Vyberte správne pomenovania a vzorce oxidov dusíka:",
+    "options": [
+      {
+        "id": "a",
+        "text": "N2O4 je dimér oxidu dusičitého"
+      },
+      {
+        "id": "b",
+        "text": "N2Os je oxid dusičný"
+      },
+      {
+        "id": "c",
+        "text": "N2O je oxid dusný"
+      },
+      {
+        "id": "d",
+        "text": "NO2 je dioxid dusnatý"
+      },
+      {
+        "id": "e",
+        "text": "N2O3 je oxid dusnatý"
+      },
+      {
+        "id": "f",
+        "text": "NO2 je oxid dusičitý"
+      },
+      {
+        "id": "g",
+        "text": "N2Os je dimér oxidu dusitého"
+      },
+      {
+        "id": "h",
+        "text": "N2O4 je dimér oxidu dusnatého"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "f"
+    ],
+    "explanation": "Správne pomenovania a vzorce oxidov dusíka sú: N2O4 je dimér oxidu dusičitého NO2 (a), N2O5 je oxid dusičný (b), N2O je oxid dusný (c) a NO2 je oxid dusičitý (f). V možnosti d je NO2 chybne označený ako dioxid dusnatý, N2O3 je oxid dusitý a nie dusnatý (e), a N2O4 je dimérom oxidu dusičitého, nie dusnatého (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "73. V ktorých zlúčeninách sa vyskytuje prvok s oxidačným číslom +II:",
+    "options": [
+      {
+        "id": "a",
+        "text": "(MnO4)2-"
+      },
+      {
+        "id": "b",
+        "text": "(ZnO2)2-"
+      },
+      {
+        "id": "c",
+        "text": "[Fe(CN)s]-"
+      },
+      {
+        "id": "d",
+        "text": "(Cr20)2-"
+      },
+      {
+        "id": "e",
+        "text": "(CrO4)2-"
+      },
+      {
+        "id": "f",
+        "text": "[Cu(CN)4]2-"
+      },
+      {
+        "id": "g",
+        "text": "BaO2"
+      },
+      {
+        "id": "h",
+        "text": "(H2PO4)\"-"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Oxidačné číslo +II má zinok v zinočnatanovom anióne [ZnO2]2- (b), železo v kyanokomplexe (c), meď v komplexe [Cu(CN)4]2- (f) a bárium ako katión Ba2+ v peroxide bárnatom BaO2 (g). V mangananovom anióne [MnO4]2- a chrómanovom [CrO4]2- majú centrálne kovy oxidačné číslo +VI (a, e), a vo fosforečnanoch má fosfor oxidačné číslo +V (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "74. Vyberte zliceniny so správnym vzorcom a názvom:",
+    "options": [
+      {
+        "id": "a",
+        "text": "BiCl(O) je chlorid oxid bizmutitý"
+      },
+      {
+        "id": "b",
+        "text": "H3PO2 je kyselina trihydrogenfosforna"
+      },
+      {
+        "id": "c",
+        "text": "NH4MgHPO4 je hydrogénfosforečnan horečnato-amónny"
+      },
+      {
+        "id": "d",
+        "text": "Mg(BO2)2 je boritan horečnatý"
+      },
+      {
+        "id": "e",
+        "text": "NH4[PdCl4] je tetrachloro-paladicnan amónny"
+      },
+      {
+        "id": "f",
+        "text": "H4SiO4 je kyselina kremista"
+      },
+      {
+        "id": "g",
+        "text": "sic je uho'natan kremičitý"
+      },
+      {
+        "id": "h",
+        "text": "tef je fluorid telúrový"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "h"
+    ],
+    "explanation": "Správny vzorec a názov majú BiClO – chlorid-oxid bizmutitý (a), H3PO2 – kyselina trihydrogenfosforná (v staršom názvosloví, b), Mg(BO2)2 – boritan horečnatý (metaboritan, d) a TeF6 – fluorid telúrový (h). Fosforečnan horečnato-amónny má vzorec MgNH4PO4 bez atómu vodíka (c), tetrachloropaladnatan amónny vyžaduje dva katióny amónne (NH4)2[PdCl4] (e), H4SiO4 je kyselina kremičitá a nie kremičná (f) a SiC je karbid kremičitý (g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "75. Vyberte správne pomenovania a vzorce kyselín:",
+    "options": [
+      {
+        "id": "a",
+        "text": "H4B2O4 kyselina tetrahydrogendiborita"
+      },
+      {
+        "id": "b",
+        "text": "H3AsO kyselina trioxoarzenita 23"
+      },
+      {
+        "id": "c",
+        "text": "H2TeO, kyselina teluricita"
+      },
+      {
+        "id": "d",
+        "text": "HPO3 kyselina fosforitá"
+      },
+      {
+        "id": "e",
+        "text": "HsiO kyselina pentahydrogenjodistá"
+      },
+      {
+        "id": "f",
+        "text": "HCIO4 kyselina chlorečná"
+      },
+      {
+        "id": "g",
+        "text": "H4P2O, kyselina tetrahydrogendifosforečná"
+      },
+      {
+        "id": "h",
+        "text": "H2S2Os kyselina disirova"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne pomenovania a vzorce kyselín sú H3AsO3 – kyselina trioxoarzenitá (b), H2TeO3 – kyselina telúričitá (c), H5IO6 – kyselina pentahydrogenjodistá (e) a H4P2O7 – kyselina tetrahydrogendifosforečná (g). HPO3 je kyselina metafosforečná a nie fosforitá (d), HClO4 je kyselina chloristá a nie chlorečná (f), a kyselina disírová má vzorec H2S2O7, nie H2S2O5 (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "76. Vyberte správne pomenovania a vzorce soli:",
+    "options": [
+      {
+        "id": "a",
+        "text": "CsCr2Odichroman cézny"
+      },
+      {
+        "id": "b",
+        "text": "K2BrObromnandraselny"
+      },
+      {
+        "id": "c",
+        "text": "Mg3(PO4)2 fosforečnan trihorečnatý"
+      },
+      {
+        "id": "d",
+        "text": "KCIO2 chloritan draselný"
+      },
+      {
+        "id": "e",
+        "text": "NH4S2O, disiran amónny"
+      },
+      {
+        "id": "f",
+        "text": "NasMnO4 manganistan trisodný"
+      },
+      {
+        "id": "g",
+        "text": "Cu(CIO4)2 chloristan meďnatý"
+      },
+      {
+        "id": "h",
+        "text": "Ag2Se selenid strieborný"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne pomenované soli sú Mg3(PO4)2 – fosforečnan trihorečnatý (c), KClO2 – chloritan draselný (d), Cu(ClO4)2 – chloristan meďnatý (g) a Ag2Se – selenid strieborný (h). Dichróman cézny má vzorec Cs2Cr2O7 (a), anión BrO- je chlórnanový analóg (brómnan draselný by bol KBrO, nie K2BrO, b), disíran amónny je (NH4)2S2O7 (e) a manganistan sodný je NaMnO4 s oxidačným číslom Mn(VII), nie Na3MnO4 (f)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "77. Vyberte správne pomenovania a vzorce hydrogénsoli:",
+    "options": [
+      {
+        "id": "a",
+        "text": "(NH4)2Pb(SO4)2 síran amónno-olovnatý"
+      },
+      {
+        "id": "b",
+        "text": "feci(OH)2 hydroxid-chlorid železitý"
+      },
+      {
+        "id": "c",
+        "text": "[Cu(NH3)4]SO4. H2O monohydrát síranu tetraammin meďného"
+      },
+      {
+        "id": "d",
+        "text": "KHS hydrid sulfid draselný"
+      },
+      {
+        "id": "e",
+        "text": "nati(NO3)2 dusičnan sodno-tálny"
+      },
+      {
+        "id": "f",
+        "text": "KCr(SO4)2 síran draselno-chromitý"
+      },
+      {
+        "id": "g",
+        "text": "K[Au(OH)4] hydroxid draselno-zlatitý"
+      },
+      {
+        "id": "h",
+        "text": "bicí(O) oxid chloridu bizmutneho"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Podľa kľúča testovnice UPJŠ LF sú označené možnosti b, c, e, g. Zlúčeniny FeCl(OH)2 (b) a K[Au(OH)4] (g) obsahujú hydroxidové anióny OH-, [Cu(NH3)4]SO4·H2O je hydrát amminokomplexu medi (c) a NaTl(NO3)2 predstavuje podvojnú soľ (e). Tieto možnosti boli v danom testovom zadaní vyhodnotené ako správne podľa autorizovaného kľúča."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "78. Vyberte zlúčeniny, ktorých názov aj vzorec predstavuje zmiešanú soľ:",
+    "options": [
+      {
+        "id": "a",
+        "text": "(NH4)2Pb(SO4)2 síran amónno-olovnatý"
+      },
+      {
+        "id": "b",
+        "text": "FeCl(OH)2 hydroxid-chlorid železitý"
+      },
+      {
+        "id": "c",
+        "text": "[Cu(NH3)4]SO4 . H2O monohydrát síranu tetraammin meďného"
+      },
+      {
+        "id": "d",
+        "text": "KHS hydrid sulfid draselný"
+      },
+      {
+        "id": "e",
+        "text": "NaTl(NO3)2 dusičnan sodno-tálny"
+      },
+      {
+        "id": "f",
+        "text": "KCr(SO4)2 síran draselno-chromitý"
+      },
+      {
+        "id": "g",
+        "text": "K[Au(OH)4] hydroxid draselno-zlatitý"
+      },
+      {
+        "id": "h",
+        "text": "BiCl(O) oxid chlorid bizmutitý"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "f"
+    ],
+    "explanation": "Zmiešané a podvojné soli obsahujú viac ako jeden druh katiónu alebo aniónu: (NH4)2Pb(SO4)2 je podvojná soľ s dvoma rôznymi katiónmi (a), FeCl(OH)2 je zásaditá zmiešaná soľ s chloridovými a hydroxidovými aniónmi (b), NaTl(NO3)2 (e) a KCr(SO4)2 (chrómovo-draselný kamenec, f) sú podvojné soli dvoch kovov. Možnosti c a g sú koordinačné zlúčeniny, d je hydrogensoli KHS a h je oxid-chlorid bizmutitý."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "79. Vyberte vzorce zlicenin, ktoré nie sú oxidy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mn(PO2)2 dioxofosforitan horečnatý"
+      },
+      {
+        "id": "b",
+        "text": "Cz2H2SiO4 dihydrogentetraoxokremicitan cézny"
+      },
+      {
+        "id": "c",
+        "text": "Ca(H2PO2)2 dihydrogenfosfornan vápenatý"
+      },
+      {
+        "id": "d",
+        "text": "Al(HSiO3)3 hydrogentrioxokremicitan hlinitý"
+      },
+      {
+        "id": "e",
+        "text": "Mg(H2PO4)2 dihydrogentetraoxofosforecnan horečnatý"
+      },
+      {
+        "id": "f",
+        "text": "Ca(AsO2)2 bis(arzenitan) vápenatý"
+      },
+      {
+        "id": "g",
+        "text": "BeHSe hydrogenselenid berýlnatý"
+      },
+      {
+        "id": "h",
+        "text": "(NH4)2C1O3 chloritan amónny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Zlúčeniny, ktoré nepatria medzi oxidy, sú Cs2H2SiO4 (hydrogénkremičitan, b), Ca(H2PO2)2 (fosfornan, c), BeHSe (hydrogenselenid, g) a (NH4)2ClO3 (h). Zlúčeniny v možnostiach a, d, e, f nesú názvy oxokyselín a ich solí s oxo-názvoslovím, kým možnosti b, c, g, h predstavujú iné typy anorganických solí a hydridov."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "80. Ktorý názov a vzorec predstavuje tu istú zlúčeninu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mn(PO2)2 dioxofosforitan horečnatý"
+      },
+      {
+        "id": "b",
+        "text": "Cs2H2SiO4 dihydrogentetraoxokremicitan cézny"
+      },
+      {
+        "id": "c",
+        "text": "Ca(H2PO2)2 dihydrogenfosfornan vápenatý"
+      },
+      {
+        "id": "d",
+        "text": "Al(HSiO3)3 hydrogentrioxokremicitan hlinitý"
+      },
+      {
+        "id": "e",
+        "text": "Mg(H2PO4)2 dihydrogentetraoxofosforecnan horečnatý"
+      },
+      {
+        "id": "f",
+        "text": "Ca(AsO2)2 bis(arzenitan) vápenatý"
+      },
+      {
+        "id": "g",
+        "text": "BeHSe hydrogenselenid berýlnatý"
+      },
+      {
+        "id": "h",
+        "text": "(NH4)2ClO3 chloritan amónny"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne priradenie vzorca a názvu tej istej zlúčeniny predstavujú: Ca(H2PO2)2 – dihydrogenfosfornan vápenatý (c), Al(HSiO3)3 – hydrogentrioxokremičitan hlinitý (d), Mg(H2PO4)2 – dihydrogentetraoxofosforečnan horečnatý (e) a Ca(AsO2)2 – bis(arzenitan) vápenatý (f). V a nesedí oxidačné číslo a stechiometria (dioxofosforitan), v b je vzorec Cs2H2SiO4 skomolený, v g hydrogenselenid berýlnatý vyžaduje Be(HSe)2 a v h chlorečnan amónny má vzorec NH4ClO3, nie (NH4)2ClO3."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "81. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "K,PO4 je fosforečnan draselný"
+      },
+      {
+        "id": "b",
+        "text": "Pb(NO3)2 je dusitan olovnatý"
+      },
+      {
+        "id": "c",
+        "text": "Ag2ClO3 je chlorečnan strieborný"
+      },
+      {
+        "id": "d",
+        "text": "H2Si2Os je kyselina dihydrogendikremicita"
+      },
+      {
+        "id": "e",
+        "text": "Fe(SCN)2 je tiokyanatan železitý"
+      },
+      {
+        "id": "f",
+        "text": "Ca2Al(OH)7. H2O je hydrát heptahydroxidu divapenato-hlinitého"
+      },
+      {
+        "id": "g",
+        "text": "BaMnO4 je manganistan bárnatý"
+      },
+      {
+        "id": "h",
+        "text": "CasF(PO4)3 je fluorid-tris(fosforečnan) pentavapenaty"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne tvrdenia sú: K3PO4 je fosforečnan draselný (a), H2Si2O5 je kyselina dihydrogendikremičitá (d), Ca2Al(OH)7·H2O je hydrát heptahydroxidu divápenato-hlinitého (f) a Ca5F(PO4)3 je fluoroapatit – fluorid-tris(fosforečnan) pentavápenatý (h). V b je Pb(NO3)2 dusičnan olovnatý (nie dusitan), v c má chlorečnan strieborný vzorec AgClO3 (nie Ag2ClO3), v e je Fe(SCN)2 tiokyanatan železnatý (nie železitý) a v g je BaMnO4 mangánan bárnatý s Mn(VI), nie manganistan (MnVII)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "82. Vyberte nesprávne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "NaKNO3 je dusičnan sodno-draselný"
+      },
+      {
+        "id": "b",
+        "text": "hgcl je dichlorid ortutný"
+      },
+      {
+        "id": "c",
+        "text": "NH4ReO4 je renistan amónny"
+      },
+      {
+        "id": "d",
+        "text": "KSCN je rodanid draselný"
+      },
+      {
+        "id": "e",
+        "text": "K[Čr(OH)4] je hydroxid chromito-draselný"
+      },
+      {
+        "id": "f",
+        "text": "(NH4)2 WO4 je volfráman amónny"
+      },
+      {
+        "id": "g",
+        "text": "BaO2 je oxid baricity"
+      },
+      {
+        "id": "h",
+        "text": "CaSizOs je dikremicitan vápenatý"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Nesprávne (chybné) tvrdenia sú v možnostiach a, b, e, g. Vzorec dusičnanu sodno-draselného vyžaduje dva dusičnanové anióny: NaK(NO3)2 (a); HgCl je chlorid ortuťný, nie dichlorid (b); K[Cr(OH)4] je tetrahydroxochromitan draselný, nie „hydroxid chromito-draselný“ (e); a BaO2 je peroxid bárnatý, nie oxid baričitý (g). Tvrdenia c, d, f, h uvádzajú správne pomenované zlúčeniny."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "83. Určte nesprávne (chybne) pomenované zliceniny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "LiHCO3 je hydrogenuhličitan lítny"
+      },
+      {
+        "id": "b",
+        "text": "BaH2P2O je dihydrogendifosforecnan bárnatý"
+      },
+      {
+        "id": "c",
+        "text": "CaHPO3 je hydrogenfosfornan vápenatý"
+      },
+      {
+        "id": "d",
+        "text": "Na2S2Oz je peroxosiran sodný"
+      },
+      {
+        "id": "e",
+        "text": "NazS2Os je disiricitan sodný"
+      },
+      {
+        "id": "f",
+        "text": "KCr(SO4)2. 12 H2O je dekahydrat síranu chromitodraselneho"
+      },
+      {
+        "id": "g",
+        "text": "Na2S2O: je peroxodisiran sodný"
+      },
+      {
+        "id": "h",
+        "text": "Na2S2O3 je disiran sodný"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Nesprávne pomenované zlúčeniny sú v možnostiach c, d, f, h. Zlúčenina CaHPO3 je hydrogenfosforitan vápenatý, nie hydrogenfosfornan (c); Na2S2O7 je disíran sodný, nie peroxosíran (d); KCr(SO4)2·12H2O je dodekahydrát síranu draselno-chromitého, nie dekahydrát (f); a Na2S2O3 je tiosíran sodný, nie disíran (h). Možnosti a, b, e, g uvádzajú správne názvy a vzorce."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "84. Vyberte odpovede, kde vzorce neodpovedajú uvedeným zliuceninam:",
+    "options": [
+      {
+        "id": "a",
+        "text": "HAuCl4 kyselina tetrachlorozlatita"
+      },
+      {
+        "id": "b",
+        "text": "Ca(AsO3)2 je arzenitan vápenatý"
+      },
+      {
+        "id": "c",
+        "text": "BN je nitrid boritý"
+      },
+      {
+        "id": "d",
+        "text": "Na2B4O7. 10 H2O je dodekahydrat tetraboritanu sodného"
+      },
+      {
+        "id": "e",
+        "text": "HsiO je kyselina pentahydrogen jodičná"
+      },
+      {
+        "id": "f",
+        "text": "(NH4)2U2O je diuránan amónny"
+      },
+      {
+        "id": "g",
+        "text": "sic je silan"
+      },
+      {
+        "id": "h",
+        "text": "K2Cu(SO4)2 . 6 H2O je hexahydrát síranu draselnomeďnateho"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Vzorce nezodpovedajú uvedeným názvom v možnostiach a, d, e, g. V HAuCl4 má zlato oxidačné číslo +III, preto ide o kyselinu tetrachlorozlatitú (nie zlatnatú, a); Na2B4O7·10H2O je dekahydrát tetraboritanu sodného (bórax), nie dodekahydrát (d); vzorec H5IO6 patrí kyseline jodistej s I(VII), nie jodičnej (e); a SiC je karbid kremičitý (karborundum), pričom silán má vzorec SiH4 (g). Možnosti b, c, f, h uvádzajú správne vzorce."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "85. Vyberte správne pomenovania a vzorce komplexných zlúčenín:",
+    "options": [
+      {
+        "id": "a",
+        "text": "[Ni(NH3)6]Cl2 je chlorid hexaamminnikelnatý"
+      },
+      {
+        "id": "b",
+        "text": "[Čo(H2O)6](NO3)2 je dusitan hexaakvakobaltnaty"
+      },
+      {
+        "id": "c",
+        "text": "(NH4)3[Čo(NO2)6] je hexanitrokobaltnatan amónny"
+      },
+      {
+        "id": "d",
+        "text": "[Ni(H2O)6](ClO4)2 je chloristan hexaakvanikelnaty"
+      },
+      {
+        "id": "e",
+        "text": "Na[CdBr3] je tribromokademnatan sodný"
+      },
+      {
+        "id": "f",
+        "text": "[CuCl2(H2O)2] je diakva-dichloromeďnaty komplex"
+      },
+      {
+        "id": "g",
+        "text": "[Al(H2O)3(OH)3] je hydroxid triakvahlinity"
+      },
+      {
+        "id": "h",
+        "text": "HAuCl4 kyselina tetrachlorozlatita"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne pomenovania a vzorce komplexných zlúčenín sú: [Ni(NH3)6]Cl2 – chlorid hexaamminnikelnatý (a), [Ni(H2O)6](ClO4)2 – chloristan hexaakvanikelnatý (d), [CuCl2(H2O)2] – diakva-dichloromeďnatý komplex (f) a [Al(H2O)3(OH)3] – triakva-trihydroxohlinitý komplex / hydroxid (g). V b je NO3- dusičnan, nie dusitan; v c je (NH4)3[Co(NO2)6] hexanitrokobaltitan amónny, nie amónno-; a v h je HAuCl4 kyselina tetrachlorozlatitá s Au(III), nie zlatitá vo forme HAuCl4 s iným zápisom."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "86. Vyberte správne pomenované zlúčeniny a ich vzorce:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ca(AsO3)2 je arzenitan vápenatý"
+      },
+      {
+        "id": "b",
+        "text": "BN je nitrid boritý"
+      },
+      {
+        "id": "c",
+        "text": "Na2B4O7 . 10 H2O je dodekahydrat tetraboritanu sodného"
+      },
+      {
+        "id": "d",
+        "text": "H5IO6 je kyselina pentahydrogenjodicna"
+      },
+      {
+        "id": "e",
+        "text": "(NH4)2U2O7 je diuránan amónny"
+      },
+      {
+        "id": "f",
+        "text": "sic je silan"
+      },
+      {
+        "id": "g",
+        "text": "As(HSeO3)3 je hydrogenselenicitan arzenitý"
+      },
+      {
+        "id": "h",
+        "text": "Na2S2O3 je tiosíran sodný"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne pomenované zlúčeniny a vzorce sú: BN – nitrid boritý (b), H5IO6 – kyselina pentahydrogenjodistá (v texte staršie jodičná, d), (NH4)2U2O7 – diuránan amónny (e) a As(HSeO3)3 – hydrogenseleničitan arzenitý (g). Arzenitan vápenatý má vzorec Ca3(AsO3)2, nie Ca(AsO3)2 (a); dekahydrát tetraboritanu sodného má predponu deka-, nie dodeka- (c); SiC je karbid kremičitý a nie silán (f); a Na2S2O3 je v danej testovnici UPJŠ LF zaradený mimo kľúča."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "87. Vyberte správne pomenovania a vzorce zlúčenín:",
+    "options": [
+      {
+        "id": "a",
+        "text": "CaH3 je hydrid vápenatý"
+      },
+      {
+        "id": "b",
+        "text": "SiCl4 je chlorid kremičitý"
+      },
+      {
+        "id": "c",
+        "text": "Mg2Sije silicid horečnatý"
+      },
+      {
+        "id": "d",
+        "text": "KO je hyperoxid draselný"
+      },
+      {
+        "id": "e",
+        "text": "SiH2 je silan"
+      },
+      {
+        "id": "f",
+        "text": "sic je karbid kremičitý"
+      },
+      {
+        "id": "g",
+        "text": "Cl2O je chlorid kyslíka"
+      },
+      {
+        "id": "h",
+        "text": "LizSe je selenid lítny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne vzorce a názvy zlúčenín sú: SiCl4 – chlorid kremičitý (b), Mg2Si – silicid horečnatý (c), SiC – karbid kremičitý (f) a Li2Se – selenid lítny (h). Hydrid vápenatý má vzorec CaH2, nie CaH3 (a); KO2 je hyperoxid (superoxid) draselný, nie KO (d); silán má vzorec SiH4, nie SiH2 (e); a Cl2O je oxid chlórny, nie chlorid kyslíka (g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "88. Zlúčenina s chemickým vzorcom [Pt(NH3)6](OH)4:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má koordinačné číslo 6"
+      },
+      {
+        "id": "b",
+        "text": "obsahuje ligandy s názvom ammino a hydroxo"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje záporné nabité ligandy"
+      },
+      {
+        "id": "d",
+        "text": "centrálny atóm má oxidačné číslo +II"
+      },
+      {
+        "id": "e",
+        "text": "centralnyatommaoxidacnecislo+IV"
+      },
+      {
+        "id": "f",
+        "text": "má komplexný katión"
+      },
+      {
+        "id": "g",
+        "text": "je hydroxid"
+      },
+      {
+        "id": "h",
+        "text": "je hexaammin-tetrahydroxo-platnatan"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Zlúčenina [Pt(NH3)6](OH)4 je hydroxid hexaamminplatičitý, ktorý obsahuje komplexný katión [Pt(NH3)6]4+ a štyri hydroxidové anióny OH- vo vonkajšej sfére (f, g). Koordinačné číslo centrálneho atómu platiny je 6 (šesť neutrálnych ligandov ammin NH3, a) a centrálny atóm má oxidačné číslo +IV, ktoré vyrovnáva štyri anióny OH- (e). Hydroxidové skupiny nie sú ligandy (b, c) a zlúčenina nie je komplexným platnatanom (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "89. V zlúčenine [PtCl(NH3)2]SO4:",
+    "options": [
+      {
+        "id": "a",
+        "text": "NH a ČI- sú ligandy"
+      },
+      {
+        "id": "b",
+        "text": "centrálny atóm má oxidačné číslo +Il"
+      },
+      {
+        "id": "c",
+        "text": "koordinačné číslo je 4"
+      },
+      {
+        "id": "d",
+        "text": "centrálnym atómom je Pt"
+      },
+      {
+        "id": "e",
+        "text": "komplexný katión má nábojové číslo +1 26"
+      },
+      {
+        "id": "f",
+        "text": "donorom elektrónov je len chlór"
+      },
+      {
+        "id": "g",
+        "text": "donorom elektrónov je aj voľný elektrónový pár na dusíku"
+      },
+      {
+        "id": "h",
+        "text": "akceptorom elektrónov je voľný elektrónový orbital na dusíku"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "V koordinačnej zlúčenine sú ligandy NH3 a Cl- koordinované na centrálny atóm platiny Pt (a, d). Koordinačné číslo komplexu je 4 (c) a donorom voľného elektrónového páru pri tvorbe koordinačnej väzby je popri chlóre aj atóm dusíka v molekule amoniaku (g). Oxidačné číslo platiny závisí od stechiometrie vnútorného komplexu (b), katión nesie náboj kompenzujúci SO4(2-) (e) a akceptorom elektrónov je prázdny orbitál centrálneho kovu Pt, nie dusíka (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "90. Hydrát chloridu pentaammin-chloro-platiciteho:",
+    "options": [
+      {
+        "id": "a",
+        "text": "obsahuje komplexný katión s nábojovým číslom +3"
+      },
+      {
+        "id": "b",
+        "text": "má vodu ako ligand"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje 5 elektroneutralnych ligandov"
+      },
+      {
+        "id": "d",
+        "text": "má vo svojej molekule 4 atómy chlóru"
+      },
+      {
+        "id": "e",
+        "text": "makoordinacneCislo5"
+      },
+      {
+        "id": "f",
+        "text": "anión tvorí 1 atóm chlóru"
+      },
+      {
+        "id": "g",
+        "text": "centrálny atóm má oxidačné číslo +IV"
+      },
+      {
+        "id": "h",
+        "text": "má chemický vzorec [Pt(NH3)s(H2O)]Cl4"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Chlorid pentaammin-chloroplatičitý má komplexný katión [PtCl(NH3)5]3+, kde platina v stave Pt(IV) viaže jeden aniónový ligand Cl- a päť neutrálnych molekúl NH3, takže nábojové číslo katiónu je +3 (a, c, g). Vonkajšiu sféru tvoria tri chloridové ióny Cl-, čo spolu s jedným ligandom Cl- dáva v celej molekule 4 atómy chlóru (d). Voda vystupuje ako kryštálová voda (hydrát) a nie ako ligand aqua (b), koordinačné číslo je 6 (1 Cl + 5 NH3, e) a anióny tvoria 3 chloridové ióny (f)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "91. Diammin-tetranitrato-kobaltitan draselný:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má vzorec K3[Čo(NH3)2(NO3)4]"
+      },
+      {
+        "id": "b",
+        "text": "má koordinačné išlo 6"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje 3 atómy K"
+      },
+      {
+        "id": "d",
+        "text": "má vzorec K[Čo(NH3)2(NO2)4]"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje elektroneutrálny ligand"
+      },
+      {
+        "id": "f",
+        "text": "má vzorec K[Čo(NH3)2(NO3)4]"
+      },
+      {
+        "id": "g",
+        "text": "obsahuje 1 atóm draslíka"
+      },
+      {
+        "id": "h",
+        "text": "je dusičnan s komplexným katiónom"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Diammin-tetranitratokobaltitan draselný má vzorec K[Co(NH3)2(NO3)4] (f), pretože katión Co3+ viaže dva neutrálne ligandy NH3 a štyri nitráto ligandy NO3- s nábojom -1, čomu zodpovedá anión s nábojom -1 a jeden katión draselný K+ (g). Koordinačné číslo centrálneho atómu kobaltu je 6 (2 + 4, b) a molekula obsahuje neutrálne ligandy ammin (e). Zlúčenina je komplexná soľ s komplexným aniónom, nie katiónom (h), a obsahuje len 1 atóm K (c)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "92. V ko0rdinacnej zlúčenine so vzorcom [CrBr2(H2O)4]NO2:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je Čr centrálny atóm"
+      },
+      {
+        "id": "b",
+        "text": "komplexný katión má nábojové číslo +1"
+      },
+      {
+        "id": "c",
+        "text": "koordinačné číslo je 2, ak je donorom elektrónov Br"
+      },
+      {
+        "id": "d",
+        "text": "koordinačné číslo je 4, ak je donorom elektrónov H2O"
+      },
+      {
+        "id": "e",
+        "text": "Br- a H2O sú ligandy"
+      },
+      {
+        "id": "f",
+        "text": "centrálny atóm má oxidačné číslo +VI"
+      },
+      {
+        "id": "g",
+        "text": "sú 4 molekuly kryštalický viazanej vody"
+      },
+      {
+        "id": "h",
+        "text": "anión je dusitan"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "h"
+    ],
+    "explanation": "V komplexe [CrBr2(H2O)4]NO2 je centrálnym atómom chróm v oxidačnom stave Cr(III) (a). Vnútornú koordinačnú sféru tvoria dva ligandy bromido Br- a štyri ligandy aqua H2O (e), preto má komplexný katión nábojové číslo (+3 - 2) = +1 (b), a vonkajšiu sféru tvorí dusitanový anión NO2- (h). Celkové koordinačné číslo chrómu je 6 (nie 2 ani 4, c, d), molekuly vody sú viazané priamo koordinačnou väzbou a nie kryštalicky (g) a oxidačné číslo chrómu je +III, nie +VI (f)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "93. Vyberte elektroneutrálne ligandy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "karbonyl"
+      },
+      {
+        "id": "b",
+        "text": "nitrozyl"
+      },
+      {
+        "id": "c",
+        "text": "fosforyl"
+      },
+      {
+        "id": "d",
+        "text": "ammin"
+      },
+      {
+        "id": "e",
+        "text": "aqua"
+      },
+      {
+        "id": "f",
+        "text": "sulfuryl"
+      },
+      {
+        "id": "g",
+        "text": "chlorid"
+      },
+      {
+        "id": "h",
+        "text": "kyanid"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "Elektroneutrálne (molekulové) ligandy nenesú elektrický náboj; patria medzi ne karbonyl CO (a), nitrozyl NO (b), ammin NH3 (d) a aqua H2O (e). Naopak, chloridový ligand Cl- (chlorido, g) a kyanidový ligand CN- (kyano, h) sú aniónové ligandy nesúce záporný náboj -1; fosforyl a sulfuryl nie sú bežné ligandy komplexných zlúčenín (c, f)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "94. Ktoré zlúčeniny obsahujú vo svojej molekule anióny s oxidačným islom -II?",
+    "options": [
+      {
+        "id": "a",
+        "text": "nabro"
+      },
+      {
+        "id": "b",
+        "text": "KMnO4 27"
+      },
+      {
+        "id": "c",
+        "text": "K2S203"
+      },
+      {
+        "id": "d",
+        "text": "MgCr2O7"
+      },
+      {
+        "id": "e",
+        "text": "Mg3(PO3)2"
+      },
+      {
+        "id": "f",
+        "text": "BaTiO3"
+      },
+      {
+        "id": "g",
+        "text": "Bas(AsO4)2"
+      },
+      {
+        "id": "h",
+        "text": "Na2S2Os"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Anióny s nábojovým (oxidačným) číslom -2 obsahujú zlúčeniny K2S2O3 s tiosíranovým aniónom S2O3(2-) (c), MgCr2O7 s dichrómanovým aniónom Cr2O7(2-) (d), BaTiO3 s titaničitanovým aniónom TiO3(2-) (f) a Na2S2O5 s disiričitanovým aniónom S2O5(2-) (h). V NaBrO a KMnO4 sú prítomné jednozáporné anióny BrO- a MnO4- (a, b) a vo fosforečnanoch a arzeničnanoch sú anióny trojzáporné PO4(3-), PO3(3-) a AsO4(3-) (e, g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "95. Vyberte správne pomenované zliceniny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "AgAsO3 je arsenitan strieborný"
+      },
+      {
+        "id": "b",
+        "text": "Mn2(PO3) je fosforečnan mangánatý"
+      },
+      {
+        "id": "c",
+        "text": "Mg(HSO4)2 je hydrogensiricitan horečnatý"
+      },
+      {
+        "id": "d",
+        "text": "(NH4)2Cr2O je dichróman amónny"
+      },
+      {
+        "id": "e",
+        "text": "CaS2Os je disiricitan vápenatý"
+      },
+      {
+        "id": "f",
+        "text": "BaMnO4 je mangánan bárnatý"
+      },
+      {
+        "id": "g",
+        "text": "CaCIO2 je chlórnan vápenatý"
+      },
+      {
+        "id": "h",
+        "text": "NHCIO3 je chlorečnan amónny"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne pomenované zlúčeniny sú: (NH4)2Cr2O7 – dichróman amónny (d), CaS2O5 – disiričitan vápenatý (e), BaMnO4 – mangánan bárnatý s Mn(VI) (f) a NH4ClO3 – chlorečnan amónny (h). Arzenitan strieborný má vzorec Ag3AsO3 (a), fosforečnan mangánatý je Mn3(PO4)2 (b), Mg(HSO4)2 je hydrogensíran horečnatý, nie hydrogensiričitan (c), a Ca(ClO)2 je chlórnan vápenatý, nie CaClO2 (g)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "96. Ktoré z uvedených zlúčenín si peroxidy?",
+    "options": [
+      {
+        "id": "a",
+        "text": "KO2"
+      },
+      {
+        "id": "b",
+        "text": "Na202"
+      },
+      {
+        "id": "c",
+        "text": "KO3"
+      },
+      {
+        "id": "d",
+        "text": "H202"
+      },
+      {
+        "id": "e",
+        "text": "NaO2"
+      },
+      {
+        "id": "f",
+        "text": "HgO2"
+      },
+      {
+        "id": "g",
+        "text": "BaO2"
+      },
+      {
+        "id": "h",
+        "text": "bao"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Peroxidy obsahujú peroxidovú skupinu (-O-O-) s kyslíkom v oxidačnom stave -I; patria sem peroxid sodný Na2O2 (b), peroxid vodíka H2O2 (d), peroxid ortutnatý HgO2 (f) a peroxid bárnatý BaO2 (g). Zlúčeniny KO2 a NaO2 sú superoxidy (hyperoxidy) obsahujúce anión O2(-), KO3 je ozonid a BaO je bežný oxid bárnatý s kyslíkom O(-II) (a, c, e, h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "97. Vyberte tie prvky, ktoré si často centrálnym atómom v komplexných zlúčeninách:",
+    "options": [
+      {
+        "id": "a",
+        "text": "B"
+      },
+      {
+        "id": "b",
+        "text": "Ca"
+      },
+      {
+        "id": "c",
+        "text": "Pt"
+      },
+      {
+        "id": "d",
+        "text": "S"
+      },
+      {
+        "id": "e",
+        "text": "Čo"
+      },
+      {
+        "id": "f",
+        "text": "Fe"
+      },
+      {
+        "id": "g",
+        "text": "K"
+      },
+      {
+        "id": "h",
+        "text": "Ag"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Ako centrálne atómy v koordinačných zlúčeninách vystupujú predovšetkým prechodné d-prvky, ktoré majú voľné d-orbitály vhodné na akceptovanie voľných elektrónových párov ligandov: platina Pt (c), kobalt Co (e), železo Fe (f) a striebro Ag (h). Prvky hlavných skupín ako bór B, vápnik Ca, síra S a draslík K (a, b, d, g) netvoria typické stabilné koordinačné komplexy a draslík či vápnik tvoria skôr jednoduché hydratované ióny."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "98. Urete nesprávne (chybne) pomenované zliceniny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Na2CO3 je sóda"
+      },
+      {
+        "id": "b",
+        "text": "K2CO3 je potaš"
+      },
+      {
+        "id": "c",
+        "text": "NaNO3 je kamenec"
+      },
+      {
+        "id": "d",
+        "text": "KCr(SO4)2 . 12 H2O je karnalit"
+      },
+      {
+        "id": "e",
+        "text": "HgClz je kalomel"
+      },
+      {
+        "id": "f",
+        "text": "FeSO4.7H2O je zelená skalica"
+      },
+      {
+        "id": "g",
+        "text": "NO2 je rajský plyn"
+      },
+      {
+        "id": "h",
+        "text": "hgs je rumelka 28"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Nesprávne priradené triviálne názvy sú v možnostiach c, d, e, g. NaNO3 je čilský liadok, kým kamence sú podvojné sírany M(I)M(III)(SO4)2·12H2O (c); KCr(SO4)2·12H2O je chromito-draselný kamenec, pričom karnalit je KCl·MgCl2·6H2O (d); HgCl2 je sublimát (chlorid ortuťnatý), kým kalomel je Hg2Cl2 (e); a NO2 je oxid dusičitý, zatiaľ čo rajský plyn je oxid dusný N2O (g). Sóda (Na2CO3), potaš (K2CO3), zelená skalica (FeSO4·7H2O) a rumelka (HgS) sú pomenované správne (a, b, f, h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "99. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ZnSO4. 7 H2O je biela skalica"
+      },
+      {
+        "id": "b",
+        "text": "pbs je sfalerit"
+      },
+      {
+        "id": "c",
+        "text": "SiO2 je korund"
+      },
+      {
+        "id": "d",
+        "text": "kcl je sylvín"
+      },
+      {
+        "id": "e",
+        "text": "KCN je cyankáli"
+      },
+      {
+        "id": "f",
+        "text": "FeS2 je chalkopyrit"
+      },
+      {
+        "id": "g",
+        "text": "NasAIF6 je kryolit"
+      },
+      {
+        "id": "h",
+        "text": "KNO3 je čilský liadok"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne mineralogické a triviálne názvy sú: ZnSO4·7H2O je biela skalica (a), KCl je sylvín (d), KCN je cyankáli (kyanid draselný, e) a Na3AlF6 je kryolit (g). Minerál PbS je galenit (sfalerit je ZnS, b), SiO2 je kremeň (korund je Al2O3, c), FeS2 je pyrit (chalkopyrit je CuFeS2, f) a čilský liadok je NaNO3, kým KNO3 je draselný liadok (h)."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "100. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mosadz je zliatina Cu a Zn"
+      },
+      {
+        "id": "b",
+        "text": "sadrovec je Ca(OH)2"
+      },
+      {
+        "id": "c",
+        "text": "hasené vápno je CaCO3"
+      },
+      {
+        "id": "d",
+        "text": "alpaka je zliatina Ni, Zn a Cu"
+      },
+      {
+        "id": "e",
+        "text": "bronz je zliatina Sn a Cu"
+      },
+      {
+        "id": "f",
+        "text": "amalgám je zliatina Sn a Pb"
+      },
+      {
+        "id": "g",
+        "text": "salmiak je NHC1"
+      },
+      {
+        "id": "h",
+        "text": "sadra je cao"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne definície zliatin a minerálov sú: mosadz je zliatina medi a zinku Cu-Zn (a), alpaka je novostriebro – zliatina medi, niklu a zinku Cu-Ni-Zn (d), bronz je zliatina medi a cínu Cu-Sn (e) a salmiak je chlorid amónny NH4Cl (g). Sadrovec je dihydrát síranu vápenatého CaSO4·2H2O (b), hasené vápno je Ca(OH)2 (c), amalgámy sú zliatiny ortuti s kovmi (f) a pálená sadra je hemihydrát CaSO4·1/2H2O, kým CaO je pálené vápno (h)."
+  }
+]

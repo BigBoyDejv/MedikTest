@@ -1,0 +1,2295 @@
+[
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "1. Suspenzia je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rovnorodá zmes rozpustenej tuhej látky rozptýlenej v kvapaline"
+      },
+      {
+        "id": "b",
+        "text": "aerosól"
+      },
+      {
+        "id": "c",
+        "text": "cigaretový dym"
+      },
+      {
+        "id": "d",
+        "text": "rôznorodá zmes nerozpustenej tuhej látky rozptýlenej v kvapaline"
+      },
+      {
+        "id": "e",
+        "text": "napr. zmes piesku a vody"
+      },
+      {
+        "id": "f",
+        "text": "rôznorodá zmes nerozpustenej tuhej látky rozptýlenej v plyne"
+      },
+      {
+        "id": "g",
+        "text": "aj napr. ovocný džús s vlákninou"
+      },
+      {
+        "id": "h",
+        "text": "príkladom rôznorodej zmesi"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "2. Emulzia je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rôznorodá zmes, ktorá vznikne rozptýlením rozpustenej kvapaliny v inej kvapaline"
+      },
+      {
+        "id": "b",
+        "text": "rovnorodá zmes troch kvapalín"
+      },
+      {
+        "id": "c",
+        "text": "rôznorodá zmes kvapalín, ktorá vznikne rozptýlením nerozpustenej kvapaliny v inej kvapaline"
+      },
+      {
+        "id": "d",
+        "text": "mlieko"
+      },
+      {
+        "id": "e",
+        "text": "rôznorodá zmes práve troch kvapalín"
+      },
+      {
+        "id": "f",
+        "text": "rovnorodá zmes rozpustenej plynnej látky rozptýlenej v kvapaline"
+      },
+      {
+        "id": "g",
+        "text": "zmes oleja a vody"
+      },
+      {
+        "id": "h",
+        "text": "pleťové mlieko"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "3. Vyberte správne tvrdenie o látkach:",
+    "options": [
+      {
+        "id": "a",
+        "text": "hmotnosť je najdôležitejšou vlastnosťou látok"
+      },
+      {
+        "id": "b",
+        "text": "vzhľad a hustotu považujeme za vlastnosti látok"
+      },
+      {
+        "id": "c",
+        "text": "vlastnosti látky vždy závisia na množstve danej látky"
+      },
+      {
+        "id": "d",
+        "text": "chuť a vôňu nepovažujeme za vlastnosti látok"
+      },
+      {
+        "id": "e",
+        "text": "vlastnosti látky spravidla závisia na množstve danej látky"
+      },
+      {
+        "id": "f",
+        "text": "látky môžu byť tuhé, kvapalné alebo plynné"
+      },
+      {
+        "id": "g",
+        "text": "chemický čisté látky sa v prírode vyskytujú zriedka"
+      },
+      {
+        "id": "h",
+        "text": "vlastnosti látky spravidla nezávisia na množstve danej látky"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "4. Vyberte správne tvrdenie o separačných metódach:",
+    "options": [
+      {
+        "id": "a",
+        "text": "destilácia nie je separačnou metódou"
+      },
+      {
+        "id": "b",
+        "text": "lekárske vyšetrenie krvi a moču je príkladom filtrácie"
+      },
+      {
+        "id": "c",
+        "text": "na oddeľovanie zložiek zo zmesi využívame rozdielne chemické vlastnosti zložiek zmesi"
+      },
+      {
+        "id": "d",
+        "text": "destiláciou sa oddeľuje tuhá látka od kvapalnej na základe rôznej rozpustnosti"
+      },
+      {
+        "id": "e",
+        "text": "sedimentáciou sa oddeľujú látky na základe hustoty"
+      },
+      {
+        "id": "f",
+        "text": "na oddeľovanie zložiek zo zmesi využívame rozdielne fyzikálne vlastnosti zložiek zmesi"
+      },
+      {
+        "id": "g",
+        "text": "filtrácia a kryštalizácia patria medzi separačné metódy"
+      },
+      {
+        "id": "h",
+        "text": "podstatou destilácie je rozdielna teplota varu kvapalín"
+      }
+    ],
+    "correct_answers": [
+      "e",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "5. Vyberte nesprávne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "aerosóly nepatria medzi koloidné roztoky"
+      },
+      {
+        "id": "b",
+        "text": "benzín vo vode je príkladom suspenzie"
+      },
+      {
+        "id": "c",
+        "text": "pena je rôznorodá zmes nerozpustenej plynnej látky a kvapaliny"
+      },
+      {
+        "id": "d",
+        "text": "podľa veľkosti častíc rozdeľujeme zmesi na rovnorodé a rôznorodé"
+      },
+      {
+        "id": "e",
+        "text": "smog je príkladom aerosólu"
+      },
+      {
+        "id": "f",
+        "text": "dym a hmla sú príkladom peny"
+      },
+      {
+        "id": "g",
+        "text": "v rôznorodej zmesi nikdy nevieme rozlíšiť prevládajúcu zložku"
+      },
+      {
+        "id": "h",
+        "text": "hmla je zmes nerozpustenej kvapaliny jemne rozptýlenej v plyne"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "6. Vyberte nesprávne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ionizačná energia je energia potrebná na odtrhnutie valenčného elektrónu od atómu"
+      },
+      {
+        "id": "b",
+        "text": "energia, ktorá sa uvo'ni pri prijatí elektrónu atómom sa nazýva ionizačná energia"
+      },
+      {
+        "id": "c",
+        "text": "elektrónová afinita je energia potrebná na odtrhnutie valenčného elektrónu od atómu"
+      },
+      {
+        "id": "d",
+        "text": "elektrónová afinita je energia, ktorá sa uvoľni pri prijatí elektrónu atómom"
+      },
+      {
+        "id": "e",
+        "text": "elektrónová afinita je vždy kladná a je vyjadrená v kj"
+      },
+      {
+        "id": "f",
+        "text": "prvky, ktoré Iahko tvoria katióny, majú vyššie hodnoty ionizačných energi"
+      },
+      {
+        "id": "g",
+        "text": "Čím je hodnota ionizačnej energie nižšia, tým je prvok reaktívnejší"
+      },
+      {
+        "id": "h",
+        "text": "prvky, ktoré I'ahko tvoria anióny, majú vyššie hodnoty elektrónovej afinity"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "7. Rozpustnosť látky v rozpúšťadle:",
+    "options": [
+      {
+        "id": "a",
+        "text": "závisí aj od vlastnosti rozpúšťadlá"
+      },
+      {
+        "id": "b",
+        "text": "závisí od tlaku, ak je rozpustanou látkou plyn"
+      },
+      {
+        "id": "c",
+        "text": "dá sa vyjadriť grafický tzv. krivkou rozpustnosti"
+      },
+      {
+        "id": "d",
+        "text": "závisí od objemu nádoby, v ktorej sa látka rozpúšťa"
+      },
+      {
+        "id": "e",
+        "text": "je možné vyjadriť koncentráciou nasýteného roztoku v mol.dm-3"
+      },
+      {
+        "id": "f",
+        "text": "s rastom teploty vždy rastie"
+      },
+      {
+        "id": "g",
+        "text": "nezávisí od tlaku"
+      },
+      {
+        "id": "h",
+        "text": "vždy závisí aj od tlaku"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "8. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "počet všetkých atómov v 1 móle plynného CO2 je rovnaký ako počet atómov v 1 móle plynného O2"
+      },
+      {
+        "id": "b",
+        "text": "objem 1 mólu plynného CO2 je zhodný s objemom 1 mólu plynného O2"
+      },
+      {
+        "id": "c",
+        "text": "počet molekil v 1 móle plynného CO2 sa rovná počtu jeho atómov v 1 móle"
+      },
+      {
+        "id": "d",
+        "text": "objemy plynov O2 a CH4 sú rovnaké"
+      },
+      {
+        "id": "e",
+        "text": "objemy plynov O2 a CH4 sú rovnaké pri tom istom tlaku"
+      },
+      {
+        "id": "f",
+        "text": "počet všetkých atómov v 1 móle plynného CO2 je väčší ako počet atómov v 1 móle plynného O2"
+      },
+      {
+        "id": "g",
+        "text": "počet molekúl v 1 móle plynného O2 sa rovná počtu molekúl v 1 móle plynného HC1"
+      },
+      {
+        "id": "h",
+        "text": "počet molekúl plynu v 1 móle nezávisí od tlaku"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "9. O pravých roztokoch platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú napr. roztoky kcl a FeCl2"
+      },
+      {
+        "id": "b",
+        "text": "obsahujú častice s veľkosťou 10 --100 nm"
+      },
+      {
+        "id": "c",
+        "text": "patria do skupiny hrubodisperznych sústav"
+      },
+      {
+        "id": "d",
+        "text": "veľkosť rozpustených častíc je menšia ako 1 nm"
+      },
+      {
+        "id": "e",
+        "text": "patria k ním roztoky bielkovín"
+      },
+      {
+        "id": "f",
+        "text": "patria k ním iba roztoky bielkovín krvnej plazmy"
+      },
+      {
+        "id": "g",
+        "text": "ve'kosť rozpustených častíc je menšia ako 1.10-9 m"
+      },
+      {
+        "id": "h",
+        "text": "roztoky silných elektrolytov patria medzi práve roztoky"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "10. Pre hmotnostný zlomok w(A) látky A platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "jednotkou je g.mol-1"
+      },
+      {
+        "id": "b",
+        "text": "w(A) ≤ 1"
+      },
+      {
+        "id": "c",
+        "text": "vyjadrujeme ho ako pomer hmotnosti rozpustenej látky m(A) k celkovej hmotnosti roztoku mr"
+      },
+      {
+        "id": "d",
+        "text": "hmotnostný zlomok je možné vyjadriť aj v percentách, ak w(A) vydelíme 100"
+      },
+      {
+        "id": "e",
+        "text": "hmotnostný zlomok látky môže byť väčší ako 1"
+      },
+      {
+        "id": "f",
+        "text": "vypočítame ako pomer počtu mólov látky A k celkovému počtu mólov"
+      },
+      {
+        "id": "g",
+        "text": "čím je hmotnostný zlomok rozpustenej látky väčšie číslo, tým je roztok koncentrovanejší"
+      },
+      {
+        "id": "h",
+        "text": "hmotnostný zlomok je možné vyjadriť aj v percentách, ak w(A) vynásobíme 100"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "11. Pravý roztok nemôže nikdy obsahovať:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ióny nízkomolekulových látok"
+      },
+      {
+        "id": "b",
+        "text": "jednotlivé atómy pevných látok"
+      },
+      {
+        "id": "c",
+        "text": "molekuly Škrobu"
+      },
+      {
+        "id": "d",
+        "text": "rozpustené bielkoviny"
+      },
+      {
+        "id": "e",
+        "text": "molekuly vody"
+      },
+      {
+        "id": "f",
+        "text": "jednotlivé ióny pevných látok"
+      },
+      {
+        "id": "g",
+        "text": "molekuly hemoglobínu"
+      },
+      {
+        "id": "h",
+        "text": "molekuly prírodných polymérnych zlúčenín"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "12. Z periodickej tabuľky chemických prvkov môžeme vyvodiť, že:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kovový charakter prvkov rastie zava doprava"
+      },
+      {
+        "id": "b",
+        "text": "nekovový charakter prvkov klesá správa doľava"
+      },
+      {
+        "id": "c",
+        "text": "oxidačné účinky prvkov klesajú zľava doprava"
+      },
+      {
+        "id": "d",
+        "text": "redukčné účinky prvkov klesajú zava doprava"
+      },
+      {
+        "id": "e",
+        "text": "elektronegativita prvkov rastie zľava doprava"
+      },
+      {
+        "id": "f",
+        "text": "zásaditosť oxidov prvkov klesá správa doľava"
+      },
+      {
+        "id": "g",
+        "text": "ionizačná energia rastie správa doľava"
+      },
+      {
+        "id": "h",
+        "text": "kyslosť oxidov prvkov rastie zľava doprava"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "13. Na veľkosť atómov prvkovvperiodickej tabuľke majú primárny vplyy príťažlivé sily medzi atómovým jadrom a vonkajšími elektrónmi. Preto platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "veľkosť atómov v danej perióde sa zväčšuje s rastúcim Z prvkov"
+      },
+      {
+        "id": "b",
+        "text": "veľkosť atómov v hlavnej podskupine sa zväčšuje s rastúcim Z prvkov"
+      },
+      {
+        "id": "c",
+        "text": "veľkosť atómov v danej perióde sa zmenšuje s rastúcim Z prvkov s výnimkou inertných plynov"
+      },
+      {
+        "id": "d",
+        "text": "veľkosť atómov v hlavnej podskupine sa zmenšuje s rastúcim Z prvkov"
+      },
+      {
+        "id": "e",
+        "text": "veľkosť atómov v hlavnej podskupine sa zmenšuje s klesajúcim Z prvkov"
+      },
+      {
+        "id": "f",
+        "text": "veľkosť atómov v danej perióde sa zväčšuje s klesajúcim Z prvkov s výnimkou vzácnych plynov"
+      },
+      {
+        "id": "g",
+        "text": "veľkosť atómov v hlavnej podskupine sa zväčšuje s klesajúcim Z prvkov s výnimkou vzácnych plynov"
+      },
+      {
+        "id": "h",
+        "text": "veľkosť atómov v danej perióde sa zväčšuje s rastúcim Z prvkov s výnimkou inertných plynov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "14. Na veľkosťionov prvkov v periodickej tabuľke majú primárny vplyv príťažlivé sily medzi atómovým jadrom a vonkajšími elektrónmi. Preto platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "polomer katiónu je vždy menší ako polomer atómu, z ktorého tento ión vznikol"
+      },
+      {
+        "id": "b",
+        "text": "polomer katiónu je vždy väčší ako polomer atómu, z ktorého tento ión vznikol"
+      },
+      {
+        "id": "c",
+        "text": "polomer aniónu je vždy väčší ako polomer atómu, z ktorého tento ión vznikol"
+      },
+      {
+        "id": "d",
+        "text": "polomer aniónu je vždy menší ako polomer atómu, z ktorého tento ión vznikol"
+      },
+      {
+        "id": "e",
+        "text": "polomer katiónu odvodeného od toho istého atómu, sa zväčšuje s jeho rastúcim nábojom"
+      },
+      {
+        "id": "f",
+        "text": "polomer katiónu odvodeného od toho istého atómu, sa zmenšuje s jeho rastúcim nábojom"
+      },
+      {
+        "id": "g",
+        "text": "veľkosť aniónov v danej perióde sa zväčšuje s rastúcim Z prvkov"
+      },
+      {
+        "id": "h",
+        "text": "veľkosť aniónov v danej perióde sa zmenšuje s rastúcim Z prvkov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "15. Pre oxidačné čísla prvkov v periodickej tabuľke platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "maximálne kladné oxidačné číslo sa vždy zhoduje s Číslom podskupiny prvku"
+      },
+      {
+        "id": "b",
+        "text": "maximálne kladné oxidačné číslo sa nikdy nezhoduje s číslom podskupiny prvku"
+      },
+      {
+        "id": "c",
+        "text": "maximálne kladné oxidačné číslo sa väčšinou zhoduje s číslom podskupiny prvku"
+      },
+      {
+        "id": "d",
+        "text": "maximálne kladné oxidačné číslo môže byť i vyššie ako je číslo podskupiny prvku"
+      },
+      {
+        "id": "e",
+        "text": "maximálne záporné oxidačné číslo určíme ako rozdiel 8 - číslo podskupiny prvku"
+      },
+      {
+        "id": "f",
+        "text": "maximálne záporné oxidačné číslo určíme ako súčet 1 + číslo podskupiny prvku"
+      },
+      {
+        "id": "g",
+        "text": "maximálne záporné oxidačné číslo určíme iba z čísla podskupiny prvku"
+      },
+      {
+        "id": "h",
+        "text": "maximálne záporné oxidačné číslo sa nedá určiť z čísla podskupiny prvku"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "16. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pravý roztok"
+      },
+      {
+        "id": "b",
+        "text": "otvorená sústava"
+      },
+      {
+        "id": "c",
+        "text": "izolovaná stuistava"
+      },
+      {
+        "id": "d",
+        "text": "homogénna sústava"
+      },
+      {
+        "id": "e",
+        "text": "koloidný roztok"
+      },
+      {
+        "id": "f",
+        "text": "heterogénna sistava"
+      },
+      {
+        "id": "g",
+        "text": "pevný roztok"
+      },
+      {
+        "id": "h",
+        "text": "aerosól"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "17. Pre roztoky a sústavy platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pravý roztok je homogénna sústava"
+      },
+      {
+        "id": "b",
+        "text": "otvorená sústava si vymieňa s okolím hmotu aj energiu"
+      },
+      {
+        "id": "c",
+        "text": "izolovaná sústava si s okolím nevymieňa hmotu ani energiu"
+      },
+      {
+        "id": "d",
+        "text": "homogénna sústava má v celom objeme rovnaké vlastnosti"
+      },
+      {
+        "id": "e",
+        "text": "koloidný roztok má častice veľkosti 1 až 100 nm"
+      },
+      {
+        "id": "f",
+        "text": "heterogénna sústava má viacero fáz oddelených rozhraním"
+      },
+      {
+        "id": "g",
+        "text": "pevný roztok je príkladom zliatiny"
+      },
+      {
+        "id": "h",
+        "text": "aerosól je zmes plynu a v ňom rozptýlených kvapiek alebo tuhých častíc"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "18. Vyberte nesprávne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "homogénna zmes"
+      },
+      {
+        "id": "b",
+        "text": "molekulový vzorec vyjadruje skutočný počet atómov v zlúčenine"
+      },
+      {
+        "id": "c",
+        "text": "funkeny vzorec zliceniny yyjadruje priestorové usporiadanie atómov"
+      },
+      {
+        "id": "d",
+        "text": "konštitučný vzorec zlúčeniny yyjadruje poradie zlúčených atómov"
+      },
+      {
+        "id": "e",
+        "text": "stechiometrický vzorec nemôže byť zhodný s molekulovým"
+      },
+      {
+        "id": "f",
+        "text": "konfiguračný vzorec vyjadruje priestorové usporiadanie atómov zlúčeniny"
+      },
+      {
+        "id": "g",
+        "text": "chaakuteristickatmezoskueniasuzhradnenegometrickomzori gzluceninyom athiamatrialahaaroo voter"
+      },
+      {
+        "id": "h",
+        "text": "sumárny vzorec je násobkom stechiometrického vzorca"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "19. RoztokNaClvovodeje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "homogénna zmes"
+      },
+      {
+        "id": "b",
+        "text": "koloidný roztok"
+      },
+      {
+        "id": "c",
+        "text": "chemický čistá látka"
+      },
+      {
+        "id": "d",
+        "text": "heterogénna zmes"
+      },
+      {
+        "id": "e",
+        "text": "chemickeindividuum"
+      },
+      {
+        "id": "f",
+        "text": "roztok elektrolytu"
+      },
+      {
+        "id": "g",
+        "text": "pravý roztok"
+      },
+      {
+        "id": "h",
+        "text": "vodivý"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "20. Vodný roztok albumínu je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pravý roztok"
+      },
+      {
+        "id": "b",
+        "text": "koloidná zmes"
+      },
+      {
+        "id": "c",
+        "text": "homogénna zmes"
+      },
+      {
+        "id": "d",
+        "text": "roztok obsahujúci častice o priemere 10-7 - 10-′ m 10"
+      },
+      {
+        "id": "e",
+        "text": "heterogénna zmes"
+      },
+      {
+        "id": "f",
+        "text": "uzavretá sústava"
+      },
+      {
+        "id": "g",
+        "text": "stabilizovaný hydratačným obalom"
+      },
+      {
+        "id": "h",
+        "text": "roztok rozpustenej bielkoviny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "21. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vriaca voda v kadičke je otvorená nerovnovazna sústava"
+      },
+      {
+        "id": "b",
+        "text": "voda a chloroform pri pretrepavani v oddeľovacom lieviku je heterogénna uzavretá sústava"
+      },
+      {
+        "id": "c",
+        "text": "vajce je heterogénna izolovaná sústava"
+      },
+      {
+        "id": "d",
+        "text": "morský piesok vo vode v uzavretej Erlenmayerovej banke je uzavretá koloidná sústava"
+      },
+      {
+        "id": "e",
+        "text": "zmes vody a častíc s veľkosťou O,1 nm až 10 μm je definovaná ako koloidná sústava"
+      },
+      {
+        "id": "f",
+        "text": "zmes vody a častíc s veľkosťou O,1 μm až 1 nm sa nazýva koloidná sústava"
+      },
+      {
+        "id": "g",
+        "text": "zmes vody a častíc s veľkosťou viac ako 1 μm sa nazýva heterogénna sústava"
+      },
+      {
+        "id": "h",
+        "text": "zmes vody a častíc s veľkosťou väčšou ako O,1 μm sa nazýva homogénna sústava"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "22. Číra minerálna voda vyvierajúca z prameňa (pitná voda) je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "chemické indivíduum"
+      },
+      {
+        "id": "b",
+        "text": "chemický čistá látka"
+      },
+      {
+        "id": "c",
+        "text": "rovnorodá zmes"
+      },
+      {
+        "id": "d",
+        "text": "nepravý roztok"
+      },
+      {
+        "id": "e",
+        "text": "pravý roztok"
+      },
+      {
+        "id": "f",
+        "text": "homogénna zmes"
+      },
+      {
+        "id": "g",
+        "text": "heterogénna zmes"
+      },
+      {
+        "id": "h",
+        "text": "zmes chemických látok"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "23. Chemické indivíduum je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "látka so stálymi fyzikálnochemickými vlastnosťami"
+      },
+      {
+        "id": "b",
+        "text": "iba prvok"
+      },
+      {
+        "id": "c",
+        "text": "atóm"
+      },
+      {
+        "id": "d",
+        "text": "CH3-CH2-OH"
+      },
+      {
+        "id": "e",
+        "text": "iba zlúčenina"
+      },
+      {
+        "id": "f",
+        "text": "roztok kcl v destilovanej vode"
+      },
+      {
+        "id": "g",
+        "text": "prvok alebo zlúčenina"
+      },
+      {
+        "id": "h",
+        "text": "laktóza"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "24. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zmes má vždy rovnaké vlastnosti ako jej jednotlivé zložky"
+      },
+      {
+        "id": "b",
+        "text": "zmesi nie sú iba kvapaliny"
+      },
+      {
+        "id": "c",
+        "text": "zmes je sústava zložená zo súboru rôznych častíc (napr. atómov, molekúl)"
+      },
+      {
+        "id": "d",
+        "text": "ak má sústava vo všetkých miestach rôzne vlastnosti, je homogénna"
+      },
+      {
+        "id": "e",
+        "text": "koloidné roztoky sú homogénne zmesi"
+      },
+      {
+        "id": "f",
+        "text": "zmes plynov je homogénna sústava"
+      },
+      {
+        "id": "g",
+        "text": "príkladom heterogénnej zmesi je vodný roztok kcl 11"
+      },
+      {
+        "id": "h",
+        "text": "zmesi delíme na homogénne, heterogénne a koloidné"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "25. Prvky sú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "látky, ktorých atómy majú rovnaké protónové číslo rôznym protónovým číslom číslom rôznym nukleónovým číslom"
+      },
+      {
+        "id": "b",
+        "text": "chemickyciste látky,molekulykorych suzlozene zronakych atomoy"
+      },
+      {
+        "id": "c",
+        "text": "látky,torychatomyobsahuju atómové jadrasronakym nukleonovymale cisomj.tcoaxtaolmtttwaiconovym e látky,ktorých atómy obsahujú rôzny počet valenčných elektronoy lakuamnm f látky,ktorychatomyobsahuju atmovejadrasuritym neutonoym,aleš trozymnukleonovym Cislomuooojatabrctyeutonovym,aleš"
+      },
+      {
+        "id": "d",
+        "text": "Možnosť D (pozri testovnicu)"
+      },
+      {
+        "id": "e",
+        "text": "Možnosť E (pozri testovnicu)"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F (pozri testovnicu)"
+      },
+      {
+        "id": "g",
+        "text": "chemické indivídua"
+      },
+      {
+        "id": "h",
+        "text": "chemické indivídua, molekuly ktorých sú zložené z rôznych atómov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "26. Chemický čistá látka je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "MgCl2. 6 H20"
+      },
+      {
+        "id": "b",
+        "text": "pitná voda"
+      },
+      {
+        "id": "c",
+        "text": "čistý vzduch"
+      },
+      {
+        "id": "d",
+        "text": "kvapalný dusík"
+      },
+      {
+        "id": "e",
+        "text": "sklo"
+      },
+      {
+        "id": "f",
+        "text": "sóda bikarbóna"
+      },
+      {
+        "id": "g",
+        "text": "ZnSO4"
+      },
+      {
+        "id": "h",
+        "text": "čistý roztok HNO3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "27. Modrá skalica rozpustená vo vode je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "heterogénna zmes"
+      },
+      {
+        "id": "b",
+        "text": "modrý roztok"
+      },
+      {
+        "id": "c",
+        "text": "koloidný roztok"
+      },
+      {
+        "id": "d",
+        "text": "opticky aktívny roztok"
+      },
+      {
+        "id": "e",
+        "text": "heterogénna sústava"
+      },
+      {
+        "id": "f",
+        "text": "homogénna zmes"
+      },
+      {
+        "id": "g",
+        "text": "homogénna sústava"
+      },
+      {
+        "id": "h",
+        "text": "pravý roztok"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "28. Pre koloidné roztoky platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "veľkosť ich častíc môže byť 1-50 nm"
+      },
+      {
+        "id": "b",
+        "text": "častice sú menšie ako 1 nm"
+      },
+      {
+        "id": "c",
+        "text": "sú práve roztoky"
+      },
+      {
+        "id": "d",
+        "text": "sú nepravé roztoky"
+      },
+      {
+        "id": "e",
+        "text": "rozptý'ujú svetlo"
+      },
+      {
+        "id": "f",
+        "text": "sú navonok vždy úplne priezračné"
+      },
+      {
+        "id": "g",
+        "text": "suspenzia, emulzia a pena sú aerosóly"
+      },
+      {
+        "id": "h",
+        "text": "patria k ním roztoky bielkovín"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "29. O skupenských stavoch môžeme tvrdiť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zmenou tlaku a teploty môžeme jednotlivé skupenské stavy určitej látky meniť 12"
+      },
+      {
+        "id": "b",
+        "text": "skupenský stav látky je podmienený vonkajšími podmienkami (teplotou, tlakom)"
+      },
+      {
+        "id": "c",
+        "text": "sublimácia je zmena tuhého skupenstva na plynné"
+      },
+      {
+        "id": "d",
+        "text": "sublimácia je premena kvapalného skupenstva na plynné za zníženého tlaku"
+      },
+      {
+        "id": "e",
+        "text": "zmenou skupenstva sa pohyblivosť astic nemení"
+      },
+      {
+        "id": "f",
+        "text": "plazma je skupenský stav, v ktorom môžu existovať len elektroneutrálne častice"
+      },
+      {
+        "id": "g",
+        "text": "plazma je skupenský stav, v ktorom môžu existovať nezávisle od seba rôzne nabité astice, ale sústava ako celok je elektroneutrálna"
+      },
+      {
+        "id": "h",
+        "text": "látka môže existovať najviac v dvoch skupenských stavoch"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "30. O skupenských stavoch môžeme tvrdiť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ak látka existuje vo viacerých skupenstvách hovoríme o alotropickej modifikácií"
+      },
+      {
+        "id": "b",
+        "text": "pohyb častíc v plynnom stave je chaotickejší ako v kvapalnom stave"
+      },
+      {
+        "id": "c",
+        "text": "každá anorganická aj organická látka v tuhom skupenstve musí mať iónovú kryštálovú mriežku"
+      },
+      {
+        "id": "d",
+        "text": "ak sa z látky v plynnom skupenstve zmenou vonkajších podmienok stane tuhá látka, hovoríme o sublimaci"
+      },
+      {
+        "id": "e",
+        "text": "zmenšením vzdialenosti medzi jednotlivými Časticami látky sa z kvapaliny stane plyn"
+      },
+      {
+        "id": "f",
+        "text": "pohyb častíc v kvapalnom stave je chaotickejší ako v plynnom stave"
+      },
+      {
+        "id": "g",
+        "text": "zmena pevného skupenstva na plynné, bez prechodu cez kvapalné skupenstvo je sublimácia"
+      },
+      {
+        "id": "h",
+        "text": "zväčšením vzdialenosti medzi jednotlivými časticami látky sa z kvapaliny stane plyn"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "31. Prezluceniny platí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vznikajú zmiešaním látok v I'ubovoľnom pomere"
+      },
+      {
+        "id": "b",
+        "text": "vznikajú chemickou reakciou z prvkov"
+      },
+      {
+        "id": "c",
+        "text": "môžeme ich rozdeliť na pôvodne zložky fyzikálnymi separačnými metódami"
+      },
+      {
+        "id": "d",
+        "text": "vlastnosti prvkov, z ktorých sú zložené, neostanú zachované"
+      },
+      {
+        "id": "e",
+        "text": "že prvky v nich môžu byť v 'ubovoľnom pomere"
+      },
+      {
+        "id": "f",
+        "text": "všetky vlastnosti prvkov, z ktorých sú zložené, ostanú zachované"
+      },
+      {
+        "id": "g",
+        "text": "prvky môžu byť v zlúčenine iba v takom pomere, ktorý vyhovuje Daltonovmuzakonu"
+      },
+      {
+        "id": "h",
+        "text": "môžeme ich rozdeliť na prvky iba chemickými reakciami"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "32. Vyberte správne tvrdenia o zmesi:",
+    "options": [
+      {
+        "id": "a",
+        "text": "nemožno ju rozdeliť na zložky fyzikálnymi metódami"
+      },
+      {
+        "id": "b",
+        "text": "hmotnostný pomer čistých látok v zmesi môže byť I'ubovoľny"
+      },
+      {
+        "id": "c",
+        "text": "vlastnosti čistých látok ostávajú zachované"
+      },
+      {
+        "id": "d",
+        "text": "vzniká vždy chemickou reakciou z prvkov"
+      },
+      {
+        "id": "e",
+        "text": "vzniká zmiešaním látok, teda fyzikálnymi dejmi"
+      },
+      {
+        "id": "f",
+        "text": "čisté látky v zmesi mozubyťiba vurcitom pomere"
+      },
+      {
+        "id": "g",
+        "text": "vlastnosti čistých látok z ktorých je zmes zložená neostanú zachované 13"
+      },
+      {
+        "id": "h",
+        "text": "môžeme ju rozdeliť na pôvodne zložky - isté látky napr. sedimentáciou, filtráciou, destiláciou či extrakciou"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "33. Základné chemické zákony:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Avogadrov zákon - 1 mol akéhokoľvek plynu má pri rovnakých vonkajších podmienkach vždy rovnaký objem"
+      },
+      {
+        "id": "b",
+        "text": "za normálnych podmienok (t = 0 °C, p = 1,01325.105 Pa) zaberá 1 mol akéhokoľvek plynu tzv. molový objem Vm"
+      },
+      {
+        "id": "c",
+        "text": "vlastnosti prvkov a ich zlúčenín sú periodickou funkciou neutrónových čísel prvkov"
+      },
+      {
+        "id": "d",
+        "text": "v priebehu chemickej reakcie sa súčet hmotnosti reaktantov rovná súčinu hmotnostiproduktov"
+      },
+      {
+        "id": "e",
+        "text": "chróm tvorí s kyslíkom CrO3 a Cr2O3 Čo je vyjadrením platnosti Daltonovho zákona násobných zlučovacích pomerov"
+      },
+      {
+        "id": "f",
+        "text": "Gay-Lussacov zákon hovorí o násobných objemových pomeroch"
+      },
+      {
+        "id": "g",
+        "text": "zákon zachovania hmotnosti a energie formuloval Lomonosov"
+      },
+      {
+        "id": "h",
+        "text": "výsledný tlak zmesi plynov je rovný súčinu parciálnych tlakov zložiek zmesi plynu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "34. Vyberte správne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "fyzikalnydejespojeny sozmenouzlozeniamolekal"
+      },
+      {
+        "id": "b",
+        "text": "zahrievanie a topenie sú chemické deje vyžadujúce tepelnú energiu"
+      },
+      {
+        "id": "c",
+        "text": "dej, pri ktorom sa menia východzie látky (reaktanty) na iné látky (produkty) je chemická reakcia"
+      },
+      {
+        "id": "d",
+        "text": "vlastnosti prvkov sú periodickou funkciou ich protónového čísla"
+      },
+      {
+        "id": "e",
+        "text": "horenie je fyzikálny dej pri ktorom sa nemení zloženie molekil molekil"
+      },
+      {
+        "id": "f",
+        "text": "Možnosť F (pozri testovnicu)"
+      },
+      {
+        "id": "g",
+        "text": "molekuly vznikajú zlúčením celistvých počtov rovnakých alebo rôznych atómov"
+      },
+      {
+        "id": "h",
+        "text": "plyny sa nezlučujú v jednoduchých (stálych) objemových pomeroch"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "35. Vyberte správne tvrdenie o roztokoch:",
+    "options": [
+      {
+        "id": "a",
+        "text": "atómová hmotnostná jednotka u je hmotnosť rovná hmotnosti jedného atómu vodíka'H 14"
+      },
+      {
+        "id": "b",
+        "text": "relatívna atómová hmotnosť Arje pomer strednej hmotnosti atómov molekuly istej zlúčeniny a atómovej hmotnostnej jednotky mu"
+      },
+      {
+        "id": "c",
+        "text": "= matomu /u"
+      },
+      {
+        "id": "d",
+        "text": "relatívna molekulová hmotnosť M, je pomer strednej hmotnosti molekuly istej zluceninyk atómovej hmotnostnej jednotke u"
+      },
+      {
+        "id": "e",
+        "text": "M,=malomu/mu"
+      },
+      {
+        "id": "f",
+        "text": "v 1 móle je 6,022.1023 častíc"
+      },
+      {
+        "id": "g",
+        "text": "n = NA/N"
+      },
+      {
+        "id": "h",
+        "text": "hmotnosť 1 mólu látky je vyjadrená molovou hmotnosťou"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "36. Vyberte správne tvrdenie o atómových a molekulových veličinách:",
+    "options": [
+      {
+        "id": "a",
+        "text": "atómová hmotnostná jednotka u je hmotnosť rovná hmotnosti jedného atómu vodíka 1H"
+      },
+      {
+        "id": "b",
+        "text": "relatívna atómová hmotnosť Ar je pomer strednej hmotnosti atómov k atómovej hmotnostnej jednotke u"
+      },
+      {
+        "id": "c",
+        "text": "Ar = matomu / u"
+      },
+      {
+        "id": "d",
+        "text": "relatívna molekulová hmotnosť Mr je pomer strednej hmotnosti molekuly k atómovej hmotnostnej jednotke u"
+      },
+      {
+        "id": "e",
+        "text": "Mr = mmolekuly / u"
+      },
+      {
+        "id": "f",
+        "text": "v 1 móle je 6,022.10^23 častíc"
+      },
+      {
+        "id": "g",
+        "text": "n = N / NA"
+      },
+      {
+        "id": "h",
+        "text": "hmotnosť 1 mólu látky je vyjadrená molovou hmotnosťou"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "37. Ak N je celkový počet Častíc, Na je Avogadrova konštanta, u je atómová hmotnostná jednotka, m je hmotnosť a M je molekulová hmotnosť, potom látkové množstvo n možno definovať vzťahom a jeho jednotkou môže byť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "n = N/u, mol-1"
+      },
+      {
+        "id": "b",
+        "text": "n = N/NA, mol"
+      },
+      {
+        "id": "c",
+        "text": "n = m/mu, mol.kg-1"
+      },
+      {
+        "id": "d",
+        "text": "n = m/M, mol"
+      },
+      {
+        "id": "e",
+        "text": "n = Na/u, mol.kg"
+      },
+      {
+        "id": "f",
+        "text": "n = N.u/NA, mol-1"
+      },
+      {
+        "id": "g",
+        "text": "n = Na.u/N,"
+      },
+      {
+        "id": "h",
+        "text": "n = m/M, mmol"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "38. Vyberte nesprávne tvrdenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "jednotkou látkového množstvá je mol"
+      },
+      {
+        "id": "b",
+        "text": "priame meranie látkového množstvá je prakticky neuskutočniteľné"
+      },
+      {
+        "id": "c",
+        "text": "jednotkou molovej hmotnosti je mol/kg"
+      },
+      {
+        "id": "d",
+        "text": "jednotkou látkového množstvá je mol/kg"
+      },
+      {
+        "id": "e",
+        "text": "jednotkou molovej hmotnosti je kg/mol"
+      },
+      {
+        "id": "f",
+        "text": "látkové množstvo je podiel Avogadrovej konštanty a celkového počtu častíc v súbore"
+      },
+      {
+        "id": "g",
+        "text": "jednotkou hmotnostnej koncentrácie je kg/m3"
+      },
+      {
+        "id": "h",
+        "text": "1 nmol = 10-° mol"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "39. Avogadrova konštanta NA:",
+    "options": [
+      {
+        "id": "a",
+        "text": "c = n/V, mol.I-1"
+      },
+      {
+        "id": "b",
+        "text": "c = m/M.V, mol.cm-3"
+      },
+      {
+        "id": "c",
+        "text": "c = m.MV, kg"
+      },
+      {
+        "id": "d",
+        "text": "c = n.V, mol.dm-3"
+      },
+      {
+        "id": "e",
+        "text": "c = m.M.V, mol2.1"
+      },
+      {
+        "id": "f",
+        "text": "c = n/V,mmol/l"
+      },
+      {
+        "id": "g",
+        "text": "c = m.V, g/l"
+      },
+      {
+        "id": "h",
+        "text": "c = m/M.V, mol/dm3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "40. Ak n je látkové množstvo, m je hmotnosť, M je molekulová hmotnosť danej zlúčeniny a V je celkový objem roztoku, potom vyberte správny vzťah pre výpočet látkovej koncentrácie a jej možnú jednotku:",
+    "options": [
+      {
+        "id": "a",
+        "text": "c = n/V, mol.l-1"
+      },
+      {
+        "id": "b",
+        "text": "c = m/M.V, mol.cm-3"
+      },
+      {
+        "id": "c",
+        "text": "c = m.M/V, kg"
+      },
+      {
+        "id": "d",
+        "text": "c = n.V, mol.dm-3"
+      },
+      {
+        "id": "e",
+        "text": "c = m.M.V, mol.l"
+      },
+      {
+        "id": "f",
+        "text": "c = n/V, mmol/l"
+      },
+      {
+        "id": "g",
+        "text": "c = m.V, g/l"
+      },
+      {
+        "id": "h",
+        "text": "c = m/M.V, mol/dm3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "41. Hmotnostný zlomok látky A v roztoku s hmotnosťou m, objemom V a hustotoupjevyjadrenyvzťahom:",
+    "options": [
+      {
+        "id": "a",
+        "text": "w(A) =n(A).M(A)/m"
+      },
+      {
+        "id": "b",
+        "text": "w(A) = n(A).M(A)/p.V"
+      },
+      {
+        "id": "c",
+        "text": "w(A) = m(A)/V"
+      },
+      {
+        "id": "d",
+        "text": "w(A) =m(A)/m"
+      },
+      {
+        "id": "e",
+        "text": "w(A) =m(A)/V.p"
+      },
+      {
+        "id": "f",
+        "text": "w(A) = n(A).m(A)/V"
+      },
+      {
+        "id": "g",
+        "text": "w(A) = p.m(A)/m"
+      },
+      {
+        "id": "h",
+        "text": "w(A) = p.m(A)/V"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "42. Jednotkou látkovej koncentrácie môže byť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mol"
+      },
+      {
+        "id": "b",
+        "text": "mmol/l"
+      },
+      {
+        "id": "c",
+        "text": "mol/l"
+      },
+      {
+        "id": "d",
+        "text": "kg/mol"
+      },
+      {
+        "id": "e",
+        "text": "bezrozmerná veličina"
+      },
+      {
+        "id": "f",
+        "text": "mol.dm-3"
+      },
+      {
+        "id": "g",
+        "text": "mol/dm-3"
+      },
+      {
+        "id": "h",
+        "text": "mol.cm-3"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "43. Pre latkovémnozstvoplati:",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 mmol obsahuje 6,022.1020 častíc"
+      },
+      {
+        "id": "b",
+        "text": "1 mol látky obsahuje to'ko gramov základných častíc, koľko ich je v 12 g nuklidu 12C"
+      },
+      {
+        "id": "c",
+        "text": "1 mol molekil ideálneho plynu zaberá pri normálnych podmienkach objem 22,4 m3"
+      },
+      {
+        "id": "d",
+        "text": "látkové množstvo zlúčeniny je dane podielom hmotnosti zliceniny a jej molovej hmotnosti"
+      },
+      {
+        "id": "e",
+        "text": "látkové množstvo zlúčeniny v roztoku je podiel hmotnosti roztoku a molovej hmotnostizluceniny"
+      },
+      {
+        "id": "f",
+        "text": "n = m.M"
+      },
+      {
+        "id": "g",
+        "text": "jednotka mol je definovaná pre presne špecifikované častice, t. j. atómy, molekuly, skupiny Častíc atď. 16"
+      },
+      {
+        "id": "h",
+        "text": "látkové množstvo zlúčeniny v roztoku je súčin látkovej koncentrácie a objemu roztoku"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "44. Zloženie roztokumozemevyjadriť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "molovým zlomkom ako podiel látkového množstvá rozpustenej látky a súčtu látkových množstiev všetkých látok v roztoku"
+      },
+      {
+        "id": "b",
+        "text": "hmotnostnou koncentráciou, ktorej jednotkou je g/l"
+      },
+      {
+        "id": "c",
+        "text": "hustotou roztoku p v g/cm-3"
+      },
+      {
+        "id": "d",
+        "text": "hmotnostným zlomkom ako podiel hmotnosti rozpustenej látky a hmotnosti rozpúšťadlá"
+      },
+      {
+        "id": "e",
+        "text": "objemovým zlomkom ako podiel objemu danej látky a objemu rozpúšťadlá"
+      },
+      {
+        "id": "f",
+        "text": "molalitou ako podiel látkového množstvá rozpustenej látky a hmotnosti rozpúšťadlá"
+      },
+      {
+        "id": "g",
+        "text": "molovou koncentráciou ako podiel látkového množstvá rozpustenej látky a objemu roztoku"
+      },
+      {
+        "id": "h",
+        "text": "molalitou, ktorá má jednotku mol/l"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "45. Objemový zlomok látky A v roztoku s objemom V, hmotnosťou m a hustotou p je vyjadrený vzťahom:",
+    "options": [
+      {
+        "id": "a",
+        "text": "(A) = V(A)/m"
+      },
+      {
+        "id": "b",
+        "text": "(A) = V(A).m/p"
+      },
+      {
+        "id": "c",
+        "text": "((A) = V(A)/V"
+      },
+      {
+        "id": "d",
+        "text": "(A) = V(A).p/m"
+      },
+      {
+        "id": "e",
+        "text": "(0(A) = VN(A)"
+      },
+      {
+        "id": "f",
+        "text": "(A) = V(A).p/V.m"
+      },
+      {
+        "id": "g",
+        "text": "(A) = V(A)/p.V"
+      },
+      {
+        "id": "h",
+        "text": "β(A) = V.m/V(A).p"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "46. Látkovú koncentráciu látky A v roztoku s objemom V, hustotou p, hmotnosťou m a hmotnostným zlomkom w môžeme vyjadriť vzťahom:",
+    "options": [
+      {
+        "id": "a",
+        "text": "c(A) = m(A)/V"
+      },
+      {
+        "id": "b",
+        "text": "c(A) = n(A)/m.p"
+      },
+      {
+        "id": "c",
+        "text": "c(A) = n(A).p/m"
+      },
+      {
+        "id": "d",
+        "text": "c(A) = w.p/m"
+      },
+      {
+        "id": "e",
+        "text": "c(A) = w.p/M"
+      },
+      {
+        "id": "f",
+        "text": "c(A) = m(A).M/V"
+      },
+      {
+        "id": "g",
+        "text": "c(A) = m(A)/M.V"
+      },
+      {
+        "id": "h",
+        "text": "c(A) =m(A).p/M.m"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "47. Potrebujeme pripraviť roztok s hmotnosťou m a hmotnostným zlomkom w.K dispozíci máme dva rôzne roztoky s hmotnosťami mi, mz a hmotnostnými zlomkami wi a w2, rozpiusťadlo a čistí látku. Správne zloženie roztoku získame podľa rovnice:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zmiešavacej: mi.Wi +m2.W2 =m.w, kde m2 =m + m1"
+      },
+      {
+        "id": "b",
+        "text": "zrieďovacej: mi.Wi + m2.W2 = m.w, kde m = m + m2a hmotnostný zlomok rozpúšťadlá = 1"
+      },
+      {
+        "id": "c",
+        "text": "zmiešavacej: mi.Wi + m2.W2 = m.w, kde m = mi + m2 17"
+      },
+      {
+        "id": "d",
+        "text": "zahustovacej: mi.w1 + m2.w2 = m.w, kde m = m + m2 a hmotnostný zlomok čistej látky =1"
+      },
+      {
+        "id": "e",
+        "text": "zrieďovacej: mi.wi + m2.w2 = m.w, kde m = mi + m2 a hmotnostný zlomok rozpúšťadlá=0"
+      },
+      {
+        "id": "f",
+        "text": "zmiešavacej: mi.Wi + m2.W2 = m.w, kde m = mi . m2 zlomok čistej látky=0"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "zmiešavacej: mi.Wi + m2.W2 = m.w, kde mi = m - m2"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "48. Rozpustnosť látky je údaj potrebný:",
+    "options": [
+      {
+        "id": "a",
+        "text": "na prípravu nasýteného roztoku"
+      },
+      {
+        "id": "b",
+        "text": "na kryštalizáciu"
+      },
+      {
+        "id": "c",
+        "text": "na prepočet molárnej koncentrácie na hmotnostný zlomok"
+      },
+      {
+        "id": "d",
+        "text": "na prepočet hmotnostného zlomku na molárny"
+      },
+      {
+        "id": "e",
+        "text": "len na výpočet pH roztoku"
+      },
+      {
+        "id": "f",
+        "text": "na prípadne posúdenie jej toxicity"
+      },
+      {
+        "id": "g",
+        "text": "len na výpočet hustoty roztoku"
+      },
+      {
+        "id": "h",
+        "text": "súvisiaci s rozpúšťacím teplom"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "49. Zloženie (vlastnosti) roztokov môžeme vyjadriť:",
+    "options": [
+      {
+        "id": "a",
+        "text": "viacerými spôsobmi"
+      },
+      {
+        "id": "b",
+        "text": "rozpustnosťou látky mr, na základe ktorej delíme látky na rozpustné a nerozpustné"
+      },
+      {
+        "id": "c",
+        "text": "hustotou roztoku, pre ktorú platí p = V/m"
+      },
+      {
+        "id": "d",
+        "text": "molalitou látky v mol/dm3"
+      },
+      {
+        "id": "e",
+        "text": "hmotnostným zlomkom"
+      },
+      {
+        "id": "f",
+        "text": "najpresnejšie koncentráciou, pretože udáva množstvo častíc rozpustenej látky a jej jednotkou je mol.dm-3"
+      },
+      {
+        "id": "g",
+        "text": "rozpustnosťou látky m r, ak je 0,1 < m, < 1, hovoríme o malo rozpustných látkach"
+      },
+      {
+        "id": "h",
+        "text": "látkovou koncentráciou v jednotkách mol.dm-3"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+  },
+  {
+    "subject": "Chémia",
+    "category": "Všeobecná a anorganická chémia",
+    "content": "50. Vyberte správny výrok, ktorý platí pre rozpustnosť látok:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rozpustnosť látky mr je hmotnosť látky, ktorá sa rozpustí v 100 g rozpúšťadlá"
+      },
+      {
+        "id": "b",
+        "text": "rozpustnosť látok nezávisí od teploty roztoku"
+      },
+      {
+        "id": "c",
+        "text": "fosforečnany, uhličitany a siričitany alkalických kovov si vo vode nerozpustné"
+      },
+      {
+        "id": "d",
+        "text": "všetky hydroxidy sú vo vode rozpustné"
+      },
+      {
+        "id": "e",
+        "text": "vo vode sú dobre rozpustné oxidy s nevýraznými acidobazickými vlastnosťami"
+      },
+      {
+        "id": "f",
+        "text": "väčšina halogenidov prvkov sa vyznačuje dobrou rozpustnosťou vo vode"
+      },
+      {
+        "id": "g",
+        "text": "Možnosť G (pozri testovnicu)"
+      },
+      {
+        "id": "h",
+        "text": "fluoridy alkalických zemín sú väčšinou nerozpustné"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+  }
+]

@@ -1,0 +1,550 @@
+=== Otázka 1 (251. Biogenetický zákon formuloval:) ===
+Správne odpovede: ['d']
+  [ ] a) Charles Darwin
+  [ ] b) Karl Linné
+  [ ] c) Jean Baptiste Lamarck
+  [X] d) Ernst Haeckel 56
+  [ ] e) Aristoteles
+  [ ] f) Andreas Vesalius
+  [ ] g) Louis Pasteur
+  [ ] h) James Watson
+
+=== Otázka 2 (252. Homologické orgány sú:) ===
+Správne odpovede: ['a', 'c', 'd', 'f']
+  [X] a) také, ktoré majú rovnaký fylogeneticky pôvod, i keď ich funkcia a tvar môžu byť rozdielne
+  [ ] b) rôzneho fylogenetického pôvodu, i keď pri recentných zástupcoch môžu mať podobný tvar a plniť rovnakú funkciu
+  [X] c) napr. modifikácie končatín cicavcov
+  [X] d) napr. šupiny plazov a perie vtákov
+  [ ] e) napr. krídla vtákov a hmyzu
+  [X] f) napr. krídla vtákov a I'udské ruky
+  [ ] g) napr. p'icne vaky ulitníkov a pľúca stavovcov rozdielnu funkciu
+  [ ] h) závisí od koncentrácie CO2 a teploty
+
+=== Otázka 3 (253. Analogické orgány sú: môžu byť rozdielne) ===
+Správne odpovede: ['c', 'd', 'g']
+  [ ] a) glykolýza
+  [ ] b) napr. modifikácie končatín cicavcov
+  [X] c) napr. krídla vtákov a hmyzu
+  [X] d) rôzneho fylogenetického pôvodu, i keď pri recentných zástupcoch môžu mať podobný tvar a plniť rovnakú funkciu
+  [ ] e) napr. šupiny plazov a perie vtákov
+  [ ] f) napr. krídla vtákov a I'udské ruky
+  [X] g) napr. pľúcne vaky pávikov a plica stavovcov
+  [ ] h) rôzneho fylogenetického pôvodu a pri recentných zástupcoch plnia rozdielnu funkciu
+
+=== Otázka 4 (254. Procesom gastrulácie vznikajú zárodočné vrstvy označované ako:) ===
+Správne odpovede: ['a', 'b']
+  [X] a) endoderm, ektoderm a mezoderm
+  [X] b) ektoderm a endoderm
+  [ ] c) endoderm, mezenchým a ektoderm
+  [ ] d) blastocel a mezenchým
+  [ ] e) endoderm, ektoderm a celom
+  [ ] f) blastocel a celom
+  [ ] g) mezenchým a mezoderm
+  [ ] h) mezenchým a celom
+
+=== Otázka 5 (255. Mezodermového pôvodu:) ===
+Správne odpovede: ['b', 'd', 'g', 'h']
+  [ ] a) je pokožka
+  [X] b) je srdce
+  [ ] c) je tráviaca sústava
+  [X] d) je obehová sústava
+  [ ] e) sú zmyslové bunky
+  [ ] f) je nervová sústava
+  [X] g) je kostra stavovcov
+  [X] h) sú svaly 57
+
+=== Otázka 6 (256. Ektodermového pôvodu je:) ===
+Správne odpovede: ['a', 'b', 'f', 'g', 'h']
+  [X] a) pokožka
+  [X] b) nervová sústava
+  [ ] c) pečeň
+  [ ] d) kostra stavovcov
+  [ ] e) cievna sústava
+  [X] f) vonkajšia kostra lankonozcov
+  [X] g) srsť cicavcov
+  [X] h) predná časť tráviacej rúry
+
+=== Otázka 7 (257. Endodermoveho pôvodu je:) ===
+Správne odpovede: ['c', 'g']
+  [ ] a) pokožka
+  [ ] b) nervová sústava
+  [X] c) pečeň
+  [ ] d) kostra lankonozcov
+  [ ] e) cievna sústava
+  [ ] f) vonkajšia kostra lankonozcov
+  [X] g) tenké črevo
+  [ ] h) koncová časť tráviacej rúry
+
+=== Otázka 8 (258. Hlavnými zásobnými látkami Živočíšnych buniek sú:) ===
+Správne odpovede: ['b', 'd', 'f']
+  [ ] a) bielkoviny
+  [X] b) tuky
+  [ ] c) škrob
+  [X] d) polysacharidy
+  [ ] e) enzýmy
+  [X] f) glykogén
+  [ ] g) celulóza
+  [ ] h) integumenty
+
+=== Otázka 9 (259. Homeostáza je:) ===
+Správne odpovede: ['a', 'b', 'h']
+  [X] a) stálosť vnútorného prostredia organizmu
+  [X] b) zabezpečovaná činnosťou regulačných mechanizmov
+  [ ] c) porucha zrážania krvi
+  [ ] d) obranný mechanizmus
+  [ ] e) nervová regulácia
+  [ ] f) podobnosť orgánov vykonávajúcich rovnakú funkciu
+  [ ] g) nerozlisena pohlavnosť
+  [X] h) ovplyvhovana vonkajším prostredím
+
+=== Otázka 10 (260. Medzi výstelkové tkanivá patrí:) ===
+Správne odpovede: ['a', 'c', 'e', 'g', 'h']
+  [X] a) krycí epitel
+  [ ] b) väzivo
+  [X] c) resorpčný epitel
+  [ ] d) chrupka
+  [X] e) zmyslový epitel
+  [ ] f) kutikula
+  [X] g) žazovy epitel
+  [X] h) obrvený epitel
+
+=== Otázka 11 (261. Zrazovy epitel:) ===
+Správne odpovede: ['a', 'd']
+  [X] a) obsahuje bunky špecializované na sekréciu
+  [ ] b) pokrýva povrch tela živočíchov
+  [ ] c) pokrýva povrch kosti
+  [X] d) je funkčným základom žliaz 58
+  [ ] e) obsahuje bunky schopné meniť vonkajšie podnety na nervový vzruch
+  [ ] f) je tvorený bezjadrovými bunkami
+  [ ] g) má podpornú funkciu
+  [ ] h) má resorpenu funkciu
+
+=== Otázka 12 (262. Epitelové tkanivá:) ===
+Správne odpovede: ['a', 'b', 'e', 'g', 'h']
+  [X] a) majú typické vrstevnaté uloženie buniek
+  [X] b) nemajú vlastne cievne zásobovanie
+  [ ] c) majú vlastne cievne zásobovanie
+  [ ] d) sú tvorené malými bunkami s veľkým množstvom medzibunkovej hmoty
+  [X] e) majú schopnosť obnovy po poškodení
+  [ ] f) obsahujú mineralizovánú medzibunkoví hmotu
+  [X] g) môžu zabezpečovať príjem a vylučovanie látok
+  [X] h) môžu mať ochrannú funkciu
+
+=== Otázka 13 (263. Derivátom pokožky cicavcov si:) ===
+Správne odpovede: ['a', 'c']
+  [X] a) ostne
+  [ ] b) šupiny rýb
+  [X] c) kopytá
+  [ ] d) pri vajcorodcoch perie
+  [ ] e) kožné žľazy
+  [ ] f) chitínová kutikula
+  [ ] g) pelikula
+  [ ] h) anorganické schránky
+
+=== Otázka 14 (264. Morfologickou a funkenou jednotkou hladkého svalu je:) ===
+Správne odpovede: ['b', 'd']
+  [ ] a) viacjadrové svalové vlákno
+  [X] b) svalové vlákno tvorené jednou bunkou
+  [ ] c) svalová bunka s aspoň piatimi jadrami
+  [X] d) myofibrila
+  [ ] e) myozín
+  [ ] f) aktín
+  [ ] g) intermediárny filament
+  [ ] h) aktinomyozin
+
+=== Otázka 15 (265. K spojivám patria:) ===
+Správne odpovede: ['a', 'b', 'c', 'e']
+  [X] a) epitely, kosti, tkanivá svalové a nervové
+  [X] b) väzivo, tkanivá chrupkové a kostné
+  [X] c) kosti, väzivo, tkanivá krvné
+  [ ] d) väzivo a kostné tkanivo
+  [X] e) epitely, väzivo, tkanivá chrupkové
+  [ ] f) väzivo, tkanivá svalové a kostné
+  [ ] g) resorpčný epitel a okostica
+  [ ] h) chrupka a kutikula
+
+=== Otázka 16 (266. Nervové tkanivo tvoria:) ===
+Správne odpovede: ['a', 'b', 'c', 'e']
+  [X] a) gliové bunky
+  [X] b) nervové bunky
+  [X] c) neuróny
+  [ ] d) zmyslové bunky
+  [X] e) bunky zabezpečujúce výživu neurónov 59
+  [ ] f) mnohojadrové bunky
+  [ ] g) bezjadrové, vysoko špecializované bunky
+  [ ] h) vakuolizovane bunky
+
+=== Otázka 17 (267. Vnitorne oplodnenie:) ===
+Správne odpovede: ['d', 'f', 'g']
+  [ ] a) je charakteristické pre všetky stavovce
+  [ ] b) znamená vývin jedinca z neoplodneného vajíčka
+  [ ] c) sa vyskytuje u väčšiny rýb a cicavcov
+  [X] d) hladké svalové tkanivo
+  [ ] e) znamená oplodnenie vajíčka mimo tela matky v chránenom uzavretom prostredí
+  [X] f) nastáva pri živočíchoch spravidla po kopulaci
+  [X] g) je typické pre väčšinu suchozemských živočíchov
+  [ ] h) je charakteristické pre ryby a obojživelníky
+
+=== Otázka 18 (268. Vonkajšie oplodnenie:) ===
+Správne odpovede: ['a', 'c']
+  [X] a) je typické pre väčšinu vodných živočíchov
+  [ ] b) je charakteristické pre všetky stavovce
+  [X] c) je charakteristické pre najednoduchšie bezstavovce
+  [ ] d) znamená, že k fertilizacii dochádza vo vnútri tela samičky, napr. u vtákov a cicavcov
+  [ ] e) znamená, že vajíčko sa vyvíja bez účasti spermie, napr. u niektorých druhov rýb
+  [ ] f) je typické pre väčšinu suchozemských živočíchov
+  [ ] g) sa spravidla vyskytuje u živočíchov so zníženou pohyblivosťou
+  [ ] h) je typické pre dvoch jedincov, ktorí si navzájom vymieňajú spermie
+
+=== Otázka 19 (269. Samčie gaméty zivotichov:) ===
+Správne odpovede: ['a', 'c', 'd']
+  [X] a) sa tvoria v pohlavných žľazách - semenníkoch
+  [ ] b) sú produkované už počas embryonálneho vývinu
+  [X] c) majú hlavičku, ktorá je temer celá tvorená haploidným jadrom
+  [X] d) sú spravidla pohyblivé spermatozoidy
+  [ ] e) sú veľké plazmatické bunky
+  [ ] f) majú spravidla bičík a diploidné bunkové jadro
+  [ ] g) obsahujú zásobu živín, potrebných pre vývin zygoty
+  [ ] h) pri niektorých druhoch sú schopné partenogenetickeho vývinu
+
+=== Otázka 20 (270. Nepohlavne rozmnožovanie:) ===
+Správne odpovede: ['a', 'c', 'e', 'h']
+  [X] a) predstavuje vývin nového jedinca zo somatických buniek rodičovského organizmu
+  [ ] b) je Časté pri gonochoristoch
+  [X] c) je typický spôsob rozmnožovania jednobunkovcov
+  [ ] d) je typický spôsob rozmnožovania hermafroditov
+  [X] e) je také, pri ktorom je potomstvo genetický identické s rodičovským organizmom 60
+  [ ] f) myoglobín
+  [ ] g) je partenogenéza
+  [X] h) je označované ako vegetatívne
+
+=== Otázka 21 (271. Celom je:) ===
+Správne odpovede: ['d']
+  [ ] a) prvotná telová dutina
+  [ ] b) druhotná telová dutina vznikajúca v štádiu blastuly
+  [ ] c) druhotná telová dutina obklopená endodermom
+  [X] d) druhotná telová dutina uzavretá mezodermom
+  [ ] e) prvotná telová dutina uzavretá ektodermom
+  [ ] f) prvotná telová dutina obklopená mezodermom
+  [ ] g) telová dutina medzi ektodermom a mezodermom
+  [ ] h) telová dutina medzi mezodermom a endodermom
+
+=== Otázka 22 (272. Hermafroditizmus:) ===
+Správne odpovede: ['c', 'd', 'f', 'g', 'h']
+  [ ] a) znamená rozlíšenosť pohlavia
+  [ ] b) znamená diferencovanú pohlavnosť
+  [X] c) znamená obojpohlavnost
+  [X] d) znamená vývoj samičích i samčích gonád u toho istého jedinca
+  [ ] e) znamená bezpohlavnosť
+  [X] f) sa vyskytuje pri parazitický žijúcich organizmoch
+  [X] g) sa vyskytuje pri ulitníkoch
+  [X] h) je častý pri ploskavcoch
+
+=== Otázka 23 (273. Gonochorizmus znamená:) ===
+Správne odpovede: ['b', 'd', 'f']
+  [ ] a) obojpohlavnost
+  [X] b) odlišnosť jedincov v primárnych pohlavných znakoch
+  [ ] c) bezpohlavnosť
+  [X] d) že samci a samici jedinci sú oddeleného pohlavia
+  [ ] e) vývoj samčích i samičích gonád u toho istého jedinca
+  [X] f) diferencovanú pohlavnosť
+  [ ] g) odlišnosť jedincov v sekundárnych pohlavných znakoch
+  [ ] h) hermafroditizmus
+
+=== Otázka 24 (274. Sexuálny dimorfizmus je:) ===
+Správne odpovede: ['a', 'c', 'f']
+  [X] a) odlíšenie jedincov gonádami i ďalšími morfologicko-funkcnymi vlastnosťami
+  [ ] b) podobnosť jedincov odliseneho pohlavia
+  [X] c) rozdielnosť jedincov v primárnych i sekundárnych pohlavných znakoch
+  [ ] d) tvorba rozdielnych pohlavných buniek
+  [ ] e) odlišnosť jedincov len v gonádach a gamétach
+  [X] f) pozorovateľný pri gonochoristoch
+  [ ] g) pozorovateľný pri hermafroditoch
+  [ ] h) typický pre pásomnice
+
+=== Otázka 25 (275. Partenogenéza je:) ===
+Správne odpovede: ['b', 'e']
+  [ ] a) vývin oplodneného vajíčka
+  [X] b) vývin neoplodneného vajíčka 61
+  [ ] c) vývin jedinca zo somatickej bunky
+  [ ] d) vonkajšie oplodnenie
+  [X] e) vývin vajíčka bez oplodnenia
+  [ ] f) vývin jedinca zo somatického tkanivá
+  [ ] g) oplodnenie vajíčka viacerými spermiami
+  [ ] h) vnútorné oplodnenie
+
+=== Otázka 26 (276. Oogamia je:) ===
+Správne odpovede: ['e', 'h']
+  [ ] a) vývin jedinca z neoplodneného vajíčka
+  [ ] b) typická pre jednobunkové živočíchy
+  [ ] c) splývanie pohyblivého vajíčka s nepohyblivou spermiou
+  [ ] d) prechodne spájanie dvoch vajíčok
+  [X] e) splynutie nepohyblivého vajíčka s pohyblivou spermiou
+  [ ] f) kopulácia
+  [ ] g) konjugácia
+  [X] h) typická pre mnohobunkové živočíchy
+
+=== Otázka 27 (277. Samooplodnenie hermafroditov:) ===
+Správne odpovede: ['b', 'c', 'e', 'f']
+  [ ] a) je základný spôsob tvorby zygot
+  [X] b) je zriedkavý jav pri rozmnožovaní
+  [X] c) prebieha len v prípade, keď je znížená možnosť vzájomného párenia
+  [ ] d) je bežný spôsob rozmnožovania dážďoviek
+  [X] e) je bežný spôsob rozmnožovania pásomníc
+  [X] f) je pri mnohých druhoch znemožnené tým, že samčie a samičie gaméty nedozrievajú súčasne
+  [ ] g) je možné len pri druhoch s pohlavnou dvojtvarostou
+  [ ] h) nie je nikdy možné
+
+=== Otázka 28 (278. Vajcoživorodé živočíchy:) ===
+Správne odpovede: ['c', 'd', 'f', 'g']
+  [ ] a) sú napr. vtáky
+  [ ] b) kladú oplodnené vajíčka
+  [X] c) sú také, ktorých oplodnené vajíčka sa vyvijajt v tele samice a obaly vajíčok pukajú pri kladení
+  [X] d) sú niektoré obojživelníky
+  [ ] e) kladi neoplodnené vajíčka
+  [X] f) sú gonochoristi
+  [X] g) sú niektoré klepietkavce
+  [ ] h) sú také, ktorých oplodnenie nastáva mimotelovo
+
+=== Otázka 29 (279. Označte správnu odpoveď:) ===
+Správne odpovede: ['b', 'c', 'e', 'h']
+  [ ] a) samičie gaméty majú hlavičku, krček a bičík
+  [X] b) vajíčko cicavcov obsahuje malo zítka
+  [X] c) vajíčka obojživelníkov majú rôsolovité obaly
+  [ ] d) vajíčka obrúčkavcov majú rôsolovité obaly
+  [X] e) sú spojené interkalárnymi diskami
+  [ ] f) vajíčko cicavcov obsahuje veľa zítka
+  [ ] g) vajíčka hlavonožcov majú malé množstvo živín 62
+  [X] h) u obrúčkavcov bielkovinové obaly obklopujú viacero vajíčok dohromady
+
+=== Otázka 30 (280. Ontogenéza mnohobunkových živočíchov:) ===
+Správne odpovede: ['a', 'c', 'd', 'g', 'h']
+  [X] a) začína oplodnením a konci smrťou jedinca
+  [ ] b) začína oplodnením a konci produkciou vlastného potomstva
+  [X] c) je genetický riadený proces
+  [X] d) má embryonálnu a postembryonalnu etapu
+  [ ] e) začína oplodnením a konci narodením alebo vyliahnutím jedinca
+  [ ] f) začína narodením alebo vyliahnutím jedinca a konci smrťou
+  [X] g) zahrha procesy ryhovania vajíčka
+  [X] h) zahrha proces pohlavného dospievania
+
+=== Otázka 31 (281. Počas embryonálneho vývinu prebieha:) ===
+Správne odpovede: ['a', 'b', 'c', 'e', 'f', 'g']
+  [X] a) gastrulácia
+  [X] b) brázdenie neoplodneného vajíčka pri partenogenéze
+  [X] c) brázdenie oplodneného vajíčka
+  [ ] d) brázdenie spermatozoidu pri partenogenéze
+  [X] e) organogenéza
+  [X] f) diferenciácia zárodočných vrstiev
+  [X] g) diferenciácia buniek
+  [ ] h) delenie oplodneného vajíčka pri partenogenéze
+
+=== Otázka 32 (282. Spermatozoidy:) ===
+Správne odpovede: ['a', 'c', 'e', 'f']
+  [X] a) sú pohyblivé samčie gaméty
+  [ ] b) sú pohyblivé samičie gaméty
+  [X] c) väčšiny živočíchov majú diferencovanú hlavičku, krček a bičík
+  [ ] d) sú diploidné bunky
+  [X] e) sú haploidné bunky
+  [X] f) majú hlavičku, obsahujúcu genetickú informáciu
+  [ ] g) majú hlavičku, obsahujúce zásobné látky potrebné pre výživu
+  [ ] h) sú nepohyblivé samčie gaméty hermafroditov
+
+=== Otázka 33 (283. Samičie gaméty Živočíchov:) ===
+Správne odpovede: ['a', 'b', 'd', 'f', 'g']
+  [X] a) sa tvoria v ovariach
+  [X] b) sú haploidné
+  [ ] c) sú diploidné
+  [X] d) sú vždy nepohyblivé
+  [ ] e) môžu byť schopné aktívneho pohybu
+  [X] f) gangliá
+  [X] g) nervové vlákna
+  [ ] h) vznikajú mitotickým delením somatických buniek
+
+=== Otázka 34 (284. Vajíčka zivotichov:) ===
+Správne odpovede: ['a', 'c', 'd', 'f', 'h']
+  [X] a) sú samičie gaméty
+  [ ] b) sú pohyblivé bunky
+  [X] c) sú haploidné
+  [X] d) vznikajú meiotickym delením z diploidných buniek 63
+  [ ] e) sú vždy chránené papierovitými blanami
+  [X] f) obsahujú jadro a zásobné látky
+  [ ] g) sa tvoria v semenníkoch
+  [X] h) zabezpečujú prenos vzruchov len jedným smerom
+
+=== Otázka 35 (285. Schránky jednobunkovcov:) ===
+Správne odpovede: ['b', 'c', 'e']
+  [ ] a) plnia funkciu pohybovej organely
+  [X] b) obsahujú uhličitan vápenatý
+  [X] c) obsahujú oxid kremičitý
+  [ ] d) obsahujú celulózu
+  [X] e) majú ochrannú funkciu
+  [ ] f) obsahujú bielkoviny a lipidy
+  [ ] g) vznikajú mineralizáciou plazmatickej membrány
+  [ ] h) nahrádzajú plazmatickú bunkovú membránu
+
+=== Otázka 36 (286. Pokožka živočíchov:) ===
+Správne odpovede: ['a', 'c', 'e', 'f']
+  [X] a) môže byť tvorená viacvrstvovým epitelom
+  [ ] b) vznikla diferenciáciou z mezodermu
+  [X] c) môže obsahovať krycie bunky
+  [ ] d) je povrchová vrstva tela jednobunkovcov
+  [X] e) vznikla diferenciáciou z ektodermu
+  [X] f) môže byť tvorená obrveným epitelom
+  [ ] g) článkonožcov môže byť chránená nebunkovou vrstvou - pelikulou
+  [ ] h) hubiek je mezodermového pôvodu
+
+=== Otázka 37 (287. V koži stavovcov sa môžu nachádzať žľazy:) ===
+Správne odpovede: ['a', 'b', 'd', 'e']
+  [X] a) potné a pachové
+  [X] b) mazové a slizové
+  [ ] c) mliečne a pohlavné
+  [X] d) jedové a slizové
+  [X] e) mazoveé a mliečne
+  [ ] f) jedové a slinné
+  [ ] g) pigmentové a tukové
+  [ ] h) potné a pohlavné
+
+=== Otázka 38 (288. Koža cicavcov pozostáva z:) ===
+Správne odpovede: ['a', 'b', 'f']
+  [X] a) viacvrstvového zrohovateleho epitelu
+  [X] b) vrstvy zamše a podkožného väziva
+  [ ] c) ochrannej povrchovej vrstvy - kutikuly
+  [ ] d) derivátov pokožky, napr. peria
+  [ ] e) pokožky, ktorá je mezodermového pôvodu
+  [X] f) vrstvy zamše, ktorá je mezodermového pôvodu
+  [ ] g) pokožky a zamše, ktoré sú ektodermového pôvodu
+  [ ] h) mnohojadrových zrohovatelych buniek
+
+=== Otázka 39 (289. Na povrchu kosti s výnimkou kibovych plôch je:) ===
+Správne odpovede: ['a', 'b']
+  [X] a) okostica
+  [X] b) väzivová blana
+  [ ] c) epitelová ochranná vrstva
+  [ ] d) hubové kostné tkanivo
+  [ ] e) kostná dreň
+  [ ] f) chrupka
+  [ ] g) mineralizovaná chrupka
+  [ ] h) glykokalyx 64
+
+=== Otázka 40 (290. Kostru trupu stavovcov tvorí:) ===
+Správne odpovede: ['a', 'b', 'e']
+  [X] a) chrbtica a kostra hrudníka s rebrami
+  [X] b) columna vertebralis a kostra hrudníka s rebrami
+  [ ] c) chrbtica s lebkou
+  [ ] d) kostra hrudníka a horných končatín
+  [X] e) spojivové tkanivo - kosť, chrupka a väzivo
+  [ ] f) spojivové tkanivo - kosť, väzivo a svaly
+  [ ] g) chorda dorsalis
+  [ ] h) chrbtica a chrbtové svaly
+
+=== Otázka 41 (291. Základom vnitornej kostry stavovcov z fylogenetického hp'adiska je:) ===
+Správne odpovede: ['a', 'b', 'h']
+  [X] a) chorda dorsalis
+  [X] b) chrbtová struna
+  [ ] c) chrbtica endodermoveho pôvodu
+  [ ] d) lebka a kostra hrudníka
+  [ ] e) spojivové tkanivo ektodermového pôvodu
+  [ ] f) modifikovaná vonkajšia kostra
+  [ ] g) povrazec vakuolizovanych buniek mezodermu
+  [X] h) chorda dorsalis endodermoveho pôvodu
+
+=== Otázka 42 (292. Väzivo:) ===
+Správne odpovede: ['a', 'b', 'd', 'e']
+  [X] a) je typ podporného tkanivá
+  [X] b) obsahuje množstvo medzibunkovej hmoty s kolagénovými a elastickými vláknami
+  [ ] c) tvorí napríklad medzistavcové platničky
+  [X] d) tvorí napr. sPachy a puzdra orgánov
+  [X] e) vypĺňa priestor medzi orgánmi
+  [ ] f) zabezpečuje pevnosť kosti
+  [ ] g) je základom kostry drsnokožcov
+  [ ] h) je tvorené bunkami s vysokým obsahom minerálnych látok
+
+=== Otázka 43 (293. Povrch tela lankonozcov tvorí:) ===
+Správne odpovede: ['a', 'b', 'c', 'h']
+  [X] a) kutikula
+  [X] b) súvislá nebunková vrstva
+  [X] c) chitínová kutikula
+  [ ] d) spongín, ktorý môže byť inkrustovaný oxidom kremičitým
+  [ ] e) pelikula
+  [ ] f) pigmentované bunky
+  [ ] g) pokožka tvorená viacvrstvovým epitelom
+  [X] h) pokožka tvorená jednovrstvovým epitelom
+
+=== Otázka 44 (294. Čelí kostru stavovcov tvoria tieto funkčné celky:) ===
+Správne odpovede: ['c', 'd', 'e', 'h']
+  [ ] a) tvarová a mozgová časť lebky
+  [ ] b) chrbtica a kostra hrudníka s rebrami
+  [X] c) kostra lebky, kostra trupu, kostra horných a dolných končatín
+  [X] d) tvarová a mozgová časť lebky, kostra trupu, kostra horných a dolných končatín 65 končatín
+  [X] e) tráviaca dutina pŕhlivcov
+  [ ] f) kostra trupu, kostra horných a dolných končatín
+  [ ] g) kostra lebky, kostra horných a dolných končatín
+  [X] h) kostra lebky, kostra trupu, kosti predných a zadných končatín
+
+=== Otázka 45 (295. Jednobunkové organizmy sa pohybujú pomocou:) ===
+Správne odpovede: ['a', 'b', 'c', 'e']
+  [X] a) panôžok
+  [X] b) bičíkov
+  [X] c) bŕv
+  [ ] d) svalov
+  [X] e) mikrotubularnych struktir
+  [ ] f) intermediárnych filamentov
+  [ ] g) pohybovej vakuoly
+  [ ] h) koznosvalového vaku
+
+=== Otázka 46 (296. Kinéza je:) ===
+Správne odpovede: ['a', 'c']
+  [X] a) zrýchlenie pohybovej aktivity vzh'adom na určitý podnet
+  [ ] b) zmena smeru pohybu vzhľadom na určitý podnet
+  [X] c) spomalenie pohybovej aktivity vzhľadom na určitý podnet
+  [ ] d) zmena trvania bunkového cyklu jednobunkovcov
+  [ ] e) obdobie zníženej aktivity organizmu v nepriaznivých podmienkach
+  [ ] f) kontrakcia myofibríl v svalovom vlákne
+  [ ] g) Šírenie vzruchu
+  [ ] h) spôsob pohlavného rozmnožovania nálevníkov
+
+=== Otázka 47 (297. Podľa chemického zloženia, Štruktúry a spôsobu sťahovania rozlišujeme kostrové svalové vlákna:) ===
+Správne odpovede: ['b', 'd', 'f', 'h']
+  [ ] a) červené, rýchlo vytvárajúce veľký kyslíkový dlh
+  [X] b) biele, schopné rýchlej kontrakcie
+  [ ] c) biele, schopné pomalšej kontrakcie
+  [X] d) červené, schopné pomalšej kontrakcie
+  [ ] e) biele, prispôsobené na vytrvalú prácu
+  [X] f) biele, rýchlo vytvárajúce veľký kyslíkový dlh
+  [ ] g) červené, schopné rýchlej kontrakcie
+  [X] h) červené, prispôsobené na vytrvalú prácu
+
+=== Otázka 48 (298. Pomalé svalové vlákna kostrových svalov:) ===
+Správne odpovede: ['a', 'd', 'e', 'f']
+  [X] a) sú viac prispôsobené na vytrvalostnú prácu
+  [ ] b) obsahujú menej myoglobinu
+  [ ] c) sa unavia rýchlejšie
+  [X] d) obsahujú viac myoglobinu
+  [X] e) sa nazývajú červené svalové vlákna
+  [X] f) prevažujú napr. v lietacích svaloch vtákov
+  [ ] g) sú tvorené jednojadrovými bunkami
+  [ ] h) sú tvorené bezjadrovými bunkami
+
+=== Otázka 49 (299. Hladké svalové tkanivo:) ===
+Správne odpovede: ['b', 'd', 'f', 'g', 'h']
+  [ ] a) je tvorené mnohojadrovymi svalovými vláknami
+  [X] b) tvorí pohybový aparát mnohých nižších bezstavovcov
+  [ ] c) tvorí kostrové svaly stavovcov 66
+  [X] d) tvorí steny vnútorných orgánov stavovcov
+  [ ] e) obsahuje veľké množstvo kolagénových vláken
+  [X] f) je schopné kontrakcie
+  [X] g) je pri cicavcoch riadené autonómnym nervovým systémom
+  [X] h) je tvorené jednojadrovými vretenovitými bunkami
+
+=== Otázka 50 (300. Hladké svaly:) ===
+Správne odpovede: ['a', 'b', 'd', 'f', 'h']
+  [X] a) sú malo unaviteľne
+  [X] b) majú menšiu schopnosť kontrakcie než priečne pruhované svaly
+  [ ] c) majú väčšiu schopnosť kontrakcie než priečne pruhované svaly
+  [X] d) sú súčasťou stien tráviacej rúry stavovcov
+  [ ] e) sú súčasťou kostrového svalstva
+  [X] f) môžu reagovať na tepelné podnety
+  [ ] g) podliehajú priamej regulácii ústrednej nervovej sústavy
+  [X] h) sú regulované látkovo
+

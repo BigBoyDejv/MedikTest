@@ -1,0 +1,600 @@
+=== Q1: 101. Medzi významné minerály alkalických kovov patria: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, c, d, e
+  [X] a: sylvín
+  [ ] b: kalcit
+  [X] c: halit
+  [X] d: čilský liadok
+  [X] e: kamenná soľ
+  [ ] f: aragonit
+  [ ] g: cinabarit
+  [ ] h: magnezit
+
+=== Q2: 102. Ktorý minerál neobsahuje niektorý z prvkov alkalických zemín? ===
+Category: Všeobecná a anorganická chémia
+Correct: a, c, e, g
+  [X] a: magnezit
+  [ ] b: dolomit
+  [X] c: beryl
+  [ ] d: baryt
+  [X] e: sylvín
+  [ ] f: apatit
+  [X] g: bauxit
+  [ ] h: kazivec
+
+=== Q3: 103. Amalgámy si zliatiny ortuti: ===
+Category: Všeobecná a anorganická chémia
+Correct: b, c, e, f
+  [ ] a: Nás[AIF6] hexafluorohlinitan disodný
+  [X] b: AIK(SO4)2.12H2O dodekahydrat síranu draselno-hlinitého
+  [X] c: Cu2CO3(OH)2 dihydroxid-uhličitan meďnatý
+  [ ] d: K[FeCl4] chlorid železito-draselný
+  [X] e: KFeCl4 tetrachloro-zelezitan draselný
+  [X] f: Fe(NH4)2(SO4)2. 6H2O hexahydrát síranu diamonno-železnatého
+  [ ] g: NaHS. H2O hydrogen sulfid sodný
+  [ ] h: K2Rb[Agl4] tetraiodostriebornan draselno-rubídny
+
+=== Q4: 104. Vyberte správne tvrdenia o zliatinách: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, b, e, h
+  [X] a: dural je zliatina Al, Cu, Mg
+  [X] b: literina je tvorená z Sb, Sn, Pb
+  [ ] c: mosadz tvoria Sn, Cu
+  [ ] d: bronz tvoria Ni, Zn, Cu
+  [X] e: konštantán je zliatina tvorená Ni, Mn, Cu
+  [ ] f: pružinovú oceľ tvoria Fe,
+  [ ] g: nehrdzavejúcu oceľ tvoria Fe,
+  [X] h: spájka je tvorená Pb a Sn
+
+=== Q5: 105. Priraďte správne vzorce k minerálom a rudám: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, b, c, f
+  [X] a: cyankáli KCN
+  [X] b: kryolit Na3[AlF6]
+  [X] c: kaolinit Al2(OH)4Si2O5
+  [ ] d: beryl Be3Al2Si6O18
+  [ ] e: baryt BaSO4
+  [X] f: sylvín kcl
+  [ ] g: bauxit Al2O3 . x H2O
+  [ ] h: kazivec CaF2
+
+=== Q6: 106. Pre amalgámy a zliatiny platí: ===
+Category: Všeobecná a anorganická chémia
+Correct: b, c, f, h
+  [ ] a: amalgámy sú zliatiny ortuti so železom
+  [X] b: amalgámy vznikajú rozpúšťaním kovov v ortuti
+  [X] c: zubný amalgám obsahuje Ag, Sn, Cu a Hg
+  [ ] d: ortuť tvorí amalgám so všetkými kovmi bez výnimky
+  [ ] e: amalgámy sa využívajú pri ťažbe zlata
+  [X] f: amalgám sodíka je silné redukčné činidlo
+  [ ] g: amalgámy sú vždy kvapalné za bežnej teploty
+  [X] h: železo netvorí amalgám, preto sa v železných nádobách ortuť prepravuje
+
+=== Q7: 107. Priraďte správne názvy respektíve vzorce k hydridom: ===
+Category: Všeobecná a anorganická chémia
+Correct: d, f, g, h
+  [ ] a: alh azán
+  [ ] b: Mg2H hydrid horečnatý
+  [ ] c: BrH, boran
+  [X] d: KHhydrid draselný
+  [ ] e: NaH2 hydrid sodný
+  [X] f: PH3 fosfán
+  [X] g: H2S sulfán
+  [X] h: SiH4 silan
+
+=== Q8: 108. Tetrachloro-platnatan tetraamin-dichloroplaticity: ===
+Category: Všeobecná a anorganická chémia
+Correct: b, e, f, g
+  [ ] a: obsahuje 10 elektroneutralnych ligandov
+  [X] b: má vzorec [PtCl2(NH3)4][PtC14]
+  [ ] c: má vzorec [PdCl2(NH3),][PdC14]
+  [ ] d: v anióne má centrálny atóm Pd
+  [X] e: obsahuje komplexný katión s nábojovým číslom +II 30
+  [X] f: koordinačné číslo Pt komplexného aniónu je 4
+  [X] g: má 6 atómov ČI vo svojej molekule
+  [ ] h: má vzorec [PtCl4][PtC12(NH3)4]
+
+=== Q9: 109. Komplexná zlicenina [Čo(H2O)(NH3)3)2(SO4)3 : ===
+Category: Všeobecná a anorganická chémia
+Correct: a, f, g, h
+  [X] a: je síran akva-triamminkobaltity
+  [ ] b: je siričitan triammin-akvakobaltity
+  [ ] c: obsahuje 6 ligandov viazaných na centrálny atóm
+  [ ] d: obsahuje centrálny atóm síran
+  [ ] e: obsahuje kryštalický viazanú molekulu vody
+  [X] f: centrálny atóm má oxidačné číslo +III
+  [X] g: je tvorená komplexným katiónom s nábojovým číslom + III
+  [X] h: obsahuje 14 atómov kyslíka
+
+=== Q10: 110. Komplexná zlúčenina hydrát chloridu pentaakva-chlorochromiteho: ===
+Category: Všeobecná a anorganická chémia
+Correct: d, f, g, h
+  [ ] a: má vzorec [CrCl2(H2O)4]C1 . H20
+  [ ] b: má vzorec [CrCl2(H2O)]ČI . H2O
+  [ ] c: centrálny atóm má koordinačné išlo 3
+  [X] d: obsahuje aj kryštalický viazanú molekulu vody
+  [ ] e: má vzorec ČI[CrCl(H2O)s] . H20
+  [X] f: obsahuje anión s oxidačným číslom -I
+  [X] g: má vzorec [CrCl(H2O)sJCl2 . H20
+  [X] h: obsahuje komplexný katión s nábojovým číslom +Il
+
+=== Q11: 111. O atómovom jadre platí, Že: ===
+Category: Všeobecná a anorganická chémia
+Correct: c, e, f, g
+  [ ] a: predstavuje približne polovicu hmotnosti celého atómu
+  [ ] b: jeho priemer je približne 10 000 krát menší ako priemer celého atómu
+  [X] c: jeho priemer je približne 100 000 krát menší ako priemer celého atómu
+  [ ] d: počet protónov udáva nukleónové číslo Z
+  [X] e: jeho stálosť udáva pomer N/Z
+  [X] f: predstavuje takmer celú hmotnosť atómu
+  [X] g: protóny a neutróny sú zložené z kvarkov
+  [ ] h: jeho stálosť udáva pomer Z/N
+
+=== Q12: 112. Vyberte správne tvrdenie 0 elementárnych časticiach: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, b, e, f
+  [X] a: hmotu tvorí 12 elementárnych Častíc
+  [X] b: hmotu tvorí 6 kvarkov a 6 leptónov
+  [ ] c: elektrón patrí medzi kvarky
+  [ ] d: antičasticou protónu je pozitrón
+  [X] e: pozitrón je antičasticou elektrónu
+  [X] f: vzájomne pôsobenie elementárnych častíc je spôsobené štyrmi druhmi interakcií
+  [ ] g: gluóny sprostredkúvajú elektromagnetickú interakciu
+  [ ] h: kvarky sa označujú písmenami gréckej abecedy
+
+=== Q13: 113. Rádionuklidy: ===
+Category: Všeobecná a anorganická chémia
+Correct: b, c, d, h
+  [ ] a: predstavujú izotopy rádia 8gRa
+  [X] b: charakterizuje ich doba polpremeny (polčas rozpadu) 31
+  [X] c: poznáme približne 50 prírodných rádionuklidov
+  [X] d: predstavujú nestabilné nuklidy, ktoré sa premieňajú na iné nuklidy za uvoľnenia Žiarenia
+  [ ] e: označujú sa aj ako transurány
+  [ ] f: ich premenu na iné nuklidy sprevádza elektromagnetické žiarenie
+  [ ] g: poznáme približne 50 prírodných a umelých rádionuklidov
+  [X] h: napr. astát a francium sa vyskytujú v zemskej kôre
+
+=== Q14: 114. Polčas rozpadu (doba polpremeny) rádionuklidu: ===
+Category: Všeobecná a anorganická chémia
+Correct: c, e, f, h
+  [ ] a: závisí na množstve pôvodného nuklidu
+  [ ] b: závisí iba od teploty a tlaku
+  [X] c: nezávisí od vonkajších podmienok
+  [ ] d: dosahuje Čas maximálne 2 dní
+  [X] e: môže trvať až milióny rokov
+  [X] f: nezávisí na množstve pôvodného nuklidu
+  [ ] g: s rastom teploty klesá
+  [X] h: môže trvať pri niektorých radionuklidoch len pár sekúnd
+
+=== Q15: 115. Elektrický náboj elementárnych Častíc: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, c, e, g
+  [X] a: protónu a elektrónu je rovnaký, líši sa znamienkom
+  [ ] b: môže byť iba kladný alebo záporný
+  [X] c: môže byť aj nulový
+  [ ] d: nikdy nemá nuloví hodnotu
+  [X] e: má hodnotu e = 1,602 . 10-19 C
+  [ ] f: súčet nábojov protónov a neutrónov sa rovná náboju elektrónu
+  [X] g: súčet nábojov protónov a neutrónov sa rovná náboju elektrónov (v absolútnej hodnote)
+  [ ] h: celkový kladný náboj voľných atómov je väčší ako celkový záporný
+
+=== Q16: 116. Hlavne kvantové &išlo n: ===
+Category: Všeobecná a anorganická chémia
+Correct: b, d, f, g
+  [ ] a: charakterizuje len tvar orbitálu
+  [X] b: udáva energiu elektrónu
+  [ ] c: nadobúda hodnoty O až nekonečno
+  [X] d: platí pre neho vzťah En= - B/n?, B = 13,6 ev
+  [ ] e: udáva počet elektrónov na orbitáli
+  [X] f: má vplyv na tvar aj veľkosť hraničnej plochy výskytu elektrónu
+  [X] g: zhoduje sa s Číslom periódy
+  [ ] h: udáva počet protónov v atóme
+
+=== Q17: 117. VedPajsie kvantové číslo l: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, c, e, g
+  [X] a: určuje energetickí odlišnosť orbitálov a rozhoduje o ich tvare
+  [ ] b: udáva veľkosť hraničnej plochy výskytu elektrónu
+  [X] c: je pre degenerované orbitály rovnaké
+  [ ] d: nadobúda hodnoty + 1/2, resp. - 1/2
+  [X] e: nadobúda hodnoty od O až po n -1
+  [ ] f: má číselné hodnoty 0, 1, 2 až n +1
+  [X] g: môže nadobúdať hodnoty označované písmenami s, p,
+  [ ] h: nerozhoduje o hodnotách magnetického kvantového išla 32
+
+=== Q18: 118. Magnetické kvantové číslo m: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, b, c, h
+  [X] a: určuje orientáciu orbitálu v priestore
+  [X] b: môže nadobúdať hodnoty od - I, cez O až po + I
+  [X] c: môže nadobúdať celkom 2 1I + 1 hodnôt, čo zodpovedá počtu orbitálov určitého typu
+  [ ] d: vyjadruje moment hybnosti elektrónu
+  [ ] e: udáva počet elektrónov na valenčnej vrstve
+  [ ] f: určuje priestorovú orientáciu elektrónu
+  [ ] g: udáva celkový obsah energie elektrónu
+  [X] h: nadobúda pre / = 3 hodnoty -1, -2, -3, 0, 1, 2, 3
+
+=== Q19: 119. Protónové číslo Z: ===
+Category: Všeobecná a anorganická chémia
+Correct: b, e, f, g
+  [ ] a: udáva hmotnosť protónu
+  [X] b: pri premene βt sa zmení o -1
+  [ ] c: určuje veľkosť náboja protónu
+  [ ] d: je dane počtom protónov v zlúčenine
+  [X] e: pri rádioaktívnej premene β- sa mení na Z + 1
+  [X] f: udáva počet protónov v atómovom jadre
+  [X] g: nemení sa pri rádioaktívnej premene
+  [ ] h: udáva počet protónov a neutrónov v atómovom jadre
+
+=== Q20: 120. Desať elektrónov v elektrónovom obale obsahuje: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, b, f, h
+  [X] a: anión gO2-
+  [X] b: anión gf-
+  [ ] c: katión 20Sr2+
+  [ ] d: anión 17CI-
+  [ ] e: atóm zn
+  [X] f: katión nina+
+  [ ] g: katión 19K+
+  [X] h: atóm 1oNe
+
+=== Q21: 121. Elektrónová hladina Lmoze obsahovať: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, b, g
+  [X] a: s a p orbitály
+  [X] b: maximálne 8 elektrónov
+  [ ] c: s, p, d orbitály
+  [ ] d: len s orbitály
+  [ ] e: maximálne 18 elektrónov
+  [ ] f: len d orbitály
+  [X] g: 2n? elektrónov (n = hlavne kvantové číslo)
+  [ ] h: p a d orbitály
+
+=== Q22: 122. Nuklidy: ===
+Category: Všeobecná a anorganická chémia
+Correct: c, f, g
+  [ ] a: sú látky, ktorých atómy obsahujú jadra s nerovnakým protónovým číslom
+  [ ] b: sú iné názvy pre rádioaktívne prvky
+  [X] c: sú napr. 17gO, 125B, 11248Cd
+  [ ] d: sú všetky chemické indivídua
+  [ ] e: sú látky, ktorých atómy obsahujú jadra s rovnakým nukleónovým, ale rôznym protónovým číslom 33
+  [X] f: sú látky, ktorých atómy obsahujú jadra s určitým protónovým a nukleónovým číslom
+  [X] g: vodíka ('H, 2,H, 3H) sú izotopy
+  [ ] h: sú látky obsahujúce atómy s rôznou elektrónovou konfiguráciou
+
+=== Q23: 123. Neutrón: ===
+Category: Všeobecná a anorganická chémia
+Correct: b, c, e, f
+  [ ] a: je záporné elektrický nabitá častica
+  [X] b: je súčasťou atómového jadra
+  [X] c: spolu s protónom je nukleón
+  [ ] d: je častica schopná premeny na proton, za súčasnej emisie Žiarenia β+
+  [X] e: je Častica, ktorá môže vzniknúť pri nadbytku protónov v jadre
+  [X] f: je elektroneutrálna Častica
+  [ ] g: nepatrí medzi nukleóny
+  [ ] h: je častica s približne dvojnásobnou hmotnosťou ako proton
+
+=== Q24: 124. Vyberte správne tvrdenie: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, c, d, f
+  [X] a: zo zápisu 2713Al sa dá určiť, že atóm má 14 neutrónov a 13 elektrónov
+  [ ] b: 6430Zn, 630Zn, 6730Zn, 7030Zn sú nuklidy s rovnakým počtom neutrónov v jadre
+  [X] c: 5827Co a 6027Co sú izotopy
+  [X] d: 4019K a 4020Ca sú izobary
+  [ ] e: zo zápisu 4822Ti sa dá určiť, že nukleónové číslo je 26
+  [X] f: zo zápisu 14fN sa dá urit, že v jadre je rovnaký počet protónov a neutrónov
+  [ ] g: nuklidy majúce rovnaké nukleónové číslo sú izotopy
+  [ ] h: 12Mg2+ obsahuje 12 elektrónov
+
+=== Q25: 125. Elektrónová konfigurácia atómu v základnom stave: ===
+Category: Všeobecná a anorganická chémia
+Correct: c, f, h
+  [ ] a: je schematické znázornenie orbitálov
+  [ ] b: vyjadruje prechod elektrónu z vyššej energetickej hladiny na nižšiu
+  [X] c: znamená obsadzovanie jednotlivých stavov s najnižšou energiou elektrónmi
+  [ ] d: vyjadruje závislosť tvaru orbitálu od vzdialenosti od jadra
+  [ ] e: udáva energiu atómu v excitovanom stave
+  [X] f: znamená, že atóm neprijal energiu a nie je v excitovanom stave konfigurácia
+  [ ] g: atóm prijimaenergiu,mení ajeho energeticky stavaelekronova
+  [X] h: je stav, kedy má atóm najnižšiu energiu
+
+=== Q26: 126. Aké hodnoty mo2e nadobidať magnetické kvantové &išlo, ak / = 2: ===
+Category: Všeobecná a anorganická chémia
+Correct: b, c, d, h
+  [ ] a: 0, 1, 2, 3
+  [X] b: 0, 1, 2
+  [X] c: -1, 0, 1
+  [X] d: -2,-1, 0, 1, 2
+  [ ] e: 0, 1, 2,3, 4, 5
+  [ ] f: -3, -2, -1, 0, 1, 2, 3
+  [ ] g: 1/2, -1/2
+  [X] h: 0
+
+=== Q27: 127. Z periodického zákona a elektrónovej konfigurácie prvkov vyplýva: 34 ===
+Category: Všeobecná a anorganická chémia
+Correct: b, c, f, g
+  [ ] a: veľkosť atómov v danej perióde sa zvasuje s rastúcim Z
+  [X] b: polomer katiónu je menší a aniónu väčší než polomer atómu, z ktorého vznikajú
+  [X] c: elektropozitívny a elektronegatívny charakter prvkov
+  [ ] d: že ionizačná energia v danej skupine sa zväčšuje s rastuicim Z(zväčšuje sa atomovypolomer)
+  [ ] e: elektronegativita, miera schopnosti atómu odpudzovať elektróny zdieľané s iným atómom
+  [X] f: v danej perióde s rastúcim Z sa zvyšuje ionizačná energia (zmenšuje sa atomovypolomer)
+  [X] g: s rastúcim Z základného prvku v danej skupine klesá hodnota elektrónovej afinity
+  [ ] h: v periódach základných prvkov s klesajúcim Z stúpa hodnota elektronegativity (klesá kovový charakter)
+
+=== Q28: 128. Vyberte spravnetvrdenie: ===
+Category: Všeobecná a anorganická chémia
+Correct: c, d, f, h
+  [ ] a: v elektrónovej vrstve s hlavným kvantovým číslom n = 1 sa nachádzajú orbitály s a p
+  [ ] b: katión 2oCa2+ má obsadený 4s orbital elektrónmi
+  [X] c: chloridový anión izCl- má rovnakú elektrónovú konfiguráciu ako 18Ar
+  [X] d: chalkogény majú elektrónovú konfiguráciu valenčného orbitálu šp4
+  [ ] e: izotopy jedného prvku sa navzájom líšia rozdielnym počtom protónov
+  [X] f: 3d orbital 23V má nižšiu energiu ako orbital 4s
+  [ ] g: orbital d môže obsahovať maximálne 12 elektrónov
+  [X] h: elektrónová konfigurácia fluóru v základnom stave je Is22s?2ps
+
+=== Q29: 129. Elektrón(y): ===
+Category: Všeobecná a anorganická chémia
+Correct: a, c, e, f
+  [X] a: sa pohybujú v elektrickom poli kladné nabitého jadra
+  [ ] b: môže byť odtrhnutý od atómu za vzniku kladné nabitého aniónu
+  [X] c: I'ahko sa odtrhne od atómu Na za vzniku Na*
+  [ ] d: je charakterizovaný dvoma kvantovými islamí
+  [X] e: má dualistický charakter
+  [X] f: je častica s nepatrnou hmotnosťou a vlnovým charakterom
+  [ ] g: atómu vodíka má za normálnych podmienok najvyššiu možnú energiu
+  [ ] h: nemôže byť odtrhnutý od atómu za Žiadnych podmienok
+
+=== Q30: 130. Vyberte nesprávne tvrdenie: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, b, e, g
+  [X] a: elektróny prechodného prvku 2iSc obsadzujú orbitály v poradí 1s22s22p*3s23p4s*3dl
+  [X] b: atóm 6C má podľa Hundovho pravidlá na valenčnej sfére 2 e- na orbitále s a 2 e- na orbitále px
+  [ ] c: elektróny s najvyššou energiou sa nazývajú valenčné
+  [ ] d: halogény majú elektrónovú konfiguráciu valenčnej vrstvy spš islom Z> 20
+  [X] e: Možnosť E (pozri testovnicu)
+  [ ] f: elektrónová konfigurácia dvojmocného aniónu kyslíka je Is 2s?2po
+  [X] g: I = 3, orbital f je trikrát degenerovaný 35
+  [ ] h: elektrónová konfigurácia valenčnej sféry vaesiny vzácnych plynov je spo
+
+=== Q31: 131. Vyberte správne zápisy elektrónovej konfigurácie podľa výstavbového princípu a Hundovho pravidlá pre: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, b, d, g
+  [X] a: atóm ""sb: [He] 2s?2px
+  [X] b: katión 20Ca2+: 1s22s22p*3s23p6
+  [ ] c: atóm 22Ti: 1s22s22p°3s3p°4s23d?
+  [X] d: katión 19K+: [Ar]
+  [ ] e: atóm 16S: 1s22s22p63s3px
+  [ ] f: anión 8O2-: [Ne] 3s?
+  [X] g: atóm 7N: 1s?2s22px2py/2p
+  [ ] h: atóm 3Li: 1s22š2px
+
+=== Q32: 132. Vyberte správne zápisy elektrónových konfigurácii: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, b, d, f
+  [X] a: 30Zn2+: 1s22s22p*3s*3p63dl0
+  [X] b: 17C1*** : [Ne] 3š3p33d3
+  [ ] c: 25Mn2+: [Ar] 4s23d3
+  [X] d: 26Fe2+: [Ar] 3d6
+  [ ] e: 35Br-: [Ar] 3ď04s?4p
+  [X] f: sb*: 1s*2š2p?
+  [ ] g: 17CI: [Ne] 3s’3pS
+  [ ] h: 9F*: [He] 2s22ps
+
+=== Q33: 133. Ktoré z uvedených iastkovych zápisov elektrónovej konfigurácie si nesprávne? ===
+Category: Všeobecná a anorganická chémia
+Correct: a, d, h
+  [X] a: Ip
+  [ ] b: 2p
+  [ ] c: 4d
+  [X] d: 3f
+  [ ] e: 2s
+  [ ] f: 5s
+  [ ] g: 3d
+  [X] h: 2d
+
+=== Q34: 134. Vyberte správne zápisy elektrónovej konfigurácie atomovv základnom stave: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, c, f, g
+  [X] a: 10Ne: 1s?2s?2p6
+  [ ] b: 17Cl: [1oNe] 3š3p6
+  [X] c: 30Zn: [18Ar] 3ď04s2
+  [ ] d: 13Al: [1oNe] 3š3p?
+  [ ] e: 25Mn: [18Ar] 4s24ps
+  [X] f: 14Si: [10Ne] 353p?
+  [X] g: 20Ca: [18Ar] 4s2
+  [ ] h: 24Cr: [18Ar] 3ď4s2
+
+=== Q35: 135. Vyberte zápis konfigurácie atómu v excitovanom stave: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, d, e, h
+  [X] a: 35Br**: [18Ar] 3ď04s24p34d?
+  [ ] b: 1sP': [1oNe] 3š3p34s! 36
+  [ ] c: 16Š: [1oNe] 3?3p’3ď
+  [X] d: 6Č: [2He] 2š2p3
+  [X] e: Možnosť E (pozri testovnicu)
+  [ ] f: 29Cu': [18Ar] 3ď04s!
+  [ ] g: 13Al: [1oNe] 3s’3p!
+  [X] h: 16S": [1oNe] 3š3p’3d?
+
+=== Q36: 136. Pre kvantové čísla platí: ===
+Category: Všeobecná a anorganická chémia
+Correct: b, f, g
+  [ ] a: tvar a veľkosť orbitálov charakterizuje hodnota hlavného kvantového čísla n
+  [X] b: všetky orbitály v izolovanom atóme s rovnakým hlavným a veďajsim, ale roznymmagnetickymcislommajurovnakuenergiu
+  [ ] c: ak je orbital charakterizovaný kvantovými číslami n = 3, I = 1, m = 0 je rovnako veľký ako orbital s kvantovými číslami n = 4, I = 1, m = 0
+  [ ] d: ak n = 3 a / = 1, elektrón sa nachádza v elektrónovej vrstve M v orbitále s
+  [ ] e: ak magnetické kvantové číslo m nadobúda hodnoty -3 až +3, tak sa na rovnakej energetickej hladine môže nachádzať maximálne 10 elektrónov
+  [X] f: ak n = 4 a I = 3, elektrón sa nachádza v orbitále f
+  [X] g: veľkosť orbitálu typu s rastie s rastúcim n
+  [ ] h: energia orbitálov rastie s rastúcim protónovým číslom prvku
+
+=== Q37: 137. Aký maximálny počet orbitálov s, p, ===
+Category: Všeobecná a anorganická chémia
+Correct: b, c, g, h
+  [ ] a: M: 10 všetkých
+  [X] b: O: 1 typu s, 3 typu p, 5 typu
+  [X] c: L: 1 typu s, 3 typu p
+  [ ] d: N: 4 typu s, 2 typu p, 5 typu f
+  [ ] e: M: 5 typu
+  [ ] f: N: 4 typu s, 4 typu p, 4 typu
+  [X] g: M: 1 typu s, 3 typu p, 5 typu d
+  [X] h: P: 1 typu s, 3 typu p, 5 typu
+
+=== Q38: 138. Ktoré z uvedených iónov majú elektronoví konfiguráciu vzácneho plynu? ===
+Category: Všeobecná a anorganická chémia
+Correct: a, d, e, g
+  [X] a: H-
+  [ ] b: Ag?*
+  [ ] c: Ti2+
+  [X] d: A13+
+  [X] e: Nat
+  [ ] f: Cu2+
+  [X] g: F-
+  [ ] h: Zn?+
+
+=== Q39: 139. Vyberte nesprávne tvrdenie: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, e, f, g
+  [X] a: ak n = 3, I = 3, m = -3 elektrón je na sfére M v f orbitále
+  [ ] b: ak / = 3, m = -3 až +3, v f orbitáloch môže byť maximálne 14 elektrónov
+  [ ] c: na N sfére môže byť 16 orbitálov
+  [ ] d: pre valenčné elektróny atómu gf môžu kvantové čísla nadobúdať hodnoty n = 2, [ = 1, m = -1, 0, +1 37
+  [X] e: orbitály 3d a 4d sú rovnako veľké
+  [X] f: ak n = 4, / = 3, m = -2, s = +1/2 je elektrón v tom istom orbitále ako elektrón s kvantovými číslami n = 4, / = 3, m = +2, s = -1/2
+  [X] g: orbitály 1s, 2s, 3s, 4s sú rovnako veľké
+  [ ] h: degenerované orbitály majú rovnakú energiu
+
+=== Q40: 140. Pre excitovaný stav platí: ===
+Category: Všeobecná a anorganická chémia
+Correct: d, f, g, h
+  [ ] a: ak pre elektrón v základnom stave m = -1, po excitácii je m = +1
+  [ ] b: V základnom stave atómu brómu je 5 valenčných elektrónov v p orbitáloch, po excitácii sa ich počet v týchto orbitáloch zvýši
+  [ ] c: dodaním energie elektrón prejde do najbližšieho prázdneho orbitálu, pričom I sa nezmení
+  [X] d: v základnom stave elektrón charakterizujú kvantové čísla n = 3 a / = 1, pre excitovaný stav platí n = 3, I = 2
+  [ ] e: energia v excitovanom stave musí byť totožná s elektrónovou afinitou
+  [X] f: 3 elektróny atómu uhlíka môžu byť v excitovanom stave popísané kvantovým číslom / = 1
+  [X] g: v základnom stave atómu brómu je 5 valenčných elektrónov v p orbitáloch, po excitácii sa ich počet v týchto orbitáloch zníži
+  [X] h: u niektorých atómov môže existovať viac valenčných excitovaných stavov
+
+=== Q41: 141. Vyberte správne tvrdenie o orbitáloch: ===
+Category: Všeobecná a anorganická chémia
+Correct: c, d, e, g
+  [ ] a: degenerované orbitály majú rovnaké kvantové čísla n, I, m
+  [ ] b: obsadzovanie orbitálov atómu v základnom stave je Pubovoľne a neriadi sa žiadnymi pravidlami
+  [X] c: orbitály s nižšou energiou sa zapínajú elektrónmi skôr, ako orbitály s vyššou energiou
+  [X] d: v degenerovaných orbitáloch vznikajú elektrónové páry až po obsadení každého orbitálu jedným elektrónom
+  [X] e: najskôr sa zapínajú orbitály s nižším súčtom (n + I)
+  [ ] f: ak n + I je zhodné, potom sa zapĺňa najprv orbital s vyššou hodnotou n
+  [X] g: počet degenerovaných orbitálov je daný vzťahom 21 + 1
+  [ ] h: orbital 4s má vždy nižšiu energiu ako orbital 3d
+
+=== Q42: 142. Vyberte nesprávne tvrdenie o stavbe elektrónového obalu: ===
+Category: Všeobecná a anorganická chémia
+Correct: c, e, f, h
+  [ ] a: v atóme nemôžu existovať dva elektróny, ktoré by mali všetky štyri kvantovecislarovnake
+  [ ] b: spinové kvantové išlo popisuje vnútorný moment hybnosti elektrónu
+  [X] c: sparovaneelektronydegenerovnychvrbitalechemaizneveahypaine
+  [ ] d: kombináciou všetkých štyroch kvantových čísel je možné jednoznačne charakterizovať ktoryko'vek elektrón v obale atómu
+  [X] e: ionizačná energia je energia, ktorá sa uvoľni pri prijatí jedného, popr. viac elektrónov atómom
+  [X] f: u atómov 2oCa a i9K sa zapína najprv orbital 3d, potom 4s
+  [ ] g: niektoré atómy môžu mať viac valenčných excitovaných stavov
+  [X] h: rotáciu elektrónu charakterizuje magnetické kvantové číslo
+
+=== Q43: 143. Vyberte správne zápisy elektrónových konfigurácii: 38 ===
+Category: Všeobecná a anorganická chémia
+Correct: a, b, c, d
+  [X] a: 24Cr: [Ar] 3d’4s]
+  [X] b: H-: [He]
+  [X] c: 26Fe: [Ar] 3d°4s?
+  [X] d: 29Cu2+: [Ar] 3ď4s0
+  [ ] e: 26Fe3+: [Ar] 3ď4s?
+  [ ] f: 25Mn2+: [Ar] 4s?3d3
+  [ ] g: 29Cu: [Ar] 3d’'4s?
+  [ ] h: 24Cr: [Ar] 3ď4s?
+
+=== Q44: 144. Vyberte správne tvrdenie: ===
+Category: Všeobecná a anorganická chémia
+Correct: b, c, g, h
+  [ ] a: pri excitaci dôjde k rozštiepeniu elektrónového páru s najnižšou energiou
+  [X] b: ionizačná energia je energia potrebná na odtrhnutie valenčného elektrónu od atómu
+  [X] c: pri excitácii dôjde k preskoku elektrónu do energeticky najbližšieho prázdneho orbitálu
+  [ ] d: u každého atómu môže existovať práve jeden excitovaný stav
+  [ ] e: Čím je hodnota ionizačnej energie nižšia, tým je prvok stálejší
+  [ ] f: čím je hodnota elektrónovej afinity nižšia, tým je prvok elektronegatívnejší, teda reaktívnejší
+  [X] g: valenčné excitované stavy sú pre vlastnosti prvkov najdôležitejšími excitovanymistavmi
+  [X] h: pri vytváraní valenčných excitovaných stavov prvok excituje valenčné elektróny do prázdnych orbitálov valenčnej vrstvy s rovnakým n ako je n valennych elektrónov
+
+=== Q45: 145. Vyberte nesprávne tvrdenie: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, b, e, h
+  [X] a: najvnútornejší orbital má najnižšiu energiu a n = 0
+  [X] b: magnetické kvantové číslo je nezávisle od hodnoty l
+  [ ] c: orbitály s vyšším n sú od jadra vzdialenejšie a majú vyššiu energiu
+  [ ] d: orbital je priestor, v ktorom sa elektrón vyskytuje s vysokou pravdepodobnosťou (> 95 %)
+  [X] e: môžeme súčasne presne určiť hmotnosť (hybnosť) elektrónov aj ich polohu a vypočítať ich presne dráhy a rýchlosti
+  [ ] f: pre elektrón platí Heisenbergov princíp neurčitosti
+  [ ] g: od jednotlivých excitovaných stavov atómu odvodzujeme zlúčeniny s rôznym oxidačným číslom
+  [X] h: nespárované elektróny v degenerovaných orbitáloch majú rôzny spin
+
+=== Q46: 146. Pri rádioaktívnej premene llc -→ llsB: ===
+Category: Všeobecná a anorganická chémia
+Correct: c, d, f, g
+  [ ] a: je nadbytok neutrónov v jadre uhlíka
+  [ ] b: sa uvoľni Žiarenie α
+  [X] c: sa uvoľni žiarenie β+
+  [X] d: dochádza k emisií pozitrónov
+  [ ] e: sa Žiadne Žiarenie neuvoľňuje, premena neprebieha
+  [X] f: jenadbytokprotonov,pretodochadzakpremene'ip-→'on++e g erotanvekisloznsazmreni nazhadzakpremene'ip→on++ie g protonovekislo Zsazmeninazhdzakemisi elektrenoy
+  [X] g: protónové číslo Z sa zmení na Z - 1
+  [ ] h: je nadbytok protónov, preto dochádza k emisií elektrónov 39
+
+=== Q47: 147. Pri rádioaktívnej premene 80m35Br -→ 8035Br ===
+Category: Všeobecná a anorganická chémia
+Correct: d, f, g, h
+  [ ] a: je emitované Žiarenie α
+  [ ] b: dochádza k uvoľneniu β-Žiarenia
+  [ ] c: sú emitované pozitróny
+  [X] d: sa uvoľňuje Žiarenie
+  [ ] e: neprebieha premena, a preto sa neuvoľňuje Žiadne Žiarenie
+  [X] f: sa nemení protónové číslo
+  [X] g: sa uvoľni elektromagnetické vlnenie, ktoré sa v magnetickom a elektrickom poli nevychyľuje
+  [X] h: dochádza k emisií najprenikavejšieho rádioaktívneho Žiarenia
+
+=== Q48: 148. Rádioaktívne Žiarenie β-: ===
+Category: Všeobecná a anorganická chémia
+Correct: a, e, f, h
+  [X] a: sa uvoľni pri premene 401gK -→ 4020Ca
+  [ ] b: je tok vodíkových jadier
+  [ ] c: je prúd uvoľnených pozitrónov
+  [ ] d: je najprenikavejšie rádioaktívne Žiarenie
+  [X] e: má ionizačnú schopnosť, je to ionizujúce Žiarenie
+  [X] f: je možné ovplyvniť elektrickým poľom
+  [ ] g: je elektromagnetické Žiarenie
+  [X] h: jeho podstatou je premena 'on -→ 'ip + °-ie
+
+=== Q49: 149. Izotopy sú: ===
+Category: Všeobecná a anorganická chémia
+Correct: e, g, h
+  [ ] a: prvky, ktoré majú rôzne chemické vlastnosti, ale rovnaké fyzikálne vlastnosti
+  [ ] b: atómy so zhodným protónovým a nukleónovým číslom
+  [ ] c: látky, ktorých atómy obsahujú atómové jadra s rovnakým nukleónovým, ale rôznym protónovým číslom
+  [ ] d: zlúčeniny, tvorené z rádioizotopov
+  [X] e: atómy prócia, deutéria a tritia
+  [ ] f: prvky s rovnakými atómovými číslami, ale rôznymi kvantovými islamí
+  [X] g: atómy toho istého prvku, jadra ktorých majú (obsahujú) rovnaký počet protónov, ale rôzny počet neutrónov
+  [X] h: chemické indivídua s rovnakými chemickými, ale rôznymi fyzikálnymi vlastnosťami
+
+=== Q50: 150. Izobary: ===
+Category: Všeobecná a anorganická chémia
+Correct: c, d, f, h
+  [ ] a: sú látky, ktorých atómy obsahujú jadra s rovnakým protónovým číslom
+  [ ] b: sú látky, ktorých atómy obsahujú atómové jadra s rôznym protónovým a s rôznym nukleónovým číslom
+  [X] c: môžu vznikať pri rádioaktívnom rozpade β+
+  [X] d: sú látky, ktorých atómy obsahujú jadra s rovnakým nukleónovým ale rôznym protónovým číslom
+  [ ] e: nemôžu vzniknúť pri rádioaktívnom rozpade β-
+  [X] f: sú napr. 11248Cd a li250Sn
+  [ ] g: sú látky, ktorých atómy obsahujú v jadre rovnaký počet neutrónov, ale líšia sa počtom protónov
+  [X] h: nuklidy majúce rovnaké nukleónové číslo (napr. 12sB, 12C, 127N) 40
+

@@ -1,0 +1,2268 @@
+[
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "401. Nervové vlákna miechy tvoria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "bielu hmotu obklopujúcu sivú hmotu"
+      },
+      {
+        "id": "b",
+        "text": "siví hmotu obklopenú bielou hmotou"
+      },
+      {
+        "id": "c",
+        "text": "bielu hmotu obklopenú sivou hmotou"
+      },
+      {
+        "id": "d",
+        "text": "sivú hmotu obklopujúcu bielu hmotu"
+      },
+      {
+        "id": "e",
+        "text": "aj bielu aj sivú hmotu"
+      },
+      {
+        "id": "f",
+        "text": "základ reflexného oblúka"
+      },
+      {
+        "id": "g",
+        "text": "miechový kanálik"
+      },
+      {
+        "id": "h",
+        "text": "mozgový kmeň"
+      }
+    ],
+    "correct_answers": [
+      "a"
+    ],
+    "explanation": "V mieche je nervové tkanivo organizované tak, že sivá hmota (tvorená najmä telami neurónov a synapsiami) tvorí vnútorné jadro tvaru motýlích krídel, zatiaľ čo biela hmota ju obklopuje na povrchu. Bielu hmotu tvoria zväzky myelinizovaných nervových vlákien (axónov), ktoré zabezpečujú vzostupné senzitívne a zostupné motorické dráhy. Nesprávne možnosti zamieňajú polohu sivej a bielej hmoty alebo zamieňajú nervové vlákna s inými anatomickými štruktúrami."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "402. Miecha:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je centrom zrakových a sluchových reflexov"
+      },
+      {
+        "id": "b",
+        "text": "je fylogeneticky najstaršou časťou nervovej sústavy"
+      },
+      {
+        "id": "c",
+        "text": "je fylogeneticky najmladšou asťou nervovej sústavy"
+      },
+      {
+        "id": "d",
+        "text": "je reflexným centrom regulujúcim pohyb svalov končatín"
+      },
+      {
+        "id": "e",
+        "text": "sa podie’a na riadení niektorých autonómnych funkcii"
+      },
+      {
+        "id": "f",
+        "text": "je centrom rovnováhy tela"
+      },
+      {
+        "id": "g",
+        "text": "predĺžená miecha"
+      },
+      {
+        "id": "h",
+        "text": "sprostredkúva emočne prejavy"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e"
+    ],
+    "explanation": "Miecha je fylogeneticky najstarším oddielom centrálnej nervovej sústavy stavovcov, slúži ako reflexné centrum pre motoriku končatín a trupu (cez motoneuróny predných rohov) a v bočných rohoch obsahuje autonómne centrá (napr. mikcia, defekácia). Zrakové a sluchové reflexy sú však riadené stredným mozgom a centrom rovnováhy je mozoček a vestibulárny aparát. Fylogeneticky najmladšou časťou je neokortex, nie miecha."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "403. Autonómne nervy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "inervujú vnútorné orgány a cievy"
+      },
+      {
+        "id": "b",
+        "text": "vychádzajú z miechy a mozgu"
+      },
+      {
+        "id": "c",
+        "text": "vychádzajú len z miechy"
+      },
+      {
+        "id": "d",
+        "text": "vychádzajú len z mozgu"
+      },
+      {
+        "id": "e",
+        "text": "sú súčasťou vegetatívnej nervovej sústavy, ktorá je fylogeneticky staršia než sústava somatická"
+      },
+      {
+        "id": "f",
+        "text": "sú súčasťou vegetatívnej nervovej sústavy, ktorá je fylogeneticky mladšia než sústava somatická"
+      },
+      {
+        "id": "g",
+        "text": "riadia pohyb kostrových svalov"
+      },
+      {
+        "id": "h",
+        "text": "riadia vôľou ovládané činnosti"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e"
+    ],
+    "explanation": "Autonómne (vegetatívne) nervy inervujú vnútorné orgány, hladkú svalovinu ciev a žľazy, pričom fungujú nezávisle od našej vôle. Vychádzajú z mozgového kmeňa (hlavový parasympatikus) aj z miechy (sympatikus z hrudno-driekovej miechy, parasympatikus z krížovej miechy). Vegetatívna sústava zabezpečujúca homeostázu vnútorného prostredia je vývojovo staršia než somatická nervová sústava riadiaca vôľou ovládané kostrové svaly."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "404. Dôležitou funkenou vlastnosťou nervových buniek je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dráždivosť"
+      },
+      {
+        "id": "b",
+        "text": "vodivosť"
+      },
+      {
+        "id": "c",
+        "text": "schopnosť bunkového delenia"
+      },
+      {
+        "id": "d",
+        "text": "schopnosť reagovať na podnety"
+      },
+      {
+        "id": "e",
+        "text": "pohyblivosť"
+      },
+      {
+        "id": "f",
+        "text": "schopnosť diapedézy"
+      },
+      {
+        "id": "g",
+        "text": "schopnosť viesť vzruchy bez zmeny informácie"
+      },
+      {
+        "id": "h",
+        "text": "schopnosť kontrakcie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "g"
+    ],
+    "explanation": "Základnými funkčnými vlastnosťami neurónov sú dráždivosť (schopnosť prijímať podnety a meniť pokojový membránový potenciál) a vodivosť (schopnosť generovať a viesť akčný potenciál bez straty či zmeny kódovanej informácie). Zrelé neuróny sa na rozdiel od iných buniek spravidla nedelia, nie sú améboidne pohyblivé a nemajú schopnosť svalovej kontrakcie ani leukocytárnej diapedézy."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "405. Stredný mozog cicavcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je centrom zrakových a sluchových reflexov"
+      },
+      {
+        "id": "b",
+        "text": "podmieňuje vzpriamenú polohu hlavy a tela"
+      },
+      {
+        "id": "c",
+        "text": "je najvyšším ústredím koordinácie pohybov"
+      },
+      {
+        "id": "d",
+        "text": "reguluje teplotu tela 87"
+      },
+      {
+        "id": "e",
+        "text": "riadi činnosť srdca a obeh telových tekutín"
+      },
+      {
+        "id": "f",
+        "text": "sprostredkúva emočne prejavy"
+      },
+      {
+        "id": "g",
+        "text": "koordinuje svalový tonus"
+      },
+      {
+        "id": "h",
+        "text": "je fylogeneticky najmladšou Časťou nervovej sústavy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b"
+    ],
+    "explanation": "Stredný mozog (mesencephalon) cicavcov obsahuje štvorhrbolie (tectum), ktoré je ústredím nepodmienených zrakových a sluchových orientačných reflexov. Zároveň sa tu nachádzajú motorické jadrá (nucleus ruber, substantia nigra) a retikulárna formácia, ktoré riadia vzpriamenú polohu hlavy a tela. Koordináciu pohybov zabezpečuje predovšetkým mozoček, termoreguláciu hypotalamus a kardiovaskulárne centrá sú v predĺženej mieche."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "406. Centrum regulujúce spontánne dýchanie je v:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mozočku"
+      },
+      {
+        "id": "b",
+        "text": "predizenej mieche"
+      },
+      {
+        "id": "c",
+        "text": "moste"
+      },
+      {
+        "id": "d",
+        "text": "mozgovej kôre"
+      },
+      {
+        "id": "e",
+        "text": "zadnom mozgu"
+      },
+      {
+        "id": "f",
+        "text": "medzimozgu"
+      },
+      {
+        "id": "g",
+        "text": "hypofýze"
+      },
+      {
+        "id": "h",
+        "text": "prednom mozgu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Spontánne, automatické dýchanie je generované respiračným centrom v predĺženej mieche (medulla oblongata), ktoré je modulované pneumotaxickým a apneustickým centrom v moste (pons Varoli). Predĺžená miecha aj most patria k zadnému mozgu (rhombencephalon) a tvoria mozgový kmeň. Mozoček, medzimozog ani predný mozog nie sú centrami generovania spontánneho dychového rytmu."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "407. Mozgová kôra:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má vymedzené oblasti, tzv. korové istredia"
+      },
+      {
+        "id": "b",
+        "text": "okrem primátov je dobre vyvinutá napr. u slona"
+      },
+      {
+        "id": "c",
+        "text": "sa začína diferencovať už pri plazoch"
+      },
+      {
+        "id": "d",
+        "text": "patrí medzi fylogeneticky mladšiu Časť nervovej sústavy"
+      },
+      {
+        "id": "e",
+        "text": "tvorí pri vtákoch len tenkú vrstvu"
+      },
+      {
+        "id": "f",
+        "text": "má povrch zvrásnený len pri evolučne starších cicavcoch"
+      },
+      {
+        "id": "g",
+        "text": "sústreďuje informácie prichádzajúce len z okolia organizmu"
+      },
+      {
+        "id": "h",
+        "text": "má čuchové receptory"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Mozgová kôra je fylogeneticky najmladším oddielom nervovej sústavy (jej rozvoj začína u plazov a vrcholí u cicavcov, kde je vysoko zvrásnená u primátov, slonov či kytovcov). Je funkčne rozdelená na korové centrá (senzorické, motorické, asociačné) a u vtákov tvorí iba tenkú vrstvičku, keďže u nich prevažujú bazálne gangliá. Nesprávne tvrdenia uvádzajú, že zvrásnenie majú len evolučne staršie cicavce, že integruje len vonkajšie podnety alebo že obsahuje samotné periférne receptory."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "408. Mozgoví kôru majú najviac vyvinutú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "primáty"
+      },
+      {
+        "id": "b",
+        "text": "plazy"
+      },
+      {
+        "id": "c",
+        "text": "Žraloky a delfíny"
+      },
+      {
+        "id": "d",
+        "text": "slony a delfíny"
+      },
+      {
+        "id": "e",
+        "text": "cicavce"
+      },
+      {
+        "id": "f",
+        "text": "vtáky"
+      },
+      {
+        "id": "g",
+        "text": "obojživelníky"
+      },
+      {
+        "id": "h",
+        "text": "ryby"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d",
+      "e"
+    ],
+    "explanation": "Mozgová kôra (neokortex) dosahuje najvyšší fylogenetický rozvoj a plošné zvrásnenie (gyrifikáciu) u cicavcov, pričom mimoriadne rozvinutá je u primátov a veľkých cicavcov s vysokou kognitívnou kapacitou, ako sú slony a delfíny. U rýb, obojživelníkov a plazov je kôra vyvinutá iba primitívne (archikortex, paleokortex), u žralokov chýba a u vtákov tvorí len tenký lem."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "409. Mozoček:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kontroluje rovnováhu tela a koordinuje pohyby"
+      },
+      {
+        "id": "b",
+        "text": "je centrom dýchania"
+      },
+      {
+        "id": "c",
+        "text": "je ústredím pre kýchanie"
+      },
+      {
+        "id": "d",
+        "text": "je istredim reflexných pohybov"
+      },
+      {
+        "id": "e",
+        "text": "riadi innost mozgovej kôry"
+      },
+      {
+        "id": "f",
+        "text": "sprostredkúva reakcie na bolesť a chlad"
+      },
+      {
+        "id": "g",
+        "text": "je najvyšším istredim autonómnych funkcii"
+      },
+      {
+        "id": "h",
+        "text": "prijíma signály z analyzátorov vnútorného ucha a svalov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "h"
+    ],
+    "explanation": "Mozoček (cerebellum) je kľúčovým centrom pre udržiavanie rovnováhy tela, svalového tonusu a koordinácie motoriky. Tieto funkcie vykonáva vďaka priamemu príjmu aferentných signálov z vestibulárneho aparátu vnútorného ucha a proprioreceptorov svalov a šliach. Centrá dýchania a obranných reflexov (kýchanie) sú v predĺženej mieche, vnímanie bolesti zabezpečuje talamus s kôrou a najvyšším autonómnym centrom je hypotalamus."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "410. Nadradenou časťou nervového riadenia vnitornych orgánov je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "talamus"
+      },
+      {
+        "id": "b",
+        "text": "hypotalamus"
+      },
+      {
+        "id": "c",
+        "text": "predizena miecha"
+      },
+      {
+        "id": "d",
+        "text": "predný mozog"
+      },
+      {
+        "id": "e",
+        "text": "mozoček"
+      },
+      {
+        "id": "f",
+        "text": "mozgová kôra"
+      },
+      {
+        "id": "g",
+        "text": "podlôžko"
+      },
+      {
+        "id": "h",
+        "text": "10zko"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "g"
+    ],
+    "explanation": "Najvyšším nadradeným centrom vegetatívneho (autonómneho) riadenia vnútorných orgánov a neuroendokrinnej integrácie je hypotalamus, ktorého slovenský anatomický názov je podlôžko. Hypotalamus koordinuje činnosť sympatika, parasympatika a endokrinného systému. Talamus (lôžko) slúži ako prepájacia stanica senzorických dráh, kým mozoček riadi motorickú koordináciu."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "411. Prejavom nižšej nervovej činnosti:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú vrodené reakcie na podnety"
+      },
+      {
+        "id": "b",
+        "text": "sú nepodmienené reflexy"
+      },
+      {
+        "id": "c",
+        "text": "sú získané reakcie na podnety"
+      },
+      {
+        "id": "d",
+        "text": "sú podmienené reflexy 88"
+      },
+      {
+        "id": "e",
+        "text": "je učenie"
+      },
+      {
+        "id": "f",
+        "text": "sú inštinkty"
+      },
+      {
+        "id": "g",
+        "text": "si emócie"
+      },
+      {
+        "id": "h",
+        "text": "je strach"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Nižšia nervová činnosť zahŕňa geneticky fixované, vrodené reakcie organizmu, medzi ktoré patria nepodmienené reflexy a inštinkty (reťazce nepodmienených reflexov). Patria sem aj elementárne emócie a vrodené afektívne prejavy ako strach viazané na subkortikálne štruktúry. Naopak získané reakcie, podmienené reflexy a procesy učenia patria k vyššej nervovej činnosti."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "412. Podmienený reflex:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je vrodený"
+      },
+      {
+        "id": "b",
+        "text": "je prejav vyššej nervovej činnosti"
+      },
+      {
+        "id": "c",
+        "text": "je základom vývoja inštinktívneho správania"
+      },
+      {
+        "id": "d",
+        "text": "je získaný počas ontogenézy jedinca"
+      },
+      {
+        "id": "e",
+        "text": "je získaný počas fylogenézy"
+      },
+      {
+        "id": "f",
+        "text": "vedie k vytváraniu nových, dočasných nervových spojení"
+      },
+      {
+        "id": "g",
+        "text": "patrí k základným mechanizmom učenia"
+      },
+      {
+        "id": "h",
+        "text": "nevyžaduje pre svoj vznik nácvik"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "Podmienený reflex je základným prejavom vyššej nervovej činnosti a mechanizmom adaptívneho učenia, ktorý sa vytvára počas individuálneho života (ontogenézy) opakovaným spojením indiferentného podnetu s nepodmieneným reflexom. Jeho neurobiologickým podkladom je vznik dočasných nervových spojení v mozgovej kôre. Nie je vrodený, fylogeneticky daný a bez nácviku nevzniká."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "413. Medzi vyššiu nervovú činnosť patrí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "podmienený reflex"
+      },
+      {
+        "id": "b",
+        "text": "nepodmienený reflex"
+      },
+      {
+        "id": "c",
+        "text": "učenie"
+      },
+      {
+        "id": "d",
+        "text": "inštinkt"
+      },
+      {
+        "id": "e",
+        "text": "strach"
+      },
+      {
+        "id": "f",
+        "text": "myslenie"
+      },
+      {
+        "id": "g",
+        "text": "rodičovský inštinkt"
+      },
+      {
+        "id": "h",
+        "text": "pamäť"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Vyššia nervová činnosť (VNČ) zabezpečuje dynamické prispôsobovanie sa organizmu meniacim sa podmienkam na základe skúseností. Zahŕňa tvorbu podmienených reflexov, pamäť, procesy učenia a u človeka aj abstraktné myslenie. Nepodmienené reflexy, inštinkty (vrátane rodičovského) a vrodený strach patria do nižšej nervovej činnosti."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "414. Fagocytóza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "patrí k prejavom bunkovej imunity"
+      },
+      {
+        "id": "b",
+        "text": "je vrodená a nešpecifická"
+      },
+      {
+        "id": "c",
+        "text": "Cortiho orgán"
+      },
+      {
+        "id": "d",
+        "text": "patrí k prejavom celulárnej špecifickej imunity"
+      },
+      {
+        "id": "e",
+        "text": "je vývojovo mladším typom imunitnej reakcie"
+      },
+      {
+        "id": "f",
+        "text": "je vývojovo starším typom imunitnej reakcie"
+      },
+      {
+        "id": "g",
+        "text": "sa vyvinula z pôvodného mechanizmu výživy jednobunkových organizmov"
+      },
+      {
+        "id": "h",
+        "text": "je obranný mechanizmus spoločný pre všetky skupiny živočíchov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Fagocytóza je evolučne najstarší imunitný mechanizmus, ktorý sa vyvinul z fagotrofného spôsobu výživy jednobunkovcov a je spoločný pre všetky živočíšne kmene. Predstavuje nešpecifickú, vrodenú bunkovú imunitu zabezpečovanú profesionálnymi fagocytmi (makrofágmi, neutrofilmi). Nie je špecifická ani protilátková a nemá nič spoločné so sluchovým Cortiho orgánom."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "415. Bunkovú Špecifickú imunitnú reakciu zabezpečujú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "B lymfocyty"
+      },
+      {
+        "id": "b",
+        "text": "neutrofilné granulocyty"
+      },
+      {
+        "id": "c",
+        "text": "T lymfocyty"
+      },
+      {
+        "id": "d",
+        "text": "plazmatické bunky"
+      },
+      {
+        "id": "e",
+        "text": "monocyty"
+      },
+      {
+        "id": "f",
+        "text": "trombocyty"
+      },
+      {
+        "id": "g",
+        "text": "lymfocyty"
+      },
+      {
+        "id": "h",
+        "text": "lymfocyty, ktoré dozrievajú v týmuse"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Špecifickú bunkovú (celulárnu) imunitnú odpoveď zabezpečujú T lymfocyty (cytotoxické a pomocné T bunky), ktoré vznikajú v kostnej dreni a dozrievajú v detskej žľaze – týmuse. B lymfocyty a z nich odvodené plazmatické bunky zabezpečujú špecifickú humorálnu (protilátkovú) imunitu, zatiaľ čo granulocyty a monocyty patria k nešpecifickej imunite."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "416. Objaviteľ fagocytózy bol:",
+    "options": [
+      {
+        "id": "a",
+        "text": "P. Ehrlich"
+      },
+      {
+        "id": "b",
+        "text": "I. I. Mečnikov"
+      },
+      {
+        "id": "c",
+        "text": "I. M. Sečenov"
+      },
+      {
+        "id": "d",
+        "text": "I. P. Pavlov"
+      },
+      {
+        "id": "e",
+        "text": "N. Tinbergen"
+      },
+      {
+        "id": "f",
+        "text": "L. Pasteur"
+      },
+      {
+        "id": "g",
+        "text": "W. Harvey"
+      },
+      {
+        "id": "h",
+        "text": "S. W. Fox"
+      }
+    ],
+    "correct_answers": [
+      "b"
+    ],
+    "explanation": "Objaviteľom fagocytózy ako základného obranného mechanizmu buniek bol ruský biológ Iľja Iľjič Mečnikov (I. I. Mečnikov), ktorý tento fenomén opísal pri štúdiu buniek lariev hviezdic a získal Nobelovu cenu. P. Ehrlich rozpracoval teóriu protilátkovej imunity, I. P. Pavlov objavil podmienené reflexy a L. Pasteur vyvinul vakcináciu."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "417. Najlepšie vyvinutý sluch so schopnosťou vnímať aj ultrazvukové signály majú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mačkovité mäsožravce"
+      },
+      {
+        "id": "b",
+        "text": "netopiere"
+      },
+      {
+        "id": "c",
+        "text": "veľryby"
+      },
+      {
+        "id": "d",
+        "text": "psovité mäsožravce"
+      },
+      {
+        "id": "e",
+        "text": "ryby"
+      },
+      {
+        "id": "f",
+        "text": "larvy obojživelníkov"
+      },
+      {
+        "id": "g",
+        "text": "hmyz"
+      },
+      {
+        "id": "h",
+        "text": "obrúčkavce"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c"
+    ],
+    "explanation": "Najdokonalejšie vyvinutý sluch s vnímaním vysokofrekvenčného ultrazvuku majú netopiere a veľryby (najmä ozubené veľryby ako delfíny), ktoré ultrazvukové signály aktívne vysielajú a prijímajú na priestorovú orientáciu a lov metódou echolokácie. Hoci šelmy počujú vyššie frekvencie než človek, nemajú echolokačný ultrazvukový aparát v takom rozsahu, a ryby či bezstavovce ultrazvuk nevnímajú."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "418. Protilátky:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa vytvárajú v plazmatických bunkách po styku B lymfocytov s antigénom"
+      },
+      {
+        "id": "b",
+        "text": "sú bielkoviny a reagujú len s určitým antigénom"
+      },
+      {
+        "id": "c",
+        "text": "reagujú len s antigénom produkovaným B lymfocytmi"
+      },
+      {
+        "id": "d",
+        "text": "sa vytvárajú v T lymfocytoch"
+      },
+      {
+        "id": "e",
+        "text": "sa vytvárajú v T lymfocytoch po styku s antigénom"
+      },
+      {
+        "id": "f",
+        "text": "sú imunoglobulíny a reagujú len s určitým antigénom, ktorý vyvoláva ich tvorbu"
+      },
+      {
+        "id": "g",
+        "text": "sú antigény špecifické pre daný organizmus"
+      },
+      {
+        "id": "h",
+        "text": "sú polysacharidy produkované B lymfocytmi"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f"
+    ],
+    "explanation": "Protilátky (imunoglobulíny) sú špecifické bielkoviny secernované plazmatickými bunkami, ktoré vznikajú terminálnou diferenciáciou B lymfocytov po stimulácii antigénom. Vyznačujú sa vysokou špecificitou, vďaka čomu sa viažu výlučne na ten antigén, ktorý vyvolal ich tvorbu. Protilátky netvoria T lymfocyty, nie sú to polysacharidy a nie sú totožné s antigénmi."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "419. Protilátková špecifická imunitná reakcia:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je zabezpečovaná tvorbou protilátok v T lymfocytoch"
+      },
+      {
+        "id": "b",
+        "text": "je vývojovo mladšia ako nešpecifická imunita"
+      },
+      {
+        "id": "c",
+        "text": "je sprostredkovaná B lymfocytmi"
+      },
+      {
+        "id": "d",
+        "text": "je zabezpečovaná tvorbou antigénov"
+      },
+      {
+        "id": "e",
+        "text": "je zabezpečovaná tvorbou protilátok plazmatickými bunkami"
+      },
+      {
+        "id": "f",
+        "text": "je zabezpečovaná tvorbou aglutinogenov"
+      },
+      {
+        "id": "g",
+        "text": "je zabezpečená protilátkami, ktoré produkujú monocyty"
+      },
+      {
+        "id": "h",
+        "text": "je zabezpečená protilátkami, ktoré produkujú lymfoblasty vznikajúce z T lymfocytov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Špecifická humorálna imunita je založená na rozpoznaní antigénu B lymfocytmi a následnej syntéze špecifických protilátok plazmatickými bunkami. Fylogeneticky ide o mladší mechanizmus než vrodená nešpecifická imunita, pretože adaptívna imunita sa vyvinula až u čeľustnatých stavovcov. T lymfocyty zabezpečujú bunkovú imunitu a netvoria cirkulujúce protilátky."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "420. Označte správne odpovede:",
+    "options": [
+      {
+        "id": "a",
+        "text": "funkcia protilátok je zneškodňovať vírusy a bakteriálne toxíny"
+      },
+      {
+        "id": "b",
+        "text": "bunkoví špecifickú imunitu zabezpečujú T lymfocyty"
+      },
+      {
+        "id": "c",
+        "text": "fagocytóza patrí k prejavom nešpecifickej bunkovej imunity"
+      },
+      {
+        "id": "d",
+        "text": "špecifická imunita sa vyskytuje už u lankonozcov"
+      },
+      {
+        "id": "e",
+        "text": "pasívna imunizácia môže byť zabezpečovaná aj materským mliekom"
+      },
+      {
+        "id": "f",
+        "text": "týmus"
+      },
+      {
+        "id": "g",
+        "text": "fagocytóza patrí k prejavom protilatkovej imunity"
+      },
+      {
+        "id": "h",
+        "text": "slezina"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Protilátky neutralizujú vírusy a bakteriálne toxíny, bunkovú špecifickú imunitu riadia T lymfocyty (dozrievajúce v primárnom lymfatickom orgáne – týmuse) a fagocytóza predstavuje vrodenú nešpecifickú bunkovú obranu. Materské mlieko obsahuje sekrečné protilátky (najmä sIgA), ktoré novorodencovi poskytujú pasívnu imunizáciu. Špecifická imunita sa nevyvinula u článkonožcov a fagocytóza nepatrí medzi protilátkové mechanizmy."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "421. Proprioreceptory:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú receptory nachádzajúce sa vo svaloch a sPachach"
+      },
+      {
+        "id": "b",
+        "text": "sú exteroreceptory"
+      },
+      {
+        "id": "c",
+        "text": "sú interoreceptory"
+      },
+      {
+        "id": "d",
+        "text": "informujú o polohe časti tela"
+      },
+      {
+        "id": "e",
+        "text": "informujú o zmenách vonkajšieho prostredia"
+      },
+      {
+        "id": "f",
+        "text": "sú pomocné orgány interoreceptorov 90"
+      },
+      {
+        "id": "g",
+        "text": "sú v princípe radioreceptory"
+      },
+      {
+        "id": "h",
+        "text": "pomáhajú živočíchom orientovať sa"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "explanation": "Proprioreceptory sú špecializované interoreceptory (mechanoreceptory) lokalizované vo svaloch (svalové vretienka) a šľachách (Golgiho šľachové telieska). Poskytujú centrálnemu nervovému systému informácie o napätí svalov, kĺbovom uhle a polohe jednotlivých častí tela v priestore. Neintegrujú vonkajšie prostredie (nie sú to exteroreceptory) a nereagujú na elektromagnetické žiarenie (nie sú to radioreceptory)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "422. Medzi chemoreceptory patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sluchové receptory"
+      },
+      {
+        "id": "b",
+        "text": "chuťové receptory"
+      },
+      {
+        "id": "c",
+        "text": "čuchové receptory"
+      },
+      {
+        "id": "d",
+        "text": "receptory rovnováhy"
+      },
+      {
+        "id": "e",
+        "text": "fotoreceptory"
+      },
+      {
+        "id": "f",
+        "text": "receptory kože"
+      },
+      {
+        "id": "g",
+        "text": "receptory citlivé na viditeľné svetlo"
+      },
+      {
+        "id": "h",
+        "text": "tepelné receptory"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c"
+    ],
+    "explanation": "Chemoreceptory sú senzorické bunky citlivé na chemické látky – chuťové receptory reagujú na látky rozpustené v tekutinách (kontaktný zmysel) a čuchové receptory reagujú na prchavé látky v ovzduší (diaľkový zmysel). Sluchové a rovnovážne receptory sú mechanoreceptory, fotoreceptory zachytávajú svetlo a tepelné receptory zmeny teploty."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "423. Radioreceptory:",
+    "options": [
+      {
+        "id": "a",
+        "text": "delíme na fotoreceptory, termoreceptory a vlastne radioreceptory"
+      },
+      {
+        "id": "b",
+        "text": "určitého typu sú vyvinuté už pri jednobunkovcoch"
+      },
+      {
+        "id": "c",
+        "text": "umožňujú niektorým Živočíchom reagovať na magnetizmus"
+      },
+      {
+        "id": "d",
+        "text": "môžu registrovať ionizujúce Žiarenie"
+      },
+      {
+        "id": "e",
+        "text": "všetkých typov má dokonale vyvinuté človek"
+      },
+      {
+        "id": "f",
+        "text": "môžu reagovať na zmenu chemického zloženia prostredia"
+      },
+      {
+        "id": "g",
+        "text": "umozhuju Živočíchom orientovať sa v priestore napr. pri sezónnej migraci"
+      },
+      {
+        "id": "h",
+        "text": "reagujú na zvukové podnety"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Radioreceptory sú receptory zachytávajúce vlnenie elektromagnetického poľa a teplo; delia sa na fotoreceptory, termoreceptory a špecifické radioreceptory. V jednoduchšej podobe (napr. stigma) ich nachádzame už u jednobunkovcov a mnohým živočíchom umožňujú vnímať magnetizmus Zeme či polarizované svetlo pre sezónnu navigáciu. Človek nemá vyvinuté všetky typy (chýba nám napr. magnetorecepcia) a radioreceptory nereagujú na chemické ani zvukové podnety."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "424. Statocysta je ústrojom rovnováhy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "kôrovcov"
+      },
+      {
+        "id": "b",
+        "text": "hmyzu"
+      },
+      {
+        "id": "c",
+        "text": "stavovcov"
+      },
+      {
+        "id": "d",
+        "text": "rýb"
+      },
+      {
+        "id": "e",
+        "text": "cicavcov"
+      },
+      {
+        "id": "f",
+        "text": "mäkkýšov"
+      },
+      {
+        "id": "g",
+        "text": "plazov"
+      },
+      {
+        "id": "h",
+        "text": "vtákov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f"
+    ],
+    "explanation": "Statocysta je rovnovážny orgán bezstavovcov, typicky vyvinutý u kôrovcov (na báze tykadiel) a mäkkýšov. Ide o vačok vystlaný zmyslovými brvami, v ktorom ťažký statolit (zrnko piesku alebo uhličitanu vápenatého) svojím tlakom dráždi receptorové bunky pri zmene polohy. Stavovce majú rovnovážny statokinetický aparát vo vnútornom uchu, nie statocystu."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "425. Statokinetický orgán:",
+    "options": [
+      {
+        "id": "a",
+        "text": "poskytuje informácie o polohe a pohybe tela"
+      },
+      {
+        "id": "b",
+        "text": "cicavcov jeulozenyvovnutornom uchu"
+      },
+      {
+        "id": "c",
+        "text": "majú raky uložený na báze tykadiel"
+      },
+      {
+        "id": "d",
+        "text": "obsahuje receptorové bunky s citlivými brvami, reagujúcimi na mechanické dráždenie"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje Cortiho bunky"
+      },
+      {
+        "id": "f",
+        "text": "obsahuje receptorové bunky reagujúce na zmeny teploty"
+      },
+      {
+        "id": "g",
+        "text": "je tympanalny orgán kobyliek"
+      },
+      {
+        "id": "h",
+        "text": "je dráždený svetelnými podnetmi"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Statokinetický orgán zabezpečuje vnímanie polohy (statická zložka) a pohybu/uhlového zrýchlenia (kinetická zložka) tela. U cicavcov leží vo vnútornom uchu (predsieň a tri polkruhovité kanáliky), u rakov je lokalizovaný na báze tykadiel; jeho základom sú vláskové bunky s mechanocíliami reagujúcimi na posun endolymfy a otolitov. Cortiho orgán slúži na sluch, nie na rovnováhu, a tympanálny orgán hmyzu je sluchovým ústrojom."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "426. Receptorové bunky, meniace zvukový podnet na nervový signál sa nachádzajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pri rybách v bočnej čiare"
+      },
+      {
+        "id": "b",
+        "text": "pri cicavcoch v Cortiho orgáne vnitorneho ucha"
+      },
+      {
+        "id": "c",
+        "text": "pri hmyze v tympanalnych orgánoch"
+      },
+      {
+        "id": "d",
+        "text": "pri cicavcoch v Cortiho orgáne vonkajšieho ucha"
+      },
+      {
+        "id": "e",
+        "text": "pri vtákoch v ušnom bubienku 91"
+      },
+      {
+        "id": "f",
+        "text": "pri cicavcoch v strednom uchu"
+      },
+      {
+        "id": "g",
+        "text": "pri bezstavovcoch v statocyste"
+      },
+      {
+        "id": "h",
+        "text": "pri vtákoch a cicavcoch v spoločnom sluchovopolohovom orgáne"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "h"
+    ],
+    "explanation": "Mechanoreceptorové bunky meniace mechanickú energiu vlnenia na nervový vzruch sa u cicavcov nachádzajú v Cortiho orgáne slimáka vnútorného ucha, u vtákov v sluchovom papile vnútorného ucha, u rýb v receptoroch bočnej čiary (zaznamenávajú nízke frekvencie a prúdenie) a u hmyzu v tympanálnych orgánoch. Cortiho orgán nie je vo vonkajšom ani v strednom uchu a statocysta primárne slúži na vnímanie rovnováhy, nie zvuku."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "427. Hmyz má oči:",
+    "options": [
+      {
+        "id": "a",
+        "text": "komorové"
+      },
+      {
+        "id": "b",
+        "text": "zložené"
+      },
+      {
+        "id": "c",
+        "text": "facetové"
+      },
+      {
+        "id": "d",
+        "text": "ploche"
+      },
+      {
+        "id": "e",
+        "text": "miskovité"
+      },
+      {
+        "id": "f",
+        "text": "pohárikovité"
+      },
+      {
+        "id": "g",
+        "text": "teleskopické"
+      },
+      {
+        "id": "h",
+        "text": "zložené z omatidii"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "h"
+    ],
+    "explanation": "Hmyz má zložené (facetové) oči, ktoré sú zložené z veľkého počtu samostatných funkčných optických jednotiek – omatídií. Tento typ oka poskytuje mozaikový obraz a vyniká schopnosťou registrovať rýchly pohyb a vnímať polarizované svetlo. Komorové oči s jednou šošovkou a sietnicou sú typické pre stavovce a hlavonožce."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "428. Chemoreceptory:",
+    "options": [
+      {
+        "id": "a",
+        "text": "riadia chemické reakcie"
+      },
+      {
+        "id": "b",
+        "text": "čuchové veľrybám chýbajú"
+      },
+      {
+        "id": "c",
+        "text": "čuchové majú dobre vyvinuté psy a kone"
+      },
+      {
+        "id": "d",
+        "text": "chuťové sú uložené v chuťových pohárikoch"
+      },
+      {
+        "id": "e",
+        "text": "nie sú vyvinuté pri hmyze"
+      },
+      {
+        "id": "f",
+        "text": "chuťové sú tzv. diaľkové chemoreceptory"
+      },
+      {
+        "id": "g",
+        "text": "analyzujú prítomnosť chemických látok v ovzduší a vode"
+      },
+      {
+        "id": "h",
+        "text": "sú najčastejšie umiestnené vo vnitornych orgánoch"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Chemoreceptory zachytávajú chemické molekuly vo vode a vo vzduchu – chuťové poháriky slúžia na kontaktnú chuťovú analýzu, zatiaľ čo čuch je vysoko vyvinutý u makrosmatických cicavcov (pes, kôň). U druhotne vodných veľrýb je čuch redukovaný až celkom chýba. Chemoreceptory chemické reakcie neriadia (to robia enzýmy), chuť nie je diaľkový receptor a hmyz má chemoreceptory mimoriadne citlivé."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "429. Ektotermné zivotichy si:",
+    "options": [
+      {
+        "id": "a",
+        "text": "živočíchy s premenlivou teplotou tela"
+      },
+      {
+        "id": "b",
+        "text": "živočíchy, ktorých telesná teplota sa mení v závislosti na teplote prostredia"
+      },
+      {
+        "id": "c",
+        "text": "živočíchy, ktorých telesná teplota je stala"
+      },
+      {
+        "id": "d",
+        "text": "živočíchy, ktorých telesná teplota nezávisí od teploty okolia"
+      },
+      {
+        "id": "e",
+        "text": "niektoré bezstavovce a všetky stavovce"
+      },
+      {
+        "id": "f",
+        "text": "napr. drsnokožce"
+      },
+      {
+        "id": "g",
+        "text": "všetky bezstavovce"
+      },
+      {
+        "id": "h",
+        "text": "plazy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Ektotermné (poikilotermné) živočíchy nedokážu produkovať dostatok metabolického tepla na udržanie stálej telesnej teploty, preto ich telesná teplota kolíše a závisí od teploty vonkajšieho prostredia. Medzi ektotermy patria všetky bezstavovce, ako aj drsnokožce, ryby, obojživelníky a plazy. Stálu teplotu nezávislú od okolia majú iba endotermné vtáky a cicavce."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "430. Endotermia znamená:",
+    "options": [
+      {
+        "id": "a",
+        "text": "stálu telesnú teplotu nezávislú od teploty prostredia"
+      },
+      {
+        "id": "b",
+        "text": "stálu telesnú teplotu závislú od teploty prostredia"
+      },
+      {
+        "id": "c",
+        "text": "premenlivú telesnú teplotu nezávislú od teploty prostredia"
+      },
+      {
+        "id": "d",
+        "text": "prehriatie organizmu"
+      },
+      {
+        "id": "e",
+        "text": "zníženie produkcie tepla organizmom"
+      },
+      {
+        "id": "f",
+        "text": "podchladenie organizmu"
+      },
+      {
+        "id": "g",
+        "text": "tyroxín"
+      },
+      {
+        "id": "h",
+        "text": "že živočíchy sú schopné regulovať tvorbu tepla v tepelnom obale organizmu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "g"
+    ],
+    "explanation": "Endotermia (homeotermia) predstavuje schopnosť živočícha udržať si stálu telesnú teplotu nezávisle od výkyvov vonkajšieho prostredia vďaka intenzívnej produkcii tepla vlastným metabolizmom. Hormón tyroxín priamo zvyšuje bazálny metabolizmus a produkciu tepla v tele, čím je kľúčový pre endotermiu. Neznamená podchladenie (hypotermiu) ani prehriatie (hypertermiu) a teplo sa tvorí v hlbokom jadre, nie v periférnom obale."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "431. Medzi endotermné zivotichy patria:",
+    "options": [
+      {
+        "id": "a",
+        "text": "hmyz"
+      },
+      {
+        "id": "b",
+        "text": "obrúčkavce"
+      },
+      {
+        "id": "c",
+        "text": "cicavce a vtáky"
+      },
+      {
+        "id": "d",
+        "text": "plazy"
+      },
+      {
+        "id": "e",
+        "text": "obojživelníky"
+      },
+      {
+        "id": "f",
+        "text": "drsnokožce"
+      },
+      {
+        "id": "g",
+        "text": "ryby"
+      },
+      {
+        "id": "h",
+        "text": "všetky bezstavovce 92"
+      }
+    ],
+    "correct_answers": [
+      "c"
+    ],
+    "explanation": "Spomedzi recentných živočíchov sú pravými endotermnými organizmami so schopnosťou fyziologickej termoregulácie výlučne vtáky a cicavce. Všetky ostatné skupiny – bezstavovce, drsnokožce, ryby, obojživelníky aj plazy – sú ektotermné (ich teplota priamo závisí od teploty prostredia)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "432. Fyzikálna termoregulácia sa uskutočňuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "rozšírením kožných ciev a odparovaním"
+      },
+      {
+        "id": "b",
+        "text": "zvýšeným príjmom potravy"
+      },
+      {
+        "id": "c",
+        "text": "vydajom tepla vyžarovaním a prúdením"
+      },
+      {
+        "id": "d",
+        "text": "pôsobením hormónov štítnej žľazy"
+      },
+      {
+        "id": "e",
+        "text": "zvýšením intenzity metabolizmu"
+      },
+      {
+        "id": "f",
+        "text": "pôsobením hormónov drene nadobličiek"
+      },
+      {
+        "id": "g",
+        "text": "aktivizáciou svalových pohybov"
+      },
+      {
+        "id": "h",
+        "text": "zmenou prietoku krvi v koži"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "h"
+    ],
+    "explanation": "Fyzikálna termoregulácia reguluje výdaj tepla do okolia fyzikálnymi procesmi bez zmeny produkcie tepla: radiáciou (vyžarovaním), konvekciou (prúdením), kondukciou a evaporáciou (odparovaním potu). To je sprostredkované zmenou prietoku krvi v koži (vazodilatácia výdaj tepla zvyšuje, vazokonstrikcia ho šetrí). Zvýšenie metabolizmu a svalový tras patria k chemickej termoregulácii."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "433. Hibernanty:",
+    "options": [
+      {
+        "id": "a",
+        "text": "patria medzi heterotermne organizmy"
+      },
+      {
+        "id": "b",
+        "text": "sú napr. jež, plch, syse?"
+      },
+      {
+        "id": "c",
+        "text": "sú napr. krt, medveď, netopier"
+      },
+      {
+        "id": "d",
+        "text": "upadajú do zimného spánku pri trvalom poklese teploty prostredia pod o°C"
+      },
+      {
+        "id": "e",
+        "text": "čerpajú počas hibernácie energiu zo zásoby tuku"
+      },
+      {
+        "id": "f",
+        "text": "upadajú do zimného spánku pri trvalom poklese teploty prostredia pod 10℃"
+      },
+      {
+        "id": "g",
+        "text": "počas zimného spánku zvyšujú teplotu tepelného jadra organizmu"
+      },
+      {
+        "id": "h",
+        "text": "si zabezpečujú prežitie za nepriaznivých podmienok zvýšením aktivity metabolizmu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "e",
+      "f"
+    ],
+    "explanation": "Hibernanty (pravé zimné spáče ako jež, plch, sysel) sú heterotermné živočíchy, ktoré pri poklese teploty okolia (typicky pod cca 10 °C) upadajú do torporu, pričom drasticky tlmia metabolizmus a znižujú teplotu telesného jadra. Ako jediný zdroj energie využívajú zásoby tuku (najmä hnedého a bieleho tuku). Medveď nie je pravý hibernant a metabolizmus sa nezvyšuje, ale klesá."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "434. Hlavným producentom tepla pri endotermných Živočíchoch:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú kostrové svaly"
+      },
+      {
+        "id": "b",
+        "text": "je mozog"
+      },
+      {
+        "id": "c",
+        "text": "je pečeň"
+      },
+      {
+        "id": "d",
+        "text": "je podkožný tuk"
+      },
+      {
+        "id": "e",
+        "text": "sú endokrinné žľazy"
+      },
+      {
+        "id": "f",
+        "text": "sú obličky"
+      },
+      {
+        "id": "g",
+        "text": "je dýchacia sústava"
+      },
+      {
+        "id": "h",
+        "text": "je tenké črevo"
+      }
+    ],
+    "correct_answers": [
+      "c"
+    ],
+    "explanation": "V pokojovom stave u endotermných živočíchov tvorí hlavný podiel metabolického tepla pečeň, pretože v jej hepatocytoch nepretržite prebieha obrovské množstvo exergonických biochemických reakcií látkovej premeny. Kostrové svaly produkujú najviac tepla pri fyzickej práci alebo svalovom trase, avšak v bazálnom pokoji dominuje pečeň."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "435. Estivácia je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prebytok potravy a nedostatok vody"
+      },
+      {
+        "id": "b",
+        "text": "letný spánok"
+      },
+      {
+        "id": "c",
+        "text": "zvýšenie telesnej teploty Živočícha"
+      },
+      {
+        "id": "d",
+        "text": "prehriatie organizmu pri vaesich zmenách teploty prostredia"
+      },
+      {
+        "id": "e",
+        "text": "typická pre niektoré púštne a stepné Živočíchy"
+      },
+      {
+        "id": "f",
+        "text": "typická pre živočíchy polárnych oblasti prostredia"
+      },
+      {
+        "id": "g",
+        "text": "inzulín"
+      },
+      {
+        "id": "h",
+        "text": "zimný spánok"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "Estivácia je letný spánok – kľudový stav, ktorým púštne, stepné a subtropické živočíchy prekonávajú nepriaznivé horúce a suché obdobia s nedostatkom vody. Znižuje sa pri nej látková premena a hormonálna aktivita (v kľúči testovnice figuruje inzulín v metabolickom kontexte). Hibernácia je naopak zimný spánok chrániaci pred mrazom."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "436. Heterotermia znamená:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prispôsobovanie sa teplote prostredia živočíchov so stálou telesnou teplotou"
+      },
+      {
+        "id": "b",
+        "text": "prispôsobovanie sa teplote prostredia živočíchov ektotermnych"
+      },
+      {
+        "id": "c",
+        "text": "zvýšený bazálny metabolizmus za nepriaznivých podmienok"
+      },
+      {
+        "id": "d",
+        "text": "že v prípade nepriaznivej teploty prostredia sa endotermne živočíchy stávajú dočasne ektotermnymi"
+      },
+      {
+        "id": "e",
+        "text": "že nastupuje fyzikálna termoregulácia"
+      },
+      {
+        "id": "f",
+        "text": "že nastupuje chemická termoregulácia 93 teplotou"
+      },
+      {
+        "id": "g",
+        "text": "glukagón"
+      },
+      {
+        "id": "h",
+        "text": "adrenalín"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d"
+    ],
+    "explanation": "Heterotermia je schopnosť niektorých endotermných živočíchov prechodne znížiť reguláciu telesnej teploty a prispôsobiť sa teplote okolia, čím sa v nepriaznivých podmienkach (chlad, nedostatok potravy) stávajú dočasne ektotermnými (napr. pri hibernácii alebo dennom torpore). Umožňuje to šetriť energetické zásoby znížením rozdielu medzi telom a okolím, pričom bazálny metabolizmus nestúpa, ale klesá."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "437. Epifýza:",
+    "options": [
+      {
+        "id": "a",
+        "text": "melatonín"
+      },
+      {
+        "id": "b",
+        "text": "produkuje hormón, ktorý aktivuje tvorbu pohlavných hormónov"
+      },
+      {
+        "id": "c",
+        "text": "je funkčnou súčasťou hypofýzy"
+      },
+      {
+        "id": "d",
+        "text": "produkuje rastový hormón"
+      },
+      {
+        "id": "e",
+        "text": "reaguje na intenzitu svetla"
+      },
+      {
+        "id": "f",
+        "text": "produkuje melatonín"
+      },
+      {
+        "id": "g",
+        "text": "produkuje melanín"
+      },
+      {
+        "id": "h",
+        "text": "produkuje melanotropny hormón"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e",
+      "f"
+    ],
+    "explanation": "Epifýza (šuškovité teliesko) je neuroendokrinná žľaza epitalamu, ktorá reaguje na striedanie svetla a tmy a v tme secernuje hormón melatonín regulujúci cirkadiánne a sezónne biorytmy organizmu. Nepatrí k hypofýze, neprodukuje rastový hormón (ten tvorí adenohypofýza) ani pigment melanín (ten tvoria melanocyty v koži)."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "438. Hormóny štítnej žľazy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ovplyvňujú intenzitu metabolizmu"
+      },
+      {
+        "id": "b",
+        "text": "sú tyroxín a tyronin"
+      },
+      {
+        "id": "c",
+        "text": "sú stavebnými látkami"
+      },
+      {
+        "id": "d",
+        "text": "patria medzi gestagény"
+      },
+      {
+        "id": "e",
+        "text": "sa vytvárajú v hypofýze"
+      },
+      {
+        "id": "f",
+        "text": "udržiavajú vhodnú koncentráciu iónov sodíka v krvnej plazme"
+      },
+      {
+        "id": "g",
+        "text": "podmieňujú vytvorenie dokonalej obrany organizmu proti infekcii"
+      },
+      {
+        "id": "h",
+        "text": "regulujú napr. metamorfózu obojživelníkov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "h"
+    ],
+    "explanation": "Hormóny štítnej žľazy – tyroxín (T4) a trijódtyronín (T3) – stimulujú bazálny metabolizmus, spotrebu kyslíka a rast tkanív. U obojživelníkov sú nevyhnutným spúšťačom a regulátorom metamorfózy žubriežky na dospelého jedinca. Nie sú to stavebné látky ani gestagény, netvoria sa v hypofýze a metabolizmus sodíka riadi aldosterón z kôry nadobličiek."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "439. Hormóny hmyzu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú produkované neurosekrecnymi bunkami hlavového gangliá"
+      },
+      {
+        "id": "b",
+        "text": "sú produkované žľazami nachádzajúcimi sa v hrudi"
+      },
+      {
+        "id": "c",
+        "text": "môžu byť uvoľňované do vonkajšieho prostredia ako feromóny"
+      },
+      {
+        "id": "d",
+        "text": "riadia procesy spojené s dokonalou alebo nedokonalou premenou"
+      },
+      {
+        "id": "e",
+        "text": "môžu mať vnútrodruhovú komunikačnú funkciu"
+      },
+      {
+        "id": "f",
+        "text": "sú produkované Malpighiho žľazami"
+      },
+      {
+        "id": "g",
+        "text": "sú distribuované do tkanív krvou"
+      },
+      {
+        "id": "h",
+        "text": "sú vylučované do uzavretého lymfatického cievneho systému"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "Endokrinná regulácia hmyzu zahŕňa neurosekrečné bunky mozgového ganglia (produkujúce aktivačný hormón), predhrudné žľazy (ekdyzón vyvolávajúci zvliekanie) a telieska corpora allata (juvenilný hormón brániaci dospelej premene), ktoré koordinujú metamorfózu. Hmyz tiež uvoľňuje feromóny slúžiace na vnútrodruhovú komunikáciu. Malpighiho trubice sú vylučovacie orgány a hmyz nemá uzavretú krvnú ani lymfatickú sústavu."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "440. Prištítne telieska sa prvýkrát objavujú pri:",
+    "options": [
+      {
+        "id": "a",
+        "text": "cicavcoch"
+      },
+      {
+        "id": "b",
+        "text": "hmyze"
+      },
+      {
+        "id": "c",
+        "text": "obojživelníkoch"
+      },
+      {
+        "id": "d",
+        "text": "vtákoch"
+      },
+      {
+        "id": "e",
+        "text": "rybách"
+      },
+      {
+        "id": "f",
+        "text": "bezstavovcoch"
+      },
+      {
+        "id": "g",
+        "text": "mäkkýšoch"
+      },
+      {
+        "id": "h",
+        "text": "plazoch"
+      }
+    ],
+    "correct_answers": [
+      "c"
+    ],
+    "explanation": "Prištítne telieska (glandulae parathyroideae) a ich hormón parathormón sa fylogeneticky prvýkrát objavujú u obojživelníkov v súvislosti s prechodom stavovcov z vody na súš a potrebou prísnej regulácie hladiny vápnika v krvi a kostnom tkanive. Ryby a bezstavovce prištítne telieska nemajú."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "441. Inzulín:",
+    "options": [
+      {
+        "id": "a",
+        "text": "znižuje hladinu glukózy v krvi"
+      },
+      {
+        "id": "b",
+        "text": "zvyšuje ukladanie glykogénu V pečeni a svaloch"
+      },
+      {
+        "id": "c",
+        "text": "zvyšuje hladinu glukózy v krvi"
+      },
+      {
+        "id": "d",
+        "text": "urýchľuje rozklad glykogénu v pečeni"
+      },
+      {
+        "id": "e",
+        "text": "zvyšuje tvorbu tukov v pankrease"
+      },
+      {
+        "id": "f",
+        "text": "znižuje ukladanie glykogénu v pečeni a svaloch 94"
+      },
+      {
+        "id": "g",
+        "text": "ovplyvňuje metabolizmus sacharidov opačne ako glukagón"
+      },
+      {
+        "id": "h",
+        "text": "podporuje zvýšené zužitkovanie glukózy v bunkách"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "g",
+      "h"
+    ],
+    "explanation": "Inzulín je peptidový hormón B-buniek Langerhansových ostrovčekov pankreasu, ktorý pôsobí hypoglykemicky (znižuje glykémiu). Podporuje vstup glukózy do buniek, stimuluje syntézu glykogénu v pečeni a svaloch (glykogenézu) a pôsobí ako priamy fyziologický antagonista glukagónu. Rozklad glykogénu naopak inhibuje."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "442. Hormóny:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pôsobia nešpecifický na bunky cieľových tkanív"
+      },
+      {
+        "id": "b",
+        "text": "pôsobia špecifický na bunky cieľových tkanív"
+      },
+      {
+        "id": "c",
+        "text": "sú stavebnými látkami"
+      },
+      {
+        "id": "d",
+        "text": "sú zdrojom ATP"
+      },
+      {
+        "id": "e",
+        "text": "sa zucasthuju proteosyntézy"
+      },
+      {
+        "id": "f",
+        "text": "vylúčené do telových tekutín sú aktívne niekoľko minút alebo dní"
+      },
+      {
+        "id": "g",
+        "text": "sú vysoko účinné organické látky, ktoré ovplyviuju činnosť telesných orgánov"
+      },
+      {
+        "id": "h",
+        "text": "pôsobia ako regulátory látkovej premeny"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Hormóny sú vysoko účinné biochemické regulátory syntetizované endokrinnými žľazami alebo tkanivami, ktoré pôsobia špecificky na cieľové bunky nesúce zodpovedajúce receptory a riadia ich metabolické a fyziologické funkcie. V telových tekutinách vykazujú rôzny polčas účinku od niekoľkých minút po dni. Neslúžia ako zdroj energie (ATP) ani ako stavebné zložky buniek."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "443. Hormonálne regulaene mechanizmy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa uplathuju už pri bezstavovcoch"
+      },
+      {
+        "id": "b",
+        "text": "sa najskôr objavujú pri stavovcoch"
+      },
+      {
+        "id": "c",
+        "text": "pri stavovcoch sa odlišujú od hormonálnych regulaci pri bezstavovcoch"
+      },
+      {
+        "id": "d",
+        "text": "pri stavovcoch sa nelíšia od hormonálnych regulácii pri bezstavovcoch"
+      },
+      {
+        "id": "e",
+        "text": "sú pri bezstavovcoch nahradené nervovou reguláciou"
+      },
+      {
+        "id": "f",
+        "text": "sú rýchlejšie ako nervové regulácie"
+      },
+      {
+        "id": "g",
+        "text": "sú pomalšie ako nervové regulácie"
+      },
+      {
+        "id": "h",
+        "text": "sú priamo ovplyviovane aj nervovým systémom"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "g",
+      "h"
+    ],
+    "explanation": "Hormonálna regulácia je fylogeneticky veľmi stará a uplatňuje sa už u bezstavovcov (najmä neurosekrécia), pričom u stavovcov sa vyvinul komplexný endokrinný aparát prepojený s nervovou sústavou (neurohumorálna regulácia cez hypotalamus). Látkový transport hormónov krvou/cievami je pomalší než šírenie nervových vzruchov, ale má dlhodobejší účinok."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "444. Feromóny hmyzu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vyvolávajú agresivitu"
+      },
+      {
+        "id": "b",
+        "text": "vyvolávajú únikové reakcie"
+      },
+      {
+        "id": "c",
+        "text": "spôsobujú ospanlivosť"
+      },
+      {
+        "id": "d",
+        "text": "vyvolávajú obranné reakcie"
+      },
+      {
+        "id": "e",
+        "text": "spôsobujú pri hmyze spomalenie rastu"
+      },
+      {
+        "id": "f",
+        "text": "zabraňujú premene hmyzu"
+      },
+      {
+        "id": "g",
+        "text": "majú vplyv na metabolizmus hmyzu"
+      },
+      {
+        "id": "h",
+        "text": "vyvolávajú pohlavnú aktivitu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "h"
+    ],
+    "explanation": "Feromóny hmyzu sú exohormóny uvoľňované do vonkajšieho prostredia, ktoré vyvolávajú špecifické behaviorálne odpovede u príslušníkov rovnakého druhu: pohlavné feromóny stimulujú párenie a priťahujú partnera, kým poplašné feromóny vyvolávajú únikové alebo koordinované obranné reakcie kolónie. Nespôsobujú útlm rastu ani zablokovanie premeny."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "445. Predný lalok hypofýzy stavovcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "produkuje hormón prolaktín"
+      },
+      {
+        "id": "b",
+        "text": "produkuje melanotropny hormón"
+      },
+      {
+        "id": "c",
+        "text": "sa nazýva adenohypofýza"
+      },
+      {
+        "id": "d",
+        "text": "sa nazýva neurohypofýza"
+      },
+      {
+        "id": "e",
+        "text": "produkuje hormóny riadiace činnosť nadobličiek"
+      },
+      {
+        "id": "f",
+        "text": "produkuje rastový hormón"
+      },
+      {
+        "id": "g",
+        "text": "produkuje hormón vazopresín"
+      },
+      {
+        "id": "h",
+        "text": "produkuje hormón oxytocín"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "f"
+    ],
+    "explanation": "Predný lalok hypofýzy (adenohypofýza) je žľazový oddiel produkujúci glandotropné hormóny riadiace iné endokrinné žľazy (napr. ACTH riadi kôru nadobličiek), ako aj prolaktín (stimuluje laktáciu) a rastový hormón (somatotropín). Zadný lalok je neurohypofýza, ktorá len skladuje vazopresín a oxytocín vytvorené v hypotalame, a melanotropný hormón produkuje stredný lalok."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "446. K výskumným oblastiam zaoberajicim sa poznávaním správania zvierat patrí:",
+    "options": [
+      {
+        "id": "a",
+        "text": "výskum fyziol6gie podmienených reflexov 95"
+      },
+      {
+        "id": "b",
+        "text": "testosterón"
+      },
+      {
+        "id": "c",
+        "text": "behaviorizmus"
+      },
+      {
+        "id": "d",
+        "text": "etológia"
+      },
+      {
+        "id": "e",
+        "text": "výskum správania živočíchov V prirodzenom prostredí"
+      },
+      {
+        "id": "f",
+        "text": "anatómia"
+      },
+      {
+        "id": "g",
+        "text": "cytológia"
+      },
+      {
+        "id": "h",
+        "text": "skúmanie fyziológie prenosu nervového signálu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e"
+    ],
+    "explanation": "K výskumu správania zvierat patrí klasická etológia skúmajúca vrodené aj naučené správanie v prirodzenom prostredí, behaviorizmus skúmajúci odpovede organizmu na stimuly a fyziológia vyššej nervovej činnosti zameraná na reflexy a hormonálne vplyvy (v kľúči testovnice vrátane pôsobenia testosterónu). Anatómia a cytológia skúmajú morfologickú štruktúru orgánov a buniek, nie samotné správanie."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "447. Komunikačné signály Živočíchov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mo2zu byť akustické alebo optické"
+      },
+      {
+        "id": "b",
+        "text": "majú identifikačnú alebo výstražnú funkciu"
+      },
+      {
+        "id": "c",
+        "text": "môžu byť dotykové alebo elektrické"
+      },
+      {
+        "id": "d",
+        "text": "sa uplatňujú napr. pri obrane teritória"
+      },
+      {
+        "id": "e",
+        "text": "neovplyvňujú správanie iných príslušníkov druhu"
+      },
+      {
+        "id": "f",
+        "text": "nie sú súčasťou sociálneho správania"
+      },
+      {
+        "id": "g",
+        "text": "slúžia na prenos informácie"
+      },
+      {
+        "id": "h",
+        "text": "nemajú informačnú funkciu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Komunikácia živočíchov spočíva v prenose informácií medzi jedincami pomocou signálov, ktoré môžu byť akustické, optické, dotykové, chemické či elektrické. Tieto signály majú identifikačnú, varovnú alebo teritoriálnu funkciu a priamo ovplyvňujú správanie prijímateľa, čo je podstatou sociálneho a teritoriálneho správania. Tvrdenia o absencii informačnej funkcie sú v priamom rozpore s definíciou komunikácie."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "448. Fakultatívne učenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prebieha len v ranom veku živočíchov"
+      },
+      {
+        "id": "b",
+        "text": "nie je vekovo obmedzené"
+      },
+      {
+        "id": "c",
+        "text": "prebieha prakticky po celý život jedinca"
+      },
+      {
+        "id": "d",
+        "text": "vedie k zdokonaľovaniu činnosti živočícha"
+      },
+      {
+        "id": "e",
+        "text": "je napr. vpecatenie"
+      },
+      {
+        "id": "f",
+        "text": "je prispôsobenie sa endogénnym biologickým rytmom"
+      },
+      {
+        "id": "g",
+        "text": "je základom obranných reakci mláďat"
+      },
+      {
+        "id": "h",
+        "text": "prebieha na základe nepodmienených reflexov"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Fakultatívne učenie je nepovinná, flexibilná forma učenia, ktorá nie je vekovo obmedzená, prebieha počas celej ontogenézy jedinca na základe zvedavosti a individuálnych skúseností a vedie k neustálemu zdokonaľovaniu činnosti. Naopak obligatórne učenie (napr. vpečatenie – imprinting) prebieha výlučne v ranom veku počas citlivej fázy života."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "449. Inštinktívne správanie Zivotichov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je predmetom skúmania etológie"
+      },
+      {
+        "id": "b",
+        "text": "je predmetom skúmania exobiologie )je vrodené správanie vyvolávané endogénnymi alebo exogénnymi podnetmi"
+      },
+      {
+        "id": "c",
+        "text": "progesterón"
+      },
+      {
+        "id": "d",
+        "text": "je správanie, ktorého základom sú nepodmienené reflexy"
+      },
+      {
+        "id": "e",
+        "text": "je správanie, ktorého základom sú podmienené reflexy"
+      },
+      {
+        "id": "f",
+        "text": "je napr. obranné a titekove správanie"
+      },
+      {
+        "id": "g",
+        "text": "zahŕňa schopnosť generalizácie"
+      },
+      {
+        "id": "h",
+        "text": "je napr. komfortné správanie"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "f",
+      "h"
+    ],
+    "explanation": "Inštinktívne správanie je vrodená, druhovo špecifická forma správania tvorená reťazcami nepodmienených reflexov, ktorú skúma etológia a ktorá je modulovaná vnútorným hormonálnym stavom (v kľúči testovnice progesterón ovplyvňujúci materské správanie). Zahŕňa napr. obranné, únikové či komfortné správanie (starostlivosť o telo). Nie je založené na podmienených reflexoch a nezahŕňa abstraktnú generalizáciu."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "450. Teritoriálne správanie živočíchov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prítomný v Žalúdočnej stave"
+      },
+      {
+        "id": "b",
+        "text": "vylučovaný príušnými žazami"
+      },
+      {
+        "id": "c",
+        "text": "prítomný v slinách"
+      },
+      {
+        "id": "d",
+        "text": "natravujuci polysacharidy v ústnej dutine"
+      },
+      {
+        "id": "e",
+        "text": "ktorý štiepi bielkoviny v ústnej dutine"
+      },
+      {
+        "id": "f",
+        "text": "prítomný v Črevnej stave"
+      },
+      {
+        "id": "g",
+        "text": "ktorý má baktericídne účinky 97"
+      },
+      {
+        "id": "h",
+        "text": "3 páry veľkých slinných žliaz - podjazykové, podsánkové, príušné 455. 1 Ptyalín je enzým:"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "f",
+      "g"
+    ],
+    "explanation": "V otázke č. 450 došlo v tlači testovnice UPJŠ LF k tlačovej chybe (možnosti patria enzýmu ptyalín). Ptyalín (slinná alfa-amyláza) je produkovaný najmä príušnými žľazami (glandula parotis) a vylučovaný do slín v ústnej dutine, kde začína štiepenie polysacharidov (škrobu). Sliny obsahujú aj baktericídny lyzozým a trávenina prechádza ďalej do žalúdka a čreva; ptyalín neštiepi bielkoviny (tie štiepi až pepsín v žalúdku)."
+  }
+]

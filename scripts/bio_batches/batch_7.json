@@ -1,0 +1,2257 @@
+[
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "301. Srdcový sval stavovcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "stavbou pripomína priečne pruhované svaly"
+      },
+      {
+        "id": "b",
+        "text": "funkciou pripomína hladké svaly"
+      },
+      {
+        "id": "c",
+        "text": "stavbou pripomína hladké svaly"
+      },
+      {
+        "id": "d",
+        "text": "funkciou pripomína priečne pruhované svaly"
+      },
+      {
+        "id": "e",
+        "text": "má prevahu bielych svalových vlákien"
+      },
+      {
+        "id": "f",
+        "text": "má prevahu červených svalových vlákien"
+      },
+      {
+        "id": "g",
+        "text": "je regulovaný autonómnym nervovým systémom"
+      },
+      {
+        "id": "h",
+        "text": "je ovplyvňovaný aktivitami organizmu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "302. Kontrakcia priečne pruhovaného svalu:",
+    "options": [
+      {
+        "id": "a",
+        "text": "prebieha pri vysokej koncentraci Ca2+ v cytoplazme svalovej bunky svalového vlákna"
+      },
+      {
+        "id": "b",
+        "text": "je podmienená reakciou medzi aktínom a myozinom"
+      },
+      {
+        "id": "c",
+        "text": "je podmienená vznikom stabilného aktinomyozinu"
+      },
+      {
+        "id": "d",
+        "text": "prebieha na základe nervového vzruchu"
+      },
+      {
+        "id": "e",
+        "text": "je riadená ústrednou nervovou sústavou"
+      },
+      {
+        "id": "f",
+        "text": "je riadená autonómnymi nervami"
+      },
+      {
+        "id": "g",
+        "text": "prebieha len ak je inhibovaná relaxačná bielkovina - troponín"
+      },
+      {
+        "id": "h",
+        "text": "je nevratná"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "303. Sval, ktorý je v pokojovom režime:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má nízku koncentráciu Ca2+ v cytoplazme"
+      },
+      {
+        "id": "b",
+        "text": "má vysokú koncentráciu Ca2+ v cytoplazme"
+      },
+      {
+        "id": "c",
+        "text": "má troponín naviazaný na aktín, čím zabraňuje vzniku aktinomyozinu"
+      },
+      {
+        "id": "d",
+        "text": "má blokovanú činnosť relaxačných bielkovín"
+      },
+      {
+        "id": "e",
+        "text": "má Ca2+ naviazaný na troponín"
+      },
+      {
+        "id": "f",
+        "text": "je schopný prijať podnet na kontrakciu"
+      },
+      {
+        "id": "g",
+        "text": "je nedostatočne zásobovaný kyslíkom"
+      },
+      {
+        "id": "h",
+        "text": "nie je schopný meniť nervový signál na podnet pre kontrakciu 67"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "304. Svalová inava:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa objektívne prejavuje znížením výkonnosti svalu"
+      },
+      {
+        "id": "b",
+        "text": "je spôsobená hromadením metabolitov, napr. kyseliny mliečnej"
+      },
+      {
+        "id": "c",
+        "text": "je spôsobená hromadením metabolitov, napr. glykogénu"
+      },
+      {
+        "id": "d",
+        "text": "je spôsobená nedostatkom kyslíka"
+      },
+      {
+        "id": "e",
+        "text": "je spôsobená nedostatkom kreatínfosfátu"
+      },
+      {
+        "id": "f",
+        "text": "je spôsobená hromadením kreatínfosfátu"
+      },
+      {
+        "id": "g",
+        "text": "sa prejavuje zrýchlením kontrakcie"
+      },
+      {
+        "id": "h",
+        "text": "môže viesť k zastaveniu innosti svalu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "e",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "305. Mimobunkové trávenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa vyskytuje pri obruckavcoch"
+      },
+      {
+        "id": "b",
+        "text": "sa prvýkrát objavuje pri dvojstranné súmerných živočíchoch"
+      },
+      {
+        "id": "c",
+        "text": "gastrovaskulárna sústava"
+      },
+      {
+        "id": "d",
+        "text": "je typické pre stavovce"
+      },
+      {
+        "id": "e",
+        "text": "sa prvýkrát objavuje pri ploskavcoch"
+      },
+      {
+        "id": "f",
+        "text": "je spôsob vnutroteloveho trávenia"
+      },
+      {
+        "id": "g",
+        "text": "je enzymatické štiepenie potravy mimo tela Živočícha"
+      },
+      {
+        "id": "h",
+        "text": "je spôsob mechanického spracovania potravy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "306. Vnútrobunkové trávenie sa vyskytuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pri obruckavcoch"
+      },
+      {
+        "id": "b",
+        "text": "pri stavovcoch"
+      },
+      {
+        "id": "c",
+        "text": "pri jednobunkových organizmoch"
+      },
+      {
+        "id": "d",
+        "text": "pri lankonozcoch"
+      },
+      {
+        "id": "e",
+        "text": "pri všetkých mäkkýšoch"
+      },
+      {
+        "id": "f",
+        "text": "pri jednoduchých mnohobunkových organizmoch"
+      },
+      {
+        "id": "g",
+        "text": "pri prvokoch"
+      },
+      {
+        "id": "h",
+        "text": "pri pávikoch"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "307. Mimotelové trávenie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je enzymatické štiepenie potravy mimo tela živočícha"
+      },
+      {
+        "id": "b",
+        "text": "je enzymatické štiepenie potravy v tráviacej vakuole"
+      },
+      {
+        "id": "c",
+        "text": "je enzymatické štiepenie potravy v tráviacej rúre"
+      },
+      {
+        "id": "d",
+        "text": "je mechanické spracovanie potravy mimo tela živočícha"
+      },
+      {
+        "id": "e",
+        "text": "je typické pre obrúčkavce"
+      },
+      {
+        "id": "f",
+        "text": "sa vyskytuje napr. pri pavikovcoch"
+      },
+      {
+        "id": "g",
+        "text": "je trávenie potravy v gastrovaskulárnej sústave"
+      },
+      {
+        "id": "h",
+        "text": "je enzymatické štiepenie potravy v bunkách ektodermu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "308. Pri mechanickom spracovaní sa potrava:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v ústnej dutine rozomieľa a navlhčuje"
+      },
+      {
+        "id": "b",
+        "text": "spracúva v žaznatom žalúdku vtákov"
+      },
+      {
+        "id": "c",
+        "text": "rozkladá za pomoci bakteri v bachore prežúvavcov"
+      },
+      {
+        "id": "d",
+        "text": "rozomieľa v svalnatom žalúdku vtákov"
+      },
+      {
+        "id": "e",
+        "text": "enzymatický rozkladá mimo tela živočícha"
+      },
+      {
+        "id": "f",
+        "text": "rozomieľa v hrvoli vtákov 68"
+      },
+      {
+        "id": "g",
+        "text": "emulguje žlčou v tenkom čreve cicavcov"
+      },
+      {
+        "id": "h",
+        "text": "zahusťuje v hrubom čreve cicavcov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "309. Tráviaca sústava pŕhlivcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má jeden otvor, plniaci funkciu prijímaciu aj vyvrhovaciu"
+      },
+      {
+        "id": "b",
+        "text": "má samostatné otvory pre príjem potravy a vyvrhovanie nestrávených zvyškov"
+      },
+      {
+        "id": "c",
+        "text": "pri niektorých druhoch je rozvetvená a plní aj obehovú funkciu"
+      },
+      {
+        "id": "d",
+        "text": "má povrch zväčšený klkmi a mikroklkmi"
+      },
+      {
+        "id": "e",
+        "text": "je členená na pažerák a žalúdok"
+      },
+      {
+        "id": "f",
+        "text": "napr. meduzovcov sa nazýva gastrovaskulárna"
+      },
+      {
+        "id": "g",
+        "text": "posúva potravu peristaltickými pohybmi"
+      },
+      {
+        "id": "h",
+        "text": "mechanicky spracúva prijatú potravu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "310. Bylinožravé živočíchy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "využívajú na spracovanie potravy symbiotické mikroorganizmy"
+      },
+      {
+        "id": "b",
+        "text": "sa označujú ako karnivora"
+      },
+      {
+        "id": "c",
+        "text": "sa označujú ako herbivora"
+      },
+      {
+        "id": "d",
+        "text": "sa označujú ako omnivora"
+      },
+      {
+        "id": "e",
+        "text": "sú primárne konzumenty"
+      },
+      {
+        "id": "f",
+        "text": "sú sekundárne konzumenty"
+      },
+      {
+        "id": "g",
+        "text": "majú tráviacu rúru výrazne dlhšiu ako mäsožravce"
+      },
+      {
+        "id": "h",
+        "text": "majú špecifickú stavbu žalúdka"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "e",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "311. Omnivora:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú primárne konzumenty"
+      },
+      {
+        "id": "b",
+        "text": "sú konzumenty vyššieho rádu"
+      },
+      {
+        "id": "c",
+        "text": "konzumujú výlučne rastlinnú potravu"
+      },
+      {
+        "id": "d",
+        "text": "sú všežravce"
+      },
+      {
+        "id": "e",
+        "text": "konzumujú výlučne mäsitú potravu"
+      },
+      {
+        "id": "f",
+        "text": "sú napr. medveď a človek"
+      },
+      {
+        "id": "g",
+        "text": "sú napr. jeleň a vlk"
+      },
+      {
+        "id": "h",
+        "text": "produkujú enzýmy rozkladajúce celulózu"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "312. Mäsožravé živočíchy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "majú dobre vyvinuté orgány na uchopenie koristi"
+      },
+      {
+        "id": "b",
+        "text": "sa označujú ako karnivora"
+      },
+      {
+        "id": "c",
+        "text": "sa označujú ako herbivora"
+      },
+      {
+        "id": "d",
+        "text": "sa označujú ako omnivora"
+      },
+      {
+        "id": "e",
+        "text": "sú primárne konzumenty"
+      },
+      {
+        "id": "f",
+        "text": "sú sekundárne konzumenty"
+      },
+      {
+        "id": "g",
+        "text": "sú dekompozitory"
+      },
+      {
+        "id": "h",
+        "text": "sú všežravé"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "313. Hepatopankreas je žľaza tráviacej sústavy:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mäkkýšov"
+      },
+      {
+        "id": "b",
+        "text": "stavovcov"
+      },
+      {
+        "id": "c",
+        "text": "obrúčkavcov"
+      },
+      {
+        "id": "d",
+        "text": "vtákov 69"
+      },
+      {
+        "id": "e",
+        "text": "cicavcov"
+      },
+      {
+        "id": "f",
+        "text": "plazov"
+      },
+      {
+        "id": "g",
+        "text": "krokodílov"
+      },
+      {
+        "id": "h",
+        "text": "človeka"
+      }
+    ],
+    "correct_answers": [
+      "a"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "314. Trávenie bielkovín sa začína:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v ústnej dutine"
+      },
+      {
+        "id": "b",
+        "text": "v žalúdku pôsobením pepsínu"
+      },
+      {
+        "id": "c",
+        "text": "v žalúdku pôsobením trypsínu"
+      },
+      {
+        "id": "d",
+        "text": "v tenkom čreve"
+      },
+      {
+        "id": "e",
+        "text": "v hrubom čreve"
+      },
+      {
+        "id": "f",
+        "text": "v podžalúdkovej zaze pôsobením trypsínu"
+      },
+      {
+        "id": "g",
+        "text": "v zaluidku pôsobením pepsinogénu"
+      },
+      {
+        "id": "h",
+        "text": "v pečeni"
+      }
+    ],
+    "correct_answers": [
+      "b"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: B."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "315. Vtáky majú žalúdok:",
+    "options": [
+      {
+        "id": "a",
+        "text": "štvordielny"
+      },
+      {
+        "id": "b",
+        "text": "žaznaty, v ktorom sa potrava spracúva mechanicky"
+      },
+      {
+        "id": "c",
+        "text": "svalnatý, v ktorom sa potrava trávi chemický"
+      },
+      {
+        "id": "d",
+        "text": "žaznaty, v ktorom sa potrava trávi chemický"
+      },
+      {
+        "id": "e",
+        "text": "svalnatý, v ktorom sa potrava spraciva mechanicky"
+      },
+      {
+        "id": "f",
+        "text": "dvojdielny"
+      },
+      {
+        "id": "g",
+        "text": "pozostávajúci z hrvoľa a svalnatého žalúdka"
+      },
+      {
+        "id": "h",
+        "text": "rozdelený na hrvo' a samotný žalúdok"
+      }
+    ],
+    "correct_answers": [
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "316. Zalidok prežúvavcov pozostáva:",
+    "options": [
+      {
+        "id": "a",
+        "text": "z 3 predzaludkov: bachor, čepiec, kniha a z vlastného žalúdka: slez"
+      },
+      {
+        "id": "b",
+        "text": "z 3 predzaludkov: bachor, slez, kniha a z vlastného žalúdka: čepiec"
+      },
+      {
+        "id": "c",
+        "text": "z 2 predzaludkov: bachor, čepiec a 2 žalúdkov: kniha, slez"
+      },
+      {
+        "id": "d",
+        "text": "z 3 predzaludkov: slez, kniha, čepiec a z vlastného žalúdka: bachor"
+      },
+      {
+        "id": "e",
+        "text": "zo 4 predzaludkov: bachor, kniha, čepiec, slez"
+      },
+      {
+        "id": "f",
+        "text": "zo žľaznatého a svalnatého žalúdka"
+      },
+      {
+        "id": "g",
+        "text": "z predžalúdku a trojdielneho vlastného žalúdku"
+      },
+      {
+        "id": "h",
+        "text": "z rozšíreného pažeráka a vlastného žalúdka"
+      }
+    ],
+    "correct_answers": [
+      "a"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "317. Celulóza v potrave bylinožravcov je rozkladaná:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v ústnej dutine enzýmami obsiahnutými v slinách"
+      },
+      {
+        "id": "b",
+        "text": "mechanicky v žalúdku"
+      },
+      {
+        "id": "c",
+        "text": "v žalúdku činnosťou symbiotických mikroorganizmov"
+      },
+      {
+        "id": "d",
+        "text": "v tenkom čreve pôsobením žlče"
+      },
+      {
+        "id": "e",
+        "text": "v tenkom čreve pôsobením amyláz"
+      },
+      {
+        "id": "f",
+        "text": "v pankrease pôsobením pankreasovych enzýmov"
+      },
+      {
+        "id": "g",
+        "text": "v žalúdku na oligosacharidy, ktoré sti ďalej nestráviteľné"
+      },
+      {
+        "id": "h",
+        "text": "v hrubom čreve"
+      }
+    ],
+    "correct_answers": [
+      "c"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "318. ZPazy v sliznici žalúdka cicavcov produkujú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pečeň"
+      },
+      {
+        "id": "b",
+        "text": "trypsín, ktorý štiepi bielkoviny"
+      },
+      {
+        "id": "c",
+        "text": "kyselinu chlorovodíkoví 70"
+      },
+      {
+        "id": "d",
+        "text": "mučín"
+      },
+      {
+        "id": "e",
+        "text": "chýmus"
+      },
+      {
+        "id": "f",
+        "text": "nukleazy potrebné pre trávenie nukleových kyselín"
+      },
+      {
+        "id": "g",
+        "text": "z1c"
+      },
+      {
+        "id": "h",
+        "text": "bilirubín"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "319. Najdôležitejším orgánom vstrebávania látok z tráviacej sústavy je:",
+    "options": [
+      {
+        "id": "a",
+        "text": "žalúdok"
+      },
+      {
+        "id": "b",
+        "text": "hltan"
+      },
+      {
+        "id": "c",
+        "text": "pažerák"
+      },
+      {
+        "id": "d",
+        "text": "tenké črevo"
+      },
+      {
+        "id": "e",
+        "text": "hrubé črevo"
+      },
+      {
+        "id": "f",
+        "text": "pankreas"
+      },
+      {
+        "id": "g",
+        "text": "podžalúdková žľaza"
+      },
+      {
+        "id": "h",
+        "text": "pečeň"
+      }
+    ],
+    "correct_answers": [
+      "d"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "320. Trávenie bielkovín pri stavovcoch začína:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v ústnej dutine pôsobením slinných amyláz"
+      },
+      {
+        "id": "b",
+        "text": "v žalúdku pôsobením trypsínu"
+      },
+      {
+        "id": "c",
+        "text": "v žalúdku pôsobením pepsinogenu"
+      },
+      {
+        "id": "d",
+        "text": "v žalúdku pôsobením pepsínu"
+      },
+      {
+        "id": "e",
+        "text": "v tenkom čreve pôsobením kyseliny chlorovodíkovej"
+      },
+      {
+        "id": "f",
+        "text": "v tenkom čreve pôsobením žlče"
+      },
+      {
+        "id": "g",
+        "text": "v žalúdku pôsobením mucinu"
+      },
+      {
+        "id": "h",
+        "text": "v tenkom čreve pôsobením bilirubínu"
+      }
+    ],
+    "correct_answers": [
+      "d"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "321. Trávenie tukov pri stavovcoch prebieha:",
+    "options": [
+      {
+        "id": "a",
+        "text": "v žalúdku pôsobením pepsínu"
+      },
+      {
+        "id": "b",
+        "text": "v tenkom čreve pôsobením trypsínu"
+      },
+      {
+        "id": "c",
+        "text": "v tenkom čreve pôsobením žlče a lipázy"
+      },
+      {
+        "id": "d",
+        "text": "v tenkom čreve pôsobením žlče a amylázy"
+      },
+      {
+        "id": "e",
+        "text": "v pečeni"
+      },
+      {
+        "id": "f",
+        "text": "v žalúdku pôsobením lipázy"
+      },
+      {
+        "id": "g",
+        "text": "prostredníctvom pankreasovej stavy"
+      },
+      {
+        "id": "h",
+        "text": "prostredníctvom slinných amyláz"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "322. Sliny v istnej dutine cicavcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "navlhčujú potravu, čím uľahčujú hltanie"
+      },
+      {
+        "id": "b",
+        "text": "obsahujú pepsín, ktorý štiepi bielkoviny"
+      },
+      {
+        "id": "c",
+        "text": "môžu obsahovať amylázy"
+      },
+      {
+        "id": "d",
+        "text": "pomáhajú udržiavať čistotu ústnej dutiny"
+      },
+      {
+        "id": "e",
+        "text": "neutralizujú kyseliny a zabraňujú tak vzniku zubného kazu"
+      },
+      {
+        "id": "f",
+        "text": "obsahujú lipázu, ktorá štiepi tuky"
+      },
+      {
+        "id": "g",
+        "text": "môžu mať protibakteriálne účinky"
+      },
+      {
+        "id": "h",
+        "text": "obsahujú enzýmy štiepiace celulózu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "323. Pankreasova stáva:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pôsobí v tráviacom systéme cicavcov na všetky živiny"
+      },
+      {
+        "id": "b",
+        "text": "obsahuje amylázu, ktorá rozkladá škrob"
+      },
+      {
+        "id": "c",
+        "text": "obsahuje lipázu, ktorá rozkladá tuky"
+      },
+      {
+        "id": "d",
+        "text": "obsahuje trypsín rozkladajúci bielkoviny 71"
+      },
+      {
+        "id": "e",
+        "text": "obsahuje cholín, ktorý emulguje tuky"
+      },
+      {
+        "id": "f",
+        "text": "obsahuje amylázu, ktorá rozkladá tuky"
+      },
+      {
+        "id": "g",
+        "text": "je vylučovaná pankreasom do žlčovodu"
+      },
+      {
+        "id": "h",
+        "text": "je vylučovaná pankreasom do tenkého réva"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "324. Žlč:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je produktom pečene"
+      },
+      {
+        "id": "b",
+        "text": "je produktom žlčníka"
+      },
+      {
+        "id": "c",
+        "text": "sa skladuje v žlčníku"
+      },
+      {
+        "id": "d",
+        "text": "sa vytvára nepretržite"
+      },
+      {
+        "id": "e",
+        "text": "sa vytvára až po prijatí potravy"
+      },
+      {
+        "id": "f",
+        "text": "obsahuje enzýmy potrebné pre trávenie tukov"
+      },
+      {
+        "id": "g",
+        "text": "obsahuje látky emulgujuce tuky"
+      },
+      {
+        "id": "h",
+        "text": "alkalizuje prostredie v tenkom čreve"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c",
+      "d",
+      "g",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "325. Do tenkého čreva vyúsťuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pankreas produkujúci zlé"
+      },
+      {
+        "id": "b",
+        "text": "podžalúdková žľaza, produkujúca pankreasovu stavu"
+      },
+      {
+        "id": "c",
+        "text": "zlenik, produkujúci lipázy"
+      },
+      {
+        "id": "d",
+        "text": "pečeň, produkujúca zlé"
+      },
+      {
+        "id": "e",
+        "text": "pankreas"
+      },
+      {
+        "id": "f",
+        "text": "žľazy tenkého čreva produkujúce Črevnú stavu"
+      },
+      {
+        "id": "g",
+        "text": "pečeň, produkujúca pepsinogén a trypsinogen"
+      },
+      {
+        "id": "h",
+        "text": "podžalúdková žľaza, produkujúca bilirubín a biliverdín"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "326. Resorpena plocha tenkého réva stavovcov je zväčšená:",
+    "options": [
+      {
+        "id": "a",
+        "text": "klkmi"
+      },
+      {
+        "id": "b",
+        "text": "mikroklkmi"
+      },
+      {
+        "id": "c",
+        "text": "rozvetvenými kapilárami"
+      },
+      {
+        "id": "d",
+        "text": "žľazami tenkého čreva"
+      },
+      {
+        "id": "e",
+        "text": "svalovými prstencami"
+      },
+      {
+        "id": "f",
+        "text": "vývodmi pankreasu a pečene"
+      },
+      {
+        "id": "g",
+        "text": "nervovými zakončeniami"
+      },
+      {
+        "id": "h",
+        "text": "priečnymi prepážkami"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "327. Peristaltické pohyby tenkého čreva:",
+    "options": [
+      {
+        "id": "a",
+        "text": "podporujú pohyb tráveniny"
+      },
+      {
+        "id": "b",
+        "text": "premiesavaju tráveninu s enzýmami a podporujú vstrebávanie"
+      },
+      {
+        "id": "c",
+        "text": "podporujú vylučovanie Črevnej stavy"
+      },
+      {
+        "id": "d",
+        "text": "podporujú vylučovanie žlče"
+      },
+      {
+        "id": "e",
+        "text": "napomáhajú zahusťovaniu stolice"
+      },
+      {
+        "id": "f",
+        "text": "sú riadené motorickými nervami"
+      },
+      {
+        "id": "g",
+        "text": "sú regulované autonómnym systémom"
+      },
+      {
+        "id": "h",
+        "text": "sú vôľovo ovládateľné"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "328. Nestrávite'ne časti potravy sa vylučujú z tela:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pri prvokoch exocytózou"
+      },
+      {
+        "id": "b",
+        "text": "žlčník"
+      },
+      {
+        "id": "c",
+        "text": "pri cicavcoch análnym otvorom v podobe stolice"
+      },
+      {
+        "id": "d",
+        "text": "pri prvokoch endocytózou"
+      },
+      {
+        "id": "e",
+        "text": "pri vtákoch kloakou 72"
+      },
+      {
+        "id": "f",
+        "text": "pri prezivavcoch ústnym otvorom"
+      },
+      {
+        "id": "g",
+        "text": "po metabolickom spracovaní obličkami"
+      },
+      {
+        "id": "h",
+        "text": "pri mnohostetinavcoch nefridiami"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "329. Hrubé Srevo vyšších stavovcov zabezpečuje predovšetkým:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mechanické spracovanie potravy"
+      },
+      {
+        "id": "b",
+        "text": "vstrebávanie rozloženej potravy"
+      },
+      {
+        "id": "c",
+        "text": "spätnú resorpciu vody a minerálnych látok"
+      },
+      {
+        "id": "d",
+        "text": "chemické trávenie potravy"
+      },
+      {
+        "id": "e",
+        "text": "zahusťovanie nestrávených zvyškov potravy"
+      },
+      {
+        "id": "f",
+        "text": "emulgáciu tukov"
+      },
+      {
+        "id": "g",
+        "text": "vstrebávanie základných živín"
+      },
+      {
+        "id": "h",
+        "text": "trávenie celulózy pomocou črevných bakteri"
+      }
+    ],
+    "correct_answers": [
+      "c",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "330. Živočíchy môžu prijímať kyslík potrebný pre dýchanie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zo vzduchu, kde je jeho koncentrácia priemerne 21 %"
+      },
+      {
+        "id": "b",
+        "text": "z vody, kde je jeho koncentrácia 0,6 - 0,85 %"
+      },
+      {
+        "id": "c",
+        "text": "vo forme oxidov uhlíka"
+      },
+      {
+        "id": "d",
+        "text": "zo vzduchu, kde je jeho koncentrácia priemerne 78 %"
+      },
+      {
+        "id": "e",
+        "text": "z vody, kde je jeho koncentrácia priemerne 0,03 %"
+      },
+      {
+        "id": "f",
+        "text": "vo forme plynných oxidov"
+      },
+      {
+        "id": "g",
+        "text": "Žiabrami zo vzduchu"
+      },
+      {
+        "id": "h",
+        "text": "z vody Žiabrami alebo pokožkou"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "331. Vzdušnice:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pracujú bez obehovej sústavy"
+      },
+      {
+        "id": "b",
+        "text": "spolupracujú s obehovou sústavou"
+      },
+      {
+        "id": "c",
+        "text": "sa otvárajú na povrch tela"
+      },
+      {
+        "id": "d",
+        "text": "sú pomocným dýchacím orgánom vtákov"
+      },
+      {
+        "id": "e",
+        "text": "sú hlavným dýchacím orgánom cicavcov"
+      },
+      {
+        "id": "f",
+        "text": "tvoria jednoduché vaky, ktorých steny sú členené priehradkami"
+      },
+      {
+        "id": "g",
+        "text": "sa vyvinuli zo Žiaber"
+      },
+      {
+        "id": "h",
+        "text": "vedú kyslík do hemolymfy"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "c"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "332. Vzdušnice sú dýchacie orgány:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pavikovcov"
+      },
+      {
+        "id": "b",
+        "text": "hmyzu"
+      },
+      {
+        "id": "c",
+        "text": "ktoré sa na povrch tela otvárajú stigmami"
+      },
+      {
+        "id": "d",
+        "text": "ktoré vedú kyslík priamo do tkanív"
+      },
+      {
+        "id": "e",
+        "text": "ktoré prenášajú kyslík pomocou dýchacích farbív"
+      },
+      {
+        "id": "f",
+        "text": "využívajúce protismerove prúdenie"
+      },
+      {
+        "id": "g",
+        "text": "rozvetvujuce sa vo vnútri tkanív"
+      },
+      {
+        "id": "h",
+        "text": "obojživelníkov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "333. Pavúkovce dýchajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pľicnymi vačkami"
+      },
+      {
+        "id": "b",
+        "text": "vzdušnicami"
+      },
+      {
+        "id": "c",
+        "text": "tracheami"
+      },
+      {
+        "id": "d",
+        "text": "celým povrchom tela 73"
+      },
+      {
+        "id": "e",
+        "text": "Žiabrami"
+      },
+      {
+        "id": "f",
+        "text": "pľicami"
+      },
+      {
+        "id": "g",
+        "text": "sliznicou tráviacej rúry"
+      },
+      {
+        "id": "h",
+        "text": "tykadlovymi zPazami"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "334. Dýchacie orgány vývojovo dokonalejších Živočíchov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa vyvinuli z mezodermu"
+      },
+      {
+        "id": "b",
+        "text": "môžu zásobovať tkanivá kyslíkom priamo, napr. vzdušnice ) môžu zásobovať tkanivá kyslíkom nepriamo, napr. pp'uča"
+      },
+      {
+        "id": "c",
+        "text": "metanefrídie"
+      },
+      {
+        "id": "d",
+        "text": "pracujú na princípe difúzie plynov"
+      },
+      {
+        "id": "e",
+        "text": "môžu zásobovať tkanivá kyslíkom priamo, napr. žiabre"
+      },
+      {
+        "id": "f",
+        "text": "môžu zásobovať tkanivá kyslíkom priamo, napr. vzdusnicove žiabre"
+      },
+      {
+        "id": "g",
+        "text": "získavajú kyslík z anorganických zlúčenín"
+      },
+      {
+        "id": "h",
+        "text": "získavajú kyslík rozkladom organických zlúčenín"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "335. V srdci rýb prúdi krv:",
+    "options": [
+      {
+        "id": "a",
+        "text": "okysličená"
+      },
+      {
+        "id": "b",
+        "text": "odkysličená"
+      },
+      {
+        "id": "c",
+        "text": "zmiešaná"
+      },
+      {
+        "id": "d",
+        "text": "smerom k žiabram"
+      },
+      {
+        "id": "e",
+        "text": "obsahujúca hemoglobín"
+      },
+      {
+        "id": "f",
+        "text": "neobsahujúca krvné farbivá"
+      },
+      {
+        "id": "g",
+        "text": "obsahujúca červené krvinky s jadrom"
+      },
+      {
+        "id": "h",
+        "text": "obsahujúca bezjadrové erytrocyty"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "e",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "336. Najefektívnejšiu dýchaciu sústavu medzi stavovcami máj:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ryby"
+      },
+      {
+        "id": "b",
+        "text": "obojživelníky"
+      },
+      {
+        "id": "c",
+        "text": "plazy"
+      },
+      {
+        "id": "d",
+        "text": "vtáky"
+      },
+      {
+        "id": "e",
+        "text": "dvojdyšníky"
+      },
+      {
+        "id": "f",
+        "text": "suchozemské hady"
+      },
+      {
+        "id": "g",
+        "text": "korytnačky"
+      },
+      {
+        "id": "h",
+        "text": "mäsožravce"
+      }
+    ],
+    "correct_answers": [
+      "d"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "337. Kožné dýchanie:",
+    "options": [
+      {
+        "id": "a",
+        "text": "má rozhodujúci význam pre cicavce"
+      },
+      {
+        "id": "b",
+        "text": "má veľký význam pre ryby a obojživelníky"
+      },
+      {
+        "id": "c",
+        "text": "má značný význam pre veľryby"
+      },
+      {
+        "id": "d",
+        "text": "je jediný spôsob príjmu O2 pre vtáky"
+      },
+      {
+        "id": "e",
+        "text": "je jediný spôsob príjmu O2 pre lastúrniky"
+      },
+      {
+        "id": "f",
+        "text": "má značný význam pre delfíny"
+      },
+      {
+        "id": "g",
+        "text": "je jediný spôsob príjmu O2 pre mnohoštetinavce"
+      },
+      {
+        "id": "h",
+        "text": "zabezpečuje pokožka tvorená dýchacím epitelom"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "338. Delfíny a veľryby dýchajú:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vzdušnicami"
+      },
+      {
+        "id": "b",
+        "text": "postrannou čiarou"
+      },
+      {
+        "id": "c",
+        "text": "pp'icami"
+      },
+      {
+        "id": "d",
+        "text": "žiabrami"
+      },
+      {
+        "id": "e",
+        "text": "vzdušnými vakmi"
+      },
+      {
+        "id": "f",
+        "text": "parapódiami"
+      },
+      {
+        "id": "g",
+        "text": "pokožkou"
+      },
+      {
+        "id": "h",
+        "text": "pľúcami a Žiabrami"
+      }
+    ],
+    "correct_answers": [
+      "c"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: C."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "339. Vonkajšie dýchanie cicavcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "pľúcne vaky"
+      },
+      {
+        "id": "b",
+        "text": "je výmena dýchacích plynov medzi krvou a tkanivami 74"
+      },
+      {
+        "id": "c",
+        "text": "prevláda nad vnútorným dýchanim"
+      },
+      {
+        "id": "d",
+        "text": "je výmena dýchacích plynov medzi vonkajším prostredím a dýchacími cestami"
+      },
+      {
+        "id": "e",
+        "text": "je riadené tak, aby množstvo vdychovaného O2 a vydychovaného CO2 zodpovedalo intenzite metabolizmu"
+      },
+      {
+        "id": "f",
+        "text": "je pravidelne striedanie vdychov a výdychov"
+      },
+      {
+        "id": "g",
+        "text": "je vnikanie vzduchu do pľúc a unikanie z pľic"
+      },
+      {
+        "id": "h",
+        "text": "je výmena O2 a CO2 v tkanivách a bunkách pracujúcich orgánov"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "e"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "340. Výmena O2 a CO2 medzi krvou a tkanivami cicavcov sa nazýva:",
+    "options": [
+      {
+        "id": "a",
+        "text": "vnútorné dýchanie"
+      },
+      {
+        "id": "b",
+        "text": "vonkajšie dýchanie"
+      },
+      {
+        "id": "c",
+        "text": "p'učňa ventilácia"
+      },
+      {
+        "id": "d",
+        "text": "vitálna kapacita"
+      },
+      {
+        "id": "e",
+        "text": "vzdusnicové dýchanie"
+      },
+      {
+        "id": "f",
+        "text": "celková kapacita"
+      },
+      {
+        "id": "g",
+        "text": "tkanivové dýchanie"
+      },
+      {
+        "id": "h",
+        "text": "tkanivová oxidácia"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "341. Dýchacie farbivá v krvi stavovcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "zabezpečujú prenos Živín"
+      },
+      {
+        "id": "b",
+        "text": "zabezpečujú prenos O2"
+      },
+      {
+        "id": "c",
+        "text": "sú uzavreté v erytrocytoch"
+      },
+      {
+        "id": "d",
+        "text": "sú uzavreté v trombocytoch"
+      },
+      {
+        "id": "e",
+        "text": "sú voľne rozpustené v krvi"
+      },
+      {
+        "id": "f",
+        "text": "sú uzavreté v červených krvinkách"
+      },
+      {
+        "id": "g",
+        "text": "sú uzavreté v leukocytoch"
+      },
+      {
+        "id": "h",
+        "text": "sú schopné viazať kyslík"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "342. Dýchacie pohyby si pri stavovcoch riadené:",
+    "options": [
+      {
+        "id": "a",
+        "text": "dýchacím ústredím v mieche"
+      },
+      {
+        "id": "b",
+        "text": "dýchacím ústredím V predizenej mieche"
+      },
+      {
+        "id": "c",
+        "text": "dýchacím ústredím v strednom mozgu"
+      },
+      {
+        "id": "d",
+        "text": "na základe zmien tenzie O2 a CO2 v krvi"
+      },
+      {
+        "id": "e",
+        "text": "na základe zmien tlaku vzduchu v pľicach"
+      },
+      {
+        "id": "f",
+        "text": "dýchacím ústredím v medzimozgu"
+      },
+      {
+        "id": "g",
+        "text": "na základe množstva erytrocytov v krvi"
+      },
+      {
+        "id": "h",
+        "text": "nervovo a chemický"
+      }
+    ],
+    "correct_answers": [
+      "b",
+      "d",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "343. Spontánne dýchanie cicavcov riadi centrum v:",
+    "options": [
+      {
+        "id": "a",
+        "text": "mieche"
+      },
+      {
+        "id": "b",
+        "text": "mozočku"
+      },
+      {
+        "id": "c",
+        "text": "pľúcach"
+      },
+      {
+        "id": "d",
+        "text": "predizenej mieche"
+      },
+      {
+        "id": "e",
+        "text": "alveolách"
+      },
+      {
+        "id": "f",
+        "text": "prednom mozgu"
+      },
+      {
+        "id": "g",
+        "text": "hypofýze"
+      },
+      {
+        "id": "h",
+        "text": "hrtane"
+      }
+    ],
+    "correct_answers": [
+      "d"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "344. Dýchacie farbivá bezstavovcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú rozpustené v telovej tekutine"
+      },
+      {
+        "id": "b",
+        "text": "prenášajú kyslík z dýchacích orgánov do tkanív"
+      },
+      {
+        "id": "c",
+        "text": "sa zucasthuju bunkového dýchania"
+      },
+      {
+        "id": "d",
+        "text": "dodávajú organizmu energiu oxidacno-redukenymi reakciami"
+      },
+      {
+        "id": "e",
+        "text": "stu anorganické látky 75"
+      },
+      {
+        "id": "f",
+        "text": "sú bielkovinovej povahy"
+      },
+      {
+        "id": "g",
+        "text": "sa nachádzajú v bunkách vzdušníc"
+      },
+      {
+        "id": "h",
+        "text": "prenášajú kyslík z tkanív do telových tekutín"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "345. Typické Žiabre uložené v Žiabrovej dutine máji:",
+    "options": [
+      {
+        "id": "a",
+        "text": "ryby"
+      },
+      {
+        "id": "b",
+        "text": "mnohoštetinavce"
+      },
+      {
+        "id": "c",
+        "text": "kôrovce"
+      },
+      {
+        "id": "d",
+        "text": "Žubrienky obojživelníkov"
+      },
+      {
+        "id": "e",
+        "text": "embrya cicavcov"
+      },
+      {
+        "id": "f",
+        "text": "korytnačky"
+      },
+      {
+        "id": "g",
+        "text": "mäkkýše"
+      },
+      {
+        "id": "h",
+        "text": "vodné bezstavovce"
+      }
+    ],
+    "correct_answers": [
+      "a"
+    ],
+    "explanation": "Správna odpoveď podľa oficiálneho kľúča testovnice UPJŠ LF je: A."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "346. Pľicne alveoly:",
+    "options": [
+      {
+        "id": "a",
+        "text": "si základnou struktirnou a funkenou jednotkou pre výmenu plynov medzi organizmom a prostredím"
+      },
+      {
+        "id": "b",
+        "text": "sú slepé zakončenia dýchacích ciest"
+      },
+      {
+        "id": "c",
+        "text": "sú obklopené bohatou sieťou krvných vlásočníc"
+      },
+      {
+        "id": "d",
+        "text": "mnohonásobne zväčšujú dýchací povrch pľúc"
+      },
+      {
+        "id": "e",
+        "text": "sú vzdušné vaky vtákov"
+      },
+      {
+        "id": "f",
+        "text": "sú len minimálne prekrvené"
+      },
+      {
+        "id": "g",
+        "text": "nemajú význam pre výmenu plynov"
+      },
+      {
+        "id": "h",
+        "text": "sa vyvinuli zo vzdušníc"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "347. Plica stavovcov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sú párový orgán"
+      },
+      {
+        "id": "b",
+        "text": "žiabre"
+      },
+      {
+        "id": "c",
+        "text": "sa vyvinuli z ektodermu"
+      },
+      {
+        "id": "d",
+        "text": "sa vyvinuli z endodermu"
+      },
+      {
+        "id": "e",
+        "text": "sa vyvinuli z mezodermu"
+      },
+      {
+        "id": "f",
+        "text": "zabezpečujú nasýtenie krvi kyslíkom"
+      },
+      {
+        "id": "g",
+        "text": "zabezpečujú nasýtenie krvi oxidom uhličitým"
+      },
+      {
+        "id": "h",
+        "text": "zabezpečujú nasýtenie krvi hemoglobínom"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "d",
+      "f"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "348. Regulačné mechanizmy živočíchov:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sa vyvinuli v procese adaptácie živočíchov na meniace sa podmienky vonkajšieho prostredia"
+      },
+      {
+        "id": "b",
+        "text": "zabezpečujú stálosť vnútorného prostredia organizmu"
+      },
+      {
+        "id": "c",
+        "text": "pôsobia reflexné a látkovo"
+      },
+      {
+        "id": "d",
+        "text": "fungujú ako obranné mechanizmy"
+      },
+      {
+        "id": "e",
+        "text": "reagujú na zmeny vonkajších podmienok"
+      },
+      {
+        "id": "f",
+        "text": "zabezpečujú integritu organizmu"
+      },
+      {
+        "id": "g",
+        "text": "zabezpečujú riadenie organizmu"
+      },
+      {
+        "id": "h",
+        "text": "zabezpečujú stálosť vonkajšieho prostredia"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D, E, F, G."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "349. Nervovosvalová platnička:",
+    "options": [
+      {
+        "id": "a",
+        "text": "je zakončenie nervového vlákna v svalovej bunke"
+      },
+      {
+        "id": "b",
+        "text": "prijíma signál z ústrednej nervovej sústavy a mení ho na podnet"
+      },
+      {
+        "id": "c",
+        "text": "acetylcholín"
+      },
+      {
+        "id": "d",
+        "text": "produkuje mediátor - noradrenalín 76"
+      },
+      {
+        "id": "e",
+        "text": "je základnou stavebnou jednotkou myofibríl"
+      },
+      {
+        "id": "f",
+        "text": "je citlivá na niektoré jedy"
+      },
+      {
+        "id": "g",
+        "text": "zabezpečuje výživu svalovej bunky"
+      },
+      {
+        "id": "h",
+        "text": "je dôležitou súčasťou motorickej jednotky"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "c",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, F, H."
+  },
+  {
+    "subject": "Biológia",
+    "category": "Biológia bunky, rastlín a živočíchov",
+    "content": "350. Vylučovacia sústava zabezpečuje:",
+    "options": [
+      {
+        "id": "a",
+        "text": "udržiavanie homeostázy vnútorného prostredia organizmu"
+      },
+      {
+        "id": "b",
+        "text": "odstraňovanie splodín látkovej premeny"
+      },
+      {
+        "id": "c",
+        "text": "odstraňovanie elektrolytov, vody a všetkých potrebných látok"
+      },
+      {
+        "id": "d",
+        "text": "stálu farbu moču"
+      },
+      {
+        "id": "e",
+        "text": "odstraňovanie bielkovín z ultrafiltratu"
+      },
+      {
+        "id": "f",
+        "text": "odstraniovanie dusíkatých produktov metabolizmu bielkovín"
+      },
+      {
+        "id": "g",
+        "text": "odstraňovanie starých červených krviniek z krvi"
+      },
+      {
+        "id": "h",
+        "text": "odstraniovanie nadbytočnej vody z organizmu"
+      }
+    ],
+    "correct_answers": [
+      "a",
+      "b",
+      "f",
+      "h"
+    ],
+    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+  }
+]

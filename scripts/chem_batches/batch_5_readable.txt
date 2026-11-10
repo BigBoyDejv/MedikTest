@@ -1,0 +1,600 @@
+=== QUESTION 1 ===
+Content: 201. 0 chemickej väzbe platí:
+Correct: ['b', 'e', 'f', 'h']
+  [ ] (a) Čím viac energie sa pri jej vzniku uvoľni, tým je labilnejšia
+  [X] (b) je spojenie atómov prvkov realizované prostredníctvom valenčných elektrónov
+  [ ] (c) jej pevnosť klesá s jej násobnosťou
+  [ ] (d) vznik väzbových elektrónových párov nezávisí od usporiadania elektrónov v orbitáloch
+  [X] (e) prekrytím orbitálu obsahujúceho elektrónový pár s orbitálom vakantným vzniká datívna väzba
+  [X] (f) kovalentná a koordinačná majú rovnaké vlastnosti, líšia sa iba spôsobom vzniku
+  [ ] (g) s násobnosťou väzby rastie jej dížka
+  [X] (h) podmienkou jej vzniku je priblíženie atómov tak, aby došlo k prekrytiu valenčných orbitálov
+
+=== QUESTION 2 ===
+Content: 202. Vyberte nesprávne tvrdenie:
+Correct: ['a', 'c', 'g', 'h']
+  [X] (a) sulfán tvorí iónové kryštály
+  [ ] (b) atómové kryštály nevedú elektrický prúd 52
+  [X] (c) Možnosť C (pozri testovnicu)
+  [ ] (d) Možnosť D (pozri testovnicu)
+  [ ] (e) v molekule H2S je polárna kovalentná väzba
+  [ ] (f) kovalentnou väzbou sui viazané atómy v metáne
+  [X] (g) Možnosť G (pozri testovnicu)
+  [X] (h) v molekule cscl sú atómy viazané polárnou kovalentnou väzbou
+
+=== QUESTION 3 ===
+Content: 203. Vyberte správne tvrdenie:
+Correct: ['a', 'b', 'f', 'h']
+  [X] (a) priestorová štruktúra SF6 je pravidelný osemsten
+  [X] (b) v zlúčenine cscl je iónová väzba
+  [ ] (c) koordinačné kovalentná väzba je v zlúčenine CH4
+  [ ] (d) hybridné orbitály sú menšie ako pôvodne atómové orbitály
+  [ ] (e) elektronegativita je schopnosť viazaného atómu odpudzovať elektróny chemickej väzby
+  [X] (f) polarita chemickej väzby sa určuje z rozdielu elektronegativít viazaných atómov
+  [ ] (g) H2O je príkladom neekvivalentnej sp? hybridizácie
+  [X] (h) hybridizácia vysveťuje vznik energeticky rovnocenných kovalentných väzieb z energeticky rozdielnych orbitálov daného atómu
+
+=== QUESTION 4 ===
+Content: 204. V molekule H2CO3 :
+Correct: ['a', 'b', 'e', 'h']
+  [X] (a) ležia atómy uhlíka a kyslíka v rovine
+  [X] (b) je päť  väzieb a jedna π väzba
+  [ ] (c) je hybridizovaný atóm uhlíka (sp)
+  [ ] (d) sú dve o väzby a dve π väzby
+  [X] (e) je uhlík sp hybridizovaný
+  [ ] (f) ležia všetky atómy na jednej priamke
+  [ ] (g) je jedna o väzba a tri π väzby
+  [X] (h) tvar molekuly vysvetľuje sp? hybridizácia uhlíka
+
+=== QUESTION 5 ===
+Content: 205. Jednoduchá kovalentná väzba:
+Correct: ['c', 'd', 'e', 'g']
+  [ ] (a) je typická pre nenasýtené uhľovodíky
+  [ ] (b) je vždy polárna
+  [X] (c) môže vznikať prekrytím orbitálu s a p
+  [X] (d) je typická pre nasýtené uhľovodíky
+  [X] (e) medzi atómami je tvorená spoločným elektrónovým párom
+  [ ] (f) vzniká, ak rozdiel v hodnote elektronegativít atómov je > ako 1,7
+  [X] (g) je v molekule brómu
+  [ ] (h) je v molekule fluorovodíka
+
+=== QUESTION 6 ===
+Content: 206. Dvojitá väzba:
+Correct: ['a', 'd', 'g', 'h']
+  [X] (a) sa skladá z väzby o a π
+  [ ] (b) je tvorená jedným elektrónovým párom
+  [ ] (c) sa vyskytuje v molekule dusíka
+  [X] (d) vyskytuje sa v molekule CS2
+  [ ] (e) je typická pre nasýtené uhľovodíky
+  [ ] (f) eliminačnou reakciou prechádza na väzbu jednoduchí
+  [X] (g) adíciou sa môže zmeniť na väzbu jednoduchí 53
+  [X] (h) je reaktívnejšia ako väzba jednoduchá
+
+=== QUESTION 7 ===
+Content: 207. V molekule vody je medzi H-0 väzba:
+Correct: ['a', 'g', 'h']
+  [X] (a) polárne kovalentná
+  [ ] (b) van der Waalsova
+  [ ] (c) nepolarnekovalentna
+  [ ] (d) vodíková
+  [ ] (e) iónová, lebo rozdiel elektronegativít týchto prvkov je väčší ako 1,7
+  [ ] (f) veľmi slabá (463 kj.mol-')
+  [X] (g) pevná (463 kj.mol-'), lebo má vysokú hodnotu väzbovej energie
+  [X] (h) jednoduchá
+
+=== QUESTION 8 ===
+Content: 208. Väzbovosť:
+Correct: ['c', 'f', 'g', 'h']
+  [ ] (a) sa vždy odvodzuje od elektrónovej konfigurácie atómu v základnom stave
+  [ ] (b) je vždy daná počtom atómov tvoriacich molekulu
+  [X] (c) je možné odvodiť aj od elektrónovej konfigurácie atómu v excitovanom stave
+  [ ] (d) chlóru môže byť 7, pretože v základnom stave môžu byť 3 elektróny v d orbitáloch
+  [ ] (e) uhlíka je 4, pretože v excitovanom stave sú 4 elektróny v p orbitáloch
+  [X] (f) síry v SF6 je 6, pretože jej atómy sú sp'd? hybridizovane
+  [X] (g) dusíka je v rôznych zlúčeninách rôzna
+  [X] (h) je Číslo udávajúce koľko kovalentných väzieb (väzbových elektrónových párov) daný atóm vytvára s inými atómami v zlúčenine
+
+=== QUESTION 9 ===
+Content: 209. Vyberte správne tvrdenie o hybridných orbitáloch:
+Correct: ['a', 'b', 'd', 'g']
+  [X] (a) môžu existovať tri rôzne typy jednoduchej hybridizácie
+  [X] (b) pri neekvivalentnej sp’ hybridizácii dochádza k deformácii pravidelného štvorstena
+  [ ] (c) rovinnú štruktúru majú cykloalkány s väzbovým uhlom 120°
+  [X] (d) karboxylová skupina je príkladom sp? hybridizácie atómu uhlíka
+  [ ] (e) hybridné orbitály Pt tetrachloroplatnateho aniónu majú štruktúru trojbokého dvojihlanu
+  [ ] (f) lineárnu štruktúru s väzbovým uhlom 120° majú alkény
+  [X] (g) dsp? hybridné orbitály mieria do vrcholu štvorca
+  [ ] (h) molekula PCls má štruktúru štvorbokého dvojihlanu, čo zodpovedá sp'd hybridizácii atómu fosforu
+
+=== QUESTION 10 ===
+Content: 210. Vyberte správne tvrdenie:
+Correct: ['b', 'd', 'g', 'h']
+  [ ] (a) energia produktov priamej reakcie je vasia ako energia reaktantov
+  [X] (b) priama reakcia je endotermická
+  [ ] (c) pri vzniku jedného mólu železa sa uvo'ni 463,8 kj energie
+  [X] (d) zvýšenie teploty posunie rovnováhu v smere tvorby železa
+  [ ] (e) reakcia je exotermická
+  [ ] (f) na vznik jedného mólu železa je potrebné dodať 463,8 kj energie
+  [X] (g) zníženie teploty neovplyvní stav chemickej rovnováhy reakcie
+  [X] (h) △H> 0
+
+=== QUESTION 11 ===
+Content: 211. Pre reakciu 3C(s) + 2Fe2O3(s) -> 4Fe(s) + 3CO2(g) s Delta H = +463,8 kj platí:
+Correct: ['a', 'b', 'd', 'h']
+  [X] (a) reakcia je endotermická
+  [X] (b) na redukciu 1 mol Fe2O3 sa spotrebuje 231,9 kj tepla
+  [ ] (c) reakcia je exotermická
+  [X] (d) pri vzniku 4 mol Fe sa uvoľni 463,8 kj tepla
+  [ ] (e) entalpia produktov je väčšia ako entalpia reaktantov
+  [ ] (f) reakcia prebieha spontánne za nízkych teplôt
+  [ ] (g) teplo sa pri reakcií spotrebováva z okolia
+  [X] (h) ide o redukciu oxidu železitého uhlíkom
+
+=== QUESTION 12 ===
+Content: 212. Pri rozpúšťaní jedného mólu náci treba na rozrušenie kryštálovej štruktúry 781 kj tepla. Pri hydratácii iónov Nat a ČI sa uvoľni teplo 773 kj.mol-1. Pre rozpúšťanie jedného mólu nacl preto platí:
+Correct: ['a', 'd', 'f', 'h']
+  [X] (a) zmena entalpie rozrušenia kryštálovej štruktúry je kladná
+  [ ] (b) výsledný tepelný efekt rozpúšťania je kladný, roztok sa zahrieva
+  [ ] (c) pri hydrataci sa teplo uvoľňuje, rozpúšťanie je preto dej exotermicky rozrušenie kryštálovej štruktúry a tepla uvoľneného pri hydratácii iónov
+  [X] (d) yslednytepelnyefektrozpustaniasarovnasuctuteplapotrebnehona deeneystaleeiStktya saplaaSuendatno e irozruseniekystalovej Strutiry a tepla uvo'neného pri hydrataci iónov
+  [ ] (e) je to exotermicky dej
+  [X] (f) rozpúšťanie nacl závisí od teploty
+  [ ] (g) výsledný tepelný efekt rozpúšťania je záporný, roztok sa zahrieva
+  [X] (h) je to dej endotermický
+
+=== QUESTION 13 ===
+Content: 213. Vyberte správne tvrdenie o aktivačnej energií Ea:
+Correct: ['a', 'b', 'd', 'e']
+  [X] (a) hodnota aktivačnej energie sa rovná rozdielu hodnôt energie aktivovaného komplexu a energie reaktantov
+  [X] (b) aktivana energia súvisí so vznikom aktivovaného komplexu reakcie
+  [ ] (c) aktivačná energia je bezrozmerná veličina
+  [X] (d) hodnota aktivačnej energie určuje energetickú bariéru medzi reaktantami a produktami reakcie
+  [X] (e) prítomnosť katalyzátora ovplyvňuje hodnotu aktivačnej energie
+  [ ] (f) energetickú bariéru medzi reaktantami a produktami reakcie môžu prekonať iba častice s menšou energiou ako je hodnota aktivačnej energie
+  [ ] (g) aktivačná energia sa nedá vypočítať
+  [ ] (h) hodnota aktivačnej energie závisí od rovnovážnej konštanty reakcie
+
+=== QUESTION 14 ===
+Content: 214. Entalpia:
+Correct: ['b', 'c', 'f', 'h']
+  [ ] (a) sa určuje pri konštantnom tlaku a objeme
+  [X] (b) nie je bezrozmerná veličina, vyjadruje sa v kj.mol-1
+  [X] (c) rozdiel entalpie produktov a reaktantov je rovný reakčnému teplú reakcie pri konštantnom tlaku
+  [ ] (d) je určená hodnotou rovnovážnej konštanty reakcie
+  [ ] (e) vyjadruje mieru neusporiadanosti sústavy 55
+  [X] (f) určuje sa pri konštantnom tlaku
+  [ ] (g) nezávisí na veľkosti systému a je vždy kladná systému
+  [X] (h) Možnosť H (pozri testovnicu)
+
+=== QUESTION 15 ===
+Content: 215. Najdôležitejšie faktory, ktoré ovplyviuju rýchlosť chemickej reakcie, st:
+Correct: ['a', 'c', 'e', 'f']
+  [X] (a) veľkosť povrchu tuhých látok
+  [ ] (b) tlak pri reakciách tuhých látok
+  [X] (c) prítomnosť katalyzátora
+  [ ] (d) koncentrácia produktov
+  [X] (e) koncentrácia reaktantov
+  [X] (f) teplota
+  [ ] (g) rovnovážna konštanta reakcie
+  [ ] (h) entropia
+
+=== QUESTION 16 ===
+Content: 216. Poriadok reakcie:
+Correct: ['a', 'b', 'e', 'f']
+  [X] (a) definuje sa ako súčet exponentov pri koncentráciách v kinetickej rovnici
+  [X] (b) môže byť aj nulový
+  [ ] (c) nikdy nie je nulový
+  [ ] (d) udáva, koľko častíc sa musí zraziť, aby reakcia prebehla
+  [X] (e) jeho hodnota sa určuje experimentálne
+  [X] (f) definuje, ako závisí reakčná rýchlosť od koncentrácie reagujúcich látok
+  [ ] (g) udáva závislosť reakčnej rýchlosti od teploty
+  [ ] (h) môže byť aj záporný
+
+=== QUESTION 17 ===
+Content: 217. Pri analýze chemickej reakcie A + B -→ C sa zistilo, Že △H = - 100 kj.mol-1 a △S - -- 200 J.mol-l.K-1. Pre takíto chemickú reakciu potom platí:
+Correct: ['d', 'e', 'g', 'h']
+  [ ] (a) prebieha pri P'ubovoľnej teplote
+  [ ] (b) neprebieha pri Žiadnej teplote
+  [ ] (c) prebieha pri teplotách vyšších ako 500 K
+  [X] (d) Možnosť D (pozri testovnicu)
+  [X] (e) pri teplotách pod 500 K dochádza k poklesu Gibbsovej energie
+  [ ] (f) k poklesu Gibbsovej energie dochádza pri teplotách nad 227 °C
+  [X] (g) prebieha pri teplotách pod 227 °C
+  [X] (h) prebieha pri teplotách nižších ako 500 K
+
+=== QUESTION 18 ===
+Content: 218. Pri ktorom z uvedených procesov dochádza k výraznému vzrastu entropie?
+Correct: ['a', 'd', 'e', 'h']
+  [X] (a) H20 (I) → H20 (g)
+  [ ] (b) Pb (s) + Br2 (I) → PbBr2 (s)
+  [ ] (c) Hg (I) + S (s) → hgs (s)
+  [X] (d) CaCO3 (s) → cao (s) + CO2 (g)
+  [X] (e) 2 hgo (s) → 2 Hg (l) + 02(g)
+  [ ] (f) H20 (I) → H2O (s)
+  [ ] (g) Mg (s) + Cl2 (g) -→ MgCl2 (s) () H  + (S)  + ()   (S) (thn) 56
+  [X] (h) (NH4)2Cr20 (s) → N2 (g)+ Cr2O:(s)+ 4 H20 (g)
+
+=== QUESTION 19 ===
+Content: 219. Vyberte pravdivý výrok o exotermickej reakcií:
+Correct: ['a', 'f', 'h']
+  [X] (a) teplo sa uvoľňuje
+  [ ] (b) teplo sa spotrebováva
+  [ ] (c) množstvo tepla sa nemení
+  [ ] (d) teplo sa uvoľni a vzápätí spotrebuje
+  [ ] (e) je vždy exergonicka
+  [X] (f) môže byť aj endergonická
+  [ ] (g) prebieha vždy spontánne
+  [X] (h) ak je △G < 0 potom prebieha spontánne
+
+=== QUESTION 20 ===
+Content: 220. Entropia:
+Correct: ['a', 'd', 'g', 'h']
+  [X] (a) je mierou neusporiadanosti sústavy
+  [ ] (b) je mierou rýchlosti reakcie
+  [ ] (c) je kritériom pre posúdenie tepelného efektu reakcie
+  [X] (d) je matematický vyjadrená vzťahom AS = Q/T
+  [ ] (e) je matematický vyjadrená vzťahom △S = △H - △G
+  [ ] (f) je mierou vnútornej energie sústavy
+  [X] (g) je mierou pravdepodobnosti zloženia sústavy
+  [X] (h) je stavová veličina
+
+=== QUESTION 21 ===
+Content: 221. Súčin rozpustnosti:
+Correct: ['c', 'd', 'e', 'f']
+  [ ] (a) charakterizuje rovnováhu medzi iónmi v zrazenine
+  [ ] (b) charakterizuje rovnováhu v nasýtenom roztoku
+  [X] (c) charakterizuje rovnováhu medzi zrazeninou a jej iónmi v nasýtenom roztoku
+  [X] (d) nepriamo vyjadruje rozpustnosť malo rozpustnej látky
+  [X] (e) závisí od teploty
+  [X] (f) soli axby je daný vzťahom Ks = [A]*. [B]y
+  [ ] (g) je tým vyšší, čím menej je daná látka rozpustná
+  [ ] (h) charakterizuje dane rozpúšťadlo
+
+=== QUESTION 22 ===
+Content: 222. Čím je disociačná konštanta komplexu pri komplexotvornej reakci nižšia, tým je:
+Correct: ['d', 'f', 'h']
+  [ ] (a) daný komplex nestalejsi
+  [ ] (b) daný komplex rozpustnejší
+  [ ] (c) daný komplex polárnejší
+  [X] (d) daný komplex stálejší
+  [ ] (e) rovnováha viac posunutá v prospech disociácie komplexu
+  [X] (f) konštanta stability komplexu vyššia
+  [ ] (g) aj konštanta stability komplexu nižšia
+  [X] (h) pravdepodobnosť vzniku komplexu vyššia
+
+=== QUESTION 23 ===
+Content: 223. Redukcia oxidu Železitého hliníkom je exotermická reakcia, jej tepelný efekt je 850 kj/mol. Správny zápis tejto reakcie je:
+Correct: ['d', 'f', 'h']
+  [ ] (a) Fe2O3+ 2 Al → 2 Fe + Al2O3 - 850 kj
+  [ ] (b) Fe2O3 + 2 Al - 850 kj → 2 Fe + Al2O3
+  [ ] (c) Fe2O3 + 2 Al + 850 kj → 2 Fe + Al2O3
+  [X] (d) Fe203 + 2 Al → 2 Fe + Al2O3 + 850 kj
+  [ ] (e) Fe2O3 + AICl3 - 850 kj → FeCl3 + Al2O3 57
+  [X] (f) Fe2O3 + AICl3 + 850 kj → FeCl3 + Al203
+  [ ] (g) Fe203 + 2 Al → 2 Fe + Al2O3; AH = - 850 kj/mol
+  [X] (h) Fe2O3 + AICl3 → FeCl3 + Al2O3 + 850 kj
+
+=== QUESTION 24 ===
+Content: 224. Vyberte endotermické reakcie:
+Correct: ['b', 'd', 'g']
+  [ ] (a) C (s) + 02 (g) → CO2 (g) + 393,68 kj
+  [X] (b) (COOH)2 (s) + 2 CH:OH (I) → (CH;CO0)2 (I) + 2 H20; AH = -26,79 kj/mol
+  [ ] (c) H2(g) + I2(s) → 2 HI(g) - 26 kj
+  [X] (d) CO2(g) + C(s) + 110 kj → 2 ČO(g)
+  [ ] (e) H2(g) + I2(g) -→ 2 HI(g) + 300 kj
+  [ ] (f) 2 H20(I) → 2 H2(g) + O2(g); Qm = + 452 kj/mol 1-10T 698- = HV :(1) H Z + (8)00z (8)20 Z + (1) H000 8
+  [X] (g) CHaC00H()+202(g)→2.CO2(g)+ 2 H20 (I); AH=-869 J.moll
+  [ ] (h) N2(g) + O2(g) + 180,6 kj → 2NO(g)
+
+=== QUESTION 25 ===
+Content: 225. Pri endotermických reakciách:
+Correct: ['c', 'd', 'f', 'h']
+  [ ] (a) entalpia produktov je menšia ako entalpia reaktantov
+  [ ] (b) entalpia produktov je vyššia ako entalpia reaktantov
+  [X] (c) teplo sa v priebehu reakcie uvoľňuje
+  [X] (d) hodnota uvo'neného tepla je tým vyššia, Čím je väčšie látkové množstvo reaktantov
+  [ ] (e) S < O, tak neprebiehajú samovoľne
+  [X] (f) ak dochádza k zväčšeniu entropie, reakcia môže prebehnúť
+  [ ] (g) ak dochádza k zmenšeniu entropie, reakcia môže prebehnúť
+  [X] (h) Možnosť H (pozri testovnicu)
+
+=== QUESTION 26 ===
+Content: 226. V reakcií H2O (g) + C (s) → ČO (g) + H2 (g); Ak AH = 131,4 kj/mol potom rovnováhu pošíva vpravo:
+Correct: ['b', 'e', 'f', 'h']
+  [ ] (a) zvýšenie tlaku
+  [X] (b) zníženie tlaku
+  [ ] (c) zvýšenie teploty
+  [ ] (d) zníženie teploty
+  [X] (e) zvýšenie koncentrácie ČO
+  [X] (f) zníženie koncentrácie ČO
+  [ ] (g) odoberanie reaktantov
+  [X] (h) odoberanie produktov
+
+=== QUESTION 27 ===
+Content: 227. Rozpúšťacie teplo:
+Correct: ['b', 'c', 'f', 'h']
+  [ ] (a) je teplo, ktoré sa pri rozpúšťaní vždy uvoľni
+  [X] (b) je Arrheniova rovnica
+  [X] (c) sa pri rozpúšťaní látok môže aj uvo'niť
+  [ ] (d) je teplo, pri ktorom sa látka najlepšie rozpúšťa
+  [ ] (e) sa dá merať pomocou kalorimetra
+  [X] (f) je množstvo tepla, ktoré sa uvoľni pri rozrušení kryštálovej struktiry rozpúšťanej látky
+  [ ] (g) sa obvykle vzťahuje na jeden mol rozpustenej látky
+  [X] (h) pri rozpúšťaní látok môže nadobúdať aj kladné hodnoty 58
+
+=== QUESTION 28 ===
+Content: 228. Pre rýchlosť chemickej reakcie a rýchlostnú konštantu platí:
+Correct: ['c', 'e', 'g', 'h']
+  [ ] (a) rýchlostná konštanta závisí od teploty podľa Arrheniovej rovnice
+  [ ] (b) rýchlostná konštanta nezávisí od koncentrácie reaktantov
+  [X] (c) rýchlosť reakcie závisí od koncentrácie reaktantov
+  [ ] (d) rýchlosť reakcie sa v priebehu reakcie spravidla znižuje
+  [X] (e) katalyzátor zvyšuje rýchlosť reakcie znížením aktivačnej energie
+  [ ] (f) rýchlostná konštanta je bezrozmerná veličina pre všetky poriadky reakcie
+  [X] (g) jednotka rýchlosti reakcie je mol.dm-3.s-1
+  [X] (h) pri zvýšení teploty o 10 °C sa rýchlosť reakcie zvýši spravidla 2 až 4-krát
+
+=== QUESTION 29 ===
+Content: 229. Pre rýchlostnú konštantu "k" chemickej reakcie platí:
+Correct: ['c', 'e', 'g', 'h']
+  [ ] (a) závisí od koncentrácie reagujúcich látok
+  [ ] (b) nezávisí priamo od koncentrácie reagujúcich látok
+  [X] (c) závisí od teploty
+  [ ] (d) je konštantná pri 'ubovo'ných podmienkach
+  [X] (e) závisí od objemu reagujúcich látok
+  [ ] (f) je to experimentálna veličina
+  [X] (g) Arrheniova rovnica
+  [X] (h) jej fyzikálnym rozmerom je mol
+
+=== QUESTION 30 ===
+Content: 230. O rovnovážnej konštante "K" chemických reakcií platí:
+Correct: ['b', 'c', 'f', 'g']
+  [ ] (a) je rôzna pri rôznych teplotách
+  [X] (b) je rovnaká pri každej teplote
+  [X] (c) jej hodnota je nízka v prípade, ak v systéme existujú prakticky len východiskové látky
+  [ ] (d) priamo závisí od koncentrácie reaktantov
+  [ ] (e) má vždy hodnotu blízku nule
+  [X] (f) jej hodnota je vysoká v prípade, ak v systéme existujú prakticky len produkty
+  [X] (g) jej hodnota je vždy nízka
+  [ ] (h) jej hodnota vyjadruje stav reakenej rovnováhy
+
+=== QUESTION 31 ===
+Content: 231. Ktorý výrok o faktoroch ovplyviujucich chemické reakcie platí?
+Correct: ['a', 'c', 'f', 'h']
+  [X] (a) rýchlosť reakcie sa zvyšuje so zvyšovaním teploty pri endotermickej reakcií
+  [ ] (b) katalyzátory ovplyvňujú rýchlosť reakcie, pričom sa menia
+  [X] (c) katalyzátory ovplyvňujú rýchlosť reakcie, pričom sa nemenia
+  [ ] (d) inhibítor zvyšuje aktivačnú energiu
+  [ ] (e) zvýšenie koncentrácie reaktantov znižuje rýchlosť reakcie
+  [X] (f) zvýšenie koncentrácie produktov zvyšuje rýchlosť reakcie
+  [ ] (g) so znižujúcou sa hodnotou aktivačnej energie pri katalyzovanej reakci sa znižuje rýchlostná konštanta
+  [X] (h) katalyzátor zväčšuje hodnotu rovnovážnej konštanty
+
+=== QUESTION 32 ===
+Content: 232. Pre rýchlostnú konštantu "k" chemickej reakcie neplatí:
+Correct: ['a', 'c', 'd']
+  [X] (a) nezávisí od teploty
+  [ ] (b) závisí priamo od koncentrácie reaktantov
+  [X] (c) nezávisí od koncentrácie reaktantov
+  [X] (d) závisí od reakčných podmienok
+  [ ] (e) nezávisí od katalyzátora 59
+  [ ] (f) závisí od látok ovplyvňujúcich aktivačnú energiu
+  [ ] (g) nezávisí od aktivačnej energie (Ea)
+  [ ] (h) Možnosť H (pozri testovnicu)
+
+=== QUESTION 33 ===
+Content: 233. Negatívne katalyzátory (inhibítory) v reakci:
+Correct: ['a', 'b', 'e', 'g']
+  [X] (a) pri znížení teploty doľava, keďže reakcia je endotermická
+  [X] (b) doľava, pri znížení teploty, keďže reakcia je exotermická
+  [ ] (c) zvýšením tlaku v prospech reaktantov
+  [ ] (d) odoberaním NO2 V prospech produktov, doprava
+  [X] (e) pridaním NO2 sa posunie rovnováha v prospech N2O4
+  [ ] (f) pridaním diméru sa rovnováha posunie do'ava
+  [X] (g) znížením tlaku v prospech reaktantov, doľava
+  [ ] (h) odoberaním produktu, monoméru NO2, V prospech reaktantov
+
+=== QUESTION 34 ===
+Content: 234. Pre rovnovážnu reakciu N2O4(g) <=> 2 NO2(g) s Delta H = +58 kj/mol sa rovnováha posunie:
+Correct: ['d', 'e', 'h']
+  [ ] (a) pri znížení teploty doľava, keďže reakcia je endotermická
+  [ ] (b) doľava pri znížení teploty, keďže spätná reakcia je exotermická
+  [ ] (c) zvýšením tlaku v prospech reaktantov (doľava)
+  [X] (d) odoberaním NO2 v prospech produktov (doprava)
+  [X] (e) pridaním NO2 sa posunie rovnováha v prospech N2O4
+  [ ] (f) pridaním diméru N2O4 sa rovnováha posunie doprava
+  [ ] (g) znížením tlaku v prospech reaktantov, doľava
+  [X] (h) zvýšením teploty v smere produktov (doprava)
+
+=== QUESTION 35 ===
+Content: 235. Vyberte správne výroky o faktoroch ovplyvnujicich chemické rovnováhy:
+Correct: ['a', 'c', 'd', 'e']
+  [X] (a) katalyzátor nemá vplyv na rovnovážne zloženie zmesi
+  [ ] (b) zníženie tlaku plynnej sústavy vyvolá reakciu vedúcu k zmene rovnovážneho zloženia v smere menšieho počtu častíc
+  [X] (c) platí všeobecný LeChatelierov princíp akcie a reakcie
+  [X] (d) porušenie rovnováhy vonkajším zásahom (akciou) nevyvolá dej (reakciu) smerujúci k zrušeniu účinku vonkajšieho zásahu
+  [X] (e) zvýšenie teploty vyvolá reakciu vedicu k zmene rovnovážneho zloženia v smere endotermického priebehu
+  [ ] (f) odoberanie produktov vyvolá reakciu vedicu k zmene rovnovážneho zloženia v smere rovnakom ako pridanie východzích látok
+  [ ] (g) zvýšenie tlaku plynnej sústavy vyvolá reakciu vedicu k zmene rovnovážneho zloženia v smere väčšieho počtu častíc
+  [ ] (h) zníženie teploty vyvolá reakciu vedicu k zmene rovnovážneho zloženia v smere endotermického priebehu
+
+=== QUESTION 36 ===
+Content: 236. Rýchlosť reakcie CH3OH + HCOOH -→ HCOOCH3 + H2O vyjadruje vzťah:
+Correct: ['a', 'c', 'e', 'f']
+  [X] (a) = d[CH3OH]/dt
+  [ ] (b) v = d[HCOOCH3]/dt
+  [X] (c) v = -d[HCOOH]/dt 60 IP/[HOOO0Hp-= A"P
+  [ ] (d) Možnosť D (pozri testovnicu)
+  [X] (e) v = -d[H2O]/dt
+  [X] (f) v = -d[CH3OH]/dt IP/[HOOOHlp = A 3
+  [ ] (g) Možnosť G (pozri testovnicu)
+  [ ] (h) v = d[H2O]/dt
+
+=== QUESTION 37 ===
+Content: 237. Hodnota rovnovážnej konštanty:
+Correct: ['b', 'c', 'f', 'h']
+  [ ] (a) je vysoká, keď sú reaktanty premenené na produkty v nepatrnej miere
+  [X] (b) je nízka, keď je rovnováha posunutá na stranu reaktantov
+  [X] (c) závisí od teploty, pri ktorej reakcia prebieha
+  [ ] (d) sa zníži, ak sa zvýši teplota exotermickej reakcie
+  [ ] (e) sa zníži, ak sa zvýši teplota endotermickej reakcie
+  [X] (f) je priamo úmerná koncentraci reaktantov
+  [ ] (g) reakcie CaCO3 (s) -→ cao (s) + CO2 (g) je úmerná parciálnemu tlaku CO2, ak reakcia prebieha v otvorenej sústave
+  [X] (h) reakcie CaCO3 (s) → cao (s) + CO2 (g) je úmerná parciálnemu tlaku CO2, ak reakcia prebieha v uzavretej sústave
+
+=== QUESTION 38 ===
+Content: 238. Rovnovážna konštanta reakcie:
+Correct: ['b', 'c', 'd', 'h']
+  [ ] (a) Zn + 2 HCI -→ ZnCl2 + H2 sa nedá vypočítať, keď reakcia prebieha votvorenejkadicke
+  [X] (b) MgCO3 -→ mgo + CO2 je priamo úmerná parciálnemu tlaku CO2 v uzavretom reakčnom systéme
+  [X] (c) CH4 + 2 O2 -→ CO2 + 2 H2O má vysokú hodnotu, preto spätná reakcia je prakticky nemožná
+  [X] (d) 2 ČO + O2 -→ 2 CO2 je K = [CO2]/[ČO].[O2]
+  [ ] (e) ČO + 2 H2 → CH3OH je K = [ČO].[H2][CH3OH]
+  [ ] (f) 2 HI -→ H2 + I2 je K = [2HI]/[H2].[12]
+  [ ] (g) ČO(NH2)2 + H2O → CO2 + 2 NH3 je K = [CO2].[NH3]}/[ČO(NH2)2][H20]
+  [X] (h) ČO(NH2)2 + H2O -→ CO2 + 2 NH3 je vyššia, keď je reakcia katalyzovaná ureazou
+
+=== QUESTION 39 ===
+Content: 239. Rovnovážna konštanta reakcie 2 FeCl3 + SnCl2 -→ 2 FeCl2 + SnCl4 :
+Correct: ['a', 'b', 'c', 'g']
+  [X] (a) je vyššia pri danej teplote v prítomnosti katalyzátora
+  [X] (b) je nižšia pri danej teplote v prítomnosti katalyzátora
+  [X] (c) je K = [FeCl2]?.[SnC14]/[FeC13].[SnCl2]
+  [ ] (d) je K = [FeCl3]?.[SnCl2]/[FeCl2].[SnC14]
+  [ ] (e) priamej a spätnej reakcie má rovnakú hodnotu, líši sa len znamienkom
+  [ ] (f) závisí od teploty, pri ktorej reakcia prebieha
+  [X] (g) sa nemení zmenou tlaku v reakenom systéme
+  [ ] (h) závisí od redoxných schopnosti reaktantov
+
+=== QUESTION 40 ===
+Content: 240. Ako sa zmení rovnováha reakci, ak sa zmenia podmienky?
+Correct: ['c', 'f', 'g', 'h']
+  [ ] (a) 2 hbr (g) <> H2 (g) + Br2 (g) - 70,2 kj, ak sa zvýši teplota, rovnováha sa posunie v prospech reaktantov
+  [ ] (b) 2 NO (g) + O2 (g)  2 NO2 (g) + 117,2 kj, ak sa zvýši teplota, rovnováha sa posunie v prospech produktov 61 železitého, potom sa rovnováha posunie v prospech reaktantov posunie v prospech produktov posunie v prospech reaktantov posunie v prospech produktov
+  [X] (c) Možnosť C (pozri testovnicu)
+  [ ] (d) Možnosť D (pozri testovnicu)
+  [ ] (e) Možnosť E (pozri testovnicu)
+  [X] (f) Možnosť F (pozri testovnicu)
+  [X] (g) Možnosť G (pozri testovnicu)
+  [X] (h) Možnosť H (pozri testovnicu)
+
+=== QUESTION 41 ===
+Content: 241. Vyberte tie reakcie, pri ktorých sa po znížení tlaku stav rovnováhy nezmení:
+Correct: ['c', 'e', 'f', 'g']
+  [ ] (a) C (s) + O2 (g) → CO2 (g)
+  [ ] (b) 2 ČO (g) + O2 (g) < 2 CO2 (g)
+  [X] (c) 2 C (s) + O2 (g) → 2 ČO (g)
+  [ ] (d) 2 SO2 (g) + O2 (g)  2 SO3 (g)
+  [X] (e) H2 (g) + I2 (g) 台 2 HI (g)
+  [X] (f) CH4 (g) + 2 O2 (g) → CO2 (g) + 2 H2O (g)
+  [X] (g) ČO (g) + NO2 (g) → CO2 (g) + NO (g)
+  [ ] (h) ČO (g) + 2 H2 (g) -→ CH3OH (g)
+
+=== QUESTION 42 ===
+Content: 242. Vyberte správne tvrdenia 0 chemických reakciách:
+Correct: ['a', 'e', 'f', 'g']
+  [X] (a) sú to deje, V priebehu ktorých sa reaktanty menia na produkty
+  [ ] (b) prebiehajú medzi látkami v dôsledku ich vzájomného pôsobenia alebo účinkom rôznych druhov energií
+  [ ] (c) ak je chemický dej v rovnováhe [AH| = |T.△S]
+  [ ] (d) nikdy neprebiehajú pri vzájomnom pôsobení dvoch prvkov
+  [X] (e) medzi základné typy chemických reakci patria reakcie: redoxné, protolytické, zrážacie, komplexotvorné
+  [X] (f) chemické reakcie neprebiehajú pri trávení
+  [X] (g) syntéza, rozklad a podvojná zámena nepatria medzi chemické reakcie
+  [ ] (h) zapisujeme ich chemickými rovnicami, ktoré znázorňujú začiatočný a konečný stav reakcie
+
+=== QUESTION 43 ===
+Content: 243. V priebehu chemických reakcií:
+Correct: ['a', 'b', 'c', 'e', 'h']
+  [X] (a) nedochádza k zániku väzieb medzi atómami molekil východzích látok
+  [X] (b) nedochádza k prekrývaniu elektrónových orbitálov látky zložené
+  [X] (c) nemenisacelkovy počet a druh jednotlivých atómov,zktorych si reagujúce dlakyzlozenepaagonoyenatoov,zkoryn sutcggu
+  [ ] (d) zanikajú väzby v reaktantoch (niektoré alebo všetky) a vznikajú V produktoch
+  [X] (e) nikdy nedochádza k zmene entropie systému
+  [ ] (f) dochádza k uvo'novaniu alebo spotrebovaniu tepelnej energie 62 atómov, molekúl)
+  [ ] (g) Možnosť G (pozri testovnicu)
+  [X] (h) Možnosť H (pozri testovnicu)
+
+=== QUESTION 44 ===
+Content: 244. Reakene teplo reakcií:
+Correct: ['c', 'd', 'f', 'g']
+  [ ] (a) sa najčastejšie vyjadrujev jednotkách kj/mol
+  [ ] (b) priktorych vznikaImolziuceninyprkmv,sanazyazluovacie teplé
+  [X] (c) nzavisiodteployatlakuriorychreakcieprebiehajuucovaleteo
+  [X] (d) △Q = H pre izochoricke deje
+  [ ] (e) nemožno vypočítať z väzbových energi látok
+  [X] (f) má kladnú hodnotu pri endotermických reakciách
+  [X] (g) môžeme vyjadriť v kg/l
+  [ ] (h) prebiehajúcich za štandardných podmienok (298,15 K; 101,3 kpa) označujeme △Ho
+
+=== QUESTION 45 ===
+Content: 245. Vyberte nesprávne tvrdenie o reakenom teplé:
+Correct: ['a', 'b', 'f', 'h']
+  [X] (a) reakene teplo reakci prebiehajúcich pri konštantnom tlaku sa určuje ako rozdiel entalpie produktov reakcie a tepelného obsahu reaktantov
+  [X] (b) pri exotermických reakciách je AH < 0
+  [ ] (c) v prípade, že je entalpia produktov väčšia ako entalpia reaktantov, je AH < 0
+  [ ] (d) △H = Q pre izobarické deje
+  [ ] (e) reakene teplo reakci je veličina nezávislá od podmienok, pri ktorých reakcia prebieha
+  [X] (f) reakčné teplo je vyjadrené zmenou entropie
+  [ ] (g) ak H < 0, reakcia nikdy neprebieha samovoľne
+  [X] (h) hodnotureakcneho tepla ovplyviuje skupenský stav reagujúcich látok
+
+=== QUESTION 46 ===
+Content: 246. Pre reakciu 2 SO2 (g) + O2 (g)  2 SO3 (g); △H° = -196 kj/mol platí:
+Correct: ['c', 'e', 'f', 'g']
+  [ ] (a) priama reakcia je endotermická
+  [ ] (b) rovnaké množstvo tepla sa spotrebuje pri spätnej reakcií
+  [X] (c) hodnota reakčného tepla priamej a spätnej reakcie je rovnaká a v ničom sa nelíši
+  [ ] (d) prvý termochemicky zákon
+  [X] (e) zvýšenie tlaku posunie rovnováhu v prospech syntézy oxidu sírového
+  [X] (f) reakčné teplo môže byť zlučovacie aj spaľovacie teplo
+  [X] (g) reakcia vzniku oxidu sírového je endotermická
+  [ ] (h) absolútna hodnota reakeneho tepla priamej a spätnej reakcie je rôzna
+
+=== QUESTION 47 ===
+Content: 247. Reakcia je exergonicka, keď:
+Correct: ['b', 'd', 'e', 'f']
+  [ ] (a) energia potrebná na štiepenie väzieb reaktantov je väčšia ako energia uvoľnená vznikom produktu
+  [X] (b) sústava odoberá energiu z okolia
+  [ ] (c) sa štiepia neutrálne molekuly na radikály
+  [X] (d) sústava energiu uvoľňuje
+  [X] (e) sa v reakcií H2 + Cl2 -→ 2 hcl na rozštiepenie väzieb spotrebovalo 678 kj/mol a pri vzniku 2 mólov hcl sa uvoľnilo 863 kj/mol
+  [X] (f) je súčasne exotermická a △S > 0 63
+  [ ] (g) sa energia okolia reakčnej sústavy znižuje iba teplo) je možné zo sústavy energiu odoberať
+  [ ] (h) Možnosť H (pozri testovnicu)
+
+=== QUESTION 48 ===
+Content: 248. Pri exotermických reakciách:
+Correct: ['d', 'e', 'f', 'h']
+  [ ] (a) katalyzátor zvýši množstvo uvoľneného tepla
+  [ ] (b) produkty reakcie majú pevnejšie chemické väzby ako reaktanty
+  [ ] (c) entalpia produktov je väčšia ako entalpia reaktantov
+  [X] (d) zvýšenie teploty posuiva rovnováhu reakcie v prospech reaktantov
+  [X] (e) Možnosť E (pozri testovnicu)
+  [X] (f) Možnosť F (pozri testovnicu)
+  [ ] (g) samovo'ny priebeh reakcie určuje podmienka JAH] >ITAS, ak je S<0
+  [X] (h) zvýšením teploty sa hodnota rovnovážnej konštanty zväčší
+
+=== QUESTION 49 ===
+Content: 249. Reakcia N2 (g) + 3 H2 (g) 2 NH3 (g); AH = -92,4 kj.mol-l:
+Correct: ['b', 'd', 'e', 'g']
+  [ ] (a) reakcia neprebieha samovoľne, ak je △S < 0 a |AH| <|T△SI
+  [X] (b) vždy prebieha pri vysokých teplotách
+  [ ] (c) prebieha samovoľne ak je △S > 0
+  [X] (d) pri vysokom tlaku prebieha v smere tvorby amoniaku
+  [X] (e) v smere tvorby amoniaku je sprevádzaná poklesom entropie
+  [ ] (f) má rovnova2nu konštantu Ke = [NH3]?/[N2]+[H2]3
+  [X] (g) má rovnovážnu konštantu Kp = p(NH3)/p(N2).p3(H2)
+  [ ] (h) má rovnovážnu konštantu rovnakú pri každej teplote
+
+=== QUESTION 50 ===
+Content: 250. Rovnovážny stav:
+Correct: ['a', 'c', 'd', 'e', 'g']
+  [X] (a) sa vždy dosiahne, keď koncentrácia reaktantov je menšia ako koncentrácia produktov
+  [ ] (b) sa dosiahne, keď koncentrácie reaktantov a produktov sa nemenia
+  [X] (c) je charakterizovaný rovnovážnou konštantou pri určitej teplote
+  [X] (d) sa vždy dosiahne v otvorenej sústave, keď je produkt v plynnom skupenstve
+  [X] (e) sa nikdy nedosiahne v heterogénnej sústave
+  [ ] (f) dosiahne sústava rýchlejšie v prítomnosti katalyzátora
+  [X] (g) sanikdynedosiahnehomgenej,plynnj,uzavreté sistave .charaktereujesraynakahmhstpriamleinspamareaksiestave
+  [ ] (h) charakterizuje rovnaká rýchlosť priamej a spätnej reakcie
+
