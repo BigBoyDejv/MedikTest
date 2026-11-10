@@ -275,4 +275,66 @@ SELECT
 FROM auth.users
 ON CONFLICT (id) DO NOTHING;
 
+-- ============================================================================
+-- 5. NAHLÁSENÉ / OZNAČENÉ OTÁZKY (FLAGGED QUESTIONS)
+-- ============================================================================
+CREATE TABLE IF NOT EXISTS public.flagged_questions (
+  id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  question_id UUID NOT NULL REFERENCES public.questions(id) ON DELETE CASCADE,
+  user_id UUID REFERENCES auth.users(id) ON DELETE SET NULL,
+  user_email TEXT,
+  reason TEXT,
+  status TEXT NOT NULL DEFAULT 'pending' CHECK (status IN ('pending', 'resolved', 'dismissed')),
+  created_at TIMESTAMPTZ NOT NULL DEFAULT timezone('utc'::text, now()),
+  resolved_at TIMESTAMPTZ
+);
+
+CREATE INDEX IF NOT EXISTS idx_flagged_questions_status ON public.flagged_questions(status);
+CREATE INDEX IF NOT EXISTS idx_flagged_questions_question_id ON public.flagged_questions(question_id);
+CREATE INDEX IF NOT EXISTS idx_flagged_questions_created_at ON public.flagged_questions(created_at DESC);
+
+ALTER TABLE public.flagged_questions ENABLE ROW LEVEL SECURITY;
+
+-- Kto môže vytvárať nahlásenia: autentifikovaní aj anonymní študenti
+DROP POLICY IF EXISTS "Anyone can insert flagged questions" ON public.flagged_questions;
+CREATE POLICY "Anyone can insert flagged questions"
+  ON public.flagged_questions
+  FOR INSERT
+  TO authenticated, anon
+  WITH CHECK (true);
+
+-- Používatelia môžu vidieť vlastné nahlásenia
+DROP POLICY IF EXISTS "Users can view their own flagged questions" ON public.flagged_questions;
+CREATE POLICY "Users can view their own flagged questions"
+  ON public.flagged_questions
+  FOR SELECT
+  TO authenticated
+  USING (auth.uid() = user_id OR public.is_admin());
+
+-- Admin môže vidieť všetky nahlásenia
+DROP POLICY IF EXISTS "Admin can view all flagged questions" ON public.flagged_questions;
+CREATE POLICY "Admin can view all flagged questions"
+  ON public.flagged_questions
+  FOR SELECT
+  TO authenticated
+  USING (public.is_admin());
+
+-- Admin môže aktualizovať (označiť ako vyriešené/zamietnuté)
+DROP POLICY IF EXISTS "Admin can update flagged questions" ON public.flagged_questions;
+CREATE POLICY "Admin can update flagged questions"
+  ON public.flagged_questions
+  FOR UPDATE
+  TO authenticated
+  USING (public.is_admin())
+  WITH CHECK (public.is_admin());
+
+-- Admin môže mazať nahlásenia
+DROP POLICY IF EXISTS "Admin can delete flagged questions" ON public.flagged_questions;
+CREATE POLICY "Admin can delete flagged questions"
+  ON public.flagged_questions
+  FOR DELETE
+  TO authenticated
+  USING (public.is_admin());
+
+
 

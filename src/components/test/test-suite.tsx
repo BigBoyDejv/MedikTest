@@ -12,6 +12,8 @@ import {
   type TestEvaluationSummary,
 } from "@/app/test/actions";
 import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+import { Textarea } from "@/components/ui/textarea";
 import {
   Card,
   CardContent,
@@ -22,6 +24,7 @@ import {
 } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
+import { flagQuestionAction } from "@/app/admin/actions";
 import {
   AlertCircle,
   ArrowLeft,
@@ -32,6 +35,7 @@ import {
   ClipboardCheck,
   Clock,
   Filter,
+  Flag,
   GraduationCap,
   Hash,
   HelpCircle,
@@ -45,6 +49,7 @@ import {
   Sparkles,
   Timer,
   Trophy,
+  X,
   XCircle,
   Zap,
 } from "lucide-react";
@@ -80,9 +85,8 @@ const TIME_LIMIT_OPTIONS: {
   { minutes: 0, label: "Bez limitu", sublabel: "Stopky" },
   { minutes: 10, label: "10 min", sublabel: "Rýchly test" },
   { minutes: 20, label: "20 min", sublabel: "Štandard" },
-  { minutes: 45, label: "45 min", sublabel: "Dlhší test" },
-  { minutes: 60, label: "60 min", sublabel: "Prijímačky 50Q" },
-  { minutes: 90, label: "90 min", sublabel: "Prijímačky 100Q" },
+  { minutes: 25, label: "25 min", sublabel: "Prijímačky (50Q)" },
+  { minutes: 50, label: "50 min", sublabel: "Prijímačky (100Q)" },
 ];
 
 const FILTER_OPTIONS: {
@@ -146,7 +150,9 @@ export function TestSuite({
       : allCategoryIds
   );
   const [questionCount, setQuestionCount] = React.useState<number>(10);
-  const [timeLimitMinutes, setTimeLimitMinutes] = React.useState<number>(15);
+  const [timeLimitMinutes, setTimeLimitMinutes] = React.useState<number>(10);
+  const [isCustomTimeActive, setIsCustomTimeActive] = React.useState<boolean>(false);
+  const [customMinutesInput, setCustomMinutesInput] = React.useState<string>("30");
   const [filterMode, setFilterMode] = React.useState<QuestionFilterMode>(
     initialFilterMode ?? "all"
   );
@@ -154,18 +160,209 @@ export function TestSuite({
   const [startQuestionNumber, setStartQuestionNumber] = React.useState<number>(1);
   const [testMode, setTestMode] = React.useState<TestMode>("training");
 
-  // Nastavenie odporúčaného času pri zmene počtu otázok (ak používateľ nezvolil Bez limitu)
+  // Nastavenie odporúčaného času pri zmene počtu otázok (ak používateľ nezvolil Bez limitu alebo vlastný čas)
   function handleQuestionCountSelect(count: number) {
     setQuestionCount(count);
-    if (timeLimitMinutes > 0) {
+    if (timeLimitMinutes > 0 && !isCustomTimeActive) {
       if (count <= 10) setTimeLimitMinutes(10);
-      else if (count <= 20) setTimeLimitMinutes(20);
-      else if (count <= 30) setTimeLimitMinutes(30);
-      else if (count <= 50) setTimeLimitMinutes(45);
-      else if (count <= 100) setTimeLimitMinutes(90);
-      else setTimeLimitMinutes(60);
+      else if (count <= 20) setTimeLimitMinutes(15);
+      else if (count <= 30) setTimeLimitMinutes(20);
+      else if (count <= 50) setTimeLimitMinutes(25);
+      else if (count <= 100) setTimeLimitMinutes(50);
+      else setTimeLimitMinutes(50);
     }
   }
+
+  function handleCustomMinutesChange(e: React.ChangeEvent<HTMLInputElement>) {
+    const val = e.target.value;
+    setCustomMinutesInput(val);
+    const num = parseInt(val, 10);
+    if (!isNaN(num) && num > 0) {
+      setTimeLimitMinutes(Math.min(300, num));
+    }
+  }
+
+  // ==========================================================================
+  // STAV PRE NAHLASOVANIE OTÁZOK (FLAGGING)
+  // ==========================================================================
+  const [flagModalQuestion, setFlagModalQuestion] = React.useState<{
+    id: string;
+    content: string;
+  } | null>(null);
+  const [flagReason, setFlagReason] = React.useState("");
+  const [isSubmittingFlag, setIsSubmittingFlag] = React.useState(false);
+  const [flagSuccessMsg, setFlagSuccessMsg] = React.useState<string | null>(null);
+  const [flagErrorMsg, setFlagErrorMsg] = React.useState<string | null>(null);
+  const [flaggedIds, setFlaggedIds] = React.useState<Set<string>>(new Set());
+
+  const handleOpenFlagModal = (q: { id?: string; questionId?: string; content: string }) => {
+    const qId = q.id || q.questionId;
+    if (!qId) return;
+    setFlagModalQuestion({ id: qId, content: q.content });
+    setFlagReason("");
+    setFlagSuccessMsg(null);
+    setFlagErrorMsg(null);
+  };
+
+  const handleSendFlag = async () => {
+    if (!flagModalQuestion) return;
+    setIsSubmittingFlag(true);
+    setFlagSuccessMsg(null);
+    setFlagErrorMsg(null);
+
+    const res = await flagQuestionAction({
+      questionId: flagModalQuestion.id,
+      reason: flagReason.trim() || "Nahlásená chyba v otázke",
+    });
+
+    setIsSubmittingFlag(false);
+    if (res.error) {
+      setFlagErrorMsg(res.error);
+    } else {
+      setFlagSuccessMsg(res.success ?? "Otázka bola úspešne nahlásená.");
+      setFlaggedIds((prev) => {
+        const next = new Set(prev);
+        next.add(flagModalQuestion.id);
+        return next;
+      });
+      setTimeout(() => {
+        setFlagModalQuestion(null);
+      }, 1500);
+    }
+  };
+
+  const renderFlagModal = () => {
+    if (!flagModalQuestion) return null;
+
+    return (
+      <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/75 p-4 backdrop-blur-sm animate-in fade-in duration-200">
+        <div className="relative w-full max-w-lg rounded-2xl border border-border bg-card p-5 sm:p-6 shadow-2xl space-y-4">
+          <div className="flex items-center justify-between border-b border-border/80 pb-3">
+            <div className="flex items-center gap-2.5">
+              <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-amber-500/15 text-amber-500">
+                <Flag className="h-4 w-4" />
+              </div>
+              <div>
+                <h3 className="text-base sm:text-lg font-bold">
+                  Nahlásiť chybu v otázke
+                </h3>
+                <p className="text-xs text-muted-foreground">
+                  Otázka bude odoslaná administrátorovi na kontrolu
+                </p>
+              </div>
+            </div>
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={() => setFlagModalQuestion(null)}
+              className="h-8 w-8 p-0"
+            >
+              <X className="h-4 w-4" />
+            </Button>
+          </div>
+
+          <div className="space-y-3 text-sm">
+            <div className="rounded-xl border border-border/70 bg-muted/20 p-3 text-xs sm:text-sm">
+              <div className="font-medium text-foreground">
+                {flagModalQuestion.content}
+              </div>
+            </div>
+
+            {flagSuccessMsg ? (
+              <Alert className="border-emerald-500/40 bg-emerald-500/10 text-emerald-400">
+                <CheckCircle2 className="h-4 w-4 text-emerald-400" />
+                <AlertTitle>Odoslané</AlertTitle>
+                <AlertDescription>{flagSuccessMsg}</AlertDescription>
+              </Alert>
+            ) : (
+              <>
+                {flagErrorMsg && (
+                  <Alert variant="destructive">
+                    <AlertCircle className="h-4 w-4" />
+                    <AlertDescription>{flagErrorMsg}</AlertDescription>
+                  </Alert>
+                )}
+
+                <div>
+                  <label className="text-xs font-semibold text-muted-foreground block mb-1.5">
+                    Rýchly výber dôvodu:
+                  </label>
+                  <div className="flex flex-wrap gap-1.5">
+                    {[
+                      "Nesprávny kľúč odpovedí",
+                      "Preklep v texte",
+                      "Chyba vo vysvetlení",
+                      "Chýbajúca možnosť",
+                      "Zle formulovaná otázka",
+                    ].map((reasonChip) => (
+                      <button
+                        key={reasonChip}
+                        type="button"
+                        onClick={() => setFlagReason(reasonChip)}
+                        className={`rounded-lg border px-2.5 py-1 text-xs transition-colors ${
+                          flagReason === reasonChip
+                            ? "border-amber-500 bg-amber-500/20 text-amber-400 font-medium"
+                            : "border-border bg-background hover:bg-muted text-muted-foreground"
+                        }`}
+                      >
+                        {reasonChip}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                <div>
+                  <label className="text-xs font-semibold text-muted-foreground block mb-1">
+                    Podrobnejší popis chyby (nepovinné):
+                  </label>
+                  <Textarea
+                    value={flagReason}
+                    onChange={(e) => setFlagReason(e.target.value)}
+                    placeholder="Napríklad: Možnosť B by mala byť správna podľa knihy..."
+                    rows={3}
+                    className="text-xs sm:text-sm"
+                  />
+                </div>
+              </>
+            )}
+          </div>
+
+          {!flagSuccessMsg && (
+            <div className="flex items-center justify-end gap-2 border-t border-border/80 pt-3">
+              <Button
+                type="button"
+                variant="outline"
+                size="sm"
+                onClick={() => setFlagModalQuestion(null)}
+                disabled={isSubmittingFlag}
+              >
+                Zrušiť
+              </Button>
+              <Button
+                type="button"
+                size="sm"
+                className="bg-amber-600 hover:bg-amber-700 text-white font-semibold gap-1.5"
+                onClick={handleSendFlag}
+                disabled={isSubmittingFlag}
+              >
+                {isSubmittingFlag ? (
+                  <>
+                    <Loader2 className="h-3.5 w-3.5 animate-spin" />
+                    Odosielam...
+                  </>
+                ) : (
+                  <>
+                    <Flag className="h-3.5 w-3.5" />
+                    Odoslať administrátorovi
+                  </>
+                )}
+              </Button>
+            </div>
+          )}
+        </div>
+      </div>
+    );
+  };
 
   // ==========================================================================
   // STAV TESTOVACIEHO ENGINU, ČASOVAČA A VYHODNOTENIA
@@ -801,12 +998,16 @@ export function TestSuite({
             <CardContent className="p-4 pt-0 sm:p-6 sm:pt-0">
               <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-6">
                 {TIME_LIMIT_OPTIONS.map((item) => {
-                  const isSelected = timeLimitMinutes === item.minutes;
+                  const isSelected =
+                    !isCustomTimeActive && timeLimitMinutes === item.minutes;
                   return (
                     <button
                       key={item.minutes}
                       type="button"
-                      onClick={() => setTimeLimitMinutes(item.minutes)}
+                      onClick={() => {
+                        setIsCustomTimeActive(false);
+                        setTimeLimitMinutes(item.minutes);
+                      }}
                       className={`flex min-h-[68px] touch-manipulation flex-col items-center justify-center rounded-xl border p-2.5 text-center transition-all active:scale-[0.98] ${
                         isSelected
                           ? "border-primary bg-primary text-primary-foreground shadow-sm"
@@ -828,7 +1029,61 @@ export function TestSuite({
                     </button>
                   );
                 })}
+
+                {/* 6. Možnosť: Vlastný čas */}
+                <button
+                  type="button"
+                  onClick={() => {
+                    setIsCustomTimeActive(true);
+                    const parsed = parseInt(customMinutesInput, 10);
+                    setTimeLimitMinutes(!isNaN(parsed) && parsed > 0 ? parsed : 30);
+                  }}
+                  className={`flex min-h-[68px] touch-manipulation flex-col items-center justify-center rounded-xl border p-2.5 text-center transition-all active:scale-[0.98] ${
+                    isCustomTimeActive
+                      ? "border-primary bg-primary text-primary-foreground shadow-sm"
+                      : "border-border bg-background hover:bg-accent"
+                  }`}
+                >
+                  <span className="text-sm font-bold sm:text-base">
+                    {isCustomTimeActive ? `${timeLimitMinutes} min` : "Vlastný"}
+                  </span>
+                  <span
+                    className={`mt-0.5 text-[11px] leading-tight ${
+                      isCustomTimeActive
+                        ? "text-primary-foreground/85"
+                        : "text-muted-foreground"
+                    }`}
+                  >
+                    Vlastný čas
+                  </span>
+                </button>
               </div>
+
+              {/* Input pre zadanie vlastného počtu minút */}
+              {isCustomTimeActive && (
+                <div className="mt-3 flex flex-wrap items-center justify-between gap-3 rounded-xl border border-primary/30 bg-primary/5 p-3.5 animate-in fade-in duration-200">
+                  <div className="space-y-0.5">
+                    <span className="text-xs font-semibold text-primary uppercase tracking-wider block">
+                      Vlastný časovač testu
+                    </span>
+                    <p className="text-xs text-muted-foreground">
+                      Zadajte požadovaný čas odpočítavania v minútach (1 – 300 minút):
+                    </p>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <Input
+                      type="number"
+                      min={1}
+                      max={300}
+                      value={customMinutesInput}
+                      onChange={handleCustomMinutesChange}
+                      className="w-24 h-9 font-bold text-center border-primary/40 bg-background"
+                      placeholder="minúty"
+                    />
+                    <span className="text-sm font-semibold text-foreground">minút</span>
+                  </div>
+                </div>
+              )}
             </CardContent>
           </Card>
         </div>
@@ -1176,6 +1431,31 @@ export function TestSuite({
                     ? "Viac správnych (Checkbox)"
                     : "1 správna (Rádio)"}
                 </Badge>
+
+                <Button
+                  type="button"
+                  variant="ghost"
+                  size="sm"
+                  onClick={() => handleOpenFlagModal(currentQuestion)}
+                  className={`h-7 px-2 text-xs gap-1 transition-colors ${
+                    flaggedIds.has(currentQuestion.id)
+                      ? "text-emerald-500 hover:text-emerald-600"
+                      : "text-muted-foreground hover:text-amber-500 hover:bg-amber-500/10"
+                  }`}
+                  title="Nahlásiť chybu v tejto otázke administrátorovi"
+                >
+                  {flaggedIds.has(currentQuestion.id) ? (
+                    <>
+                      <CheckCircle2 className="h-3.5 w-3.5" />
+                      <span className="hidden sm:inline">Nahlásené</span>
+                    </>
+                  ) : (
+                    <>
+                      <Flag className="h-3.5 w-3.5" />
+                      <span className="hidden sm:inline">Nahlásiť</span>
+                    </>
+                  )}
+                </Button>
               </div>
             </div>
 
@@ -1604,6 +1884,9 @@ export function TestSuite({
             </Button>
           )}
         </div>
+
+        {/* Modálne okno pre nahlásenie chyby v otázke */}
+        {renderFlagModal()}
       </div>
     );
   }
@@ -1715,17 +1998,49 @@ export function TestSuite({
                     <span className="text-xs font-semibold text-muted-foreground sm:text-sm">
                       Otázka #{idx + 1}
                     </span>
-                    {item.isCorrect ? (
-                      <Badge className="gap-1 bg-emerald-600 text-xs text-white hover:bg-emerald-600">
-                        <CheckCircle2 className="h-3.5 w-3.5" />
-                        Správne zodpovedané
-                      </Badge>
-                    ) : (
-                      <Badge variant="destructive" className="gap-1 text-xs">
-                        <XCircle className="h-3.5 w-3.5" />
-                        Nesprávne zodpovedané
-                      </Badge>
-                    )}
+                    <div className="flex items-center gap-2">
+                      <Button
+                        type="button"
+                        variant="ghost"
+                        size="sm"
+                        onClick={() =>
+                          handleOpenFlagModal({
+                            id: item.questionId,
+                            content: item.content,
+                          })
+                        }
+                        className={`h-7 px-2 text-xs gap-1 transition-colors ${
+                          flaggedIds.has(item.questionId)
+                            ? "text-emerald-500 hover:text-emerald-600"
+                            : "text-muted-foreground hover:text-amber-500 hover:bg-amber-500/10"
+                        }`}
+                        title="Nahlásiť chybu v tejto otázke administrátorovi"
+                      >
+                        {flaggedIds.has(item.questionId) ? (
+                          <>
+                            <CheckCircle2 className="h-3.5 w-3.5" />
+                            <span>Nahlásené</span>
+                          </>
+                        ) : (
+                          <>
+                            <Flag className="h-3.5 w-3.5" />
+                            <span>Nahlásiť chybu</span>
+                          </>
+                        )}
+                      </Button>
+
+                      {item.isCorrect ? (
+                        <Badge className="gap-1 bg-emerald-600 text-xs text-white hover:bg-emerald-600">
+                          <CheckCircle2 className="h-3.5 w-3.5" />
+                          Správne zodpovedané
+                        </Badge>
+                      ) : (
+                        <Badge variant="destructive" className="gap-1 text-xs">
+                          <XCircle className="h-3.5 w-3.5" />
+                          Nesprávne zodpovedané
+                        </Badge>
+                      )}
+                    </div>
                   </div>
                   <CardTitle className="pt-1 text-base leading-snug sm:text-lg">
                     {item.content}
@@ -1798,6 +2113,9 @@ export function TestSuite({
             );
           })}
         </div>
+
+        {/* Modálne okno pre nahlásenie chyby v otázke */}
+        {renderFlagModal()}
       </div>
     );
   }

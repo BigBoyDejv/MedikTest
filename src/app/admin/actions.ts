@@ -365,4 +365,152 @@ export async function deleteUserProfileAction(userId: string) {
   }
 }
 
+// ============================================================================
+// NAHLÁSENÉ OTÁZKY (FLAGGED QUESTIONS)
+// ============================================================================
+
+export async function flagQuestionAction(params: {
+  questionId: string;
+  reason?: string;
+}) {
+  try {
+    const supabase = createClient();
+    const {
+      data: { user },
+    } = await supabase.auth.getUser();
+
+    const { error } = await supabase.from("flagged_questions").insert({
+      question_id: params.questionId,
+      user_id: user?.id ?? null,
+      user_email: user?.email ?? "Anonymný používateľ",
+      reason: params.reason?.trim() || "Nahlásená chyba v otázke",
+      status: "pending",
+    });
+
+    if (error) {
+      // Ak tabuľka zatiaľ neexistuje, vrátime zrozumiteľnú správu
+      if (error.code === "42P01" || error.message.includes("does not exist")) {
+        return {
+          error:
+            "Systém nahlasovania zatiaľ nebol aktivovaný v databáze (chýba tabuľka flagged_questions). Administrátor musí spustiť skript zo schema.sql.",
+        };
+      }
+      return { error: `Chyba pri odosielaní nahlásenia: ${error.message}` };
+    }
+
+    revalidatePath("/admin");
+    return {
+      success:
+        "Otázka bola úspešne nahlásená a administrátor ju preverí v administrátorskom paneli.",
+    };
+  } catch (err) {
+    return {
+      error: err instanceof Error ? err.message : "Nastala neočakávaná chyba.",
+    };
+  }
+}
+
+export async function updateFlaggedQuestionStatusAction(
+  flagId: string,
+  newStatus: "pending" | "resolved" | "dismissed"
+) {
+  try {
+    const { supabase } = await requireAdminSupabase();
+    const { error } = await supabase
+      .from("flagged_questions")
+      .update({
+        status: newStatus,
+        resolved_at: newStatus !== "pending" ? new Date().toISOString() : null,
+      })
+      .eq("id", flagId);
+
+    if (error) {
+      return { error: `Chyba pri aktualizácii stavu nahlásenia: ${error.message}` };
+    }
+
+    revalidatePath("/admin");
+    const label =
+      newStatus === "resolved"
+        ? "označené ako vyriešené"
+        : newStatus === "dismissed"
+        ? "zamietnuté"
+        : "vrátené medzi čakajúce";
+    return { success: `Nahlásenie bolo ${label}.` };
+  } catch (err) {
+    return {
+      error: err instanceof Error ? err.message : "Nastala neočakávaná chyba.",
+    };
+  }
+}
+
+export async function updateQuestionDetailsAction(params: {
+  questionId: string;
+  content: string;
+  options: { id: string; text: string }[];
+  correctAnswers: string[];
+  explanation?: string;
+  resolveFlagId?: string;
+}) {
+  try {
+    const { supabase } = await requireAdminSupabase();
+
+    const { error: updateError } = await supabase
+      .from("questions")
+      .update({
+        content: params.content.trim(),
+        options: params.options,
+        correct_answers: params.correctAnswers,
+        explanation: params.explanation?.trim() || null,
+      })
+      .eq("id", params.questionId);
+
+    if (updateError) {
+      return { error: `Chyba pri ukladaní otázky: ${updateError.message}` };
+    }
+
+    if (params.resolveFlagId) {
+      await supabase
+        .from("flagged_questions")
+        .update({
+          status: "resolved",
+          resolved_at: new Date().toISOString(),
+        })
+        .eq("id", params.resolveFlagId);
+    }
+
+    revalidatePath("/admin");
+    revalidatePath("/test");
+    return {
+      success:
+        "Otázka bola úspešne upravená v databáze a nahlásenie bolo vyriešené.",
+    };
+  } catch (err) {
+    return {
+      error: err instanceof Error ? err.message : "Nastala neočakávaná chyba.",
+    };
+  }
+}
+
+export async function deleteFlaggedQuestionAction(flagId: string) {
+  try {
+    const { supabase } = await requireAdminSupabase();
+    const { error } = await supabase
+      .from("flagged_questions")
+      .delete()
+      .eq("id", flagId);
+
+    if (error) {
+      return { error: `Chyba pri zmazaní nahlásenia: ${error.message}` };
+    }
+
+    revalidatePath("/admin");
+    return { success: "Nahlásenie bolo úspešne odstránené." };
+  } catch (err) {
+    return {
+      error: err instanceof Error ? err.message : "Nastala neočakávaná chyba.",
+    };
+  }
+}
+
+
 
