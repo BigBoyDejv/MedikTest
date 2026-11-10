@@ -251,11 +251,11 @@ export default async function DashboardPage() {
       </div>
 
       {/* 3. Akcia "Slabé miesta" - Veľký CTA panel */}
-      <Card className="border-2 border-primary/25 bg-gradient-to-r from-primary/5 via-background to-amber-500/5 shadow-sm">
+      <Card className="border-2 border-primary/30 bg-gradient-to-r from-primary/10 via-card to-card shadow-sm shadow-primary/5">
         <CardContent className="flex flex-col items-start justify-between gap-6 p-6 sm:p-8 lg:flex-row lg:items-center">
           <div className="space-y-2">
-            <div className="inline-flex items-center gap-2 rounded-full bg-amber-500/10 px-3 py-1 text-xs font-semibold text-amber-700">
-              <Flame className="h-4 w-4 text-amber-600" />
+            <div className="inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/10 px-3 py-1 text-xs font-semibold text-primary">
+              <Flame className="h-4 w-4 text-primary" />
               Cielené zlepšovanie výsledkov
             </div>
             <h2 className="text-2xl font-bold tracking-tight">

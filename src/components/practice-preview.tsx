@@ -112,16 +112,20 @@ export function PracticePreview({
             const isSelected = selectedIds.includes(opt.id);
             const isCorrectOption = correctSet.has(opt.id);
 
-            let borderStyle = "border-border hover:bg-accent/50";
+            let borderStyle = "border-border hover:bg-accent/40";
+            let badgeStyle = "border border-border bg-muted/60 text-muted-foreground";
             if (submitted) {
               if (isCorrectOption) {
                 borderStyle =
-                  "border-emerald-500 bg-emerald-50/70 text-emerald-950";
+                  "border-emerald-500 bg-emerald-950/30 text-emerald-200";
+                badgeStyle = "bg-emerald-600 text-white border-emerald-600";
               } else if (isSelected && !isCorrectOption) {
-                borderStyle = "border-destructive bg-destructive/10";
+                borderStyle = "border-destructive bg-destructive/20 text-destructive";
+                badgeStyle = "bg-destructive text-white border-destructive";
               }
             } else if (isSelected) {
-              borderStyle = "border-primary bg-primary/5 ring-1 ring-primary";
+              borderStyle = "border-primary bg-primary/10 ring-1 ring-primary shadow-sm shadow-primary/20";
+              badgeStyle = "bg-primary text-primary-foreground border-primary";
             }
 
             return (
@@ -129,16 +133,16 @@ export function PracticePreview({
                 key={opt.id}
                 type="button"
                 onClick={() => toggleOption(opt.id)}
-                className={`flex w-full items-center justify-between rounded-lg border p-3.5 text-left text-sm transition-all ${borderStyle}`}
+                className={`flex w-full items-center justify-between rounded-xl border p-3.5 text-left text-sm transition-all active:scale-[0.99] ${borderStyle}`}
               >
                 <div className="flex items-center gap-3">
-                  <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded border text-xs font-semibold uppercase">
+                  <span className={`flex h-6 w-6 shrink-0 items-center justify-center rounded text-xs font-semibold uppercase ${badgeStyle}`}>
                     {opt.id}
                   </span>
                   <span>{opt.text}</span>
                 </div>
                 {submitted && isCorrectOption && (
-                  <CheckCircle2 className="h-4 w-4 shrink-0 text-emerald-600" />
+                  <CheckCircle2 className="h-4 w-4 shrink-0 text-emerald-400" />
                 )}
                 {submitted && isSelected && !isCorrectOption && (
                   <XCircle className="h-4 w-4 shrink-0 text-destructive" />

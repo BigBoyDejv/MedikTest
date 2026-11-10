@@ -55,16 +55,17 @@ function LoginFormContent() {
   }
 
   return (
-    <div className="flex min-h-[calc(100vh-5rem)] items-center justify-center px-4 py-12">
-      <Card className="w-full max-w-md">
+    <div className="relative flex min-h-[calc(100vh-5rem)] items-center justify-center px-4 py-12">
+      <div className="pointer-events-none absolute h-96 w-96 rounded-full bg-primary/15 blur-3xl -top-10" />
+      <Card className="relative z-10 w-full max-w-md border-border/80 shadow-2xl shadow-black/50">
         <CardHeader className="space-y-2 text-center">
-          <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-primary/10 text-primary">
-            <GraduationCap className="h-6 w-6" />
+          <div className="mx-auto flex h-14 w-14 items-center justify-center rounded-2xl bg-primary/10 text-primary border border-primary/20 shadow-sm shadow-primary/20">
+            <GraduationCap className="h-7 w-7" />
           </div>
-          <CardTitle className="text-2xl font-bold">
+          <CardTitle className="text-2xl font-bold tracking-tight text-foreground">
             {mode === "login" ? "Prihlásenie do aplikácie" : "Vytvoriť študentský účet"}
           </CardTitle>
-          <CardDescription>
+          <CardDescription className="text-muted-foreground text-sm">
             {mode === "login"
               ? "Prihláste sa pomocou e-mailu a hesla pre ukladanie vášho progresu."
               : "Bezplatná registrácia na precvičovanie otázok na prijímačky."}
@@ -98,6 +99,7 @@ function LoginFormContent() {
                 placeholder="student@univerzita.sk"
                 required
                 autoComplete="email"
+                className="bg-background/60 border-border/80 focus-visible:border-primary focus-visible:ring-primary"
               />
             </div>
 
@@ -113,12 +115,13 @@ function LoginFormContent() {
                 autoComplete={
                   mode === "login" ? "current-password" : "new-password"
                 }
+                className="bg-background/60 border-border/80 focus-visible:border-primary focus-visible:ring-primary"
               />
             </div>
           </CardContent>
 
           <CardFooter className="flex flex-col space-y-3">
-            <Button type="submit" className="w-full" disabled={isPending}>
+            <Button type="submit" className="w-full shadow-lg shadow-primary/30 font-semibold" disabled={isPending}>
               {isPending && <Loader2 className="h-4 w-4 animate-spin" />}
               {mode === "login" ? "Prihlásiť sa" : "Zaregistrovať sa"}
             </Button>

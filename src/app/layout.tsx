@@ -27,7 +27,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="sk">
+    <html lang="sk" className="dark">
       <body className={`${inter.className} overflow-x-hidden`}>
         <div className="flex min-h-screen flex-col">
           <Navbar />

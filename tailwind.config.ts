@@ -13,6 +13,15 @@ const config: Config = {
       colors: {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        brand: {
+          dark: "#17191B",
+          light: "#E4E3DE",
+          purple: "#8B3DFF",
+          "purple-hover": "#9D57FF",
+          surface: "#1F2226",
+          muted: "#26292E",
+          border: "#30343B",
+        },
         card: {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",

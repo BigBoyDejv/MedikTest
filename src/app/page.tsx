@@ -84,34 +84,38 @@ export default async function HomePage() {
   return (
     <main className="mx-auto max-w-6xl space-y-8 px-4 py-8 sm:px-6">
       {/* Hero sekcia */}
-      <section className="rounded-2xl border bg-card p-6 shadow-sm sm:p-8">
-        <div className="flex flex-col justify-between gap-6 md:flex-row md:items-center">
-          <div className="space-y-2">
-            <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">
+      <section className="relative overflow-hidden rounded-3xl border border-border/80 bg-gradient-to-br from-card via-card to-primary/10 p-6 shadow-xl shadow-black/30 sm:p-10">
+        <div className="pointer-events-none absolute -right-20 -top-20 h-72 w-72 rounded-full bg-primary/20 blur-3xl" />
+        <div className="relative z-10 flex flex-col justify-between gap-6 md:flex-row md:items-center">
+          <div className="space-y-3">
+            <div className="inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/10 px-3 py-1 text-xs font-semibold text-primary">
+              <span className="flex h-1.5 w-1.5 rounded-full bg-primary animate-pulse" />
+              Príprava na lekárske fakulty 2026
+            </div>
+            <h1 className="text-3xl font-extrabold tracking-tight sm:text-4xl lg:text-5xl text-foreground">
               Príprava na prijímačky na VŠ
             </h1>
-            <p className="max-w-2xl text-muted-foreground">
-              Interaktívna databáza testových otázok (Single &amp; Multiple
-              Choice) s konfigurátorom testov, okamžitým vysvetlením a sledovaním
-              osobnej úspešnosti.
+            <p className="max-w-2xl text-sm sm:text-base text-muted-foreground leading-relaxed">
+              Interaktívna databáza testových otázok s konfigurátorom tréningu,
+              oficiálnymi vysvetleniami UPJŠ LF a podrobným sledovaním osobnej úspešnosti.
             </p>
           </div>
 
-          <div className="flex flex-wrap gap-3">
+          <div className="relative z-10 flex flex-wrap gap-3">
             {user ? (
-              <Button asChild size="lg">
+              <Button asChild size="lg" className="shadow-lg shadow-primary/30">
                 <Link href="/test">
                   <ClipboardList className="h-4 w-4" />
                   Konfigurátor testu (/test)
                 </Link>
               </Button>
             ) : (
-              <Button asChild size="lg">
+              <Button asChild size="lg" className="shadow-lg shadow-primary/30">
                 <Link href="/login">Prihlásiť sa / Registrovať</Link>
               </Button>
             )}
             {isAdmin && (
-              <Button asChild variant="outline" size="lg">
+              <Button asChild variant="outline" size="lg" className="border-primary/40 hover:bg-primary/10">
                 <Link href="/admin">
                   <ShieldCheck className="h-4 w-4 text-primary" />
                   Otvoriť Admin CMS

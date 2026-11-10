@@ -36,17 +36,17 @@ export async function Navbar() {
   const isAdmin = isAdminEmail(userEmail);
 
   return (
-    <header className="sticky top-0 z-40 border-b bg-card/90 backdrop-blur supports-[backdrop-filter]:bg-card/80">
+    <header className="sticky top-0 z-40 border-b border-border/80 bg-background/80 backdrop-blur-md supports-[backdrop-filter]:bg-background/70">
       <div className="mx-auto flex h-14 max-w-6xl items-center justify-between gap-2 px-3 sm:h-16 sm:px-6">
         {/* Logo */}
         <Link
           href={userEmail ? "/dashboard" : "/"}
-          className="flex min-w-0 items-center gap-2 font-semibold tracking-tight text-foreground sm:gap-2.5"
+          className="flex min-w-0 items-center gap-2 font-semibold tracking-tight text-foreground transition-opacity hover:opacity-90 sm:gap-2.5"
         >
-          <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-primary text-primary-foreground sm:h-9 sm:w-9">
+          <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-primary text-primary-foreground shadow-md shadow-primary/30 sm:h-9 sm:w-9">
             <GraduationCap className="h-4 w-4 sm:h-5 sm:w-5" />
           </span>
-          <span className="truncate text-sm sm:text-base font-bold">
+          <span className="truncate text-base sm:text-lg font-bold tracking-tight text-foreground">
             educore
           </span>
         </Link>

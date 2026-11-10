@@ -1359,7 +1359,7 @@ export function TestSuite({
                     isTimerPaused ||
                     selectedForCurrent.length === 0
                   }
-                  className="gap-1.5 border-amber-500/40 text-amber-600 hover:bg-amber-50 hover:text-amber-700 dark:border-amber-500/30 dark:text-amber-400 dark:hover:bg-amber-950/30"
+                  className="gap-1.5 border-primary/40 text-primary hover:bg-primary/10 hover:text-primary font-semibold shadow-sm"
                 >
                   {isEvaluatingSingle ? (
                     <>
@@ -1382,7 +1382,7 @@ export function TestSuite({
                   disabled={isLoading || isEvaluatingSingle}
                   className={
                     isTrainingMode && !isCurrentEvaluated && selectedForCurrent.length > 0
-                      ? "bg-amber-600 hover:bg-amber-700 text-white font-semibold shadow-sm"
+                      ? "bg-primary hover:bg-brand-purple-hover text-primary-foreground font-semibold shadow-lg shadow-primary/30"
                       : ""
                   }
                 >
@@ -1524,7 +1524,7 @@ export function TestSuite({
               type="button"
               variant="outline"
               size="default"
-              className="border-amber-500/40 text-amber-600 hover:bg-amber-50 hover:text-amber-700 dark:border-amber-500/30 dark:text-amber-400 dark:hover:bg-amber-950/30"
+              className="border-primary/40 text-primary hover:bg-primary/10"
               onClick={() => handleEvaluateSingleQuestion(currentQuestion.id)}
               disabled={
                 isEvaluatingSingle ||
@@ -1549,7 +1549,7 @@ export function TestSuite({
               size="default"
               className={`flex-1 ${
                 isTrainingMode && !isCurrentEvaluated && selectedForCurrent.length > 0
-                  ? "bg-amber-600 hover:bg-amber-700 text-white font-semibold"
+                  ? "bg-primary hover:bg-brand-purple-hover text-primary-foreground font-semibold shadow-md shadow-primary/25"
                   : ""
               }`}
               onClick={handleNextQuestion}
