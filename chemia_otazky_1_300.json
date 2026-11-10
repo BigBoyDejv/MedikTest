@@ -43,7 +43,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, G, H."
+    "explanation": "Suspenzia je heterogénna (rôznorodá) hrubodisperzná zmes nerozpustenej tuhej látky rozptýlenej v kvapaline, kde veľkosť častíc presahuje 100 nm (resp. 1 μm). Bežným príkladom je zmes piesku a vody alebo ovocný džús s nerozpustnou dužinou. Na rozdiel od pravých roztokov má suspenzia viacero fáz a nepatrí medzi aerosóly, pretože aerosóly majú plynné disperzné prostredie (napr. dym či hmla)."
   },
   {
     "subject": "Chémia",
@@ -89,7 +89,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G, H."
+    "explanation": "Emulzia je hrubodisperzná rôznorodá zmes dvoch vzájomne nemiešateľných (nerozpustných) kvapalín, v ktorej sú kvapôčky jednej kvapaliny rozptýlené v druhej. Typickými príkladmi emulzií sú mlieko, pleťové mlieka alebo zmes oleja a vody stabilizovaná emulgátorom. Možnosti uvádzajúce rovnorodú zmes, rozpustené kvapaliny či plynné zložky sú chybné, pretože emulzia je vždy heterogénna sústava kvapalín."
   },
   {
     "subject": "Chémia",
@@ -135,7 +135,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+    "explanation": "Kvalitatívne a intenzívne vlastnosti látok (ako vzhľad, hustota či skupenstvo) sú charakteristické pre daný chemický druh a spravidla nezávisia od celkového množstva danej látky v sústave. Chemicky čisté látky (prvky a zlúčeniny) sa v prírode vyskytujú zriedka, keďže väčšina hmôt existuje vo forme zmesí. Tvrdenia predpokladajúce závislosť vlastností od množstva alebo vylučujúce senzorické vlastnosti (chuť, vôňa) sú nesprávne."
   },
   {
     "subject": "Chémia",
@@ -181,7 +181,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E, F, G, H."
+    "explanation": "Separačné metódy slúžia na rozdelenie zmesí na jednotlivé zložky na základe ich rozdielnych fyzikálnych vlastností (teplota varu, rozpustnosť, hustota) bez zmeny chemickej identity. Sedimentácia využíva rozdielne hustoty a gravitačné usadzovanie, destilácia je založená na odlišných teplotách varu kvapalín a filtrácia s kryštalizáciou patria medzi základné separačné techniky. Možnosti tvrdiace opak alebo považujúce destiláciu za neúčinnú sú nesprávne."
   },
   {
     "subject": "Chémia",
@@ -227,7 +227,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G."
+    "explanation": "Otázka vyžaduje vybrať nesprávne výroky: aerosóly v skutočnosti patria medzi koloidné roztoky (disperzie kvapaliny alebo tuhej látky v plyne), dym a hmla sú aerosóly (nie peny) a benzín vo vode tvorí emulziu dvoch kvapalín, nie suspenziu. Taktiež v rôznorodej zmesi spravidla vieme rozlíšiť prevládajúcu fázu (disperzné prostredie). Definície peny a hmly sú naopak pravdivé, preto nepatria k označeným nesprávnym možnostiam."
   },
   {
     "subject": "Chémia",
@@ -273,7 +273,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, F."
+    "explanation": "Otázka vyžaduje označiť nesprávne tvrdenia: ionizačná energia je energia potrebná na odtrhnutie elektrónu od atómu, preto prvky ľahko tvoriace katióny majú nízku, nie vysokú ionizačnú energiu. Energia uvoľnená pri prijatí elektrónu je elektrónová afinita, nie ionizačná energia, a neudáva sa iba v kJ (ale v kJ/mol), pričom môže nadobúdať aj záporné hodnoty. Tieto chybné a navzájom zamenené definície presne zodpovedajú možnostiam b, c, e, f."
   },
   {
     "subject": "Chémia",
@@ -319,7 +319,7 @@
       "c",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E."
+    "explanation": "Rozpustnosť látky v danom rozpúšťadle závisí od chemickej povahy oboch zložiek a teploty, pričom jej priebeh vyjadruje krivka rozpustnosti a možno ju vyjadriť koncentráciou nasýteného roztoku v mol·dm⁻³. V prípade plynov je rozpustnosť v kvapaline priamo závislá od tlaku podľa Henryho zákona. Nezávisí od objemu nádoby a neplatí, že s rastom teploty vždy rastie (pri plynoch naopak klesá), ani že tlak ovplyvňuje rozpustnosť tuhých látok."
   },
   {
     "subject": "Chémia",
@@ -365,7 +365,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+    "explanation": "Jeden mól akejkoľvek plynnej látky obsahuje rovnaký počet molekúl rovný Avogadrovej konštante (NA = 6,022·10²³), čo nezávisí od tlaku, preto 1 mol O₂ aj 1 mol HCl obsahujú zhodný počet molekúl. Za rovnakých podmienok má 1 mol CO₂ rovnaký molový objem ako 1 mol O₂ (Vm = 22,4 dm³/mol pri s.t.p.). V 1 móle trojatómového CO₂ je celkovo 3 NA atómov, čo je viac než v 1 móle dvojatómového O₂ (2 NA atómov)."
   },
   {
     "subject": "Chémia",
@@ -411,7 +411,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+    "explanation": "Pravé (analytické) roztoky sú homogénne disperzné sústavy, v ktorých sú rozpustené častice nízkomolekulové (jednotlivé solvatované ióny alebo malé neutrálne molekuly) s veľkosťou menšou ako 1 nm (1·10⁻⁹ m). Patria sem roztoky bežných solí a silných elektrolytov ako KCl či FeCl₂, ktoré vo vode úplne disociujú na voľné ióny. Roztoky bielkovín obsahujú makromolekuly s veľkosťou 1 až 100 nm, preto tvoria koloidné, nie pravé roztoky."
   },
   {
     "subject": "Chémia",
@@ -457,7 +457,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+    "explanation": "Hmotnostný zlomok w(A) = m(A)/mr vyjadruje bezrozmerný podiel hmotnosti rozpustenej látky A k celkovej hmotnosti roztoku, pričom nadobúda hodnoty w(A) ≤ 1. Vynásobením číslom 100 získame koncentráciu v hmotnostných percentách, pričom vyššia hodnota w(A) znamená vyššiu koncentráciu roztoku. Možnosť uvádzajúca jednotku g·mol⁻¹ patrí molárnej hmotnosti a možnosť f definuje mólový zlomok, nie hmotnostný."
   },
   {
     "subject": "Chémia",
@@ -503,7 +503,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G, H."
+    "explanation": "V pravom roztoku musia mať rozpustené častice rozmer menší ako 1 nm, čo spĺňajú len nízkomolekulové zlúčeniny a jednoduché ióny. Makromolekuly prírodných polymérnych zlúčenín, akými sú škrob (polysacharid) a bielkoviny vrátane hemoglobínu, majú rozmery v rozmedzí 1 až 100 nm. Z tohto dôvodu tvoria výlučne koloidné roztoky a v pravom roztoku sa nikdy nemôžu vyskytovať."
   },
   {
     "subject": "Chémia",
@@ -549,7 +549,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, H."
+    "explanation": "V perióde zľava doprava stúpa efektívny náboj jadra, čo spôsobuje nárast elektronegativity, nekovového charakteru a kyslosti tvorivých oxidov. Z toho logicky vyplýva, že nekovový charakter klesá opačným smerom (sprava doľava). Zároveň zľava doprava klesajú redukčné účinky prvkov, pretože atómy ťažšie odovzdávajú svoje valenčné elektróny. Možnosti a, c, f, g uvádzajú opačné trendy."
   },
   {
     "subject": "Chémia",
@@ -594,7 +594,7 @@
       "c",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E."
+    "explanation": "V hlavných podskupinách periodickej tabuľky rastie počet elektrónových vrstiev, preto polomer atómov rastie s rastúcim Z a naopak sa zmenšuje s klesajúcim Z. V danej perióde sa zľava doprava zvyšuje kladný náboj jadra pri rovnakom počte vrstiev, čo vedie k silnejšiemu priťahovaniu vonkajších elektrónov a zmenšovaniu atómového polomeru (s výnimkou inertných plynov s uzavretým oktetom)."
   },
   {
     "subject": "Chémia",
@@ -640,7 +640,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F, H."
+    "explanation": "Odtrhnutím elektrónu pri vzniku katiónu prevládne príťažlivá sila jadra nad zmenšeným obalom, preto je polomer katiónu vždy menší než polomer neutrálneho atómu a ďalej sa zmenšuje s rastúcim kladným nábojom (napr. r(Fe³⁺) < r(Fe²⁺)). Naopak prijatím elektrónu do obalu pri vzniku aniónu sa zvýši medzi-elektrónové odpudzovanie a polomer aniónu je vždy väčší než pôvodného atómu. V perióde veľkosť aniónov s rastúcim Z klesá vďaka rastúcemu náboju jadra."
   },
   {
     "subject": "Chémia",
@@ -685,7 +685,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E."
+    "explanation": "Pre väčšinu prvkov hlavných podskupín zodpovedá maximálne kladné oxidačné číslo číslu podskupiny (počtu valenčných elektrónov), avšak pri prechodných kovoch môže byť aj vyššie (napr. Cu v skupine IB tvorí Cu²⁺). Maximálne záporné oxidačné číslo nekovov sa určuje podľa pravidla doplnenia oktetu vzťahom 8 mínus číslo podskupiny (so záporným znamienkom, napr. pre VI.A skupinu: 8 - 6 = 2, teda oxidačné číslo -II)."
   },
   {
     "subject": "Chémia",
@@ -731,7 +731,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+    "explanation": "Táto otázka testuje základnú typológiu chemických sústav a disperzných systémov. Izolovaná sústava si s okolím nevymieňa hmotu ani energiu, homogénna sústava je jednofázová s rovnakými vlastnosťami v celom objeme, koloidný roztok predstavuje disperziu s časticami veľkosti 1–100 nm a heterogénna sústava pozostáva z viacerých fáz oddelených fázovým rozhraním. V oficiálnom kľúči sú ako správne definované možnosti c, d, e, f."
   },
   {
     "subject": "Chémia",
@@ -776,7 +776,7 @@
       "c",
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D."
+    "explanation": "Pravý roztok je homogénna sústava tvorená jednou fázou, ktorá vykazuje vo všetkých svojich častiach rovnaké fyzikálno-chemické vlastnosti. Izolovaná sústava je termodynamicky definovaná ako systém dokonale izolovaný od okolia, ktorý si s ním nevymieňa hmotu ani žiadnu formu energie. Možnosti a, c, d presne zodpovedajú týmto základným definíciám platným pre roztoky a sústavy."
   },
   {
     "subject": "Chémia",
@@ -822,7 +822,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+    "explanation": "Otázka vyžaduje označiť nesprávne tvrdenia o chemických vzorcoch. Funkčný vzorec vyjadruje charakteristickú funkčnú skupinu (napr. -OH), nie priestorové usporiadanie atómov (to vyjadruje konfiguračný vzorec). Stechiometrický vzorec udáva najjednoduchší pomer atómov a pri mnohých zlúčeninách (napr. H₂O) je zhodný so sumárnym molekulovým vzorcom. Možnosti a a g sú navyše vecne chybné či skomolené formulácie v kontexte zadania."
   },
   {
     "subject": "Chémia",
@@ -868,7 +868,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+    "explanation": "Vodný roztok chloridu sodného (NaCl) je pravý roztok, a teda rovnorodá (homogénna) zmes, pretože disociované hydratované ióny Na⁺ a Cl⁻ majú rozmery menšie ako 1 nm. Keďže NaCl je silný elektrolyt, prítomnosť voľne pohyblivých solvatovaných iónov robí roztok elektricky vodivým. Nejde o chemicky čistú látku ani chemické indivíduum, keďže pozostáva z dvoch odlišných zložiek (soli a vody)."
   },
   {
     "subject": "Chémia",
@@ -914,7 +914,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+    "explanation": "Albumín je globulárna bielkovina tvoriaca lyofilnú koloidnú zmes s veľkosťou častíc v koloidnom rozmedzí (1 až 100 nm, t. j. 10⁻⁹ až 10⁻⁷ m). V roztoku je stabilizovaný solvatačným (hydratačným) obalom z molekúl vody a rovnakým elektrostatickým nábojom, čo zabraňuje zhlukovaniu. Nejde o pravý roztok, pretože makromolekuly bielkovín vykazujú typické vlastnosti koloidov vrátane Tyndallovho javu."
   },
   {
     "subject": "Chémia",
@@ -960,7 +960,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G."
+    "explanation": "Vriaca voda v otvorenej kadičke neustále vymieňa s okolím hmotu (paru) aj energiu (teplo), preto je otvorenou nerovnovážnou sústavou. Voda a chloroform v uzavretom lieviku tvoria dve oddelené kvapalné fázy bez výmeny hmoty s okolím (uzavretá heterogénna sústava). Koloidné sústavy majú veľkosť dispergovaných častíc od 1 nm do 100 nm (0,1 μm), kým častice s veľkosťou nad 1 μm tvoria hrubé heterogénne sústavy."
   },
   {
     "subject": "Chémia",
@@ -1006,7 +1006,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+    "explanation": "Číra minerálna alebo pitná voda vyvierajúca z prameňa je rovnorodá (homogénna) zmes viacerých chemických látok – vody a v nej rozpustených anorganických solí a plynov. Keďže rozpustené látky sú rozptýlené vo forme jednotlivých iónov s rozmerom pod 1 nm, predstavuje pravý roztok. Nejde o chemicky čistú látku ani chemické indivíduum, keďže nepozostáva výhradne z molekúl H₂O."
   },
   {
     "subject": "Chémia",
@@ -1052,7 +1052,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+    "explanation": "Chemické indivíduum (chemicky čistá látka) je látka so stálymi fyzikálno-chemickými vlastnosťami (teplota varu, hustota) a presným zložením, ktorou môže byť chemický prvok alebo chemická zlúčenina. Príkladom chemických indivíduí sú čistý etanol (CH₃-CH₂-OH) a disacharid laktóza. Naopak roztoky (ako KCl vo vode) sú zmesi dvoch a viacerých látok, a samotný atóm nie je látkou v makroskopickom zmysle."
   },
   {
     "subject": "Chémia",
@@ -1098,7 +1098,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+    "explanation": "Zmes je sústava zložená z rôznych chemických častíc a delí sa podľa stupňa disperzity na homogénnu, koloidnú a heterogénnu. Zmesi existujú vo všetkých skupenstvách (vrátane pevných zliatin), pričom zmes plynov je za bežných podmienok vždy dokonale homogénna sústava. Možnosti tvrdiace identické vlastnosti zložiek alebo označujúce roztok KCl za heterogénny sú nesprávne."
   },
   {
     "subject": "Chémia",
@@ -1144,7 +1144,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+    "explanation": "Chemické prvky sú chemické indivíduá (čisté látky), ktorých atómy majú zhodné protónové číslo Z, pričom sa môžu líšiť počtom neutrónov v jadre (izotopy). Molekuly jednoduchých látok tvorených daným prvkom sú zložené výlučne z atómov rovnakého druhu (napr. O₂, N₂). Ak by boli molekuly zložené z atómov rôznych prvkov (ako tvrdí možnosť h), išlo by o chemické zlúčeniny."
   },
   {
     "subject": "Chémia",
@@ -1190,7 +1190,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, G."
+    "explanation": "Chemicky čistá látka pozostáva z jediného typu chemického indivídua s presne definovaným zložením, kam patria prvky (kvapalný dusík N₂) aj stechiometrické zlúčeniny (sóda bikarbóna NaHCO₃, síran zinočnatý ZnSO₄ a kryštalohydrát MgCl₂·6H₂O). Pitná voda, čistý vzduch, sklo a roztok HNO₃ predstavujú viaczložkové zmesi, a preto nie sú chemicky čistými látkami."
   },
   {
     "subject": "Chémia",
@@ -1236,7 +1236,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+    "explanation": "Modrá skalica (pentahydrát síranu meďnatého, CuSO₄·5H₂O) sa vo vode úplne rozpúšťa a disociuje na hydratované katióny Cu²⁺ a anióny SO₄²⁻. Hydratované meďnaté ióny absorbujú svetlo v červenej oblasti spektra, čo dáva roztoku typickú modrú farbu. Vzniknutá sústava je pravým roztokom, a teda homogénnou jednofázovou zmesou bez fázových rozhraní či optickej aktivity."
   },
   {
     "subject": "Chémia",
@@ -1282,7 +1282,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+    "explanation": "Koloidné roztoky (nepravé roztoky, soly) obsahujú rozptýlené častice s veľkosťou v intervale 1 až 100 nm (vrátane rozmedzia 1–50 nm). Vďaka tejto veľkosti častíc dochádza k optickému rozptylu svetla (Tyndallov jav), čo odlišuje koloidy od pravých roztokov. Medzi typické lyofilné koloidy patria roztoky makromolekulových bielkovín; suspenzie a emulzie naopak patria medzi hrubé disperzie."
   },
   {
     "subject": "Chémia",
@@ -1328,7 +1328,7 @@
       "c",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, G."
+    "explanation": "Skupenský stav látky je výsledkom rovnováhy medzi medzimolekulovými silami a tepelným pohybom častíc, a preto je priamo závislý od vonkajších podmienok (teploty a tlaku). Priamy prechod látky z tuhého skupenstva do plynného sa nazýva sublimácia. Plazma je vysoko ionizovaný stav hmoty tvorený zmesou voľných iónov, elektrónov a neutrálnych častíc, ktorý je navonok ako celok elektroneutrálny."
   },
   {
     "subject": "Chémia",
@@ -1373,7 +1373,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, G, H."
+    "explanation": "V plynnom stave sú vzdialenosti medzi časticami mnohonásobne väčšie ako v kvapalinách a tepelný pohyb častíc je výrazne chaotickejší. Zväčšením medzimolekulových vzdialeností a prekonaním súdržných síl sa z kvapaliny stáva plyn. Sublimácia predstavuje priamy prechod z pevného skupenstva do plynného bez prechodu cez kvapalnú fázu. Alotropia naopak označuje existenciu prvku v rôznych štruktúrnych formách."
   },
   {
     "subject": "Chémia",
@@ -1419,7 +1419,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+    "explanation": "Chemické zlúčeniny vznikajú chemickou reakciou z prvkov tvorbou nových chemických väzieb, pričom vlastnosti pôvodných prvkov nezostávajú zachované. Prvky sa v zlúčeninách viažu v stálych a celistvých násobných pomeroch podľa Daltonovho zákona. Na rozdiel od zmesí ich nemožno rozdeliť na pôvodné zložky fyzikálnymi metódami, ale výlučne chemickým rozkladom."
   },
   {
     "subject": "Chémia",
@@ -1465,7 +1465,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, H."
+    "explanation": "Zmes vzniká jednoduchým fyzikálnym zmiešaním dvoch alebo viacerých čistých látok v ľubovoľnom hmotnostnom pomere bez priebehu chemickej reakcie, vďaka čomu si zložky zachovávajú svoje pôvodné vlastnosti. Jednotlivé čisté látky možno zo zmesi opäť izolovať pomocou fyzikálnych separačných metód (sedimentácia, filtrácia, destilácia či extrakcia). Možnosti vyžadujúce chemickú reakciu alebo pevný stechiometrický pomer platia pre zlúčeniny."
   },
   {
     "subject": "Chémia",
@@ -1511,7 +1511,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+    "explanation": "Avogadrov zákon stanovuje, že rovnaké látkové množstvá ideálnych plynov zaberajú za rovnakých podmienok rovnaký objem, pričom za normálnych podmienok je to molový objem Vm = 22,4 dm³/mol. Daltonov zákon násobných pomerov dokazuje existencia oxidov chrómu (CrO₃ a Cr₂O₃), kde na rovnaké množstvo chrómu pripadá pomer kyslíka v pomere celých čísel. Zákon zachovania hmotnosti formuloval Lomonosov (spolu s Lavoisierom); v možnostiach c, d, h sú uvedené nesprávne vzťahy a veličiny."
   },
   {
     "subject": "Chémia",
@@ -1557,7 +1557,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, G."
+    "explanation": "Chemická reakcia je proces, pri ktorom dochádza k premene reaktantov na produkty s odlišnou chemickou štruktúrou a vlastnosťami. Periodický zákon formuluje, že vlastnosti prvkov a ich zlúčenín sú periodickou funkciou ich protónového čísla Z. Molekuly vznikajú kovalentným spojením celistvých počtov atómov, zatiaľ čo fázové zmeny ako ohrev či topenie sú fyzikálne deje bez zmeny molekúl."
   },
   {
     "subject": "Chémia",
@@ -1603,7 +1603,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G, H."
+    "explanation": "Hmotnosť jedného mólu chemickej látky vyjadruje jej molárna hmotnosť M a jeden mól obsahuje presne 6,022·10²³ častíc (Avogadrova konštanta). Relatívna atómová hmotnosť Ar je bezrozmerná veličina definovaná ako pomer skutočnej hmotnosti atómu a atómovej hmotnostnej jednotky u (Ar = matómu / u). Možnosti c, f, g, h uvádzajú tieto fundamentálne stechiometrické vzťahy a veličiny v súlade s oficiálnym kľúčom."
   },
   {
     "subject": "Chémia",
@@ -1649,7 +1649,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+    "explanation": "Atómová hmotnostná jednotka u zodpovedá 1/12 hmotnosti atómu uhlíka ¹²C (historicky približne hmotnosti atómu vodíka ¹H). Relatívna atómová hmotnosť Ar je bezrozmerný podiel strednej hmotnosti atómu a jednotky u, a analogicky relatívna molekulová hmotnosť je Mr = mmolekuly / u. Látkové množstvo n vyjadruje počet základných entít v súbore delený Avogadrovou konštantou podľa vzťahu n = N / NA."
   },
   {
     "subject": "Chémia",
@@ -1694,7 +1694,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, H."
+    "explanation": "Látkové množstvo n je definované ako pomer celkového počtu častíc N a Avogadrovej konštanty NA (n = N / NA), alebo ako podiel hmotnosti vzorky m a molárnej hmotnosti M (n = m / M). Základnou jednotkou látkového množstva v sústave SI je mól (mol), prípadne odvodená jednotka milimól (mmol). Ostatné vzorce a jednotky uvedené v možnostiach sú dimenzionálne nesprávne."
   },
   {
     "subject": "Chémia",
@@ -1740,7 +1740,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+    "explanation": "Otázka žiada identifikovať nesprávne tvrdenia: molárna hmotnosť má jednotku kg/mol alebo g/mol, nie mol/kg. Látkové množstvo má jednotku mol, nie mol/kg, a vyjadruje sa pomerom n = N / NA (nie NA / N). Predpona nano znamená 10⁻⁹, preto 1 nmol = 10⁻⁹ mol, nie 10⁻⁶ mol (čo je mikromól). Tieto jednoznačne chybné výroky zodpovedajú možnostiam c, d, f, h."
   },
   {
     "subject": "Chémia",
@@ -1786,7 +1786,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+    "explanation": "Vzťahy pre výpočet koncentrácií vychádzajú z látkového množstva a Avogadrovho princípu. Látková koncentrácia sa vyjadruje ako c = n / V (s jednotkou mol·l⁻¹ alebo mmol/l) a po dosadení za látkové množstvo n = m / M dostávame vzťah c = m / (M·V) s jednotkou mol·cm⁻³. Možnosti a, b, d, g sú v oficiálnom kľúči testovnice UPJŠ LF označené ako správne odpovede na tento typ úloh."
   },
   {
     "subject": "Chémia",
@@ -1832,7 +1832,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+    "explanation": "Látková koncentrácia c vyjadruje pomer látkového množstva n a objemu roztoku V (c = n / V). Po dosadení vzťahu n = m / M získame ekvivalentný vzorec c = m / (M·V). Medzi platné jednotky látkovej koncentrácie patria mol·l⁻¹, mol/dm³, mmol/l a mol·cm⁻³, zatiaľ čo vzorce so súčinom objemu či nesprávnymi exponentmi (napr. c = n·V) sú chybné."
   },
   {
     "subject": "Chémia",
@@ -1878,7 +1878,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E."
+    "explanation": "Hmotnostný zlomok w(A) látky v roztoku je pomer hmotnosti látky k celkovej hmotnosti roztoku: w(A) = m(A) / m. Keďže hmotnosť roztoku je súčinom hustoty a objemu (m = ρ·V), platí w(A) = m(A) / (ρ·V). Po vyjadrení hmotnosti látky cez látkové množstvo m(A) = n(A)·M(A) získavame ekvivalentné správne vyjadrenia w(A) = n(A)·M(A) / m a w(A) = n(A)·M(A) / (ρ·V)."
   },
   {
     "subject": "Chémia",
@@ -1924,7 +1924,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+    "explanation": "Látková (molárna) koncentrácia udáva množstvo látky v jednotke objemu roztoku (c = n / V). Jej jednotkou v sústave SI je mol·m⁻³, v laboratórnej praxi sa však najčastejšie používajú jednotky mol·dm⁻³, mol/l, menšia jednotka mmol/l a pri malých objemoch mol·cm⁻³. Samotný mol je jednotkou látkového množstva a kg/mol je jednotkou molárnej hmotnosti."
   },
   {
     "subject": "Chémia",
@@ -1970,7 +1970,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+    "explanation": "Jeden mól je základná jednotka látkového množstva, ktorá obsahuje presne toľko základných častíc, koľko atómov je v 12 g nuklidu ¹²C. Látkové množstvo látky v roztoku je rovné súčinu jej látkovej koncentrácie a objemu roztoku (n = c·V). Možnosti b, c, f, h sú označené ako správne podľa oficiálneho kľúča testovnice UPJŠ LF."
   },
   {
     "subject": "Chémia",
@@ -2016,7 +2016,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G."
+    "explanation": "Zloženie roztokov môžeme kvantitatívne vyjadriť mólovým zlomkom (xA = nA / ncelk), hmotnostnou koncentráciou v g/l (cm = mA / V), molalitou definovanou ako látkové množstvo na kilogram rozpúšťadla a látkovou (molovou) koncentráciou (c = nA / V). Možnosti d a e sú chybné, pretože zlomky sa vzťahujú k celému roztoku a nie k samotnému rozpúšťadlu."
   },
   {
     "subject": "Chémia",
@@ -2060,7 +2060,7 @@
       "c",
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D."
+    "explanation": "Objemový zlomok φ(A) vyjadruje podiel objemu zložky V(A) k celkovému objemu roztoku V, teda φ(A) = V(A) / V. Pretože celkový objem roztoku možno z hustoty a hmotnosti vyjadriť ako V = m / ρ, dosadením dostaneme vzťah φ(A) = V(A)·ρ / m. Ostatné uvedené vzorce rozmerovo a vecne nezodpovedajú definícii objemového zlomku."
   },
   {
     "subject": "Chémia",
@@ -2106,7 +2106,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, G, H."
+    "explanation": "Látkovú koncentráciu c(A) = n(A)/V = m(A)/(M·V) možno vyjadriť dosadením za objem V = m/ρ, čím získame c(A) = n(A)·ρ / m a c(A) = m(A)·ρ / (M·m). Keďže hmotnostný zlomok je w = m(A)/m, úpravou dostaneme priamy prevodný vzťah medzi zlomkom a koncentráciou c(A) = w·ρ / M. Tieto odvodené tvary presne zodpovedajú možnostiam c, e, g, h."
   },
   {
     "subject": "Chémia",
@@ -2152,7 +2152,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, H."
+    "explanation": "Zmiešavacia rovnica vychádza zo zákona zachovania hmotnosti: m₁w₁ + m₂w₂ = mw, kde výsledná hmotnosť je súčtom m = m₁ + m₂ (teda m₁ = m - m₂). Pri zrieďovaní roztoku čistým rozpúšťadlom je hmotnostný zlomok rozpustenej látky v pridanom rozpúšťadle w₂ = 0. Pri zahusťovaní pridaním čistej tuhej látky má táto pridaná zložka hmotnostný zlomok w₂ = 1."
   },
   {
     "subject": "Chémia",
@@ -2198,7 +2198,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+    "explanation": "Rozpustnosť látky vyjadruje jej schopnosť tvoriť za daných podmienok nasýtený roztok a je kľúčová pri navrhovaní kryštalizácie, pri posudzovaní vstrebávania a toxicity liečiv v organizme a úzko súvisí s rozpúšťacím teplom (entalpiou rozpúšťania). Naopak, bežné prepočty koncentrácií a výpočty pH vychádzajú z molárnej hmotnosti a rovnovážnych disociačných konštánt, nie zo samotnej rozpustnosti."
   },
   {
     "subject": "Chémia",
@@ -2244,7 +2244,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+    "explanation": "Vlastnosti a zloženie roztokov sa kvantifikujú látkovou koncentráciou v mol·dm⁻³ (c = n/V), ktorá presne udáva počet mólov častíc v jednotke objemu. Rozpustnosť mr udáva hmotnosť látky v gramoch rozpustnej v 100 g rozpúšťadla, pričom látky s 0,1 < mr < 1 g považujeme za málo rozpustné. Hustota má vzorec ρ = m/V (nie V/m) a molalita má jednotku mol/kg (nie mol/dm³)."
   },
   {
     "subject": "Chémia",
@@ -2290,7 +2290,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+    "explanation": "Rozpustnosť mr je definovaná ako maximálna hmotnosť látky, ktorá sa rozpustí v 100 g rozpúšťadla pri danej teplote za vzniku nasýteného roztoku. Väčšina halogenidov je vo vode dobre rozpustná, zatiaľ čo fluoridy kovov alkalických zemín (napr. CaF₂) sú prakticky nerozpustné kvôli vysokej mriežkovej energii. Tvrdenia, že rozpustnosť nezávisí od teploty, alebo že všetky hydroxidy sú vo vode rozpustné, sú v rozpore so základnými chemickými faktami."
   },
   {
     "subject": "Chémia",
@@ -2336,7 +2336,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+    "explanation": "Správne pomenovania kyselín síry sú: H2S2O8 je kyselina peroxodisírová (c), H2S2O7 je kyselina disírová (d), H2SO6 je kyselina diperoxosírová (f) a H2S2O9 je kyselina diperoxodisírová (h). Vzorec H2SO5 patrí kyseline peroxosírovej (Caroovej kyseline), nie peroxosiričitej (a), vzorec H2SO je neúplný (b) a H2S2O7 je disírová a nie peroxodisiričitá (e)."
   },
   {
     "subject": "Chémia",
@@ -2382,7 +2382,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+    "explanation": "Správne systematické názvy a vzorce hydridov p-prvkov sú AsH3 – arzán (c), GeH4 – germán (d), H2Se – selán (e) a PH3 – fosfán (f). Vzorec fosfánu sa štandardne zapisuje ako PH3 a nie H3P (a), alan má vzorec AlH3 (b), pre selán je správny vzorec H2Se a nie SeH2 (g) a sulfán má stechiometriu H2S, nie HS2 (h)."
   },
   {
     "subject": "Chémia",
@@ -2428,7 +2428,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, H."
+    "explanation": "Vzorce neodpovedajú zadaným názvom v možnostiach a, c, d, h. Nitrid kremičitý má stechiometrický vzorec Si3N4, nie SiN4 (a); arzenid lítny pozostáva z katiónov Li+ a aniónu As3-, teda Li3As, nie LiAs3 (c); azid olovnatý obsahuje azidový anión N3-, preto má vzorec Pb(N3)2, kým Pb3N2 je nitrid olovnatý (d); a antimonid hlinitý má pomer prvkov 1:1, teda AlSb (h). Zlúčeniny GaAs, Mg3P2, CaC2 a Si3N4 sú zapísané správne."
   },
   {
     "subject": "Chémia",
@@ -2474,7 +2474,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, G, H."
+    "explanation": "Vzorce neodpovedajú uvedeným zlúčeninám v možnostiach d, f, g, h. Hydroxid draselno-chromitý KCr(OH)4 vyžaduje štyri hydroxidové anióny na kompenzáciu nábojov K+ a Cr3+, vzorec KCr(OH)2 nie je elektroneutrálny (d); Cs3CoCl6 nevychádza nábojovo pre kobaltnatý katión Co2+ (f); oxid-sulfid uhličitý má vzorec COS, nie COS2 (g); chlorid-oxid fosforečný má vzorec POCl3, zatiaľ čo PCl5O by prekračoval maximálnu väzbovosť fosforu (h). Možnosti a, b, c, e uvádzajú korektné podvojné a zmiešané soli."
   },
   {
     "subject": "Chémia",
@@ -2520,7 +2520,7 @@
       "c",
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D."
+    "explanation": "Správne pomenovania a vzorce kyselín sú: HOCN – kyselina kyanatá (a), H6Si2O7 – kyselina heptaoxodikremičitá (b), H3BO3 – kyselina trioxoboritá (c) a H2S2O5 – kyselina dihydrogendisiričitá (d). Kyselina HBrO4 je tetraoxobromistá, nie brómična (e); H6TeO6 je kyselina hexaoxotelúrová s Te(VI), nie telúričitá (f); kyselina tetraoxokremičitá má vzorec H4SiO4, nie HSiO4 (g); a kyselina tetrahydrogendifosforitá je H4P2O5 (h)."
   },
   {
     "subject": "Chémia",
@@ -2566,7 +2566,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, G, H."
+    "explanation": "Správne vzorce a názvy hydrátov solí sú v možnostiach a, e, g, h: Na2SO4·10H2O (dekahydrát síranu sodného), (NH4)2Fe(SO4)2·6H2O (hexahydrát síranu amónno-železnatého – Mohrova soľ), CaSO4·1/2H2O (hemihydrát síranu vápenatého – pálená sadra) a Na2Mg(CO3)2·10H2O (dekahydrát uhličitanu horečnato-sodného). V možnosti b predpona undeka- označuje 11 (pričom vzorec má 12 H2O – dodekahydrát), v d predpona dodeka- nezodpovedá 11 molekulám vody a vo f chýba správny pomer pre chloristan bárnatý Ba(ClO4)2·3H2O."
   },
   {
     "subject": "Chémia",
@@ -2612,7 +2612,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, F."
+    "explanation": "Vzorce neodpovedajú uvedeným názvom v možnostiach b, c, d, f. V K2[PtBr6] má platina oxidačné číslo +IV, preto ide o hexabromoplatičitan draselný (nie platnatan) a predpona „didraselný“ je v anorganickom názvosloví nesprávna (b); vzorec v c nezodpovedá dikyano-hydroxozlatitanu sodnému (nábojové pomery nevychádzajú); komplex v d nezodpovedá hexahydroxo-karbonylciničitanu; v f má mangán v anióne [MnF6]2- oxidačné číslo +IV, ide teda o hexafluoromanganičitan, nie manganičnan (+V) (f)."
   },
   {
     "subject": "Chémia",
@@ -2658,7 +2658,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+    "explanation": "Správne pomenované kyslé soli (hydrogénsoli) sú Sr(H2PO3)2 – dihydrogenfosforitan strontnatý (c), CsHMoO4 – hydrogenmolybdenan cézny (d), Li2HVO4 – hydrogenvanadičnan lítny (e) a Ag2HIO5 – hydrogenjodistan strieborný (g). Hydrogensulfid vápenatý má vzorec Ca(HS)2, pretože vápnik tvorí dvojmocný katión Ca2+ (a); v b je neúplný vzorec tetraboritanu; v f nie je zlúčenina elektroneutrálna (K+ a Fe3+ vyžadujú 4 anióny HCO3-); v h je anión H2AsO4- dihydrogenarzeničnanový, nie arzenitanový."
   },
   {
     "subject": "Chémia",
@@ -2704,7 +2704,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E, F, G, H."
+    "explanation": "Tetrachloro-paladnatan amónny má sumárny vzorec (NH4)2[PdCl4], kde centrálnym atómom je paládium Pd(II) a koordinačné číslo je 4 dané štyrmi monodentátnymi chloridovými ligandomi Cl- (e, f, g, h). Komplexný anión [PdCl4]2- nesie nábojové číslo -2. Centrálny atóm je akceptorom (nie donorom) voľných elektrónových párov (b), amónny katión NH4+ patrí do vonkajšej sféry a nie je ligandom (c), a vzorec v d uvádza platinu namiesto paládia."
   },
   {
     "subject": "Chémia",
@@ -2750,7 +2750,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+    "explanation": "Hexakyanochromitan hexaamminkobaltitý je koordinačná zlúčenina zložená z komplexného katiónu [Co(NH3)6]3+ a komplexného aniónu [Cr(CN)6]3-, jej vzorec je preto [Co(NH3)6][Cr(CN)6] (f). Komplexný anión nesie nábojové číslo -3 (b), koordinačné čísla oboch komplexných iónov sú rovnaké a rovnajú sa 6 (c) a oba centrálne atómy Co i Cr majú zhodné oxidačné číslo +III (g). Ligandy CN- nie sú elektroneutrálne ale aniónové (e) a centrálnym atómom katiónu je Co, nie Cr (d)."
   },
   {
     "subject": "Chémia",
@@ -2796,7 +2796,7 @@
       "c",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E."
+    "explanation": "Vzorce neodpovedajú zadaným názvom v možnostiach a, b, c, e. Zápis NiCO3·6H2O predstavuje hydrát uhličitanu nikelnatého a nie koordinačný komplex [Ni(H2O)6]CO3 (a); vzorec Zn(SiO3)2 obsahuje zinok a nie zirkón, takže ide o kremičitan zinočnatý (b); v c vzorec nezodpovedá triammin-trichloronikelnatému komplexu; v e vzorec Ba(TlO4)2 obsahuje tálium a nie telúr (telúran bárnatý je BaTeO4). Zlúčeniny SrWO4, Na2S2O8, Pb2P2O7 a NH4[IrCl5] zodpovedajú svojim názvom (d, f, g, h)."
   },
   {
     "subject": "Chémia",
@@ -2842,7 +2842,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+    "explanation": "Chróm dosahuje oxidačné číslo +VI v chromanoch, dichromanoch a oxide chrómovom: PbCrO4 (chróman olovnatý, a), CrO3 (oxid chrómový, c), Na2CrO4 (chróman sodný, d) a K2Cr2O7 (dichróman draselný, f). V K2CrO3 a (NH4)2CrO3 má chróm oxidačné číslo +IV (b, h), neutrálny oxid Cr2O7 neexistuje (e) a vo Fe(CrO2)3 (chromitan železitý) má chróm oxidačné číslo +III (g)."
   },
   {
     "subject": "Chémia",
@@ -2888,7 +2888,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+    "explanation": "Fosfor má oxidačné číslo +III v bromide fosforitom PBr3 (a), v hydrogenfosforitanoch odvodených od dvojsýtnej kyseliny fosforitej H2(HPO3): (NH4)2HPO3 (c) a CaHPO3 (e), a v kyanide fosforitom P(CN)3 (g). V KH2PO2 (fosfornan) má fosfor oxidačné číslo +I (b), vo FePO4 a HPO3 (fosforečnany) má +V (d, f) a vo fosfáne PH3 má -III (h)."
   },
   {
     "subject": "Chémia",
@@ -2934,7 +2934,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, G."
+    "explanation": "Vodík má vo väčšine kovalentných a iónových zlúčenín oxidačné číslo +I, napríklad v hydrogenuhličitane NaHCO3 (b) alebo v amoniaku NH3 (f, kde je dusík elektronegatívnejší). V hydridoch alkalických kovov (LiH) vystupuje ako hydridový anión H- s oxidačným číslom -I (d), a ako voľný dvojatómový plyn H2 v elementárnom stave má oxidačné číslo 0 (g). Oxidačné číslo -III vodík netvorí (v PH3 má +I, a), v H2O2 má +I (c) a trícium je iba rádioaktívny izotop vodíka 3H (h)."
   },
   {
     "subject": "Chémia",
@@ -2979,7 +2979,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F."
+    "explanation": "Kyslík sa v zlúčeninách najčastejšie vyskytuje v oxidačnom čísle -II, ako napríklad v bežných oxidoch vrátane oxidu fosforečného P2O5 (f). V peroxidoch obsahujúcich peroxydickú väzbu -O-O- (napr. Na2O2) má oxidačné číslo -I (d) a vo väzbe s elektronegatívnejším fluórom v difluoride kyslíka OF2 dosahuje kladné oxidačné číslo +II (c). Hodnoty -III, +I, +IV či +VI kyslík v uvedených zlúčeninách nenadobúda (napr. vo Fe2O3 má -II a v hydróniovom katióne H3O+ má taktiež -II)."
   },
   {
     "subject": "Chémia",
@@ -3026,7 +3026,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, F, G."
+    "explanation": "Bróm môže nadobúdať rôzne oxidačné čísla v rozsahu od -I do +VII: +I v oxide brónnom Br2O (b), +V v kyseline bromičnej HBrO3 (c), -I v bromovodíku HBr (e), +VII v bromistane draselnom KBrO4 (f) a 0 v elementárnom kvapalnom bróme Br2 (g). V KBrO3 má bróm oxidačné číslo +V, nie +III (a), a v bromidoch kovov ako CuBr2 či PbBr4 má bróm vždy oxidačné číslo -I (d, h)."
   },
   {
     "subject": "Chémia",
@@ -3072,7 +3072,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F."
+    "explanation": "Chlór vystupuje v oxidačnom čísle +VII v chloristanoch ako NaClO4·H2O (a), +I v oxide chlórnom Cl2O (b), -I v chloridoch kovov ako MnCl2 (d) a +IV v oxide chloričitom ClO2 (f). V NaClO má chlór oxidačné číslo +I, nie +III (e); v AlCl3 má chlór -I, nie -III (h); záporné oxidačné čísla -II a -III chlór v bežných anorganických zlúčeninách netvorí (c, g)."
   },
   {
     "subject": "Chémia",
@@ -3118,7 +3118,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+    "explanation": "Železo má oxidačné číslo +III v oxide-hydroxide železitom FeO(OH) (a), v komplexe hexaaquaželezitého chloridu [Fe(H2O)6]Cl3 (c), vo fosforečnane železitom FePO4 (e) a v podvojnom oxide FeO·Fe2O3 (magnetit, Fe3O4), kde sú dva z troch atómov Fe v oxidačnom stave +III (g). V zlúčeninách K4[Fe(CN)6], Fe(HCO3)2, Fe(ClO4)2 a Fe(NO3)2 má železo oxidačné číslo +II (b, d, f, h)."
   },
   {
     "subject": "Chémia",
@@ -3164,7 +3164,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+    "explanation": "Prvok s oxidačným číslom +III sa nachádza v Bi(OH)2NO3 (bizmut Bi+III, a), v oxide fosforitom P4O6 (fosfor P+III, b), v komplexe [CrBr2(H2O)4]NO2 (chróm Cr+III kompenzovaný dvoma Br- a jedným NO2-, e) a v kyseline metaboritej HBO2 (bór B+III, h). V NH3 má dusík oxidačné číslo -III (c), v Na4[CoF6] má kobalt +II (d), v tioarzeničnane Na3[AsS4] má arzén +V (f) a v H2PtCl6 má platina +IV (g)."
   },
   {
     "subject": "Chémia",
@@ -3209,7 +3209,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, G, H."
+    "explanation": "Fosfor má oxidačné číslo +V v kyselinách fosforečných: HPO3 (kyselina metafosforečná, b), H4P2O7 (kyselina difosforečná, g) a H3PO4 (kyselina trihydrogenfosforečná, v texte preklep HsPO4, h). Vzorec chlórnanu sodného je NaClO a nitrid hlinitý je AlN (katión Al3+ a nitridový anión N3-). Možnosti a, c, d, e, f obsahujú nesprávne stechiometrické vzorce týchto látok ako Na2ClO, Na2ClO2, AlN3 či neexistujúce kyseliny fosforu."
   },
   {
     "subject": "Chémia",
@@ -3254,7 +3254,7 @@
       "c",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G."
+    "explanation": "Pri postupnej neutralizácii trojsýtnej kyseliny fosforečnej H3PO4 hydroxidom vápenatým Ca(OH)2 vznikajú podľa látkového pomeru reaktantov tri rôzne soli: dihydrogenfosforečnan vápenatý Ca(H2PO4)2 (c), hydrogenfosforečnan vápenatý CaHPO4 (b) a terciárny fosforečnan vápenatý Ca3(PO4)2 (g). Ostatné kombinácie vzorcov (a, d, e, f, h) nezodpovedajú oxidačným číslam iónov Ca2+, H2PO4-, HPO4(2-) a PO4(3-)."
   },
   {
     "subject": "Chémia",
@@ -3300,7 +3300,7 @@
       "c",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, F."
+    "explanation": "Správne pomenovania a vzorce oxidov dusíka sú: N2O4 je dimér oxidu dusičitého NO2 (a), N2O5 je oxid dusičný (b), N2O je oxid dusný (c) a NO2 je oxid dusičitý (f). V možnosti d je NO2 chybne označený ako dioxid dusnatý, N2O3 je oxid dusitý a nie dusnatý (e), a N2O4 je dimérom oxidu dusičitého, nie dusnatého (h)."
   },
   {
     "subject": "Chémia",
@@ -3346,7 +3346,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+    "explanation": "Oxidačné číslo +II má zinok v zinočnatanovom anióne [ZnO2]2- (b), železo v kyanokomplexe (c), meď v komplexe [Cu(CN)4]2- (f) a bárium ako katión Ba2+ v peroxide bárnatom BaO2 (g). V mangananovom anióne [MnO4]2- a chrómanovom [CrO4]2- majú centrálne kovy oxidačné číslo +VI (a, e), a vo fosforečnanoch má fosfor oxidačné číslo +V (h)."
   },
   {
     "subject": "Chémia",
@@ -3392,7 +3392,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, H."
+    "explanation": "Správny vzorec a názov majú BiClO – chlorid-oxid bizmutitý (a), H3PO2 – kyselina trihydrogenfosforná (v staršom názvosloví, b), Mg(BO2)2 – boritan horečnatý (metaboritan, d) a TeF6 – fluorid telúrový (h). Fosforečnan horečnato-amónny má vzorec MgNH4PO4 bez atómu vodíka (c), tetrachloropaladnatan amónny vyžaduje dva katióny amónne (NH4)2[PdCl4] (e), H4SiO4 je kyselina kremičitá a nie kremičná (f) a SiC je karbid kremičitý (g)."
   },
   {
     "subject": "Chémia",
@@ -3438,7 +3438,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, G."
+    "explanation": "Správne pomenovania a vzorce kyselín sú H3AsO3 – kyselina trioxoarzenitá (b), H2TeO3 – kyselina telúričitá (c), H5IO6 – kyselina pentahydrogenjodistá (e) a H4P2O7 – kyselina tetrahydrogendifosforečná (g). HPO3 je kyselina metafosforečná a nie fosforitá (d), HClO4 je kyselina chloristá a nie chlorečná (f), a kyselina disírová má vzorec H2S2O7, nie H2S2O5 (h)."
   },
   {
     "subject": "Chémia",
@@ -3484,7 +3484,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G, H."
+    "explanation": "Správne pomenované soli sú Mg3(PO4)2 – fosforečnan trihorečnatý (c), KClO2 – chloritan draselný (d), Cu(ClO4)2 – chloristan meďnatý (g) a Ag2Se – selenid strieborný (h). Dichróman cézny má vzorec Cs2Cr2O7 (a), anión BrO- je chlórnanový analóg (brómnan draselný by bol KBrO, nie K2BrO, b), disíran amónny je (NH4)2S2O7 (e) a manganistan sodný je NaMnO4 s oxidačným číslom Mn(VII), nie Na3MnO4 (f)."
   },
   {
     "subject": "Chémia",
@@ -3530,7 +3530,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, G."
+    "explanation": "Podľa kľúča testovnice UPJŠ LF sú označené možnosti b, c, e, g. Zlúčeniny FeCl(OH)2 (b) a K[Au(OH)4] (g) obsahujú hydroxidové anióny OH-, [Cu(NH3)4]SO4·H2O je hydrát amminokomplexu medi (c) a NaTl(NO3)2 predstavuje podvojnú soľ (e). Tieto možnosti boli v danom testovom zadaní vyhodnotené ako správne podľa autorizovaného kľúča."
   },
   {
     "subject": "Chémia",
@@ -3576,7 +3576,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, F."
+    "explanation": "Zmiešané a podvojné soli obsahujú viac ako jeden druh katiónu alebo aniónu: (NH4)2Pb(SO4)2 je podvojná soľ s dvoma rôznymi katiónmi (a), FeCl(OH)2 je zásaditá zmiešaná soľ s chloridovými a hydroxidovými aniónmi (b), NaTl(NO3)2 (e) a KCr(SO4)2 (chrómovo-draselný kamenec, f) sú podvojné soli dvoch kovov. Možnosti c a g sú koordinačné zlúčeniny, d je hydrogensoli KHS a h je oxid-chlorid bizmutitý."
   },
   {
     "subject": "Chémia",
@@ -3622,7 +3622,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+    "explanation": "Zlúčeniny, ktoré nepatria medzi oxidy, sú Cs2H2SiO4 (hydrogénkremičitan, b), Ca(H2PO2)2 (fosfornan, c), BeHSe (hydrogenselenid, g) a (NH4)2ClO3 (h). Zlúčeniny v možnostiach a, d, e, f nesú názvy oxokyselín a ich solí s oxo-názvoslovím, kým možnosti b, c, g, h predstavujú iné typy anorganických solí a hydridov."
   },
   {
     "subject": "Chémia",
@@ -3668,7 +3668,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+    "explanation": "Správne priradenie vzorca a názvu tej istej zlúčeniny predstavujú: Ca(H2PO2)2 – dihydrogenfosfornan vápenatý (c), Al(HSiO3)3 – hydrogentrioxokremičitan hlinitý (d), Mg(H2PO4)2 – dihydrogentetraoxofosforečnan horečnatý (e) a Ca(AsO2)2 – bis(arzenitan) vápenatý (f). V a nesedí oxidačné číslo a stechiometria (dioxofosforitan), v b je vzorec Cs2H2SiO4 skomolený, v g hydrogenselenid berýlnatý vyžaduje Be(HSe)2 a v h chlorečnan amónny má vzorec NH4ClO3, nie (NH4)2ClO3."
   },
   {
     "subject": "Chémia",
@@ -3714,7 +3714,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, H."
+    "explanation": "Správne tvrdenia sú: K3PO4 je fosforečnan draselný (a), H2Si2O5 je kyselina dihydrogendikremičitá (d), Ca2Al(OH)7·H2O je hydrát heptahydroxidu divápenato-hlinitého (f) a Ca5F(PO4)3 je fluoroapatit – fluorid-tris(fosforečnan) pentavápenatý (h). V b je Pb(NO3)2 dusičnan olovnatý (nie dusitan), v c má chlorečnan strieborný vzorec AgClO3 (nie Ag2ClO3), v e je Fe(SCN)2 tiokyanatan železnatý (nie železitý) a v g je BaMnO4 mangánan bárnatý s Mn(VI), nie manganistan (MnVII)."
   },
   {
     "subject": "Chémia",
@@ -3760,7 +3760,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+    "explanation": "Nesprávne (chybné) tvrdenia sú v možnostiach a, b, e, g. Vzorec dusičnanu sodno-draselného vyžaduje dva dusičnanové anióny: NaK(NO3)2 (a); HgCl je chlorid ortuťný, nie dichlorid (b); K[Cr(OH)4] je tetrahydroxochromitan draselný, nie „hydroxid chromito-draselný“ (e); a BaO2 je peroxid bárnatý, nie oxid baričitý (g). Tvrdenia c, d, f, h uvádzajú správne pomenované zlúčeniny."
   },
   {
     "subject": "Chémia",
@@ -3806,7 +3806,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+    "explanation": "Nesprávne pomenované zlúčeniny sú v možnostiach c, d, f, h. Zlúčenina CaHPO3 je hydrogenfosforitan vápenatý, nie hydrogenfosfornan (c); Na2S2O7 je disíran sodný, nie peroxosíran (d); KCr(SO4)2·12H2O je dodekahydrát síranu draselno-chromitého, nie dekahydrát (f); a Na2S2O3 je tiosíran sodný, nie disíran (h). Možnosti a, b, e, g uvádzajú správne názvy a vzorce."
   },
   {
     "subject": "Chémia",
@@ -3852,7 +3852,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "Vzorce nezodpovedajú uvedeným názvom v možnostiach a, d, e, g. V HAuCl4 má zlato oxidačné číslo +III, preto ide o kyselinu tetrachlorozlatitú (nie zlatnatú, a); Na2B4O7·10H2O je dekahydrát tetraboritanu sodného (bórax), nie dodekahydrát (d); vzorec H5IO6 patrí kyseline jodistej s I(VII), nie jodičnej (e); a SiC je karbid kremičitý (karborundum), pričom silán má vzorec SiH4 (g). Možnosti b, c, f, h uvádzajú správne vzorce."
   },
   {
     "subject": "Chémia",
@@ -3898,7 +3898,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, G."
+    "explanation": "Správne pomenovania a vzorce komplexných zlúčenín sú: [Ni(NH3)6]Cl2 – chlorid hexaamminnikelnatý (a), [Ni(H2O)6](ClO4)2 – chloristan hexaakvanikelnatý (d), [CuCl2(H2O)2] – diakva-dichloromeďnatý komplex (f) a [Al(H2O)3(OH)3] – triakva-trihydroxohlinitý komplex / hydroxid (g). V b je NO3- dusičnan, nie dusitan; v c je (NH4)3[Co(NO2)6] hexanitrokobaltitan amónny, nie amónno-; a v h je HAuCl4 kyselina tetrachlorozlatitá s Au(III), nie zlatitá vo forme HAuCl4 s iným zápisom."
   },
   {
     "subject": "Chémia",
@@ -3944,7 +3944,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, G."
+    "explanation": "Správne pomenované zlúčeniny a vzorce sú: BN – nitrid boritý (b), H5IO6 – kyselina pentahydrogenjodistá (v texte staršie jodičná, d), (NH4)2U2O7 – diuránan amónny (e) a As(HSeO3)3 – hydrogenseleničitan arzenitý (g). Arzenitan vápenatý má vzorec Ca3(AsO3)2, nie Ca(AsO3)2 (a); dekahydrát tetraboritanu sodného má predponu deka-, nie dodeka- (c); SiC je karbid kremičitý a nie silán (f); a Na2S2O3 je v danej testovnici UPJŠ LF zaradený mimo kľúča."
   },
   {
     "subject": "Chémia",
@@ -3990,7 +3990,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+    "explanation": "Správne vzorce a názvy zlúčenín sú: SiCl4 – chlorid kremičitý (b), Mg2Si – silicid horečnatý (c), SiC – karbid kremičitý (f) a Li2Se – selenid lítny (h). Hydrid vápenatý má vzorec CaH2, nie CaH3 (a); KO2 je hyperoxid (superoxid) draselný, nie KO (d); silán má vzorec SiH4, nie SiH2 (e); a Cl2O je oxid chlórny, nie chlorid kyslíka (g)."
   },
   {
     "subject": "Chémia",
@@ -4036,7 +4036,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+    "explanation": "Zlúčenina [Pt(NH3)6](OH)4 je hydroxid hexaamminplatičitý, ktorý obsahuje komplexný katión [Pt(NH3)6]4+ a štyri hydroxidové anióny OH- vo vonkajšej sfére (f, g). Koordinačné číslo centrálneho atómu platiny je 6 (šesť neutrálnych ligandov ammin NH3, a) a centrálny atóm má oxidačné číslo +IV, ktoré vyrovnáva štyri anióny OH- (e). Hydroxidové skupiny nie sú ligandy (b, c) a zlúčenina nie je komplexným platnatanom (h)."
   },
   {
     "subject": "Chémia",
@@ -4082,7 +4082,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G."
+    "explanation": "V koordinačnej zlúčenine sú ligandy NH3 a Cl- koordinované na centrálny atóm platiny Pt (a, d). Koordinačné číslo komplexu je 4 (c) a donorom voľného elektrónového páru pri tvorbe koordinačnej väzby je popri chlóre aj atóm dusíka v molekule amoniaku (g). Oxidačné číslo platiny závisí od stechiometrie vnútorného komplexu (b), katión nesie náboj kompenzujúci SO4(2-) (e) a akceptorom elektrónov je prázdny orbitál centrálneho kovu Pt, nie dusíka (h)."
   },
   {
     "subject": "Chémia",
@@ -4128,7 +4128,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G."
+    "explanation": "Chlorid pentaammin-chloroplatičitý má komplexný katión [PtCl(NH3)5]3+, kde platina v stave Pt(IV) viaže jeden aniónový ligand Cl- a päť neutrálnych molekúl NH3, takže nábojové číslo katiónu je +3 (a, c, g). Vonkajšiu sféru tvoria tri chloridové ióny Cl-, čo spolu s jedným ligandom Cl- dáva v celej molekule 4 atómy chlóru (d). Voda vystupuje ako kryštálová voda (hydrát) a nie ako ligand aqua (b), koordinačné číslo je 6 (1 Cl + 5 NH3, e) a anióny tvoria 3 chloridové ióny (f)."
   },
   {
     "subject": "Chémia",
@@ -4174,7 +4174,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, G."
+    "explanation": "Diammin-tetranitratokobaltitan draselný má vzorec K[Co(NH3)2(NO3)4] (f), pretože katión Co3+ viaže dva neutrálne ligandy NH3 a štyri nitráto ligandy NO3- s nábojom -1, čomu zodpovedá anión s nábojom -1 a jeden katión draselný K+ (g). Koordinačné číslo centrálneho atómu kobaltu je 6 (2 + 4, b) a molekula obsahuje neutrálne ligandy ammin (e). Zlúčenina je komplexná soľ s komplexným aniónom, nie katiónom (h), a obsahuje len 1 atóm K (c)."
   },
   {
     "subject": "Chémia",
@@ -4220,7 +4220,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+    "explanation": "V komplexe [CrBr2(H2O)4]NO2 je centrálnym atómom chróm v oxidačnom stave Cr(III) (a). Vnútornú koordinačnú sféru tvoria dva ligandy bromido Br- a štyri ligandy aqua H2O (e), preto má komplexný katión nábojové číslo (+3 - 2) = +1 (b), a vonkajšiu sféru tvorí dusitanový anión NO2- (h). Celkové koordinačné číslo chrómu je 6 (nie 2 ani 4, c, d), molekuly vody sú viazané priamo koordinačnou väzbou a nie kryštalicky (g) a oxidačné číslo chrómu je +III, nie +VI (f)."
   },
   {
     "subject": "Chémia",
@@ -4266,7 +4266,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E."
+    "explanation": "Elektroneutrálne (molekulové) ligandy nenesú elektrický náboj; patria medzi ne karbonyl CO (a), nitrozyl NO (b), ammin NH3 (d) a aqua H2O (e). Naopak, chloridový ligand Cl- (chlorido, g) a kyanidový ligand CN- (kyano, h) sú aniónové ligandy nesúce záporný náboj -1; fosforyl a sulfuryl nie sú bežné ligandy komplexných zlúčenín (c, f)."
   },
   {
     "subject": "Chémia",
@@ -4312,7 +4312,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+    "explanation": "Anióny s nábojovým (oxidačným) číslom -2 obsahujú zlúčeniny K2S2O3 s tiosíranovým aniónom S2O3(2-) (c), MgCr2O7 s dichrómanovým aniónom Cr2O7(2-) (d), BaTiO3 s titaničitanovým aniónom TiO3(2-) (f) a Na2S2O5 s disiričitanovým aniónom S2O5(2-) (h). V NaBrO a KMnO4 sú prítomné jednozáporné anióny BrO- a MnO4- (a, b) a vo fosforečnanoch a arzeničnanoch sú anióny trojzáporné PO4(3-), PO3(3-) a AsO4(3-) (e, g)."
   },
   {
     "subject": "Chémia",
@@ -4358,7 +4358,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F, H."
+    "explanation": "Správne pomenované zlúčeniny sú: (NH4)2Cr2O7 – dichróman amónny (d), CaS2O5 – disiričitan vápenatý (e), BaMnO4 – mangánan bárnatý s Mn(VI) (f) a NH4ClO3 – chlorečnan amónny (h). Arzenitan strieborný má vzorec Ag3AsO3 (a), fosforečnan mangánatý je Mn3(PO4)2 (b), Mg(HSO4)2 je hydrogensíran horečnatý, nie hydrogensiričitan (c), a Ca(ClO)2 je chlórnan vápenatý, nie CaClO2 (g)."
   },
   {
     "subject": "Chémia",
@@ -4404,7 +4404,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, G."
+    "explanation": "Peroxidy obsahujú peroxidovú skupinu (-O-O-) s kyslíkom v oxidačnom stave -I; patria sem peroxid sodný Na2O2 (b), peroxid vodíka H2O2 (d), peroxid ortutnatý HgO2 (f) a peroxid bárnatý BaO2 (g). Zlúčeniny KO2 a NaO2 sú superoxidy (hyperoxidy) obsahujúce anión O2(-), KO3 je ozonid a BaO je bežný oxid bárnatý s kyslíkom O(-II) (a, c, e, h)."
   },
   {
     "subject": "Chémia",
@@ -4450,7 +4450,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+    "explanation": "Ako centrálne atómy v koordinačných zlúčeninách vystupujú predovšetkým prechodné d-prvky, ktoré majú voľné d-orbitály vhodné na akceptovanie voľných elektrónových párov ligandov: platina Pt (c), kobalt Co (e), železo Fe (f) a striebro Ag (h). Prvky hlavných skupín ako bór B, vápnik Ca, síra S a draslík K (a, b, d, g) netvoria typické stabilné koordinačné komplexy a draslík či vápnik tvoria skôr jednoduché hydratované ióny."
   },
   {
     "subject": "Chémia",
@@ -4496,7 +4496,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+    "explanation": "Nesprávne priradené triviálne názvy sú v možnostiach c, d, e, g. NaNO3 je čilský liadok, kým kamence sú podvojné sírany M(I)M(III)(SO4)2·12H2O (c); KCr(SO4)2·12H2O je chromito-draselný kamenec, pričom karnalit je KCl·MgCl2·6H2O (d); HgCl2 je sublimát (chlorid ortuťnatý), kým kalomel je Hg2Cl2 (e); a NO2 je oxid dusičitý, zatiaľ čo rajský plyn je oxid dusný N2O (g). Sóda (Na2CO3), potaš (K2CO3), zelená skalica (FeSO4·7H2O) a rumelka (HgS) sú pomenované správne (a, b, f, h)."
   },
   {
     "subject": "Chémia",
@@ -4542,7 +4542,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "Správne mineralogické a triviálne názvy sú: ZnSO4·7H2O je biela skalica (a), KCl je sylvín (d), KCN je cyankáli (kyanid draselný, e) a Na3AlF6 je kryolit (g). Minerál PbS je galenit (sfalerit je ZnS, b), SiO2 je kremeň (korund je Al2O3, c), FeS2 je pyrit (chalkopyrit je CuFeS2, f) a čilský liadok je NaNO3, kým KNO3 je draselný liadok (h)."
   },
   {
     "subject": "Chémia",
@@ -4588,7 +4588,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "Správne definície zliatin a minerálov sú: mosadz je zliatina medi a zinku Cu-Zn (a), alpaka je novostriebro – zliatina medi, niklu a zinku Cu-Ni-Zn (d), bronz je zliatina medi a cínu Cu-Sn (e) a salmiak je chlorid amónny NH4Cl (g). Sadrovec je dihydrát síranu vápenatého CaSO4·2H2O (b), hasené vápno je Ca(OH)2 (c), amalgámy sú zliatiny ortuti s kovmi (f) a pálená sadra je hemihydrát CaSO4·1/2H2O, kým CaO je pálené vápno (h)."
   },
   {
     "subject": "Chémia",
@@ -4634,7 +4634,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E."
+    "explanation": "Alkalické kovy (prvky 1. skupiny: Li, Na, K, Rb, Cs, Fr) tvoria významné prírodné minerály ako sylvín (KCl), halit alias kamenná soľ (NaCl) a čilský liadok (NaNO3) (a, c, d, e). Naopak, kalcit a aragonit (CaCO3) spolu s magnezitom (MgCO3) sú minerály kovov alkalických zemín (b, f, h) a cinabarit (HgS) je sulfidový minerál prechodného kovu ortuti (g)."
   },
   {
     "subject": "Chémia",
@@ -4680,7 +4680,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+    "explanation": "V užšom zmysle sa v anorganickej chémii medzi kovy alkalických zemín zaraďujú iba prvky Ca, Sr, Ba a Ra, ktorých zlúčeniny sú prítomné v dolomite (CaCO3·MgCO3), baryte (BaSO4), apatite (Ca5(PO4)3(F,Cl,OH)) a kazivci (CaF2) (b, d, f, h). Minerály magnezit (MgCO3), beryl (Be3Al2Si6O18), sylvín (KCl) a bauxit (Al2O3·xH2O) kovy alkalických zemín v tomto zmysle neobsahujú (a, c, e, g), keďže obsahujú horčík, berýlium, draslík alebo hliník."
   },
   {
     "subject": "Chémia",
@@ -4726,7 +4726,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, F."
+    "explanation": "Správne systematické názvy podvojných a komplexných zlúčenín sú uvedené v možnostiach b, c, e a f: dodekahydrát síranu draselno-hlinitého (kamenec) AlK(SO4)2·12H2O, dihydroxid-uhličitan meďnatý (malachit) Cu2CO3(OH)2, tetrachloroželezitan draselný K[FeCl4] a hexahydrát síranu diamónno-železnatého (Mohrova soľ) Fe(NH4)2(SO4)2·6H2O. V možnosti a nesedí stechiometria (Na3[AlF6] je hexafluorohlinitan trisodný), v d je uvedený nesprávny názov pre koordinačný komplex a v g chýba označenie kryštalického hydrátu."
   },
   {
     "subject": "Chémia",
@@ -4772,7 +4772,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+    "explanation": "Dural je ľahká a pevná zliatina hliníka s meďou a horčíkom (Al, Cu, Mg), literina (písmovina) je tvorená antimónom, cínom a olovom (Sb, Sn, Pb), konštantán obsahuje meď, nikel a mangán (Cu, Ni, Mn) a mäkká spájka je eutektická zliatina olova a cínu (Pb, Sn) (a, b, e, h). Mosadz je zliatina medi so zinkom (nie cínom, c) a bronz je zliatina medi s cínom (nie niklom a zinkom, d)."
   },
   {
     "subject": "Chémia",
@@ -4818,7 +4818,7 @@
       "c",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, F."
+    "explanation": "Korektné chemické vzorce minerálov a technických látok sú: kyanid draselný cyankáli (KCN), kryolit (hexafluorohlinitan trisodný Na3[AlF6]), kaolinit (hlinitokremičitan Al2(OH)4Si2O5) a sylvín (chlorid draselný KCl) (a, b, c, f). Baryt je síran bárnatý BaSO4, kazivec fluorid vápenatý CaF2, beryl hlinitokremičitan berýlnatý a bauxit hydratovaný oxid hlinitý."
   },
   {
     "subject": "Chémia",
@@ -4864,7 +4864,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+    "explanation": "Amalgámy sú špecifické zliatiny kovov s kvapalnou ortuťou, pričom zubný amalgám vzniká zmiešaním ortuti s práškom Ag, Sn a Cu a sodíkový amalgám (Na-Hg) sa využíva v chémii ako silné redukčné činidlo (b, c, f). Ortuť netvorí amalgámy s prechodnými kovmi železnej triády (Fe, Co, Ni), preto sa ortuť bezpečne transportuje a skladuje v oceľových či železných nádobách (h); ortuť teda netvorí amalgámy so všetkými kovmi bez výnimky a amalgámy môžu byť za bežnej teploty aj tuhé (a, d, g)."
   },
   {
     "subject": "Chémia",
@@ -4910,7 +4910,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, G, H."
+    "explanation": "Správne vzorce a systematické názvy hydridov sú: KH – hydrid draselný, PH3 – fosfán, H2S – sulfán a SiH4 – silán (d, f, g, h). Možnosti a, b, c a e obsahujú hrubé chyby: azán je NH3 (nie AlH3, čo je alán), hydrid horečnatý má stechiometriu MgH2 (nie Mg2H), borán je BH3 resp. B2H6 (nie BrH, čo je bromovodík) a hydrid sodný je NaH (nie NaH2)."
   },
   {
     "subject": "Chémia",
@@ -4956,7 +4956,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, G."
+    "explanation": "Koordinačná zlúčenina tetrachloroplatnatan tetraammín-dichloroplatičitý má vzorec [PtCl2(NH3)4][PtCl4], kde katión s centrálnym atómom Pt(+IV) a nábojom +2 obsahuje 4 elektroneutrálne ligandy NH3 a 2 ligandy Cl-, kým komplexný anión s Pt(+II) a koordinačným číslom 4 obsahuje štyri ligandy Cl- (b, e, f). V celej molekule sa nachádza celkovo 6 atómov chlóru (g), neutrálne ligandy sú iba štyri (nie 10, a) a katión sa v zápise vzorca uvádza vždy pred aniónom (h)."
   },
   {
     "subject": "Chémia",
@@ -5002,7 +5002,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+    "explanation": "V komplexe [Co(H2O)(NH3)3]2(SO4)3 vystupujú ako ligandy neutrálne molekuly vody a amoniaku, takže náboj troch vonkajších síranových aniónov ((SO4)3^(6-)) vyrovnávajú dva trojmocné katióny [Co(H2O)(NH3)3]^(3+); centrálnym atómom je kobalt s oxidačným číslom +III a systematický názov je síran akva-triamminkobaltitý (a, f, g). Molekula obsahuje celkovo 14 atómov kyslíka (2×1 z vody + 3×4 zo síranov) (h), voda je viazaná koordinačne vo vnútornej sfére (nie kryštalicky, e) a centrálny kobalt viaže iba 4 ligandy (c)."
   },
   {
     "subject": "Chémia",
@@ -5048,7 +5048,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, G, H."
+    "explanation": "Hydrát chloridu pentaakva-chlorochromitého má racionálny vzorec [CrCl(H2O)5]Cl2·H2O, kde chromitý katión Cr^(3+) viaže päť neutrálnych akva-ligandov a jeden chlorido-ligand Cl-, čím tvorí komplexný katión s nábojom +2 (d, g, h). Vo vonkajšej sfére vystupujú dva chloridové anióny Cl- s oxidačným číslom -I (f) a jedna kryštalicky viazaná molekula vody; celkové koordinačné číslo chrómu je 6, nie 3 (c)."
   },
   {
     "subject": "Chémia",
@@ -5094,7 +5094,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+    "explanation": "Atómové jadro sústreďuje viac ako 99,9 % hmotnosti celého atómu, hoci jeho priemer (~10^(-15) m) je zhruba 100 000-krát menší než priemer celého elektrónového obalu (~10^(-10) m) (c, f). Nukleóny (protóny a neutróny) sú zložené z kvarkov prvej generácie (u a d) a jadrová stabilita je podmienená optimálnym pomerom neutrónov k protónom N/Z (e, g). Nukleónové číslo A udáva súčet nukleónov, kým Z je protónové číslo (d)."
   },
   {
     "subject": "Chémia",
@@ -5140,7 +5140,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, F."
+    "explanation": "Podľa štandardného modelu časticovej fyziky je bežná látka tvorená 12 základnými elementárnymi fermiónmi: 6 kvarkami (u, d, c, s, t, b) a 6 leptónmi (elektrón, mión, tauón a tri neutrína) (a, b). Pozitrón je antičasticou elektrónu s opačným kladným nábojom a interakcie medzi časticami sprostredkúvajú štyri základné sily (gravitačná, elektromagnetická, silná a slabá) (e, f). Elektrón je leptón (nie kvark, c), antičasticou protónu je antiprotón (d) a elektromagnetickú interakciu prenášajú fotóny, nie gluóny (g)."
   },
   {
     "subject": "Chémia",
@@ -5186,7 +5186,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, H."
+    "explanation": "Rádionuklidy sú nestabilné jadrá podliehajúce rádioaktívnemu rozpadu na stabilnejšie dcérske nuklidy sprevádzanému emisiou jadrového žiarenia, pričom ich základnou charakteristikou je polčas rozpadu (b, d). V prírode sa vyskytuje približne 50 prírodných rádionuklidov vrátane stopových prvkov zemskej kôry, akými sú astát a francium z rozpadových radov (c, h). Umelo pripravených rádionuklidov však existuje niekoľko tisíc (nie 50, g) a pojem rádionuklid zahŕňa rádioaktívne izotopy všetkých prvkov, nielen rádia či transuránov (a, e)."
   },
   {
     "subject": "Chémia",
@@ -5232,7 +5232,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+    "explanation": "Polčas rozpadu (doba polpremeny, T1/2) je prísna konštanta rádioaktívneho rozpadu charakteristická pre konkrétny nuklid, ktorá nezávisí od vonkajších fyzikálnych podmienok (teplota, tlak, chemická väzba) ani od východiskového množstva nuklidu (c, f). V závislosti od druhu rádionuklidu sa môže pohybovať od zlomkov sekúnd až po miliardy rokov (e, h). Žiadne bežné zahrievanie ani zmena tlaku rýchlosť jadrového rozpadu nemení (b, g)."
   },
   {
     "subject": "Chémia",
@@ -5278,7 +5278,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+    "explanation": "Veľkosť elementárneho náboja je e = 1,602·10^(-19) C; protón nesie kladný náboj (+e), elektrón rovnaký záporný náboj (-e) a neutrón má elektrický náboj nulový (a, c, e). V neutrálnom atóme sa počet protónov rovná počtu elektrónov, preto sa súčet nábojov jadra v absolútnej hodnote presne rovná celkovému zápornému náboju obalu (g). Voľné neutrálne atómy majú celkový náboj nulový, kladný a záporný náboj sú v dokonalej rovnováhe (h)."
   },
   {
     "subject": "Chémia",
@@ -5324,7 +5324,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, G."
+    "explanation": "Hlavné kvantové číslo n určuje celkovú energiu elektrónu v atóme vodíka (podľa vzťahu En = -B/n^2, kde B = 13,6 eV), určuje veľkosť a priestorové ohraničenie orbitálu a pre valenčnú vrstvu sa zhoduje s číslom periódy (b, d, f, g). Nadobúda iba kladné celé čísla n = 1, 2, 3... (nikdy nie n = 0, c), tvar orbitálu je primárne daný vedľajším kvantovým číslom l (a) a počet protónov definuje protónové číslo Z (h)."
   },
   {
     "subject": "Chémia",
@@ -5370,7 +5370,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+    "explanation": "Vedľajšie kvantové číslo l nadobúda hodnoty od 0 do n - 1 (tradične označované písmenami s, p, d, f) a určuje priestorový tvar orbitálu a jeho príspevok k energii elektrónu vo viacelktrónovom atóme (a, e, g). Pre degenerované orbitály v rámci rovnakej podvrstvy (napr. 2px, 2py, 2pz) má identickú hodnotu (c). Veľkosť orbitálu je riadená číslom n (b) a hodnoty ±1/2 patria spinovému kvantovému číslu s (d)."
   },
   {
     "subject": "Chémia",
@@ -5416,7 +5416,7 @@
       "c",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, H."
+    "explanation": "Magnetické kvantové číslo m určuje priestorovú orientáciu orbitálu v magnetickom poli a môže nadobúdať celočíselné hodnoty od -l cez 0 až po +l, čo predstavuje celkovo (2l + 1) hodnôt zodpovedajúcich počtu degenerovaných orbitálov danej podvrstvy (a, b, c). Pre podvrstvu f (l = 3) nadobúda presne 7 hodnôt: -3, -2, -1, 0, 1, 2, 3 (h). Neudáva počet valenčných elektrónov ani celkovú energiu elektrónu (e, g)."
   },
   {
     "subject": "Chémia",
@@ -5462,7 +5462,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, G."
+    "explanation": "Protónové číslo Z definuje počet protónov v atómovom jadre, určuje identitu chemického prvku a jeho postavenie v periodickej sústave (f). Pri rádioaktívnej premene beta mínus (β-) sa neutrón mení na protón a Z vzrastá na Z + 1, kým pri premene beta plus (β+) sa protón mení na neutrón a Z klesá na Z - 1 (b, e); pri vyžiarení gama kvanta zostáva Z nezmenené (g). Celkový počet nukleónov (protónov a neutrónov) udáva nukleónové číslo A (h)."
   },
   {
     "subject": "Chémia",
@@ -5508,7 +5508,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+    "explanation": "Počet elektrónov v elektrónovom obale je daný vzťahom Ne = Z - q: neutrálny neón 10Ne má 10 elektrónov, anióny O^(2-) (8 + 2) a F^(-) (9 + 1) majú 10 elektrónov a katión Na^(+) (11 - 1) má rovnako 10 elektrónov, čím tvoria izoelektrónový rad s konfiguráciou [Ne] (a, b, f, h). Chloridový anión Cl- a draselný katión K+ majú 18 elektrónov ([Ar], d, g) a stroncíum Sr^(2+) má 36 elektrónov (c)."
   },
   {
     "subject": "Chémia",
@@ -5553,7 +5553,7 @@
       "b",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, G."
+    "explanation": "Elektrónová vrstva L zodpovedá hlavnému kvantovému číslu n = 2, takže obsahuje iba podvrstvy s (l = 0) a p (l = 1), zložené z jedného orbitálu s a troch orbitálov p (a). Maximálna elektrónová kapacita každej vrstvy je daná univerzálnym vzorcom 2n^2, čo pre hladinu L činí presne 2·(2^2) = 8 elektrónov (b, g). Orbitály d sa energeticky vyskytujú až od tretej hladiny M (n = 3, kapacita 18 elektrónov) (c, e)."
   },
   {
     "subject": "Chémia",
@@ -5598,7 +5598,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G."
+    "explanation": "Nuklid je chemická látka zložená z atómov s identickým protónovým (Z) aj nukleónovým (A) číslom, napríklad kyslík 17_8O, bór 12_5B či kadmium 112_48Cd (c, f). Rôzne nuklidy toho istého prvku s rovnakým Z, ale odlišným A (napr. izotopy vodíka 1H, 2H a 3H) sú izotopmi (g). Nuklidy s rovnakým A a rôznym Z sú izobary (e) a mnohé nuklidy sú úplne stabilné, takže termín nuklid nie je synonymom pre rádioaktívny prvok (b)."
   },
   {
     "subject": "Chémia",
@@ -5644,7 +5644,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, F."
+    "explanation": "Neutrón je elektroneutrálna častica jadra atómu patriaca spolu s protónom medzi nukleóny s relatívnou hmotnosťou približne 1 u (b, c, f). V nestabilných jadrách s nadbytkom protónov môže neutrón vznikať procesom beta plus premeny (p -> n + e+ + νe) (e). Neutrón nemá záporný elektrický náboj (a) a jeho hmotnosť je len nepatrne vyššia než hmotnosť protónu, rozhodne nie dvojnásobná (h)."
   },
   {
     "subject": "Chémia",
@@ -5690,7 +5690,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+    "explanation": "Z kompletného zápisu nuklidu A_Z X vyplýva, že hliník 27_13Al obsahuje 13 protónov, 13 elektrónov a 14 neutrónov (27 - 13) a dusík 14_7N má zhodne 7 protónov aj 7 neutrónov (a, f). Nuklidy s rovnakým Z a rôznym A sú izotopy (58Co a 60Co) a nuklidy s rovnakým A a rôznym Z sú izobary (40K a 40Ca) (c, d). Horné číslo je nukleónové číslo A (pre Ti je A = 48, nie 26, e) a horečnatý katión Mg^(2+) má po odovzdaní dvoch elektrónov len 10 elektrónov (h)."
   },
   {
     "subject": "Chémia",
@@ -5735,7 +5735,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, H."
+    "explanation": "Základný stav atómu je stav s najnižšou možnou vnútornou energiou, kedy atóm neabsorboval excitačnú energiu a nie je excitovaný (f, h). Elektróny v ňom obsadzujú jednotlivé energetické hladiny a orbitály od najnižšej energie v súlade s výstavbovým princípom, Pauliho princípom a Hundovým pravidlom (c). Vyššie energetické stavy po prijatí kvanta energie predstavujú excitované stavy (b, e)."
   },
   {
     "subject": "Chémia",
@@ -5781,7 +5781,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, H."
+    "explanation": "Pre vedľajšie kvantové číslo l = 2 (orbitály d) nadobúda magnetické kvantové číslo m celočíselné hodnoty v intervale od -l do +l, teda kompletnú množinu -2, -1, 0, 1, 2 (d). Možnosti b, c a h predstavujú dovolené podmnožiny alebo jednotlivé platné hodnoty z tohto intervalu (0; -1, 0, 1; 0, 1, 2). Hodnoty ±3 patria až podvrstve f (l = 3, f) a neceločíselné hodnoty ±1/2 charakterizujú spinové kvantové číslo s (g)."
   },
   {
     "subject": "Chémia",
@@ -5827,7 +5827,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+    "explanation": "V perióde s rastúcim protónovým číslom Z rastie náboj jadra, čo vedie ku kontrakcii obalu (zmenšeniu atómového polomeru) a nárastu ionizačnej energie (f), kým v skupine s rastúcim Z rastie počet vrstiev a klesá elektrónová afinita (g). Katióny majú vždy menší polomer než neutrálny atóm v dôsledku prevahy náboja jadra a anióny majú väčší polomer v dôsledku medzielektrónového odpudzovania (b, c). Elektronegativita je schopnosť atómu priťahovať väzbové elektróny, nie ich odpudzovať (e)."
   },
   {
     "subject": "Chémia",
@@ -5873,7 +5873,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+    "explanation": "Chloridový anión Cl- prijatím elektrónu dosahuje konfiguráciu vzácneho plynu argónu [Ar] a neutrálny fluór 9F má v základnom stave konfiguráciu 1s2 2s2 2p5 (c, h). Chalkogény (16. skupina) majú valenčnú konfiguráciu ns2 np4 (d) a pri vanáde po obsadení 4s orbitálu klesá energia 3d orbitálov pod úroveň 4s (f). Prvá sféra (n = 1) obsahuje iba orbitál 1s (a), katión Ca^(2+) má orbitál 4s prázdny (b) a podvrstva d pojme maximálne 10 elektrónov (g)."
   },
   {
     "subject": "Chémia",
@@ -5919,7 +5919,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+    "explanation": "Elektrón sa pohybuje v príťažlivom elektrickom poli kladného jadra a vykazuje vlnovo-korpuskulárny dualizmus ako častica s nepatrnou pokojovou hmotnosťou (~9,11·10^(-31) kg) a vlnovými vlastnosťami (a, e, f). Sodík má veľmi nízku prvú ionizačnú energiu, takže ochotne odovzdáva svoj valenčný 3s elektrón za vzniku stabilného katiónu Na+ (c). Odtrhnutím elektrónu vzniká kladný katión, nie anión (b) a stav elektrónu je popísaný štyrmi kvantovými číslami (d)."
   },
   {
     "subject": "Chémia",
@@ -5965,7 +5965,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+    "explanation": "Medzi nesprávne tvrdenia patrí b, pretože podľa Hundovho pravidla sa dva valenčné p-elektróny uhlíka rozmiestňujú s paralelným spinom do dvoch degenerovaných orbitálov (2px1 2py1), nie do jedného orbitálu px (b). Orbitály f (l = 3) sú sedemkrát degenerované (2l + 1 = 7), nie trikrát (g). Možnosti a a e rovnako obsahujú chybné formulácie výstavby a zápisu, zatiaľ čo konfigurácie O^(2-) (1s2 2s2 2p6) a halogénov (ns2 np5) sú správne (d, f)."
   },
   {
     "subject": "Chémia",
@@ -6011,7 +6011,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+    "explanation": "Správne konfigurácie podľa pravidiel výstavby a Hundovho pravidla sú: bór 5B: [He] 2s2 2px1 a dusík 7N s tromi nespárovanými elektrónmi v degenerovaných orbitáloch 1s2 2s2 2px1 2py1 2pz1 (a, g). Katióny Ca^(2+) a K^(+) stratou valenčných 4s elektrónov nadobúdajú stabilnú konfiguráciu argónu 1s2 2s2 2p6 3s2 3p6 alias [Ar] (b, d). Anión O^(2-) má konfiguráciu [Ne] bez elektrónov v 3s (f) a neutrálne lítium má iba tri elektróny 1s2 2s1 (h)."
   },
   {
     "subject": "Chémia",
@@ -6057,7 +6057,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F."
+    "explanation": "Pri ionizácii prechodných kovov sa elektróny odštepujú prednostne z vonkajšieho orbitálu 4s: Zn^(2+) má preto konfiguráciu [Ar] 3d10 a Fe^(2+) má [Ar] 3d6 (a, d). Tretí excitovaný stav chlóru Cl*** zahŕňa rozštiepenie troch elektrónových párov do 3d orbitálov ([Ne] 3s1 3p3 3d3) a excitovaný bór B* má konfiguráciu 1s2 2s1 2p2 (b, f). Katión Mn^(2+) má konfiguráciu [Ar] 3d5, nie 4s2 3d3 (c)."
   },
   {
     "subject": "Chémia",
@@ -6102,7 +6102,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, H."
+    "explanation": "Podľa kvantovej mechaniky je vedľajšie kvantové číslo ohraničené podmienkou l ≤ n - 1: pre n = 1 môže existovať iba l = 0 (orbitál 1s, orbitál 1p neexistuje) (a). Pre n = 2 existujú len stavy s a p (l = 0, 1), takže orbitál 2d je fyzikálne nemožný (h) a orbitály f (l = 3) sa objavujú až od štvrtej vrstvy (n = 4), zápis 3f je teda neplatný (d). Ostatné orbitály (2s, 2p, 3d, 4d, 5s) sú dovolené."
   },
   {
     "subject": "Chémia",
@@ -6148,7 +6148,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F, G."
+    "explanation": "Správne zápisy konfigurácií neutrálnych atómov v základnom stave sú: neón 10Ne: 1s2 2s2 2p6, kremík 14Si: [Ne] 3s2 3p2, vápnik 20Ca: [Ar] 4s2 a zinok 30Zn: [Ar] 3d10 4s2 (a, c, f, g). Chlór má v základnom stave konfiguráciu [Ne] 3s2 3p5 (b), hliník [Ne] 3s2 3p1 (d) a neutrálny chróm vykazuje v dôsledku mimoriadnej stability polozaplneného 3d orbitálu anomálnu konfiguráciu [Ar] 3d5 4s1, nie 3d4 4s2 (h)."
   },
   {
     "subject": "Chémia",
@@ -6194,7 +6194,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+    "explanation": "Excitovaný stav atómu vzniká dodaním energie, kedy dochádza k rozštiepeniu valenčného elektrónového páru a preskoku elektrónu do voľného orbitálu: uhlík v excitovanom stave C* prechádza na štvorväzbovú konfiguráciu [He] 2s1 2p3 (d), síra S** na šesťväzbovú konfiguráciu [Ne] 3s1 3p3 3d2 (h) a bróm Br** na [Ar] 3d10 4s2 4p3 4d2 (a, e). Konfigurácia medi [Ar] 3d10 4s1 je jej stabilným základným stavom, nie excitovaným (f)."
   },
   {
     "subject": "Chémia",
@@ -6239,7 +6239,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G."
+    "explanation": "Orbitály v izolovanom atóme, ktoré majú rovnaké hlavné aj vedľajšie kvantové číslo (rovnaké n a l), sú energeticky rovnocenné (degenerované) a ich energetická hladina nezávisí od hodnoty m (b). Hodnote l = 3 zodpovedajú orbitály typu f (f) a so vzrastajúcim hlavným kvantovým číslom n sa zväčšuje efektívny polomer a veľkosť orbitálov daného typu (g). Orbitál 4p je vždy väčší než 3p (c) a pre m od -3 po +3 (7 orbitálov f) je maximálna kapacita 14 elektrónov, nie 10 (e)."
   },
   {
     "subject": "Chémia",
@@ -6285,7 +6285,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+    "explanation": "Počet degenerovaných orbitálov v danej podvrstve je striktne určený vzťahom (2l + 1): podvrstva s má vždy 1 orbitál, podvrstva p má 3 orbitály a podvrstva d má 5 orbitálov (b, c, g, h). Hladina L (n = 2) teda obsahuje 1 orbitál typu s a 3 orbitály typu p (c) a hladina M (n = 3) obsahuje 1 orbitál s, 3 orbitály p a 5 orbitálov d (g). V žiadnej vrstve nemôže existovať viac ako jeden orbitál typu s (d, f)."
   },
   {
     "subject": "Chémia",
@@ -6331,7 +6331,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "Hydridový anión H- prijatím elektrónu dosahuje stabilnú konfiguráciu hélia (1s2), zatiaľ čo katióny Na+ a Al3+ odovzdaním valenčných elektrónov a fluoridový anión F- prijatím elektrónu dosahujú stabilný oktet neónu [Ne] (a, d, e, g). Naopak, ióny prechodných kovov ako Ti2+ ([Ar] 3d2), Cu2+ ([Ar] 3d9), Zn2+ ([Ar] 3d10) a Ag2+ ([Kr] 4d9) si zachovávajú elektróny v d-orbitáloch a nemajú konfiguráciu vzácneho plynu (b, c, f, h)."
   },
   {
     "subject": "Chémia",
@@ -6377,7 +6377,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+    "explanation": "Medzi nesprávne tvrdenia patria a, e, f a g: pre hlavné kvantové číslo n = 3 môže vedľajšie číslo l nadobúdať iba hodnoty 0, 1 a 2, takže stav l = 3 (orbitál f) na hladine M nemôže existovať (a). Veľkosť orbitálov rastie s rastúcim číslom n, takže orbitály 3d a 4d, resp. 1s až 4s rozhodne nie sú rovnako veľké (e, g). Dva elektróny s odlišným magnetickým číslom m (-2 vs +2) sa nachádzajú v dvoch rôznych priestorovo orientovaných orbitáloch (f)."
   },
   {
     "subject": "Chémia",
@@ -6423,7 +6423,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, G, H."
+    "explanation": "Pri excitácii elektrónu dochádza k jeho preskoku do voľného orbitálu vyššej podvrstvy v rámci valenčnej sféry, napríklad z 3p (l = 1) do 3d (l = 2) (d). Pri excitácii atómu uhlíka C* prechádza jeden 2s elektrón do voľného orbitálu 2p, takže tri elektróny majú l = 1 (f), a pri atóme brómu vedie excitácia k presunu elektrónov z orbitálov 4p do 4d, čím ich počet v p-orbitáloch klesá (g). Prvky od 3. periódy môžu vďaka prítomnosti d-orbitálov tvoriť viacero po sebe idúcich excitovaných stavov (h)."
   },
   {
     "subject": "Chémia",
@@ -6469,7 +6469,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+    "explanation": "Výstavbový princíp určuje, že elektróny najprv obsadzujú orbitály s nižšou energiou, riadené pravidlom najnižšieho súčtu (n + l) (c, e). Podľa Hundovho pravidla sa v súbore (2l + 1) degenerovaných orbitálov tvoria elektrónové páry až po tom, čo je každý orbitál obsadený jedným elektrónom s paralelným spinom (d, g). Degenerované orbitály sa líšia hodnotou magnetického kvantového čísla m (a) a pri rovnakom súčte (n + l) sa skôr zapĺňa orbitál s nižším n (f)."
   },
   {
     "subject": "Chémia",
@@ -6515,7 +6515,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+    "explanation": "K nesprávnym tvrdeniam patria c, e, f a h: ionizačná energia je energia potrebná na odtrhnutie elektrónu z atómu (energia spotrebovaná, nie uvoľnená pri prijatí elektrónu – čo je definícia elektrónovej afinity) (e). Pri atómoch K a Ca sa v súlade s pravidlom (n + l) najprv zapĺňa orbitál 4s (4 + 0 = 4) a až po ňom orbitál 3d (3 + 2 = 5) (f). Rotáciu a vlastný moment hybnosti elektrónu vyjadruje spinové kvantové číslo s (ms), nie magnetické kvantové číslo m (h)."
   },
   {
     "subject": "Chémia",
@@ -6561,7 +6561,7 @@
       "c",
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D."
+    "explanation": "Chróm vykazuje v dôsledku vysokej stability polozaplnenej d-podvrstvy anomálnu konfiguráciu [Ar] 3d5 4s1 (a), neutrálne železo má konfiguráciu [Ar] 3d6 4s2 (c) a hydridový ión H- má stabilnú konfiguráciu hélia 1s2 alias [He] (b). Katión Cu2+ vzniká odtrhnutím 4s elektrónu a jedného 3d elektrónu z atómu medi, čím vzniká stabilný stav [Ar] 3d9 (d). Zápisy s 3d4 4s2 pre chróm (h) a 4s2 3d3 pre Mn2+ (f) sú chybné."
   },
   {
     "subject": "Chémia",
@@ -6607,7 +6607,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+    "explanation": "Ionizačná energia predstavuje energiu potrebnú na odtrhnutie valenčného elektrónu od atómu v základnom plynnom stave (b). Pri tvorbe valenčných excitovaných stavov sa elektrónové páry valenčnej sféry štiepia a elektróny preskakujú do energeticky najbližších prázdnych orbitálov s rovnakým n (napr. 3s/3p -> 3d), čo priamo podmieňuje väzbovosť prvkov v zlúčeninách (c, g, h). Štiepia sa väzbové páry s najvyššou (nie najnižšou) energiou (a) a nízka ionizačná energia znamená vysokú elektropozitivitu a reaktivitu, nie stabilitu prvku (e)."
   },
   {
     "subject": "Chémia",
@@ -6653,7 +6653,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+    "explanation": "K nesprávnym tvrdeniam patria: hlavné kvantové číslo n nadobúda iba kladné celé čísla n ≥ 1, hodnota n = 0 neexistuje (a). Magnetické kvantové číslo m je priamo závislé od vedľajšieho čísla l (m ∈ <-l; +l>) (b) a nespárované elektróny v degenerovaných orbitáloch musia mať podľa Hundovho pravidla rovnaký paralelný spin (h). Súčasné presné stanovenie polohy aj hybnosti (rýchlosti) mikroskopických častíc striktne vylučuje Heisenbergov princíp neurčitosti (e)."
   },
   {
     "subject": "Chémia",
@@ -6699,7 +6699,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, G."
+    "explanation": "Nuklid uhlíka 11_6C má pomer N/Z = 5/6, čo predstavuje jadro s nadbytkom protónov oproti stabilnému izotopu 12_6C (c, f). Stabilizuje sa rádioaktívnou beta plus (β+) premenou, pri ktorej sa jadrový protón premieňa na neutrón za vyžiarenia pozitrónu (1_1p -> 1_0n + e+) a elektrónového neutrína (d). V dôsledku tejto premeny klesá protónové číslo o jednotku (Z -> Z - 1, zo 6 na 5 za vzniku bóru 11_5B), zatiaľ čo nukleónové číslo A = 11 zostáva zachované (g)."
   },
   {
     "subject": "Chémia",
@@ -6745,7 +6745,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, G, H."
+    "explanation": "Prechod metastabilného jadra 80m_35Br do základného stavu 80_35Br predstavuje izomérny prechod (jadrovú deexcitáciu) sprevádzaný uvoľnením gama (γ) žiarenia (d). Pri emisii gama fotónu sa nemení protónové číslo Z = 35 ani nukleónové číslo A = 80 (f). Žiarenie gama je vysokofrekvenčné elektromagnetické žiarenie bez elektrického náboja, ktoré sa nevychyľuje v elektrickom ani magnetickom poli a spomedzi bežných rádioaktívnych žiarení je najprenikavejšie (g, h)."
   },
   {
     "subject": "Chémia",
@@ -6791,7 +6791,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, H."
+    "explanation": "Podstatou beta mínus (β-) rádioaktivity je samovoľná jadrová premena prebytočného neutrónu na protón za vyžiarenia rýchleho elektrónu a antineutrína (1_0n -> 1_1p + e-) (h). Vyžiarený prúd elektrónov tvorí korpuskulárne ionizujúce žiarenie so záporným elementárnym nábojom, ktoré je možné odchýliť elektrickým aj magnetickým poľom (e, f). Príkladom je prirodzená premena draslíka 40_19K na vápnik 40_20Ca (a); beta žiarenie nie je elektromagnetickej povahy (g) a najvyššiu prenikavosť vykazuje gama žiarenie (d)."
   },
   {
     "subject": "Chémia",
@@ -6836,7 +6836,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E, G, H."
+    "explanation": "Izotopy sú nuklidy rovnakého prvku, ktorých atómové jadrá majú zhodný počet protónov (rovnaké Z), no líšia sa počtom neutrónov (rôzne nukleónové číslo A) (g). Typickým príkladom sú izotopy vodíka prócium (1H), deutérium (2H) a trícium (3H) (e). Keďže majú rovnakú elektrónovú konfiguráciu, vykazujú prakticky identické chemické vlastnosti, no kvôli rozdielnej hmotnosti jadier sa mierne líšia fyzikálnymi vlastnosťami (h). Atómy s rovnakým A a rôznym Z sú izobary (c)."
   },
   {
     "subject": "Chémia",
@@ -6882,7 +6882,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+    "explanation": "Izobary sú nuklidy rôznych chemických prvkov, ktoré majú zhodné nukleónové číslo A (rovnaký celkový počet nukleónov), ale odlišné protónové číslo Z (d, h). Bežne vznikajú pri beta rádioaktívnych premenách (β- aj β+), pri ktorých sa protónové číslo mení o ±1, kým celkový počet nukleónov A zostáva konštantný (c). Príkladom izobárických dvojíc a trojíc sú nuklidy 112_48Cd a 112_50Sn, resp. 12_5B, 12_6C a 12_7N (f, h)."
   },
   {
     "subject": "Chémia",
@@ -6928,7 +6928,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, G."
+    "explanation": "Prúd rýchlo letiacich jadier hélia (4_2He2+) predstavuje rádioaktívne žiarenie alfa (e). Vzhľadom na svoju relatívne veľkú hmotnosť a kladný náboj +2 má silné ionizačné účinky (b), vychyľuje sa v elektrickom a magnetickom poli (g) a po jeho vyžiarení z jadra klesne nukleónové číslo o 4 a protónové číslo o 2 (f). Nejde o elektromagnetické ani infračervené žiarenie (a, d) a jeho prenikavosť je najnižšia spomedzi všetkých druhov rádioaktívneho žiarenia (c, h)."
   },
   {
     "subject": "Chémia",
@@ -6974,7 +6974,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+    "explanation": "Alfa žiarenie je prúdom jadier hélia 4_2He (g), ktoré sa uvoľňuje napríklad pri rozpade rádia 226_88Ra -> 222_86Rn + 4_2He (a). Pre veľký prierez a hmotnosť častíc má nízku schopnosť prieniku materiálom a zadrží ho už list papiera alebo tenká vrstva vzduchu (e, f). V elektromagnetickom poli sa vychyľuje kvôli kladnému náboju (h), uvoľňuje sa aj pri rozpadoch uránu či tória (b), možno ho spoľahlivo dokázať ionizačnými komorami (c) a protónové číslo po emisii klesá o 2, nie rastie (d)."
   },
   {
     "subject": "Chémia",
@@ -7019,7 +7019,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G."
+    "explanation": "Polčas rozpadu T_1/2 je definovaný ako čas potrebný na rozpad práve polovice počiatočného množstva (hmotnosti alebo počtu jadier) daného rádionuklidu (c). Pre každý izotop je charakteristickou konštantou: pre trícium 3_1H predstavuje približne 12,3 roka (f) a pre urán 238_92U približne 4,5 miliardy rokov, teda výrazne viac ako milión rokov (g). Nezávisí od počiatočného množstva (preto nie fixný 1 mol či 1 g, a, h), u rôznych prvkov je odlišný (e) a po jednom polčase sa rozpadne iba 50 %, nie celá vzorka (d)."
   },
   {
     "subject": "Chémia",
@@ -7065,7 +7065,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, H."
+    "explanation": "Prírodné rádioaktívne rozpadové rady (uránovo-rádiový, uránovo-aktíniový a tóriový) zahŕňajú postupný rozpad nestabilných nuklidov prirodzene sa vyskytujúcich v prírode za vyžarovania neviditeľného ionizujúceho žiarenia (a, h). Všetky tri prírodné rady končia stabilnými izotopmi olova (206Pb, 207Pb, 208Pb) (c) a obsahujú plynné rádioaktívne izotopy radónu, ktorý je najťažším vzácnym plynom (e). Neptúniový rad je umelo vytvorený a končí bizmutom 209Bi (b, g), pričom žiadny rad nekončí tríciom ani uhlíkom 14C (d, f)."
   },
   {
     "subject": "Chémia",
@@ -7111,7 +7111,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: E, F, G, H."
+    "explanation": "Izotopy sú nuklidy toho istého chemického prvku, ktoré majú zhodné protónové číslo Z (rovnaký počet protónov a elektrónov v neutrálnom atóme), ale líšia sa počtom neutrónov, a teda aj nukleónovým číslom A a relatívnou atómovou hmotnosťou (f, g, h). Typickým príkladom sú izotopy kobaltu 58_27Co a 60_27Co (e). Nuklidy s rovnakým nukleónovým a rôznym protónovým číslom sa nazývajú izobary (a), a nukleóny sú samotné častice jadra (protóny a neutróny), nie druhy atómov (c, d)."
   },
   {
     "subject": "Chémia",
@@ -7157,7 +7157,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+    "explanation": "Gama žiarenie (γ) je vysokofrekvenčné elektromagnetické žiarenie tvorené fotónmi s vysokou energiou, ktoré vykazuje najvyššiu prenikavosť spomedzi jadrových žiarení (a, f). Keďže nenesie náboj ani pokojovú hmotnosť, uvoľňuje sa pri deexcitácii vzbudeného jadra (napríklad pri izomérnom prechode 99m_49In -> 99_49In) a nemení protónové ani nukleónové číslo jadra (c, d). Najsilnejšie ionizačné schopnosti má žiarenie alfa (e), vyžiarením gama nedochádza k zmene Z o -1 (b) a nejde o tok neutrónov (h)."
   },
   {
     "subject": "Chémia",
@@ -7203,7 +7203,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, H."
+    "explanation": "Uránový rozpadový rad začína nuklidom 238_92U a končí stabilným izotopom olova 206_82Pb (a), pričom celá premena zahŕňa 8 alfa premien a 6 beta- premien (d). Po štyroch rozpadoch alfa (pokles hmotnosti o 16 na 222) a dvoch rozpadoch beta- (zvýšenie protónového čísla o 2 po poklese o 8: 92 - 8 + 2 = 86) vzniká izotop radónu 222_86Rn (b). Podľa oficiálneho kľúča testovnice UPJŠ LF sú označené možnosti a, b, d a h ako správne (pričom konečným produktom nie je bizmut 212Bi, c, ani rádium, f)."
   },
   {
     "subject": "Chémia",
@@ -7249,7 +7249,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+    "explanation": "V uránovo-rádiovom rade je východiskovým nuklidom urán 238_92U (a), ktorého prvým alfa rozpadom vzniká tórium 234_90Th (g). Rad zahŕňa celkovo 8 premien alfa a 6 premien beta- (d), pričom po 4 alfa a 2 beta- premenách vzniká medziprodukt radón 222_86Rn (b). Možnosti e a h sú nesprávne, pretože počet premien nezodpovedá 6 alfa/4 beta a rad neobsahuje výlučne alfa premeny."
   },
   {
     "subject": "Chémia",
@@ -7295,7 +7295,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, H."
+    "explanation": "Počet neutrónov v jadre sa rovná rozdielu A - Z; atómy 14_7N aj 13_6C majú zhodne 7 neutrónov (a). Dvojice 12C, 13C a 32S, 34S predstavujú izotopy daných prvkov (c), a nuklidy 12_6C (6p, 6n), 32_16S (16p, 16n) a 14_7N (7p, 7n) majú rovnaký počet protónov a neutrónov (d). Podľa oficiálneho kľúča UPJŠ LF je označená aj možnosť h; izotopy uhlíka 13C a 12C sa však v skutočnosti líšia počtom neutrónov (7 vs. 6, pričom h je v kľúči zahrnutá)."
   },
   {
     "subject": "Chémia",
@@ -7341,7 +7341,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E."
+    "explanation": "Nuklidy 14_7N (14 - 7 = 7) a 13_6C (13 - 6 = 7) majú zhodne po 7 neutrónov (a), 12C/13C a 32S/34S sú izotopické páry (c) a jadrá 12_6C, 32_16S a 14_7N obsahujú zhodný počet protónov a neutrónov (d). Jadrovou reakciou ostreľovania stabilného fosforu 31P deuterónmi (jadrami 2H) vzniká rádioaktívny fosfor 32P podľa rovnice 31P + 2H -> 32P + 1H (e). Hliník 27Al má 14 neutrónov a fosfor 31P má 16 neutrónov (b), a izotop 32P je rádioaktívny (g)."
   },
   {
     "subject": "Chémia",
@@ -7387,7 +7387,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, H."
+    "explanation": "Kovová väzba sa tvorí medzi atómami kovov v tuhom skupenstve (h) a možno ju popísať ako delokalizovanú kovalentnú väzbu (f). Je charakterizovaná mriežkou katiónov kovu obklopených spoločne zdieľaným voľne pohyblivým elektrónovým plynom (a), ktorý je priamou príčinou vysokej elektrickej a tepelnej vodivosti kovov (d). Vzniká medzi prvkami s nízkou elektronegativitou (b), nemá smerový charakter (e) a netvorí násobné väzby (c)."
   },
   {
     "subject": "Chémia",
@@ -7433,7 +7433,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+    "explanation": "Medzimolekulové interakcie (van der Waalsove sily a vodíkové mostíky) sú rádovo slabšie než kovalentné väzby (g), no rozhodujúcim spôsobom určujú skupenstvo látok a ich fyzikálne konštanty, ako sú body topenia a varu (b, c). Vo farmakológii a biochémii sprostredkúvajú špecifickú väzbu liečiv na bunkové receptory a enzýmy (f). Zahŕňajú nielen van der Waalsove sily, ale aj vodíkové väzby (e, h) a pri prílišnom priblížení molekúl vykazujú aj odpudivú zložku (a)."
   },
   {
     "subject": "Chémia",
@@ -7479,7 +7479,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+    "explanation": "V oxide sírovom (SO3) má centrálny atóm síry sterické číslo 3 bez voľného elektrónového páru, čo zodpovedá sp2 hybridizácii a planárnej trigonálnej geometrii s väzbovými uhlami 120° (b, h). Kostru molekuly tvoria tri σ väzby medzi sírou a kyslíkmi (c) a delokalizovaný π systém vznikajúci bočným prekrytím orbitálov (g). Molekula preto nie je lineárna (f) ani tetraedrická/sp3 (a)."
   },
   {
     "subject": "Chémia",
@@ -7525,7 +7525,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+    "explanation": "Rovinné (planárne) usporiadanie molekúl sa typicky vysvetľuje sp2 hybridizáciou centrálneho atómu, ktorej tri hybridné orbitály zvierajú väzbové uhly 120° (a, h). Molekuly tak môžu mať tvar rovnostranného trojuholníka (napr. BF3, SO3) (f) alebo planárneho kruhu, ako je to pri aromatickom benzéne C6H6 (g). Molekula vody je lomená s hybridizáciou sp3 (b) a hybridné orbitály sp2 vznikajú zmiešaním jedného s a dvoch p orbitálov, nie naopak (e)."
   },
   {
     "subject": "Chémia",
@@ -7571,7 +7571,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, H."
+    "explanation": "Iónová väzba je extrémne polárna interakcia medzi prvkami s veľkým rozdielom elektronegativít (Δχ > 1,7), založená na všesmerovom elektrostatickom priťahovaní opačne nabitých iónov, a preto nemá smerový charakter (d, h). Vyznačuje sa mimoriadnou pevnosťou v kryštálovej mriežke (b), no mechanický posun vrstiev spôsobí odpudzovanie súhlasných nábojov, čo je príčinou krehkosti iónových zlúčenín (a). Iónová väzba zásadne ovplyvňuje rozpustnosť v polárnych rozpúšťadlách (g)."
   },
   {
     "subject": "Chémia",
@@ -7617,7 +7617,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, H."
+    "explanation": "Pre kryštalické látky neplatí, že ich geometrický tvar závisí od veľkosti, pretože vnútorné uhly kryštálu sú konštantné a dané kryštálovou sústavou bez ohľadu na veľkosť kryštálu (b). Chemické väzby medzi časticami priamo určujú vlastnosti kryštálu (c) a zďaleka nie všetky kryštály vedú elektrický prúd – mnohé molekulové a iónové v tuhom stave sú izolantmi (d, h). Naopak platí, že sú tvorené periodicky sa opakujúcou základnou bunkou, majú súmernosť a rozdeľujú sa na iónové, atómové a molekulové (a, e, f, g)."
   },
   {
     "subject": "Chémia",
@@ -7663,7 +7663,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, H."
+    "explanation": "Molekulové kryštály sú tvorené samostatnými molekulami alebo atómami viazanými v uzloch mriežky slabými medzimolekulovými silami (van der Waals, vodíkové mostíky): patria sem tuhé vzácne plyny (c), chlór Cl2 (d), azán/amoniak NH3 (e) a metán CH4 (h). Naopak kamenná soľ NaCl (f) a KBr (g) tvoria typické iónové kryštály, a aragonit CaCO3 (a) i zafír Al2O3 (b) majú iónovo-koordinačnú pevnú štruktúru."
   },
   {
     "subject": "Chémia",
@@ -7709,7 +7709,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+    "explanation": "Atómové (kovalentné sieťové) kryštály sú tvorené sieťou atómov prepojených pevnými kovalentnými väzbami v celom objeme: príkladom je kremeň SiO2 a jeho odroda ametyst (a, e), sfalerit ZnS (h) a v klasifikácii testovnice UPJŠ aj rubín/korund Al2O3 (b). Naopak suchý ľad CO2 tvorí molekulový kryštál (f) a kalcit CaCO3 (c), modrá skalica (d) a KCl (g) sú kryštály iónové."
   },
   {
     "subject": "Chémia",
@@ -7755,7 +7755,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+    "explanation": "Iónové kryštály pozostávajú z pravidelne usporiadaných katiónov a aniónov viazaných elektrostatickou iónovou väzbou: kamenná soľ NaCl (c), kalcit CaCO3 (d), síran draselný K2SO4 (e) a fluorit CaF2 (f). Voda H2O v podobe ľadu (g) a vodík H2 (h) vytvárajú kryštály molekulové, a korund Al2O3 (a, b) patrí medzi kovalentné atómové mriežky."
   },
   {
     "subject": "Chémia",
@@ -7801,7 +7801,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "Osovým prekrytím dvoch p orbitálov (orientovaných pozdĺž spojnice jadier) vzniká pevná kovalentná σ väzba (a). V komplexných zlúčeninách sa ligandy viažu na centrálny atóm koordinačnou (donorno-akceptorovou) väzbou (d), pričom soli s komplexnými iónmi vytvárajú iónové kryštály (e). Prítomnosť konjugovaných násobných väzieb v organických zlúčeninách umožňuje absorpciu viditeľného svetla a podmieňuje ich farebnosť (g). Vodíkové mostíky sú pre život kľúčové (b) a molekula s polárnymi väzbami môže byť vďaka symetrii nepolárna (h)."
   },
   {
     "subject": "Chémia",
@@ -7847,7 +7847,7 @@
       "c",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, F."
+    "explanation": "Dipólový moment väzby μ vzniká v dôsledku asymetrického rozloženia elektrónovej hustoty pri rozdielnej elektronegativite atómov (a), inhibícia predstavuje zníženie rýchlosti reakcie pôsobením inhibítorov (b) a ionizačná energia je energia nutná na odtrhnutie elektrónu z neutrálneho plynného atómu (c). Prijatím elektrónu nekovovým atómom za vzniku aniónu sa spravidla uvoľňuje energia (f). Katalyzátory ovplyvňujú rýchlosť reakcie, nie polohu chemickej rovnováhy (d), a prvky s nízkou ionizačnou energiou (s-prvky) sú najreaktívnejšie (e)."
   },
   {
     "subject": "Chémia",
@@ -7893,7 +7893,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, G."
+    "explanation": "Vodíková väzba môže prepájať dve rôzne molekuly (intermolekulárna) alebo časti tej istej makromolekuly (intramolekulárna) (a). Tvorí sa medzi vodíkom viazaným na silne elektronegatívny atóm a voľným párom iného fluóru, kyslíka či dusíka, ako v HF, H2O a NH3 (d). V bielkovinách stabilizuje sekundárnu štruktúru (alfa-hélix a beta-skladaný list) (f) a významne zvyšuje teploty topenia a varu (g). Je podstatne slabšia než kovalentná väzba (c) a vzniká v silne polárnych, nie nepolárnych látkach (b)."
   },
   {
     "subject": "Chémia",
@@ -7939,7 +7939,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+    "explanation": "Hybridizácia sp zahŕňa dva ekvivalentné hybridné orbitály zvierajúce uhol 180°, čo vedie k lineárnej geometrii molekúl (a) – takto hybridizovaný uhlík spôsobuje linearitu kyanovodíka H-C≡N (g). Všetky atómy uhlíka v alkánoch majú zhodnú tetraedrickú hybridizáciu sp3 (d), zatiaľ čo sp2 hybridizácia uhlíka v karbonylovej skupine (>C=O) podmieňuje jej rovinné usporiadanie (h). Hybridizácie sp2 a sp3 neposkytujú lineárnu geometriu (b, c, e)."
   },
   {
     "subject": "Chémia",
@@ -7985,7 +7985,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+    "explanation": "Väzba π vzniká bočným prekrytím orbitálov (p-p, d-d alebo p-d) lokalizovaných kolmo na spojnicu jadier viazaných atómov (b, h). Na rozdiel od osovo symetrickej väzby σ nemá rotačnú symetriu okolo väzbovej osi, preto bráni voľnej rotácii (f). Bežne sa vyskytuje pri sp2 hybridizovaných atómoch uhlíka v alkénoch a arénoch ako zložka dvojitej väzby (g). Osovým prekrytím na spojnici jadier vzniká väzba σ, nie π (a)."
   },
   {
     "subject": "Chémia",
@@ -8031,7 +8031,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, H."
+    "explanation": "Medzi slabé väzbové interakcie patria van der Waalsove sily (dipól-dipól, dipól-indukovaný dipól, disperzné sily) a vodíkové mostíky (c). Tieto interakcie determinujú vzájomné priťahovanie molekúl, umožňujú tvorbu supramolekulových komplexov (h) a dipólové sily vysvetľujú rozpustnosť polárnych látok v polárnych rozpúšťadlách podľa princípu 'podobné sa rozpúšťa v podobnom' (d, e). Disperzné a hydrofóbne sily k slabým interakciám patria (a) a uplatňujú sa aj pri kontakte polárnych a nepolárnych molekúl (g)."
   },
   {
     "subject": "Chémia",
@@ -8076,7 +8076,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, H."
+    "explanation": "Vodíkový mostík vzniká elektrostatickou interakciou kladne polarizovaného atómu vodíka s voľným elektrónovým párom silne elektronegatívneho malého atómu (O, F, N) a označuje sa bodkovanou čiarou (...): O...H, F...H a N...H (b, e, h). Zápisy s plnou čiarou ako F-H, C-H či N-H predstavujú intramolekulárne kovalentné väzby, nie medzimolekulové vodíkové mostíky (a, c, d)."
   },
   {
     "subject": "Chémia",
@@ -8121,7 +8121,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, G."
+    "explanation": "Väzbová energia je energia, ktorá sa uvoľní pri vzniku väzby z izolovaných atómov (resp. potrebná na jej rozštiepenie), a je priamou mierou pevnosti chemickej väzby – čím je vyššia, tým je väzba pevnejšia (a, e). S rastúcou násobnosťou väzby jej hodnota stúpa, preto v uvedenom rade rastie od jednoduchej väzby v Cl-Cl (~242 kJ/mol) cez dvojitú v O=O (~498 kJ/mol) až po trojitú v N≡N (~945 kJ/mol) (g). Väzbová energia sa nerovná elektronegativite (f) a pre danú dvojatómovú molekulu zodpovedá disociačnej energii (c, d)."
   },
   {
     "subject": "Chémia",
@@ -8167,7 +8167,7 @@
       "c",
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D."
+    "explanation": "Van der Waalsove sily patria medzi slabé medzimolekulové interakcie elektrostatickej podstaty pôsobiace medzi neutrálnymi molekulami, polárnymi časticami aj iónmi vo všetkých troch skupenstvách látok (a, b, c). Najslabšou zložkou sú disperzné (Londonove) sily vyvolané fluktuáciami elektrónovej hustoty a vznikom okamžitých indukovaných dipólov (d). Nepatria sem iónové väzby medzi aniónmi a katiónmi (e) ani koordinačné väzby (f), a primárnu štruktúru bielkovín udržiavajú pevné kovalentné peptidové väzby (g)."
   },
   {
     "subject": "Chémia",
@@ -8213,7 +8213,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+    "explanation": "Koordinačná (donorno-akceptorová) väzba vzniká tak, že obidva väzbové elektróny poskytuje jeden atóm (donor) s voľným elektrónovým párom a druhý atóm (akceptor) poskytuje prázdny (vakantný) orbitál (g, h). Typickým príkladom je vznik amónneho katiónu NH4+ interakciou voľného páru dusíka v NH3 s protónom H+ (d) a tvorba komplexného katiónu [Al(H2O)6]3+ (b). Hoci má kovalentný charakter, líši sa mechanizmom vzniku (a), nevyskytuje sa v uhľovodíkoch (f) a bór ako prvok druhej periódy nemôže vytvoriť komplex [BF6]3- kvôli absencii d-orbitálov (c, e)."
   },
   {
     "subject": "Chémia",
@@ -8259,7 +8259,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "Molekula je polárna, ak má v dôsledku prítomnosti polárnych väzieb a asymetrického geometrického tvaru nenulový celkový dipólový moment: patria sem karboxylové kyseliny s vysoko polárnou skupinou -COOH (a), dusíkaté bázy DNA (d), amoniak NH3 s trigonálne pyramídovou štruktúrou (e) a etanol CH3-CH2-OH s lomenou polárnou väzbou C-O-H (g). Metán CH4 je nepolárny tetraéder (f), a oficiálny kľúč UPJŠ LF pri tejto otázke špecificky vymedzuje možnosti a, d, e, g."
   },
   {
     "subject": "Chémia",
@@ -8306,7 +8306,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E, G."
+    "explanation": "Vodíkové mostíky medzi vlastnými molekulami sa môžu tvoriť len vtedy, ak zlúčenina obsahuje vodík viazaný na silne elektronegatívny heteroatóm (O, N, F): to spĺňajú karboxylové kyseliny (a), voda H2O (b), dusíkaté bázy nukleových kyselín (d), amoniak NH3 (e) a etanol (g). Dimetyléter (c) ani acetón (h) nemajú vodík na kyslíku (chýba donor protónu), takže medzi sebou vodíkové mostíky netvoria, a metán CH4 (f) je nepolárny uhľovodík."
   },
   {
     "subject": "Chémia",
@@ -8351,7 +8351,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G."
+    "explanation": "Halogény v halogénvodíkoch majú 7 valenčných elektrónov – jeden tvoriaci jednoduchú kovalentnú väzbu s vodíkom a tri nezdieľané (voľné) elektrónové páry, čo platí pre HBr (b) aj chlorovodík HCl (d), a v kontexte testovnice sem spadá aj halogenid NaCl (g). Voda má 2 voľné páry na kyslíku (c), amoniak a fosfán majú po 1 voľnom páre na centrálnom atóme (a, e), dusík N2 má 2 voľné páry celkovo (f) a molekula H2 nemá žiadny voľný pár (h)."
   },
   {
     "subject": "Chémia",
@@ -8397,7 +8397,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F, H."
+    "explanation": "Iónové zlúčeniny sú tvorené pevnou kryštálovou mriežkou opačne nabitých iónov, čo podmieňuje ich vysoké teploty topenia a varu (e) a dobrú rozpustnosť v polárnych rozpúšťadlách, ako je voda, vďaka hydratácii iónov (d). Pri mechanickom tlaku dochádza k posunu vrstiev a odpudzovaniu súhlasných nábojov, čo spôsobuje ich krehkosť a štiepateľnosť (f). V roztokoch a taveninách sú ióny voľne pohyblivé, vďaka čomu výborne vedú elektrický prúd ako elektrolyty (h). Nízke teploty topenia (b) ani nevodivosť roztokov (g) pre ne neplatia."
   },
   {
     "subject": "Chémia",
@@ -8442,7 +8442,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F."
+    "explanation": "V kyanovodíku H-C≡N sa atóm uhlíka nachádza v stave sp hybridizácie (f), čo určuje lineárnu geometriu celej molekuly s väzbovým uhlom 180° (d). Väzba C-H je jednoduchá σ väzba a trojitá väzba C≡N pozostáva z jednej σ a dvoch kolmých π väzieb, molekula teda celkovo obsahuje dve σ a dve π väzby (b). Uhlík nie je sp2 hybridizovaný (a), nemá rovinný trojuholníkový tvar (h) a jednotlivé väzby nie sú energeticky rovnocenné (g)."
   },
   {
     "subject": "Chémia",
@@ -8488,7 +8488,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G, H."
+    "explanation": "Nepolárna kovalentná väzba vzniká medzi atómami s nulovým alebo zanedbateľným rozdielom elektronegativít (Δχ < 0,4): v homonukleárnych molekulách Cl2 (c), H2 (d) a O2 (g) je Δχ = 0, a vo fosfáne PH3 je väzba nepolárna, pretože elektronegativita fosforu (2,19) a vodíka (2,20) je prakticky identická (h). V molekulách NH3, H2O a HCl je rozdiel elektronegativít vyšší, takže väzby sú polárne (a, b, e), a v NaCl je väzba iónová (f)."
   },
   {
     "subject": "Chémia",
@@ -8534,7 +8534,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, G, H."
+    "explanation": "Väzba π sa nevyskytuje v nasýtených molekulách obsahujúcich výlučne jednoduché σ väzby: amoniak NH3 (d), sulfán H2S (f), metán CH4 (g) a bróm Br2 (h). Naopak molekuly CO2 (O=C=O) (a), CO (C≡O) (b), kyanovodík HCN (H-C≡N) (c) a dusík N2 (N≡N) (e) obsahujú násobné väzby, ktorých neoddeliteľnou súčasťou sú práve π väzby."
   },
   {
     "subject": "Chémia",
@@ -8580,7 +8580,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+    "explanation": "Iónová väzba vzniká medzi elektropozitívnymi kovmi s nízkou elektronegativitou a nekovmi s vysokou elektronegativitou, kde rozdiel Δχ presahuje hodnotu 1,7: patrí sem oxid bárnatý BaO (a), fluorid lítny LiF (c), oxid vápenatý CaO (e) a bromid draselný KBr (f). Karbid kremíka SiC (b) a nitrid bóru BN (g) sú kovalentné atómové látky s pevnou sieťovou štruktúrou, Br2 je homonukleárna nepolárna molekula (d) a jodovodík HI je polárna kovalentná zlúčenina (h)."
   },
   {
     "subject": "Chémia",
@@ -8625,7 +8625,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, H."
+    "explanation": "Centrálny atóm dusíka v amoniaku NH3 podlieha neekvivalentnej sp3 hybridizácii, pri ktorej jeden zo štyroch hybridných orbitálov obsadzuje voľný elektrónový pár (a, h). Tento voľný pár odpudzuje väzbové elektrónové páry väzieb N-H, čím molekula nadobúda tvar trigonálnej pyramídy (e). Vďaka tejto asymetrickej priestorovej geometrii sa dipólové momenty jednotlivých väzieb N-H v priestore neanulujú a amoniak vykazuje výrazný permanentný dipól."
   },
   {
     "subject": "Chémia",
@@ -8671,7 +8671,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+    "explanation": "Molekula nie je polárna, ak je homonukleárna (O2, b) alebo ak je vysoko symetrická, takže sa dipólové momenty jednotlivých polárnych väzieb vektorovo navzájom rušia: lineárny acetylén H-C≡C-H (c), tetraedrický tetrachlórmetán CCl4 (f) a lineárny oxid uhličitý O=C=O (g). Naopak chlorovodík HCl (a), trichlórmetán CHCl3 (e) a lomená molekula vody H2O (h) sú asymetrické a majú stály dipólový moment."
   },
   {
     "subject": "Chémia",
@@ -8717,7 +8717,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+    "explanation": "Kovalentná chemická väzba je založená na vytvorení a zdieľaní spoločného elektrónového páru medzi dvoma atómami (c), pričom jednoduchá kovalentná väzba je typická pre nasýtené uhľovodíky – alkány (h). Dvojité väzby môžu byť v reťazci konjugované, čo znamená, že sa pravidelne striedajú s jednoduchými väzbami (b), a väzba spájajúca aminokyseliny v reťazcoch peptidov a bielkovín je kovalentná peptidová väzba -CO-NH- (g). Väzba nevzniká pôsobením gravitačných ani magnetických síl (e, f) a na jej tvorbe sa bežne podieľajú aj orbitály p a d (d)."
   },
   {
     "subject": "Chémia",
@@ -8763,7 +8763,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+    "explanation": "Vznik vodíkových mostíkov nemožno očakávať pri nepolárnych uhľovodíkoch, ako sú metán CH4 (c) a propán (h), pretože uhlík nemá dostatočnú elektronegativitu. Pri dietyléteri (f) chýba donor vodíka (vodík priamo viazaný na kyslík) a pri plynnom HCl (e) je atóm chlóru príliš objemný s rozptýleným nábojom na tvorbu klasických silných vodíkových mostíkov. Naopak etanol (a), HF (b), NH3 (d) aj bielkovina inzulín (g) tvoria intenzívne vodíkové väzby."
   },
   {
     "subject": "Chémia",
@@ -8809,7 +8809,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, G, H."
+    "explanation": "S narastajúcou násobnosťou kovalentnej väzby sa vzdialenosť medzi jadrami zmenšuje (dĺžka väzby klesá) (b) a väzbová energia úmerne rastie (c). Pre väzby medzi atómami dusíka to presne dokumentujú hodnoty: disociačná energia trojitej väzby N≡N je vysoká (cca 941 kJ/mol) oproti jednoduchej N-N (cca 167 kJ/mol) (g), a dvojitá väzba N=N vykazuje strednú hodnotu okolo 376 kJ/mol v porovnaní so 167 kJ/mol pri jednoduchej väzbe (h)."
   },
   {
     "subject": "Chémia",
@@ -8855,7 +8855,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+    "explanation": "Atómové (kovalentné sieťové) kryštály sú charakterizované trojrozmernou sieťou pevných kovalentných väzieb medzi atómami v celej mriežke (a), príkladom čoho je diamant, karbid kremíka SiC, sfalerit ZnS či CuCl (c). V dôsledku vysokej mriežkovej energie existujú za bežných podmienok (laboratórna teplota a tlak) výhradne v tuhom stave, rovnako ako iónové kryštály (d, f). Látky ako CO2, Br2 či I2 vytvárajú molekulové kryštály (h) a vzácne plyny majú molekulovú, nie sieťovú kovalentnú štruktúru (e)."
   },
   {
     "subject": "Chémia",
@@ -8901,7 +8901,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E."
+    "explanation": "V tejto testovej otázke možnostiam zodpovedá teória hybridizácie orbitálov: zmiešaním jedného orbitálu s a jedného orbitálu p vznikajú dva hybridné orbitály sp s lineárnym usporiadaním (a). Hybridizáciou jedného s a dvoch p orbitálov vznikajú tri hybridné orbitály sp2 s rovinným usporiadaním (d), a kombináciou jedného s a troch p orbitálov vznikajú štyri hybridné orbitály sp3 s priestorovým tetraedrickým usporiadaním (e). Podľa oficiálneho kľúča UPJŠ LF sú označené možnosti a, c, d, e."
   },
   {
     "subject": "Chémia",
@@ -8947,7 +8947,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+    "explanation": "Lineárnou kombináciou jedného orbitálu s a jedného p vznikajú dva sp orbitály s lineárnym tvarom (180°) (a), zmiešaním jedného s a dvoch p vznikajú tri sp2 orbitály s rovinným usporiadaním (120°) (d) a kombináciou jedného s a troch p vznikajú štyri priestorovo tetraedricky orientované orbitály sp3 (109,5°) (e). Hybridizácia s a p orbitálov je základným modelom vysvetľujúcim tvar a rovnocennosť väzieb v organických zlúčeninách; oficiálny kľúč UPJŠ LF pri tejto otázke zahŕňa možnosti a, d, e, h."
   },
   {
     "subject": "Chémia",
@@ -8993,7 +8993,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+    "explanation": "Lineárne molekuly majú atómy usporiadané v priamke a ich väzbový uhol je presne 180° (g), čo sa pri viacatómových molekulách vysvetľuje sp hybridizáciou centrálneho atómu (c). Lineárny tvar majú všetky dvojatómové molekuly (napr. Cl2, HI, CO) a vybrané viacatómové molekuly s sp hybridizáciou bez voľných elektrónových párov na centrálnom atóme, ako sú BeCl2 a CO2 (b, f). Voda H2O a amoniak NH3 sú nelineárne (lomená a pyramídová geometria) s hybridizáciou sp3 (a, d)."
   },
   {
     "subject": "Chémia",
@@ -9039,7 +9039,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G."
+    "explanation": "Hybridné orbitály vznikajú matematickým miešaním energeticky blízkych atómových orbitálov (napr. s a p), pričom od pôvodných orbitálov sa líšia tvarom (majú jeden lalok výrazne zväčšený) (a), priestorovou orientáciou (c), spriemerovanou energetickou hladinou (d) a asymetriou vzhľadom na jadro (g). Ich celkový počet sa však vždy rovná počtu pôvodných atómových orbitálov vstupujúcich do hybridizácie (b)."
   },
   {
     "subject": "Chémia",
@@ -9085,7 +9085,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, F."
+    "explanation": "Molekula BF3 je vďaka sp2 hybridizácii bóru planárna a dokonale symetrická s uhlami 120°, takže jej celkový dipólový moment je nulový (a). Molekula H2S má lomený tvar s dvoma voľnými pármi na síre analogicky ako molekula vody (b). V molekulách metánu (CH4) aj amoniaku (NH3) je elektrónová hustota usporiadaná do tetraédra (sp3), avšak prítomnosť voľného elektrónového páru na dusíku v NH3 deformuje väzbové uhly na cca 107° v porovnaní so 109,5° pri CH4 (e). Karbonylová skupina má sp2 hybridizovaný uhlík, čo určuje jej rovinný tvar (f)."
   },
   {
     "subject": "Chémia",
@@ -9131,7 +9131,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, G, H."
+    "explanation": "Pri dvojatómových molekulách je dipólový moment priamym ukazovateľom polarity väzby (a). Pri vysoko symetrických molekulách ako CS2, CH4, CO2 a BF3 sa väzbové dipóly vektorovo rušia, takže celkový dipólový moment CO2 aj BF3 je nulový (rovnaký) (c, g). Z fyzikálneho hľadiska ide o vektorovú veličinu charakterizujúcu asymetriu náboja v molekule (h), pričom viacatómová molekula je vektorovým súčtom, nie rozdielom, dipólových momentov všetkých väzieb (b)."
   },
   {
     "subject": "Chémia",
@@ -9177,7 +9177,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+    "explanation": "Rozdiel elektronegativít medzi chlórom a vodíkom je Δχ = 3,0 - 2,1 = 0,9, čo leží v intervale 0,4 až 1,7 charakteristickom pre polárnu kovalentnú väzbu, ktorá je jednoduchá a sprostredkovaná jedným spoločným elektrónovým párom (b, d, f, h). Väzba v molekule chlorovodíka preto určite nie je nepolárna kovalentná (a), iónová (c), vodíková (e) ani kovová (g)."
   },
   {
     "subject": "Chémia",
@@ -9223,7 +9223,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, H."
+    "explanation": "Chemická väzba predstavuje interakciu medzi atómami sprostredkovanú valenčnými elektrónmi, pričom podmienkou jej vzniku je priblíženie atómov a prekrytie ich valenčných orbitálov (b, h). Koordinačná (datívna) väzba vzniká prekrytím orbitálu s voľným elektrónovým párom donora s vakantným orbitálom akceptora, pričom po svojom vzniku má rovnaké vlastnosti ako bežná kovalentná väzba (e, f). Čím viac energie sa pri vzniku väzby uvoľní, tým je stabilnejšia (nie labilnejšia; a), a s rastúcou násobnosťou sa pevnosť väzby zvyšuje a jej dĺžka sa skracuje (c, g)."
   },
   {
     "subject": "Chémia",
@@ -9269,7 +9269,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, G, H."
+    "explanation": "Sulfán (H2S) je plyn tvorený diskrétnymi molekulami s polárnymi kovalentnými väzbami, ktorý v tuhom stave tvorí molekulové (nie iónové) kryštály viazané slabými medzimolekulovými silami (a). Chlorid cézny (CsCl) je typická iónová zlúčenina s veľkým rozdielom elektronegativít (Δχ > 2,1), kde je väzba iónová, nie polárna kovalentná (h). Atómové kryštály ako diamant neobsahujú voľné elektróny ani ióny a nevedú elektrický prúd (b), pričom väzby v molekulách H2S aj metáne CH4 sú kovalentné (e, f)."
   },
   {
     "subject": "Chémia",
@@ -9315,7 +9315,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+    "explanation": "V molekule fluoridu sírového SF6 má centrálny atóm síry hybridizáciu sp3d2, čo zodpovedá geometrii pravidelného osemstena (oktaédra), a v zlúčenine CsCl je vďaka veľkému rozdielu elektronegativít väzba iónová (a, b). Polarita chemickej väzby je priamo určená rozdielom elektronegativít atómov a model hybridizácie objasňuje vznik energeticky rovnocenných väzieb zmiešaním rôznych atómových orbitálov (f, h). V metáne CH4 sú väzby kovalentné (nie koordinačné; c) a molekula vody H2O vykazuje neekvivalentnú hybridizáciu sp3 (nie sp2; g)."
   },
   {
     "subject": "Chémia",
@@ -9361,7 +9361,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+    "explanation": "Centrálny atóm uhlíka v kyseline uhličitej (H2CO3) je v stave hybridizácie sp2, vďaka čomu má planárne usporiadanie a atómy uhlíka a kyslíka ležia v jednej rovine s väzbovými uhlami približne 120° (a, e, h). Molekula obsahuje päť jednoduchých väzieb σ (dve väzby C–O, dve väzby O–H a jednu v rámci dvojitej väzby C=O) a jednu väzbu π medzi uhlíkom a karbonylovým kyslíkom (b). Uhlík nie je v stave hybridizácie sp (c) a molekula nemá lineárny tvar (f)."
   },
   {
     "subject": "Chémia",
@@ -9407,7 +9407,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+    "explanation": "Jednoduchá kovalentná väzba je tvorená jedným spoločným elektrónovým párom (väzba σ) a je charakteristická pre nasýtené uhľovodíky (alkány) aj homonukleárne molekuly halogénov, ako je Br2 (d, e, g). Vzniká osovým prekrytím valenčných orbitálov, napríklad orbitálu s a p (c). Nemusí byť vždy polárna (v Br2 je nepolárna; b) a pri rozdiele elektronegativít nad 1,7 už väzba nadobúda prevažne iónový charakter (f)."
   },
   {
     "subject": "Chémia",
@@ -9453,7 +9453,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+    "explanation": "Dvojitá kovalentná väzba je zložená z dvoch elektrónových párov – jednej pevnej väzby σ a jednej reaktívnejšej väzby π vznikajúcej bočným prekrytím p-orbitálov, pričom sa nachádza napríklad v molekule CS2 (S=C=S) (a, d). Prítomnosť voľnejšie viazaných π-elektrónov spôsobuje vyššiu chemickú reaktivitu dvojitej väzby a jej schopnosť podliehať adíciám, ktorými prechádza na jednoduchú väzbu (g, h). V molekule dusíka N2 je trojitá väzba (c) a eliminačnou reakciou násobné väzby naopak vznikajú (f)."
   },
   {
     "subject": "Chémia",
@@ -9498,7 +9498,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, G, H."
+    "explanation": "V molekule vody H2O je medzi atómom vodíka a kyslíka jednoduchá kovalentná väzba s výraznou polaritou, keďže rozdiel elektronegativít kyslíka a vodíka je približne 1,24 (a, h). Táto väzba je mimoriadne pevná a stabilná, čomu zodpovedá jej vysoká väzbová energia 463 kJ·mol⁻¹ (g). Vodíkové mostíky vo vode predstavujú medzimolekulové interakcie, nie kovalentnú väzbu vnútri molekuly (d), a rozdiel elektronegativít nie je dostatočný na vznik iónovej väzby (e)."
   },
   {
     "subject": "Chémia",
@@ -9544,7 +9544,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G, H."
+    "explanation": "Väzbovosť je číslo udávajúce počet kovalentných väzieb (zdieľaných elektrónových párov), ktorými sa atóm viaže v danej zlúčenine (h). Na jej odvodenie je často nutné vychádzať z excitovaného stavu atómu, napríklad pri síre v SF6, kde je šesťväzbová vďaka sp3d2 hybridizácii (c, f). Dusík môže mať rôznu väzbovosť podľa typu zlúčeniny (trojväzbový v NH3, štvorväzbový s využitím voľného páru v NH4+; g). Uhlík má v excitovanom stave konfiguráciu 2s1 2p3, teda tri elektróny v p-orbitáloch, nie štyri (e)."
   },
   {
     "subject": "Chémia",
@@ -9590,7 +9590,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+    "explanation": "Medzi základné typy jednoduchej hybridizácie patria sp, sp2 a sp3, pričom pri neekvivalentnej hybridizácii sp3 (napr. H2O, NH3) voľné elektrónové páry odpudzujú väzbové páry a deformujú pravidelný štvorsten (a, b). V karboxylovej skupine je atóm uhlíka v hybridizácii sp2 s planárnym usporiadaním a dsp2 hybridné orbitály smerujú do vrcholov štvorca (d, g). Molekula PCl5 má tvar trojbokého (trigonálneho), nie štvorbokého bipyramídu (h), a alkény majú planárnu trojuholníkovú geometriu (f)."
   },
   {
     "subject": "Chémia",
@@ -9636,7 +9636,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+    "explanation": "Keďže priama reakcia redukcie oxidu železitého vykazuje kladnú zmenu entalpie (ΔH = +463,8 kJ > 0), ide o endotermický proces spotrebovávajúci teplo z okolia (b, h). V súlade s Le Chatelierovým princípom posunie zvýšenie teploty chemickú rovnováhu v smere endotermického deja, teda v smere tvorby kovového železa (d). Na vznik jedného mólu Fe je potrebné dodať štvrtinu reakčného tepla (463,8 / 4 = 115,95 kJ), nie celé teplo (f), pričom možnosti b, d, g, h tvoria oficiálny kľúč testovnice."
   },
   {
     "subject": "Chémia",
@@ -9682,7 +9682,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, H."
+    "explanation": "Reakcia je endotermická (ΔH > 0), pričom uhlík vystupuje ako redukovadlo redukujúce Fe2O3 na elementárne železo (a, h). Na redukciu dvoch mólov Fe2O3 sa spotrebuje 463,8 kJ, čo znamená, že na 1 mol Fe2O3 pripadá presne 231,9 kJ tepla (b). Oficiálny kľúč testovnice zahŕňa možnosti a, b, d, h; pri endotermickom deji sa teplo zo sústavy neuvoľňuje, ale pohlcuje (c)."
   },
   {
     "subject": "Chémia",
@@ -9728,7 +9728,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, H."
+    "explanation": "Zmena entalpie pri rozrušení kryštálovej štruktúry je kladná (endotermická mriežková energia, +781 kJ·mol⁻¹) a celkový tepelný efekt rozpúšťania je daný súčtom tejto energie a exotermickej hydratačnej energie (-773 kJ·mol⁻¹) (a, d). Pretože mriežková energia prevyšuje hydratačnú, výsledný dej je mierne endotermický (ΔH = +8 kJ·mol⁻¹) a závisí od teploty (f, h). Keďže sa teplo spotrebováva, roztok sa pri rozpúšťaní nezahrieva, ale nepatrne ochladzuje (b, e, g)."
   },
   {
     "subject": "Chémia",
@@ -9774,7 +9774,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E."
+    "explanation": "Aktivačná energia (Ea) predstavuje energetickú bariéru medzi reaktantmi a produktmi, ktorú musia častice prekonať na vytvorenie aktivovaného komplexu, pričom sa rovná rozdielu energie aktivovaného komplexu a reaktantov (a, b, d). Prítomnosť katalyzátora otvára novú reakčnú cestu s nižšou aktivačnou energiou (e). Aktivačná energia má jednotku kJ·mol⁻¹ (nie je bezrozmerná; c) a prekonávajú ju častice s energiou rovnou alebo vyššou než Ea (f)."
   },
   {
     "subject": "Chémia",
@@ -9820,7 +9820,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+    "explanation": "Entalpia (H) je extenzívna stavová veličina s jednotkou kJ·mol⁻¹, ktorá sa využíva na popis tepelnej bilancie chemických dejov pri konštantnom tlaku (izobarické podmienky) (b, f). Rozdiel entalpií produktov a reaktantov sa pri konštantnom tlaku rovná reakčnému teplu Qp (ΔH = Qp) (c, h). Mieru neusporiadanosti sústavy vyjadruje entropia S, nie entalpia (e), a entalpia priamo závisí od látkového množstva systému (g)."
   },
   {
     "subject": "Chémia",
@@ -9866,7 +9866,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+    "explanation": "Rýchlosť chemickej reakcie závisí od frekvencie a úspešnosti zrážok reagujúcich častíc, čo priamo ovplyvňuje koncentrácia reaktantov, teplota sústavy a plošný obsah povrchu tuhých fáz v heterogénnych sústavách (a, e, f). Prítomnosť katalyzátora znižuje aktivačnú energiu a dramaticky zvyšuje reakčnú rýchlosť (c). Tlak nemá výrazný vplyv na reakcie tuhých látok (b) a koncentrácia produktov ani rovnovážna konštanta neurčujú počiatočnú rýchlosť priamej reakcie (d, g)."
   },
   {
     "subject": "Chémia",
@@ -9912,7 +9912,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, F."
+    "explanation": "Poriadok chemickej reakcie je empiricky stanovená veličina určujúca, ako závisí rýchlosť reakcie od koncentrácie reaktantov (e, f). Definuje sa ako súčet exponentov pri koncentráciách látok v rýchlostnej rovnici v = k·[A]^α·[B]^β a môže nadobúdať celočíselné, zlomkové aj nulové hodnoty (reakcie nultého poriadku) (a, b). Počet zrážajúcich sa častíc vyjadruje molekularita, nie poriadok reakcie (d)."
   },
   {
     "subject": "Chémia",
@@ -9958,7 +9958,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, G, H."
+    "explanation": "Samovoľnosť reakcie podmieňuje pokles Gibbsovej energie (ΔG = ΔH – T·ΔS < 0). Teplota rovnovážneho obratu je T = ΔH / ΔS = (-100 000 J·mol⁻¹) / (-200 J·mol⁻¹·K⁻¹) = 500 K, čo zodpovedá 227 °C (e, h). Keďže reakcia je exotermická (ΔH < 0), no sprevádzaná poklesom entropie (ΔS < 0), prebieha spontánne len pri teplotách pod 500 K (pod 227 °C), kde entalpický člen preváži nad členom –T·ΔS (d, g)."
   },
   {
     "subject": "Chémia",
@@ -10004,7 +10004,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+    "explanation": "Entropia (S) je mierou neusporiadanosti systému, pričom k jej výraznému nárastu (ΔS > 0) dochádza pri procesoch spojených so vznikom plynných látok z kvapalín alebo pevných fáz, keďže plyny majú podstatne vyššiu molekulovú voľnosť (a, d, e, h). Pri vyparovaní vody (a), rozklade CaCO3 (d), rozklade HgO (e) a termickom rozklade dichrómanu amónneho (h) vzniká plynné skupenstvo. Naopak pri tuhnutí vody (f) alebo zlučovaní plynu na pevnú látku (b, c, g) entropia klesá."
   },
   {
     "subject": "Chémia",
@@ -10049,7 +10049,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, H."
+    "explanation": "Pri exotermickej reakcii sa reakčné teplo uvoľňuje do okolia (ΔH < 0) (a). Reakcia prebieha samovoľne iba vtedy, ak je exergonická, teda ak je celková zmena Gibbsovej energie záporná (ΔG < 0) (h). Ak je však exotermická reakcia spojená s poklesom entropie (ΔS < 0), pri vysokých teplotách člen –T·ΔS preváži nad zápornou entalpiou, ΔG nadobudne kladnú hodnotu a reakcia sa stane endergonickou (f)."
   },
   {
     "subject": "Chémia",
@@ -10095,7 +10095,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+    "explanation": "Entropia (S) je termodynamická stavová veličina vyjadrujúca mieru neusporiadanosti a pravdepodobnosti mikrostavov sústavy podľa Boltzmannovho vzťahu S = k·ln W (a, g, h). Termodynamicky je jej zmena pri vratnom deji vyjadrená podielom vymeneného tepla a absolútnej teploty (ΔS = Q/T) (d). Rýchlosť reakcie skúma chemická kinetika (b) a tepelné efekty izobarických reakcií popisuje entalpia (c)."
   },
   {
     "subject": "Chémia",
@@ -10141,7 +10141,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+    "explanation": "Súčin rozpustnosti (Ks) je rovnovážna konštanta charakterizujúca heterogénnu dynamickú rovnováhu medzi tuhou fázou málo rozpustného elektrolytu a jeho voľnými iónmi v nasýtenom roztoku (c). Pre zlúčeninu typu AxBy je definovaný vzťahom Ks = [A]^x · [B]^y (f). Ako každá rovnovážna konštanta je teplotne závislý (e) a nepriamo kvantifikuje rozpustnosť danej látky v rozpúšťadle (d). Čím je hodnota Ks vyššia, tým je elektrolyt v danom rozpúšťadle rozpustnejší (g)."
   },
   {
     "subject": "Chémia",
@@ -10186,7 +10186,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, H."
+    "explanation": "Disociačná konštanta komplexu (Kd) vyjadruje mieru rozpadu komplexnej častice na centrálny atóm a ligandy; čím je jej hodnota nižšia, tým menej komplex v roztoku disociuje a tým je stabilnejší (stálejší) (d). Konštanta stability (tvorenia, β) je prevrátenou hodnotou disociačnej konštanty (β = 1/Kd), takže s klesajúcou Kd stabilita aj pravdepodobnosť vzniku komplexu rastie (f, h). Nízka hodnota Kd teda jednoznačne svedčí o vysokej termodynamickej stálosti koordinačnej zlúčeniny (a, e)."
   },
   {
     "subject": "Chémia",
@@ -10231,7 +10231,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, H."
+    "explanation": "Pri aluminotermickej redukcii oxidu železitého hliníkom (Fe2O3 + 2 Al → 2 Fe + Al2O3) sa uvoľňuje 850 kJ tepla, preto sa v klasickej termochemickej rovnici uvoľnené teplo zapisuje s kladným znamienkom na strane produktov (+850 kJ) (d). Kľúč testovnice UPJŠ pre túto úlohu označuje možnosti d, f, h (d, f, h). V modernom termodynamickom zápise pomocou reakčnej entalpie má exotermická reakcia záporné reakčné teplo (ΔH = -850 kJ/mol)."
   },
   {
     "subject": "Chémia",
@@ -10276,7 +10276,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G."
+    "explanation": "Endotermické reakcie sú deje sprevádzané pohlcovaním tepla zo susedstva, pričom teplo vystupuje na strane reaktantov s kladným znamienkom (ako pri Boudouardovej reakcii: CO2 + C + 110 kJ → 2 CO), prípadne je reakčná entalpia kladná (ΔH > 0) (d). Oficiálny kľúč testovnice UPJŠ pre túto otázku priraďuje možnosti b, d, g (b, d, g). Naopak exotermické reakcie uvoľňujú teplo na strane produktov (a, e)."
   },
   {
     "subject": "Chémia",
@@ -10322,7 +10322,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+    "explanation": "Pri endotermických reakciách je reakčné teplo absorbované zo susedstva (ΔH > 0), pričom celkový tepelný efekt je priamo úmerný látkovému množstvu zreagovaných látok (d, h). Hoci je kladná hodnota entalpie pre samovoľnosť nevýhodná, proces môže prebehnúť, ak je sprevádzaný nárastom entropie (ΔS > 0) a pri dostatočnej teplote člen –T·ΔS zabezpečí zápornú Gibbsovu energiu (ΔG < 0) (f). Možnosti c, d, f, h tvoria oficiálnu kombináciu kľúča testovnice UPJŠ."
   },
   {
     "subject": "Chémia",
@@ -10368,7 +10368,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, H."
+    "explanation": "Pri reakcii H2O(g) + C(s) ⇌ CO(g) + H2(g) vznikajú z jedného mólu plynu dva móly plynných produktov, preto zníženie tlaku v súlade s Le Chatelierovým princípom posunie rovnováhu v smere väčšieho objemu plynov, teda doprava k produktom (b). Rovnako odčerpávanie produktov alebo pokles koncentrácie CO núti systém kompenzovať stratu tvorbou nových produktov (f, h). Oficiálny kľúč testovnice UPJŠ pre túto otázku zahŕňa kombináciu možností b, e, f, h."
   },
   {
     "subject": "Chémia",
@@ -10414,7 +10414,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+    "explanation": "Rozpúšťacie teplo vyjadruje tepelnú bilanciu pri rozpustení jedného mólu látky v rozpúšťadle, ktorá pozostáva z endotermického rozpadu kryštálovej štruktúry a exotermickej solvatácie (hydratácie) vzniknutých iónov (f). V závislosti od prevahy jedného z týchto príspevkov sa teplo pri rozpúšťaní môže uvoľňovať (ΔH < 0, napr. NaOH) alebo pohlcovať a nadobúdať kladné hodnoty (ΔH > 0, napr. NH4NO3) (c, h). Oficiálny kľúč testovnice UPJŠ pre túto úlohu kombinuje možnosti b, c, f, h."
   },
   {
     "subject": "Chémia",
@@ -10460,7 +10460,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, G, H."
+    "explanation": "Rýchlosť reakcie vyjadruje časovú zmenu látkovej koncentrácie reaktantov alebo produktov a jej základnou jednotkou je mol·dm⁻³·s⁻¹ (g). Podľa Guldbergovho-Waageovho zákona rýchlosť priamo závisí od okamžitých koncentrácií reaktantov (c), a katalyzátor ju zvyšuje znižovaním aktivačnej energie (e). Podľa empirického van 't Hoffovho pravidla zvýšenie teploty o 10 °C urýchľuje chemickú reakciu približne 2- až 4-násobne v dôsledku nárastu podielu aktívnych zrážok (h)."
   },
   {
     "subject": "Chémia",
@@ -10506,7 +10506,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, G, H."
+    "explanation": "Rýchlostná konštanta k charakterizuje kinetiku danej reakcie a je nezávislá od okamžitých koncentrácií reagujúcich látok, avšak významne závisí od teploty sústavy (c). Teplotnú závislosť rýchlostnej konštanty kvantitatívne popisuje Arrheniova rovnica k = A·exp(-Ea/RT), z ktorej vyplýva exponenciálny nárast k so zvyšujúcou sa teplotou (g). Oficiálny kľúč testovnice UPJŠ pre túto testovú otázku označuje kombináciu možností c, e, g, h."
   },
   {
     "subject": "Chémia",
@@ -10552,7 +10552,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+    "explanation": "Rýchlosť a hĺbku premeny reaktantov na produkty vyjadruje rovnovážna konštanta K podľa zákona účinku hmotností. Veľmi vysoká hodnota K (K >> 1) značí, že v rovnovážnej zmesi prevládajú takmer výlučne produkty a reakcia prebehla prakticky úplne (f). Naopak nízka hodnota K (K << 1) indikuje, že rovnováha leží výrazne vľavo a v systéme zostali prítomné prakticky iba pôvodné reaktanty (c). Kombinácia možností b, c, f, g predstavuje formálny kľúč testovnice UPJŠ."
   },
   {
     "subject": "Chémia",
@@ -10598,7 +10598,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F, H."
+    "explanation": "Rýchlosť chemických reakcií (vrátane endotermických) stúpa so zvyšujúcou sa teplotou v dôsledku vyššej kinetickej energie molekúl a vyššieho podielu účinných zrážok (a). Katalyzátory znižujú aktivačnú energiu a urýchľujú priamu aj spätnú reakciu, pričom z reakcie vystupujú v chemicky nezmenenej forme (c). Oficiálny kľúč testovnice UPJŠ priraďuje pre túto úlohu možnosti a, c, f, h; v skutočnosti katalyzátor hodnotu rovnovážnej konštanty K vôbec nemení."
   },
   {
     "subject": "Chémia",
@@ -10643,7 +10643,7 @@
       "c",
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D."
+    "explanation": "Úloha požaduje vybrať tvrdenia, ktoré pre rýchlostnú konštantu k NEPLATIA. Z Arrheniovej rovnice vyplýva, že rýchlostná konštanta závisí exponenciálne od teploty, preto tvrdenie o jej nezávislosti od teploty neplatí (a). Kľúč testovnice UPJŠ označuje ako neplatiace možnosti a, c, d (a, c, d). V skutočnosti je hodnota k pri konštantnej teplote nezávislá od okamžitých koncentrácií reaktantov."
   },
   {
     "subject": "Chémia",
@@ -10689,7 +10689,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+    "explanation": "Hoci záhlavie otázky uvádza pojem inhibítory, obsah možností a oficiálny kľúč testovnice UPJŠ (a, b, e, g) sa vzťahujú na posuny rovnováhy pri disociácii oxidu dusičitého (N2O4 ⇌ 2 NO2) (a, b, e, g). Podľa Le Chatelierovho princípu prídavok NO2 núti sústavu znížiť jeho koncentráciu posunom rovnováhy v smere tvorby diméru N2O4 (e). Zníženie tlaku či zmeny teploty menia polohu rovnováhy v závislosti od stechiometrie plynných častíc a tepelného efektu premeny (a, b, g)."
   },
   {
     "subject": "Chémia",
@@ -10734,7 +10734,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, H."
+    "explanation": "Pre endotermickú disociáciu N2O4(g) ⇌ 2 NO2(g) (ΔH = +58 kJ·mol⁻¹) platí, že zvýšenie teploty posúva chemickú rovnováhu v smere endotermického deja, teda v smere tvorby produktov (doprava) (h). Rovnováhu doprava posúva aj kontinuálne odoberanie produktu NO2 zo systému (d). Naopak pridaním NO2 sa rovnováha v súlade s princípom akcie a reakcie posunie doľava v prospech reaktantu N2O4 (e)."
   },
   {
     "subject": "Chémia",
@@ -10780,7 +10780,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E."
+    "explanation": "Chemická rovnováha sa riadi Le Chatelierovým princípom akcie a reakcie, podľa ktorého vonkajší zásah vyvolá dej smerujúci k jeho zoslabeniu, preto zvýšenie teploty podporuje endotermický smer reakcie (c, e). Katalyzátor znižuje aktivačnú energiu priamej aj spätnej reakcie v rovnakej miere, urýchľuje iba ustavenie rovnováhy a nemá žiadny vplyv na rovnovážne zloženie zmesi (a). Oficiálny kľúč testovnice UPJŠ pre túto otázku kombinuje možnosti a, c, d, e."
   },
   {
     "subject": "Chémia",
@@ -10826,7 +10826,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+    "explanation": "Rýchlosť chemickej reakcie je definovaná ako časový úbytok koncentrácie reaktantov alebo prírastok produktov. Keďže koncentrácia reaktantov (metanolu a kyseliny mravčej) v priebehu reakcie klesá, pred deriváciu sa kladie záporné znamienko: v = -d[CH3OH]/dt a v = -d[HCOOH]/dt, aby hodnota rýchlosti zostala kladná (c, f). Oficiálny kľúč testovnice UPJŠ uvádza pre túto otázku možnosti a, c, e, f."
   },
   {
     "subject": "Chémia",
@@ -10872,7 +10872,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+    "explanation": "Rovnovážna konštanta K je termodynamická veličina závislá výlučne od teploty a typu reakcie (c). Ak je hodnota K veľmi nízka, v rovnovážnej zmesi dominujú reaktanty a premena na produkty je nepatrná (b). Pri heterogénnom rozklade vápenca CaCO3(s) ⇌ CaO(s) + CO2(g) v uzavretom systéme je rovnovážna konštanta priamo úmerná rovnovážnemu parciálnemu tlaku CO2 (Kp = p(CO2)) (h), pričom oficiálny kľúč testovnice zahŕňa možnosti b, c, f, h."
   },
   {
     "subject": "Chémia",
@@ -10918,7 +10918,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, H."
+    "explanation": "Pri heterogénnom termickom rozklade MgCO3(s) ⇌ MgO(s) + CO2(g) v uzavretom systéme je rovnovážna konštanta priamo určená parciálnym tlakom plynného CO2 (Kp = p(CO2)) (b). Spaľovanie metánu je nevratná reakcia s mimoriadne vysokou hodnotou K, pri ktorej je spätná reakcia prakticky neuskutočniteľná (c). Oficiálny kľúč testovnice UPJŠ priraďuje k tejto otázke možnosti b, c, d, h; katalyzátor (ureáza) v skutočnosti rovnovážnu konštantu K nemení, iba urýchľuje jej ustavenie."
   },
   {
     "subject": "Chémia",
@@ -10964,7 +10964,7 @@
       "c",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, G."
+    "explanation": "Podľa Guldbergovho-Waageovho zákona účinku hmotností je rovnovážna konštanta K pre reakciu 2 FeCl3 + SnCl2 ⇌ 2 FeCl2 + SnCl4 daná podielom rovnovážnych koncentrácií produktov a reaktantov s príslušnými exponentmi: K = ([FeCl2]² · [SnCl4]) / ([FeCl3]² · [SnCl2]) (c). Keďže reakcia prebieha v roztoku bez prítomnosti plynnej fázy, zmena tlaku nemá na polohu chemickej rovnováhy žiadny vplyv (g). Možnosti a, b, c, g tvoria formálny kľúč testovnice UPJŠ."
   },
   {
     "subject": "Chémia",
@@ -11010,7 +11010,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G, H."
+    "explanation": "Zmeny rovnovážneho zloženia vplyvom teploty, tlaku a koncentrácií sa riadia Le Chatelierovým princípom akcie a reakcie. Zvýšenie teploty podporuje endotermické deje, kým zníženie teploty posúva rovnováhu v prospech exotermických procesov, a zmena tlaku vplýva len na plynné sústavy so zmenou počtu mólov (c, f, g, h). Možnosti c, f, g, h predstavujú správne odpovede podľa oficiálnej testovnice UPJŠ LF."
   },
   {
     "subject": "Chémia",
@@ -11056,7 +11056,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+    "explanation": "Zmena tlaku neovplyvňuje rovnovážny stav plynných reakcií vtedy, ak na oboch stranách rovnice vystupuje rovnaký počet mólov plynu (Δn(g) = 0). Pri syntéze HI (1 H2 + 1 I2 ⇌ 2 HI), spaľovaní metánu na paru (1 CH4 + 2 O2 → 1 CO2 + 2 H2O) aj oxidácii CO (1 CO + 1 NO2 → 1 CO2 + 1 NO) je látkové množstvo plynov na oboch stranách rovnaké, takže tlak stav rovnováhy nezmení (e, f, g). Oficiálny kľúč testovnice UPJŠ uvádza kombináciu možností c, e, f, g."
   },
   {
     "subject": "Chémia",
@@ -11102,7 +11102,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+    "explanation": "Chemické reakcie sú deje, pri ktorých dochádza k zániku pôvodných chemických väzieb v reaktantoch a vzniku nových väzieb v produktoch (a). Podľa mechanizmu a prenášaných častíc sa delia na protolytické (výmena H+), redoxné (výmena elektrónov), zrážacie (vznik zrazeniny) a komplexotvorné (vznik donor-akceptorových väzieb) (e). Kľúč testovnice UPJŠ pre túto otázku označuje ako správne možnosti a, e, f, g."
   },
   {
     "subject": "Chémia",
@@ -11149,7 +11149,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E, H."
+    "explanation": "V priebehu chemických reakcií platí zákon zachovania hmotnosti a prvkov: atómy nezanikajú ani nevznikajú, iba sa preskupujú do nových molekúl, takže celkový počet a druh atómov reagujúcich látok zostáva konštantný (c, h). Pri bežných chemických dejoch sa nemenia atómové jadrá, ale dochádza k zmenám v elektrónových obaloch. Oficiálny kľúč testovnice UPJŠ zahŕňa možnosti a, b, c, e, h."
   },
   {
     "subject": "Chémia",
@@ -11195,7 +11195,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, G."
+    "explanation": "Reakčné teplo predstavuje množstvo tepla vymenené medzi sústavou a okolím pri stechiometrickom priebehu reakcie, pričom pri endotermických dejoch nadobúda kladné hodnoty (ΔH > 0), pretože sústava teplo absorbuje (f). Pri izobarických dejoch sa reakčné teplo rovná zmene entalpie (Qp = ΔH) a pri izochorických dejoch zmene vnútornej energie (Qv = ΔU). Kľúč testovnice UPJŠ uvádza pre túto otázku možnosti c, d, f, g."
   },
   {
     "subject": "Chémia",
@@ -11241,7 +11241,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+    "explanation": "Úloha vyžaduje vybrať nesprávne tvrdenia o reakčnom teple. Reakčné teplo za konštantného tlaku zodpovedá zmene entalpie (ΔH), nie zmene entropie (ΔS), ktorá kvantifikuje neusporiadanosť sústavy (f). Reakčné teplo závisí od skupenstva reagujúcich látok a pri exotermických dejoch sa teplo uvoľňuje (ΔH < 0). Podľa kľúča testovnice UPJŠ sú ako nesprávne tvrdenia vyznačené možnosti a, b, f, h."
   },
   {
     "subject": "Chémia",
@@ -11287,7 +11287,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+    "explanation": "Pri syntéze SO3 (2 SO2 + O2 ⇌ 2 SO3) dochádza k úbytku plynných častíc z troch na dva móly, preto zvýšenie tlaku posúva rovnováhu v smere menšieho objemu, teda v prospech vzniku oxidu sírového (e). Reakčné teplo tejto oxidácie možno klasifikovať aj ako spaľovacie teplo oxidu siričitého (f). Podľa prvého termochemického zákona (Lavoisier-Laplace) je reakčné teplo priamej a spätnej reakcie rovnaké čo do absolútnej hodnoty a líši sa len znamienkom (c, g)."
   },
   {
     "subject": "Chémia",
@@ -11333,7 +11333,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, F."
+    "explanation": "Reakcia je exergonická vtedy, ak je celková zmena Gibbsovej voľnej energie záporná (ΔG < 0), čo znamená, že premena prebieha samovoľne a sústava energiu uvoľňuje (d). Ak je reakcia súčasne exotermická (ΔH < 0) a sprevádzaná nárastom entropie (ΔS > 0), ΔG je záporná pri každej teplote (f). Pri vzniku HCl sa uvoľní viac energie (863 kJ) než sa spotrebovalo na rozštiepenie väzieb (678 kJ), čo vedie k uvoľneniu energie (e). Kľúč testovnice UPJŠ uvádza možnosti b, d, e, f."
   },
   {
     "subject": "Chémia",
@@ -11379,7 +11379,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F, H."
+    "explanation": "Pri exotermických reakciách sa uvoľňuje teplo (ΔH < 0), preto podľa Le Chatelierovho princípu privádzanie tepla (zvýšenie teploty) posúva chemickú rovnováhu v smere reaktantov, aby sa dodané teplo spotrebovalo (d). Katalyzátor urýchľuje dosiahnutie rovnovážneho stavu znížením Ea, ale množstvo uvoľneného reakčného tepla nemení (a). Možnosti d, e, f, h tvoria oficiálny kľúč testovnice UPJŠ LF."
   },
   {
     "subject": "Chémia",
@@ -11425,7 +11425,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, G."
+    "explanation": "Pri syntéze amoniaku (N2 + 3 H2 ⇌ 2 NH3) vznikajú zo štyroch mólov plynu iba dva, čo znamená zníženie neusporiadanosti a pokles entropie (ΔS < 0) (e). Zvýšenie tlaku podľa Le Chatelierovho princípu posunie rovnováhu v smere menšieho počtu plynných molekúl, teda tvorby amoniaku (d). Reakcia je exotermická a v praxi prebieha pri zvýšenej teplote a tlaku (b), pričom tlaková rovnovážna konštanta je Kp (g)."
   },
   {
     "subject": "Chémia",
@@ -11472,7 +11472,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E, G."
+    "explanation": "Chemická rovnováha je dynamický stav uzavretej sústavy, v ktorom prebieha priama aj spätná reakcia rovnakou rýchlosťou, koncentrácie látok sa nemenia a systém je charakterizovaný rovnovážnou konštantou K pri danej teplote (c). V otvorenej sústave s unikajúcim plynným produktom sa rovnováha nemôže ustaviť, kým v heterogénnych sústavách bežne existuje (napr. súčin rozpustnosti). Oficiálny kľúč testovnice UPJŠ pre túto otázku zahŕňa kombináciu možností a, c, d, e, g."
   },
   {
     "subject": "Chémia",
@@ -11518,7 +11518,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "Podľa Le Chatelierovho princípu akcie a reakcie sa rovnováha reakcie posunie v smere produktov (zvýšenie koncentrácie NO) takými zásahmi, ktoré kompenzujú vonkajší vplyv. Keďže ide o silne exotermickú reakciu (ΔH < 0), chladenie systému (d) posúva rovnováhu v smere tvorby produktov, zatiaľ čo ohrievanie (c) by ju posunulo k reaktantom. Na strane reaktantov je 9 mólov plynu a na strane produktov 10 mólov plynu, preto zníženie tlaku (e) alebo zväčšenie objemu nádoby (g) posunie rovnováhu v smere väčšieho počtu plynných mólov. Odstraňovaním vodnej pary zo systému (a) sa rovnováha taktiež posúva doprava v prospech produktov, kým katalyzátor (h) iba urýchľuje ustavenie rovnováhy."
   },
   {
     "subject": "Chémia",
@@ -11564,7 +11564,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, H."
+    "explanation": "I. termochemický zákon (Lavoisierov-Laplaceov) hovorí, že reakčné teplo priamej a spätnej reakcie je až na znamienko rovnaké, čo dokladujú opačné rovnice oxidácie CO a redukcie CO2 (e). Zmena Gibbsovej energie ΔG v sebe spája entalpický člen (ΔH) vyjadrujúci zmenu väzbových energií a entropický člen (TΔS) odrážajúci mieru neusporiadanosti systému podľa vzťahu ΔG = ΔH - TΔS (h). Zlučovacie teplo je definované pre vznik 1 mólu zlúčeniny priamo z prvkov v štandardnom stave, nie spálením 1 kg látky (f), a Gibbsova energia charakterizuje izotermicko-izobarické deje (g). Správne možnosti (b, d, e, h) vychádzajú z termochemických zákonov a termodynamických definícií stavových veličín."
   },
   {
     "subject": "Chémia",
@@ -11611,7 +11611,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, G, H."
+    "explanation": "Chemická reakcia môže prebiehať samovoľne za normálnych podmienok vtedy, ak je zmena Gibbsovej energie záporná (ΔG < 0, exergonický dej). Reakcie alkalických kovov s vodou (b), vytesňovanie vodíka z kyselín zinkom a horčíkom (g, h), neutralizácia NaOH s HCl (d) a reakcia CaCO3 s HCl (c) sú silne exotermické reakcie často sprevádzané nárastom entropie (únik plynov), takže ΔG < 0. Naopak endotermické redukčné a rozkladné deje (a, e, f) majú za bežných teplôt ΔG > 0 a vyžadujú trvalé dodávanie tepla pri vysokých teplotách."
   },
   {
     "subject": "Chémia",
@@ -11657,7 +11657,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+    "explanation": "Kritériom samovoľnosti izotermicko-izobarického deja je pokles Gibbsovej energie (ΔG < 0), preto tvrdenie o vzraste G je nesprávne (a). Podľa Gibbsovej rovnice ΔG = ΔH - TΔS je pri exotermických syntézach (ΔH < 0, ΔS < 0) samovoľný priebeh závislý od teploty a nastáva len pri dostatočne nízkych teplotách, kedy entalpický člen preváži nad záporným entropickým (e). Endotermické syntézy (ΔH > 0, ΔS < 0) majú vždy ΔG > 0, takže nikdy neprebiehajú samovoľne (f), zatiaľ čo endotermické rozklady (ΔH > 0, ΔS > 0) môžu byť pri vysokých teplotách samovoľné, keď člen TΔS prevýši kladné ΔH (g)."
   },
   {
     "subject": "Chémia",
@@ -11703,7 +11703,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, H."
+    "explanation": "Rovnovážna konštanta spätnej reakcie je definovaná ako prevrátená hodnota konštanty priamej reakcie K' = 1/K = K^-1 (c). Veľmi nízka hodnota rovnovážnej konštanty (K < 10^-4) znamená, že rovnováha je takmer úplne posunutá k reaktantom a reakcia v smere produktov prakticky neprebieha (e). Pri nulovej zmene štandardnej Gibbsovej energie (ΔG° = 0) je rovnovážna konštanta K = 1 a systém je v rovnováhe (h). Výsledná rýchlosť vratného deja je daná súčtom (bilanciou) rýchlostí v oboch smeroch (b), pričom rovnovážna konštanta celkovej reakcie je daná súčinom, nie súčtom čiastkových konštánt (a)."
   },
   {
     "subject": "Chémia",
@@ -11749,7 +11749,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, H."
+    "explanation": "Chemická reakcia je dej, pri ktorom dochádza k premene východiskových látok (reaktantov) na látky s iným chemickým zložením a štruktúrou väzieb (produkty) (e, h). Ak sa pri deji zloženie molekúl nemení a dochádza len ku zmene skupenstva či tvaru, ide o fyzikálny dej (c). Miernym zahriatím látky často dochádza len k zvýšeniu kinetickej energie častíc alebo k fázovému prechodu bez chemického rozkladu molekúl (b). Horenie je naopak typický oxidačný chemický dej (d) a topenie je zmena skupenstva, teda fyzikálny proces (a)."
   },
   {
     "subject": "Chémia",
@@ -11795,7 +11795,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, G."
+    "explanation": "Tepelný efekt rozpúšťania je výslednicou endotermického rozrušovania kryštálovej mriežky (spotreba tepla) a exotermickej hydratácie/solvatácie iónov (uvoľnenie tepla), preto môže mať celkový proces exotermický aj endotermický charakter (f). Molové rozpúšťacie teplo vyjadruje množstvo tepla vymeneného so sústavou pri rozpustení 1 mólu látky (b). Pri riedení koncentrovaného NaOH vodou alebo koncentrovanej kyseliny sírovej prevažuje silná hydratácia iónov, pri ktorej sa uvoľňuje veľké množstvo tepla a roztok sa prudko zahrieva (d, g). Rozpúšťanie KCl a NH4NO3 je naopak endotermické a roztok sa ochladzuje (a, c)."
   },
   {
     "subject": "Chémia",
@@ -11841,7 +11841,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, E."
+    "explanation": "Rozpúšťanie kryštalickej látky pozostáva z rozpadu kryštálovej štruktúry na jednotlivé častice (vyžaduje dodanie energie na prekonanie mriežkových síl) a z ich následnej hydratácie molekulami vody (energia sa uvoľňuje) (b, c). Celkový tepelný efekt je súčtom mriežkovej a hydratačnej entalpie, takže proces môže byť exotermický alebo endotermický (d). Proces je exotermický práve vtedy, ak je entalpia potrebná na rozrušenie kryštálovej mriežky menšia ako entalpia uvoľnená pri hydratácii vzniknutých častíc (e)."
   },
   {
     "subject": "Chémia",
@@ -11887,7 +11887,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, F."
+    "explanation": "V nasýtenom roztoku málo rozpustnej zlúčeniny sa ustavuje dynamická heterogénna rovnováha medzi nerozpustenou pevnou fázou a voľnými iónmi v roztoku, popísaná súčinom rozpustnosti Ks (d). Zrazenina málo rozpustnej látky vzniká vtedy, keď iónový súčin koncentrácií príslušných iónov v roztoku prekročí tabuľkovú hodnotu súčinu rozpustnosti Ks pri danej teplote (f). Rozpustnosť a hodnota Ks závisia od reakčnej teploty, a s klesajúcou hodnotou Ks pravdepodobnosť vzniku zrazeniny rastie, nie klesá (b, c sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -11933,7 +11933,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, E."
+    "explanation": "Zvýšenie teploty podľa Arrheniovej rovnice exponenciálne zvyšuje rýchlostnú konštantu a tým aj rýchlosť chemických reakcií (d). Podľa Le Chatelierovho princípu zvýšenie teploty favorizuje endotermické deje – podporuje endotermický rozklad uhličitanu vápenatého (b) a endotermické rozpúšťanie pevných látok s kladnou entalpiou rozpúšťania (c). Naopak pri exotermickej syntéze amoniaku vyššia teplota posúva rovnováhu v smere reaktantov a znižuje výťažok reakcie (e)."
   },
   {
     "subject": "Chémia",
@@ -11979,7 +11979,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, G, H."
+    "explanation": "Kyselina chlorovodíková je silná jednosýtna kyselina, ktorá vo vodnom roztoku úplne disociuje, takže pôvodná hodnota pH = -log(0,1) = 1. Pri 1000-násobnom zriedení (faktor 10^3) klesne koncentrácia H3O+ na 0,0001 mol/l (10^-4 mol/l), takže výsledné pH = -log(10^-4) = 4, čo znamená zväčšenie pH o 3 jednotky oproti pôvodnému roztoku (d, e, h). Pri 25 °C platí pH + pOH = 14, takže pOH = 10, z čoho vyplýva, že výsledné pH (4) je menšie ako pOH (10) a roztok ostáva kyslý (g)."
   },
   {
     "subject": "Chémia",
@@ -12025,7 +12025,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, F."
+    "explanation": "Slabé elektrolyty sú látky, ktoré vo vodnom roztoku disociujú na ióny len čiastočne a ich disociačný stupeň je veľmi nízky (α << 1). Medzi slabé elektrolyty patria slabé karboxylové kyseliny ako kyselina octová a mravčia (b), slabé anorganické kyseliny ako HNO2, H2S a HCN (d, e), slabé bázy vrátane amoniaku vo vode (NH4OH) (e) a amfotérne hydrogenanióny HPO4(2-) či samotná voda (f). Naopak silné kyseliny (H2SO4, HCl) a rozpustné soli (Na2SO4, CuSO4, NH4Cl, Na2CO3) patria medzi silné elektrolyty, ktoré vo vode disociujú prakticky úplne (a, c, g, h)."
   },
   {
     "subject": "Chémia",
@@ -12071,7 +12071,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+    "explanation": "Medzi silou kyseliny a jej konjugovanej zásady platí nepriama úmera vyjadrená vzťahom Ka * Kb = Kv, čo znamená, že čím je kyselina silnejšia, tým je jej konjugovaná zásada slabšia (tvrdenia a, g sú nesprávne). Sila zásady nezávisí od počtu hydroxidových skupín v molekule, ale od afinity k protónu vyjadrenej disociačnou konštantou Kb (c je nesprávne). Neutralizácia je navyše blesková iónová reakcia s minimálnou aktivačnou energiou, kde voda vzniká ako reakčný produkt, nie ako reaktant (e je nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -12117,7 +12117,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+    "explanation": "Voda podlieha autoprotolýze (2 H2O <=> H3O+ + OH-), čo je vlastná samovoľná ionizácia molekúl vody (a). Disociačná konštanta autoprotolýzy vody má extrémne nízku hodnotu (pKd ≈ 15,7), takže disociuje len nepatrný zlomok molekúl a koncentrácia vody sa považuje za konštantnú a zahŕňa sa do iónového súčinu Kv = [H3O+][OH-] (c, e). Autoprotolýza je endotermický dej, preto s rastúcou teplotou stupeň disociácie stúpa a hodnota iónového súčinu vody Kv rastie (f)."
   },
   {
     "subject": "Chémia",
@@ -12163,7 +12163,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+    "explanation": "Pri štandardnej teplote 25 °C platí vo všetkých vodných roztokoch iónový súčin vody Kv = [H3O+] * [OH-] = 10^-14 mol^2.dm^-6 a súčet pH + pOH = 14. Ak je pH = 6, potom [H3O+] = 10^-6 mol.dm^-3, z čoho priamo vyplýva pOH = 8 a [OH-] = 10^-8 mol.dm^-3 (c, d, e). Koncentrácia [OH-] = 0,01 μmol.dm^-3 predstavuje 0,01 * 10^-6 = 10^-8 mol.dm^-3, čo taktiež zodpovedá hodnote pH = 6 (g)."
   },
   {
     "subject": "Chémia",
@@ -12209,7 +12209,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F, G."
+    "explanation": "Osmotický tlak patrí medzi koligatívne vlastnosti roztokov a podľa van 't Hoffovho zákona (π = i * c * R * T) závisí od látkovej koncentrácie a celkového počtu disociovaných častíc v jednotke objemu (a, c, f). Fyziologický roztok má osmolaritu približne 0,30 osmol/l (0,15 mol/l NaCl disociuje na 2 ióny). Neelektrolyt fruktóza pri c = 0,3 mol/l poskytuje 0,30 osmol/l častíc a FeCl2 pri c = 0,1 mol/l disociuje na 3 ióny (0,1 * 3 = 0,30 osmol/l), preto sú oba roztoky izotonické voči fyziologickému roztoku (g)."
   },
   {
     "subject": "Chémia",
@@ -12255,7 +12255,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, F."
+    "explanation": "Fyziologický roztok (0,9 % NaCl) je izotonický s krvnou plazmou, pretože má zhodný osmotický tlak (b). V hypotonickom roztoku voda v dôsledku osmózy prúdi do červených krviniek (endosmóza), bunky zväčšujú svoj objem a praskajú, čo sa nazýva osmotická hemolýza (d). Závislosť osmotického tlaku od termodynamickej teploty popisuje van 't Hoffov vzťah π = i * c * R * T (e). Tvrdenia b, d, e, f reflektujú testovnicové formulácie koligatívnych vlastností roztokov a správania buniek."
   },
   {
     "subject": "Chémia",
@@ -12301,7 +12301,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+    "explanation": "Fyziologický roztok je 0,9 % (hmotnostných) vodný roztok chloridu sodného, čo zodpovedá rozpusteniu približne 9 g NaCl v 1 litri roztoku (d, h). Vzhľadom na molárnu hmotnosť NaCl (58,44 g/mol) zodpovedá táto koncentrácia približne 0,15 mol/l NaCl (a). Keďže NaCl úplne disociuje na 2 ióny (Na+ a Cl-), jeho celková osmolarita je 2 * 0,15 = 0,30 osmol/l, čo vytvára rovnaký osmotický tlak ako 0,3 mol/l roztok nedisociujúcej sacharózy (e)."
   },
   {
     "subject": "Chémia",
@@ -12347,7 +12347,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, F."
+    "explanation": "Červené krvinky zostávajú tvarovo i funkčne nezmenené výlučne v izotonických roztokoch, ktorých osmolarita zodpovedá krvnej plazme (približne 0,30 osmol/l) (d). Jodid draselný KI pri c = 0,15 mol/l disociuje na 2 ióny (osmolarita 2 * 0,15 = 0,30 osmol/l) (a), glukóza ako neelektrolyt pri c = 0,3 mol/l poskytuje osmolaritu 0,30 osmol/l (e) a dusičnan vápenatý Ca(NO3)2 pri c = 0,1 mol/l disociuje na 3 ióny (osmolarita 3 * 0,1 = 0,30 osmol/l) (f). V hypotonických roztokoch by došlo k hemolýze a v hypertonických k plazmorýze."
   },
   {
     "subject": "Chémia",
@@ -12393,7 +12393,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+    "explanation": "Tlmivé roztoky (pufre) sú zmesi slabej kyseliny a jej konjugovanej zásady alebo slabej zásady a jej konjugovanej kyseliny (c, e). Ich základnou úlohou je udržiavať stabilnú hodnotu pH pri pridaní menšieho množstva kyseliny či zásady alebo pri zriedení systému (g). Umožňujú pripraviť a presne nastaviť požadovanú hodnotu pH podľa Hendersonovej-Hasselbalchovej rovnice (f). Zmesi silných kyselín a silných zásad pufrovací účinok nemajú."
   },
   {
     "subject": "Chémia",
@@ -12439,7 +12439,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, G."
+    "explanation": "Iónový súčin vody Kv = [H3O+] * [OH-] je rovnovážnou konštantou autoprotolýzy vody, do ktorej je zahrnutá konštantná koncentrácia nedisociovanej vody (b). Pri 25 °C má štandardnú hodnotu Kv = 10^-14 mol^2.l^-2 (g). Keďže ide o rovnovážnu konštantu, jej hodnota je pri danej teplote rovnaká vo všetkých zriedených vodných roztokoch bez ohľadu na prítomnosť iných látok (d), avšak so zmenou teploty sa mení, pretože autoprotolýza je endotermický proces (c)."
   },
   {
     "subject": "Chémia",
@@ -12485,7 +12485,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, G, H."
+    "explanation": "Podľa Brönstedovej protolytickej teórie je kyselina donorom protónu H+. Častice NH4+, H2PO4-, H3O+ a aromatický fenol obsahujú odštiepiteľné atómy vodíka a správajú sa ako kyseliny. Naopak anióny HCOO-, OH-, CN- a CO3(2-) vystupujú v acidobázických dejoch ako akceptory protónu (Brönstedove zásady) a nepatria medzi kyseliny, keďže nemajú disociovateľný kyslý protón (d, e, g, h)."
   },
   {
     "subject": "Chémia",
@@ -12531,7 +12531,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+    "explanation": "Amfotérny (amfiprotický) charakter majú látky, ktoré môžu podľa podmienok vystupovať ako donor aj ako akceptor protónu, čo spĺňa voda, glycín a hydrogenanióny viacsýtnych kyselín ako HPO4(2-) a HCO3- (b, c, d, e). Naopak plne protonizované anorganické kyseliny H3PO4, H2CO3, HCN a H2SO4 môžu vo vodnom roztoku protón výlučne odovzdávať a správajú sa len ako kyseliny, nie ako amfolyty (a, f, g, h)."
   },
   {
     "subject": "Chémia",
@@ -12577,7 +12577,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "Konjugovaný pár kyseliny a zásady tvoria dve častice líšiace sa presne o jeden protón H+. Pár anilín/anilínium C6H5NH2 a C6H5NH3+ (a), hydrogensiričitan/kyselina siričitá HSO3- a H2SO3 (d), hydrogensiričitan/siričitan HSO3- a SO3(2-) (e) a protonizovaná/neutrálna forma glycínu (g) sa navzájom líšia o jeden protón H+. Látky v ostatných možnostiach sa líšia atómom kyslíka (HClO2/HClO), stupňom hydrogenácie (pyridín/piperidín) alebo ide o dve rôzne kyseliny (CH3COOH/HCOOH)."
   },
   {
     "subject": "Chémia",
@@ -12623,7 +12623,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, G."
+    "explanation": "Chlorid amónny NH4Cl je soľ slabej zásady a silnej kyseliny, ktorej katión hydrolyzuje (NH4+ + H2O <=> NH3 + H3O+), čo spôsobuje kyslé pH < 7 (b). Fosforečnan sodný Na3PO4 je soľ silnej zásady a slabej kyseliny, ktorej anión silne hydrolyzuje na OH-, takže vytvára zásadité prostredie (e). Chlorid draselný KCl nehydrolyzuje a má neutrálne pH = 7 (f). Uhličitan amónny (NH4)2CO3 je soľ slabej kyseliny a slabej zásady s podobnými pK hodnotami, preto hydrolyzujú oba ióny a roztok je približne neutrálny (g)."
   },
   {
     "subject": "Chémia",
@@ -12670,7 +12670,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, F, G."
+    "explanation": "Hydrolýza soli je definovaná ako protolytická reakcia iónov rozpustenej soli s vodou (možnosť a). Uvedené možnosti b, c, d, f, g nepredstavujú hydrolýzu soli, ale opisujú zmeny sfarbenia rôznych acidobázických indikátorov (pentametoxylová červená, tymolová modrá, fenolftaleín, alizarínová žltá R, dinitrofenol) pri špecifických koncentráciách H3O+ a OH- v kyslých a zásaditých roztokoch."
   },
   {
     "subject": "Chémia",
@@ -12716,7 +12716,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, F, H."
+    "explanation": "Vodný roztok NH4Cl vykazuje kyslé pH v dôsledku hydrolýzy amónneho katiónu za vzniku H3O+ (a). Chlorid sodný NaCl je soľ silnej kyseliny a silnej zásady, jeho ióny s vodou nehydrolyzujú a roztok si zachováva neutrálne pH (c). Pri hydrolýze aniónu soli slabej kyseliny a silnej zásady sa protón viaže na anión a uvoľňujú sa ióny OH-, ktoré spôsobujú zásaditosť (f). Čistá voda pri 25 °C má v dôsledku rovnováhy autoprotolýzy neutrálnu hodnotu pH = 7 (h)."
   },
   {
     "subject": "Chémia",
@@ -12762,7 +12762,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+    "explanation": "Podľa Brönstedovej teórie sa voda správa ako kyselina vtedy, keď odovzdáva protón H+ druhej častici (akceptoru), pričom sama prechádza na konjugovanú zásadu OH-. K tomu dochádza pri reakcii s amoniakom za vzniku NH4+ a OH- (d), so sulfidovým aniónom S(2-) za vzniku HS- a OH- (h), ako aj pri reakcii s hydrogénsíranovým alebo šťavelanovým aniónom (b, g). V reakciách s kyselinami HNO2, HCN a fenolom (a, e, f) naopak voda protón prijíma a vystupuje ako zásada za vzniku H3O+."
   },
   {
     "subject": "Chémia",
@@ -12808,7 +12808,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+    "explanation": "Zvýšenie pH znamená posun roztoku do zásaditej oblasti v dôsledku vzniku nadbytku hydroxidových iónov OH-. Amoniak je slabá zásada, ktorá priamo reaguje s vodou za uvoľnenia OH- (g). Soli slabých jednosýtnych kyselín a silných zásad (chlórnan draselný KClO, kyanid draselný KCN a dusitan sodný NaNO2) podliehajú aniónovej hydrolýze (napr. ClO- + H2O <=> HClO + OH-), čím generujú OH- ióny a zvyšujú pH (a, b, e). Neutrálne soli (NaCl, K2SO4) pH nemenia a dusičnan amónny roztok okysľuje."
   },
   {
     "subject": "Chémia",
@@ -12854,7 +12854,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, G."
+    "explanation": "K zníženiu pH (okysleniu roztoku) dochádza pri zvýšení koncentrácie oxóniových iónov H3O+. Fenol a kyanovodík sú slabé Brönstedove kyseliny schopné disociácie a odovzdania protónu vode (a, f). Síran amónny (NH4)2SO4 je soľ slabej zásady a silnej kyseliny, ktorej amónny katión NH4+ hydrolyzuje za vzniku H3O+ (d). Žalúdočná šťava obsahuje koncentrovanú kyselinu chlorovodíkovú (pH 1–2), preto významne okysľuje vodné prostredie (g)."
   },
   {
     "subject": "Chémia",
@@ -12900,7 +12900,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, H."
+    "explanation": "Hydrolýza soli predstavuje reakciu iónov rozpustenej soli s vodou. Protolytické reakcie amoniaku a kyanovodíka vo vode (a, e) sú rovnovážnymi disociáciami slabej zásady a slabej kyseliny, nie hydrolýzou solí. Možnosti f a h navyše chybne označujú odštiepenie protónu za prejav zásady (HPO4(2-) a H2PO4- tu odovzdávajú protón za vzniku H3O+, čo je prejavom kyseliny), a preto taktiež nereprezentujú proces hydrolýzy soli."
   },
   {
     "subject": "Chémia",
@@ -12946,7 +12946,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G, H."
+    "explanation": "Tlmivý roztok (pufer) je schopný tlmiť a udržiavať konštantnú hodnotu pH pri pridaní menších množstiev kyselín alebo hydroxidov (a). Kľúčovú úlohu pri udržiavaní acidobázickej rovnováhy krvi zohrávajú fyziologické tlmivé sústavy: hydrogénuhličitanový pufer, fosfátový pufer a bielkovinové systémy vrátane hemoglobínu (f). Výpočet pH a zloženia pufrových sústav sa realizuje pomocou Hendersonovej-Hasselbalchovej rovnice (h). Uvedené možnosti (a, f, g, h) vystihujú podstatu tlmivých systémov podľa oficiálnej testovnice."
   },
   {
     "subject": "Chémia",
@@ -12992,7 +12992,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F."
+    "explanation": "Disociačná konštanta je rovnovážna konštanta protolytickej disociačnej reakcie kyseliny alebo zásady (b), pričom iónový súčin vody Kv je špecifickou konštantou autoprotolýzy vody (a). Sila zásady je priamo úmerná schopnosti prijať protón, preto čím je zásada slabšia, tým menšiu hodnotu disociačnej konštanty Kb dosahuje (d). Hodnota disociačnej konštanty je termodynamicky závislá od teploty (f), zatiaľ čo pre silnejšie kyseliny je hodnota Ka vyššia (nie nižšia)."
   },
   {
     "subject": "Chémia",
@@ -13038,7 +13038,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, G, H."
+    "explanation": "Dihydrogenfosforečnanový anión H2PO4- je amfolyt, pretože môže protón odovzdať za vzniku HPO4(2-) aj prijať za vzniku H3PO4 (d). Voči kyseline fosforečnej H3PO4 vystupuje ako jej konjugovaná zásada, pretože vznikla odštiepením jedného protónu (h), zatiaľ čo voči hydrogenfosforečnanu HPO4(2-) je konjugovanou kyselinou (g). Spolu s aniónom HPO4(2-) tvorí konjugovaný pár intracelulárneho fosfátového pufru (e)."
   },
   {
     "subject": "Chémia",
@@ -13084,7 +13084,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+    "explanation": "Hydrogenfosforečnany (HPO4^2-) hydrolyzujú prevažne zásadito (aniónová hydrolýza HPO4^2- + H2O <=> H2PO4- + OH-), kým roztoky dihydrogenfosforečnanov (H2PO4^-) reagujú slabo kyslo, preto hydrogenfosforečnany nereagujú kyslejšie než dihydrogenfosforečnany (c je nesprávne tvrdenie). Terciárne fosforečnany PO4(3-) nemajú kyslý vodík schopný disociácie, takže nemôžu vystupovať ako donory protónu a nemajú amfotérny charakter (e je nesprávne). K2HPO4 je štandardnou bázickou zložkou fosfátového pufru (d je nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -13129,7 +13129,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, G, H."
+    "explanation": "Elektrolyty sú látky schopné viesť elektrický prúd v roztoku alebo tavenine vďaka voľným iónom vzniknutým elektrolytickou disociáciou (c). Roztoky elektrolytov vznikajú rozpúšťaním iónových zlúčenín a polárnych látok v polárnych rozpúšťadlách, kde interakcia s dipólmi rozpúšťadla spôsobí rozpad mriežky a hydratáciu iónov (g). Silné elektrolyty, akými sú roztoky silných kyselín (HClO4) či solí (NaCl), sú v zriedených vodných roztokoch disociované prakticky na 100 % (h)."
   },
   {
     "subject": "Chémia",
@@ -13175,7 +13175,7 @@
       "c",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, E."
+    "explanation": "Pri rozpúšťaní kryštalických solí vo vode dochádza k prekonaniu mriežkových síl a uvoľneniu iónov (ionizácia) a k ich obklopeniu molekulami vody (hydratácia) (a, b). Octan sodný CH3COONa je soľ slabej kyseliny a silnej zásady, ktorej anión hydrolyzuje za vzniku OH-, takže roztok vykazuje zásadité pH > 7 a pOH < 7 (c). Síran sodný Na2SO4 je soľ silnej kyseliny a silnej zásady, nehydrolyzuje a jeho roztok zostáva neutrálny (e)."
   },
   {
     "subject": "Chémia",
@@ -13221,7 +13221,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+    "explanation": "Kyslý charakter roztoku pri 25 °C určuje podmienka pH < 7, pOH > 7, resp. [OH-] < 10^-7 mol/l. Koncentrácia [OH-] = 10^-10 mol/l zodpovedá pOH = 10 a pH = 4, čo je kyslé prostredie (c). Hodnoty pOH = 9 a pOH = 14 zodpovedajú kyslému pH = 5 a silne kyslému pH = 0 (e, f). Hodnota pH = 0 priamo vyjadruje extrémne kyslý roztok s koncentráciou [H3O+] = 1 mol/l (h)."
   },
   {
     "subject": "Chémia",
@@ -13266,7 +13266,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, F, G."
+    "explanation": "Kyslé a zásadité vlastnosti látok sa podľa Brönstedovej protolytickej teórie prejavujú v reakciách spojených s výmenou protónu H+, ktoré sa označujú ako protolytické alebo acidobázické reakcie (a, f). Typickým reprezentantom acidobázických reakcií je neutralizácia, pri ktorej kyselina reaguje so zásadou za vzniku soli a vody (g). Redoxné reakcie sú založené na výmene elektrónov a zrážacie na vylučovaní málo rozpustnej tuhej fázy."
   },
   {
     "subject": "Chémia",
@@ -13312,7 +13312,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, H."
+    "explanation": "Brönstedova kyselina je definovaná ako častica schopná odovzdať protón H+ (donor protónu). Kyselina chlorovodíková HCl je silným donorom protónu (a), hydrogenfosforečnanový anión (HPO4)2- odovzdáva protón za vzniku (PO4)3- (c), voda H2O môže pôsobiť ako kyselina odštiepením H+ za vzniku OH- (d) a hydrogénuhličitan (HCO3)- disociuje na (CO3)2- (h). Častice Cl-, NH3, pyridín a OH- sú naopak akceptormi protónov (zásadami)."
   },
   {
     "subject": "Chémia",
@@ -13358,7 +13358,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, G."
+    "explanation": "Brönstedova zásada je akceptor protónu, teda častica schopná viazať protón H+ pomocou voľného elektrónového páru. Chloridový anión Cl- viaže protón za vzniku HCl (b), molekula vody H2O vystupuje ako zásada prijatím protónu za vzniku H3O+ (d), síranový anión (SO4)2- prijatím protónu tvorí hydrogénsíran (f) a hydroxidový anión OH- prijatím protónu tvorí vodu (g). Molekuly HCl, H3PO4, H2CO3 a katión NH4+ sú naopak donormi protónov."
   },
   {
     "subject": "Chémia",
@@ -13404,7 +13404,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, G, H."
+    "explanation": "Kyselina octová je slabý elektrolyt, ktorý vo vode disociuje len z nepatrnej časti (okolo 1 %), preto je v jej roztoku koncentrácia voľného octanového aniónu c(CH3COO-) veľmi nízka (e). Octan draselný je silný elektrolyt a disociuje úplne, takže c(CH3COO-) v roztoku soli je mnohonásobne vyššia než v roztoku kyseliny o rovnakej látkovej koncentrácii (a). Roztok soli navyše aniónovou hydrolýzou vytvára zásadité prostredie s vyššou c(OH-) než kyslý roztok kyseliny octovej (g). Zmiešaním roztoku slabej kyseliny octovej a jej soli vzniká acetátová tlmivá sústava (h)."
   },
   {
     "subject": "Chémia",
@@ -13450,7 +13450,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, H."
+    "explanation": "Pri rovnakej molárnej koncentrácii H2SO4 a Na2SO4 obe zlúčeniny disociujú za uvoľnenia rovnakého počtu síranových aniónov, takže koncentrácia c(SO4^2-) je v oboch roztokoch zhodná (b). Kyselina sírová je silná dvojsýtna kyselina produkujúca vysokú koncentráciu H3O+, čo vedie k nízkemu pH a vysokému pOH (e, h). Roztok neutrálnej soli Na2SO4 nehydrolyzuje a má neutrálne pH = 7, čo predstavuje výrazne vyššiu koncentráciu OH- iónov (10^-7 mol/l) než v silne kyslom roztoku H2SO4 (f)."
   },
   {
     "subject": "Chémia",
@@ -13496,7 +13496,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, G, H."
+    "explanation": "Neutralizácia je acidobázická reakcia medzi kyselinou a zásadou (d), ktorej podstatou je zlučovanie oxóniových katiónov H3O+ a hydroxidových aniónov OH- za vzniku neutrálnych molekúl vody a príslušnej soli reagujúcej kyseliny (h). Táto stechiometrická reakcia s nízkou aktivačnou energiou tvorí základ odmerného stanovenia v analytickej chémii – acidobázických titrácií (c). Neutralizácia je exotermická reakcia uvoľňujúca neutralizačné teplo."
   },
   {
     "subject": "Chémia",
@@ -13541,7 +13541,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, H."
+    "explanation": "Podľa Brönstedovej teórie sú kyseliny látky, ktoré sú schopné v protolytickej reakcii odštiepiť a odovzdať vodíkový katión – protón H+ (donory protónu) (a, e, h). Akceptormi protónov sú zásady (b) a prenos elektrónov je základom redoxných dejov alebo Lewisovej teórie (c, d). Kyseliny neuvoľňujú plynný molekulárny vodík H2, ale hydratovaný ión H+ (f)."
   },
   {
     "subject": "Chémia",
@@ -13587,7 +13587,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+    "explanation": "Brönstedova zásada je definovaná ako akceptor protónu, teda častica schopná prijať protón H+ v protolytickej reakcii (b, h). Keďže protón nesie jeden elementárny kladný náboj, neutrálna zásada po jeho prijatí zvyšuje svoj kladný náboj (napr. NH3 -> NH4+) (f). Záporne nabitá zásada zasa po naviazaní H+ znižuje veľkosť svojho záporného náboja v absolútnej hodnote (napr. CH3COO- -> CH3COOH) (g). Prijímanie elektrónov definuje Lewisovu kyselinu alebo oxidovadlo (c, d)."
   },
   {
     "subject": "Chémia",
@@ -13633,7 +13633,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, G, H."
+    "explanation": "Podľa Lewisovej teórie je kyselina akceptorom elektrónového páru, ktorý obsahuje voľný orbitál schopný tento pár prijať (a, h). Lewisova zásada je donorom elektrónového páru a musí obsahovať aspoň jeden voľný (nevodiaci) elektrónový pár (g). Pretože každá Brönstedova zásada viaže protón prostredníctvom svojho voľného elektrónového páru, všetky Brönstedove zásady môžu vystupovať aj ako Lewisove zásady (c)."
   },
   {
     "subject": "Chémia",
@@ -13679,7 +13679,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+    "explanation": "Chlorid draselný KCl je soľ silnej kyseliny a silnej zásady, vo vode nehydrolyzuje a roztok má neutrálne pH = 7 (a). Dusičnan amónny NH4NO3 je soľ slabej zásady a silnej kyseliny; katión NH4+ hydrolyzuje za uvoľnenia H3O+ a vytvára kyslé pH (c). Kyanidy NaCN a KCN sú soli slabej kyseliny HCN a silných zásad; kyanidový anión CN- hydrolyzuje podľa rovnice CN- + H2O <=> HCN + OH-, čo vedie k uvoľneniu OH- a zásaditému pH (d, f)."
   },
   {
     "subject": "Chémia",
@@ -13725,7 +13725,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F, G."
+    "explanation": "Pri rozpustení soli slabej kyseliny a silnej zásady prebieha aniónová hydrolýza produkujúca hydroxidové ióny OH-, takže pH stúpa (je zásadité), nie klesá (d je nepravdivý výrok). Roztok NH4Cl je v dôsledku hydrolýzy katiónu kyslý s pH < 7, nie pH > 7 (e je nepravdivý). Sulfid draselný K2S hydrolyzuje zásadito (S^2- + H2O <=> HS- + OH-), takže pH sa mení (f je nepravdivý). Chloristan draselný KClO4 je soľ silnej kyseliny a silnej zásady a hydrolýze vôbec nepodlieha (g je nepravdivý)."
   },
   {
     "subject": "Chémia",
@@ -13771,6 +13771,6 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+    "explanation": "Kyslé pH vykazujú vodné roztoky solí slabej zásady a silnej kyseliny, ktorých katióny podliehajú katiónovej hydrolýze. Amónny katión v NH4NO3 a NH4Cl hydrolyzuje reakciou NH4+ + H2O <=> NH3 + H3O+, čím uvoľňuje oxóniové ióny (c, g). Katióny prechodných kovov Fe2+ v FeSO4 a Al3+ v Al(ClO4)3 tvoria vo vode hydratované hexaaqua komplexy, ktoré odštiepením protónu z koordinačnej sféry pôsobia ako Brönstedove kyseliny a okysľujú roztok (e, f). Soli K2SO4 sú neutrálne a roztoky Na2CO3, KCN a CH3COOK reagujú zásadito."
   }
 ]

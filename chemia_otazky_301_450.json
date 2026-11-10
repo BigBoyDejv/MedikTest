@@ -43,7 +43,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+    "explanation": "Vodný roztok vykazuje neutrálne pH (pH ≈ 7), ak v ňom nedochádza k prevahe iónov H3O+ alebo OH-. V prípade solí slabých kyselín a slabých zásad s porovnateľnými disociačnými konštantami (ako NH4CN, kde Ka ≈ Kb) zostáva pH prakticky neutrálne, rovnako ako pri roztokoch solí silných kyselín a zásad (NaClO3). Podľa oficiálneho kľúča testovnice sú vyznačené možnosti c, e, f, g, pričom soli silných zásad so slabými kyselinami (CH3COOK, Na2CO3) reagujú zásadito a soli slabých zásad so silnými kyselinami (AlCl3) hydrolyzujú za vzniku kyslého prostredia."
   },
   {
     "subject": "Chémia",
@@ -89,7 +89,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, H."
+    "explanation": "Stálosť pH (pufračnú kapacitu) voči prídavku kyseliny zabezpečujú tlmivé roztoky obsahujúce konjugovaný pár slabej kyseliny a jej soli, prípadne zmesi schopné viazať dodané oxóniové katióny. Typickým príkladom je acetátový pufer tvorený kyselinou octovou a octanom sodným (odpoveď h), prípadne zmesi kyselín a solí (b, e, f), kde prítomné anióny tlmia náhly nárast acidity. Samotné zmesi silných kyselín a hydroxidov po prekročení bodu ekvivalencie tlmivú schopnosť nemajú."
   },
   {
     "subject": "Chémia",
@@ -135,7 +135,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, G, H."
+    "explanation": "Roztoky, ktorých pH sa výrazne nemení ani po prídavku menšieho množstva kyseliny alebo zásady, fungujú ako tlmivé roztoky (pufre). Patria sem fyziologicky významný hydrogénfosfátový pufer (KH2PO4/K2HPO4; odpoveď a) a hydrogénuhličitanový pufer (Na2CO3/NaHCO3; g), ktoré efektívne eliminujú pridané H+ ióny posunom protolytickej rovnováhy, ako aj zmesi v možnostiach c a h. Naopak zmesi silných minerálnych kyselín s ich neutrálnymi soľami (b, d) pufračnú schopnosť nevykazujú."
   },
   {
     "subject": "Chémia",
@@ -181,7 +181,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+    "explanation": "Konjugovaný pár podľa Brønstedovej teórie tvorí dvojica častíc, ktoré sa navzájom líšia o jeden protón (H+). V uvedenej reakcii vystupuje kyselina octová (CH3COOH) ako kyselina a odovzdaním H+ prechádza na konjugovanú bázu acetát (CH3COO-; f), zatiaľ čo anilín (C6H5NH2) viaže protón za vzniku anilíniového katiónu (C6H5NH3+; e). Možnosti a, e, f, g predstavujú správne označené reagujúce a konjugované dvojice protolytickej rovnováhy."
   },
   {
     "subject": "Chémia",
@@ -227,7 +227,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F, H."
+    "explanation": "So vzrastajúcim oxidačným číslom chlóru v kyslíkatých kyselinách stúpa ich acidita, pretože rastúci počet atómov kyslíka odčerpáva elektrónovú hustotu a uľahčuje odštiepenie protónu. S rastúcou silou kyseliny vzrastá hodnota disociačnej konštanty Ka (odpoveď h) a zvyšuje sa aj stupeň disociácie α v roztoku (odpoveď f). V súlade s kľúčom testovnice sú správne vyznačené možnosti d, e, f, h, ktoré reflektujú termodynamické a rovnovážne parametre v rade týchto kyselín."
   },
   {
     "subject": "Chémia",
@@ -273,7 +273,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, H."
+    "explanation": "Sila kyselín a zásad vyjadruje ich schopnosť odovzdávať alebo prijímať protón a je kvantitatívne daná disociačnou konštantou (Ka, Kb; odpoveď f). V konkrétnom roztoku sa sila elektrolytu prejavuje mierou disociácie, výslednou koncentráciou voľných iónov, hodnotou pH a počtom uvoľniteľných H+ či OH- skupín (odpovede a, b, h). Izoelektrický bod (d) charakterizuje amfióny (napr. aminokyseliny) pri nulovom čistom náboji a silu anorganických kyselín a zásad neurčuje."
   },
   {
     "subject": "Chémia",
@@ -318,7 +318,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, F, G."
+    "explanation": "Zásaditú reakciu (pH > 7) majú vodné roztoky solí vytvorených zo silnej zásady a slabej kyseliny, ktorých anión podlieha zásaditej hydrolýze. Hydrolýzou octanového a hydrogénuhličitanového aniónu (CH3COOK, NaHCO3; odpoveď c), mravčanu a dusitanu (KNO2, HCOONa; g) či vínanu draselného (f) vznikajú voľné hydroxidové ióny OH-. Soli odvodené od silných kyselín a silných zásad (ako NaNO3, K2SO4; b, d) nehydrolyzujú a ich roztoky sú neutrálne."
   },
   {
     "subject": "Chémia",
@@ -364,7 +364,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, G, H."
+    "explanation": "Kyslá reakcia vodného prostredia vzniká disociáciou alebo hydrolýzou, pri ktorej dochádza k uvoľňovaniu oxóniových katiónov H3O+. Možnosti a, c, g, h zahŕňajú protolytické rovnováhy a disociačné deje amfotérnych či kyslých aniónov vo vodnom roztoku. Bázické reakcie amínov a solí slabých kyselín (ako b a f) produkujú hydroxidové anióny OH-, a preto vedú k zásaditému pH."
   },
   {
     "subject": "Chémia",
@@ -410,7 +410,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, G, H."
+    "explanation": "Podľa Brønstedovej teórie vystupuje voda ako kyselina vtedy, ak odovzdáva protón (H+) bázickej častici a mení sa na hydroxidový anión OH-. Tento dej prebieha pri reakcii s mravčanovým aniónom (c: HCOO- + H2O → HCOOH + OH-) aj pri protonácii amoniaku (g: NH3 + H2O → NH4+ + OH-). V možnostiach a, c, g, h vystupuje voda v protolytických procesoch ako amfotérne rozpúšťadlo schopné výmeny protónov."
   },
   {
     "subject": "Chémia",
@@ -456,7 +456,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+    "explanation": "Vodný roztok uhličitanu draselného K2CO3 reaguje v dôsledku hydrolýzy uhličitanového aniónu zásadito (odpoveď h: CO3(2-) + H2O ⇌ HCO3- + OH-). Podľa oficiálneho kľúča testovnice sú správne možnosti a, d, e, h, ktoré vystihujú súvislosť medzi koncentráciou, rovnovážnymi konštantami a acidobázickým charakterom roztokov. Tvrdenie g neplatí, pretože roztok K2CO3 ako soli silnej zásady a slabej kyseliny nemôže byť kyslý."
   },
   {
     "subject": "Chémia",
@@ -502,7 +502,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+    "explanation": "Silné kyseliny (napr. HClO4, HNO3, HCl; odpoveď c) sú vo vodnom prostredí takmer stopercentne ionizované, takže koncentrácia nedisociovaných molekúl sa blíži k nule (b). V súlade s kľúčom testovnice sú označené možnosti b, c, f, h charakterizujúce správanie kyselín v roztoku. Na rozdiel od slabých kyselín uvoľňujú silné kyseliny protóny veľmi ochotne a ich disociačné konštanty Ka dosahujú vysoké hodnoty."
   },
   {
     "subject": "Chémia",
@@ -548,7 +548,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, G."
+    "explanation": "Hydrolýza solí je protolytická reakcia iónov soli s vodou, pričom ióny odvodené od silných zásad (ako Na+; d) a silných kyselín (Cl-, ClO4-) hydrolýze nepodliehajú. Katióny prechodných kovov (Fe2+) a anióny slabých kyselín (PO4(3-), S(2-)) naopak hydrolyzujú a menia pH roztoku. Možnosti b, c, d, g sú vyznačené ako nesprávne tvrdenia v kontexte iónového správania a rovnováh pri hydrolýze."
   },
   {
     "subject": "Chémia",
@@ -594,7 +594,7 @@
       "c",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, F."
+    "explanation": "Kyselina trichlóroctová (CCl3COOH; odpovede b, c) je silná kyselina vďaka silnému zápornému indukčnému efektu (-I) troch atómov chlóru, ktorý polarizuje väzbu O-H a stabilizuje vznikajúci anión. Kľúč testovnice zahŕňa medzi správne možnosti a, b, c, f na základe ich disociačných vlastností v roztoku. Kyselina kyanovodíková (g) a kyselina chlórna (d) sú naopak typickými zástupcami slabých kyselín s veľmi nízkou hodnotou Ka."
   },
   {
     "subject": "Chémia",
@@ -640,7 +640,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, H."
+    "explanation": "Podľa Brønstedovej teórie pôsobí ako báza častica, ktorá má voľný elektrónový pár schopný prijať protón H+. Sulfidový anión S2- (e) prijíma protón za vzniku HS- a amoniak NH3 (d) poskytuje voľný elektrónový pár dusíka pre vznik NH4+. V kľúči testovnice sú vyznačené možnosti c, d, e, h, zatiaľ čo amfotérne látky ako H2O či HS- môžu protón nielen prijať, ale aj odovzdať."
   },
   {
     "subject": "Chémia",
@@ -686,7 +686,7 @@
       "c",
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D."
+    "explanation": "Hydroxidy prechodných kovov a kovov druhej skupiny s výrazným podielom kovalentného charakteru väzby (Cu(OH)2, Be(OH)2, Mg(OH)2, Zn(OH)2; odpovede a, b, c, d) sú málo rozpustné a správajú sa ako slabé zásady. Be(OH)2 a Zn(OH)2 majú dokonca amfotérny charakter a reagujú s kyselinami aj so zásadami. Hydroxidy alkalických kovov (NaOH, KOH; e, g) a bária (Ba(OH)2; f) sú naopak silné, vo vode úplne disociované zásady."
   },
   {
     "subject": "Chémia",
@@ -732,7 +732,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, F."
+    "explanation": "Protolytické (acidobázické) reakcie sú definované výmenou protónu H+ medzi Brønstedovou kyselinou a bázou. Patria sem protolýza amoniaku vo vode (a), disociácia kyseliny uhličitej (d) a chlorovodíkovej (f), ako aj zásaditá hydrolýza mravčanu sodného (e). Reakcie b, c a g sú oxidačno-redukčné deje so zmenou oxidačných čísel a možnosť h je komplexotvorná substitučná reakcia."
   },
   {
     "subject": "Chémia",
@@ -778,7 +778,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, G, H."
+    "explanation": "Meď je ušľachtilý kov s kladným štandardným elektródovým potenciálom (E° = +0,34 V), preto nemôže vytláčať vodík z kyseliny chlorovodíkovej (g) ani redukovať zinočnaté ióny (e). Priama oxidácia KCl kyslíkom na chlorečnan (b) za normálnych podmienok neprebieha a BaSO4 ako mimoriadne stála nerozpustná zrazenina nereaguje s roztokom NaCl (h). Reakcie a, c, d a f bežne prebiehajú ako zrážacie či vytesňovacie reakcie."
   },
   {
     "subject": "Chémia",
@@ -825,7 +825,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, F, H."
+    "explanation": "Zrážacie reakcie sú deje, pri ktorých z roztokov elektrolytov vzniká málo rozpustná tuhá fáza (zrazenina). Medzi ne patrí vznik žltého jodidu olovnatého PbI2 (b), modrého hydroxidu meďnatého Cu(OH)2 (c), málo rozpustného CaSO4 (d), nerozpustného BaSO4 (h) a tvorba nerozpustného CaCO3 (f). Reakcia a je acidobázická neutralizácia a zmesi v e a g netvoria nerozpustnú zrazeninu."
   },
   {
     "subject": "Chémia",
@@ -871,7 +871,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+    "explanation": "Disproporcionácia (dismutácia) je redoxný proces, pri ktorom ten istý prvok v rovnakom počiatočnom oxidačnom čísle súčasne elektróny odovzdáva (oxiduje sa) aj prijíma (redukuje sa; f). Tento dej prebieha pri rozklade KClO3 (b: Cl(V) → Cl(-I) + Cl(VII)), rozklade peroxidu vodíka (g: O(-I) → O(0) + O(-II)) a kyseliny dusitej (h: N(III) → N(V) + N(II)). Reakcie c, d, e sú bežné redoxné procesy zahŕňajúce prenos elektrónov medzi dvoma rôznymi prvkami."
   },
   {
     "subject": "Chémia",
@@ -917,7 +917,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+    "explanation": "Oxidácia je proces spojený s odovzdávaním elektrónov a zvyšovaním oxidačného čísla prvku (možnosti a, b, f, h). Preto oxidáciou nemôže byť prijatie elektrónov (d, čo je redukcia), hydrogenácia (c), zlučovanie s vodíkom (e, vedúce k poklesu oxidačného čísla) ani dehydratácia (g, eliminácia vody bez redoxných zmien). Správnymi odpoveďami sú teda vyznačené možnosti c, d, e, g."
   },
   {
     "subject": "Chémia",
@@ -963,7 +963,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, G."
+    "explanation": "Oxidačno-redukčné deje sú založené na prenose elektrónov medzi reagujúcimi časticami sprevádzanom zmenou oxidačných čísel. V organickej chémii a biochémii zahŕňa oxidácia často dehydrogenáciu (b) a zvyšovanie oxidačného čísla (f), kým redukcia predstavuje priberanie elektrónov (e) a adíciu vodíka (g). Hydratácia (d) na rozdiel od nich prebieha bez akejkoľvek zmeny oxidačného stavu atómov."
   },
   {
     "subject": "Chémia",
@@ -1009,7 +1009,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, H."
+    "explanation": "V každom oxidačno-redukčnom systéme prebieha redukcia súčasne s oxidáciou konjugovanej látky. Látka, ktorá redukuje inú časticu, vystupuje ako redukovadlo (c), odovzdáva elektróny (h), mení svoje oxidačné číslo (e) a sama sa pritom oxiduje (b). Podľa oficiálneho kľúča testovnice sú správne vyznačené možnosti b, c, e, h, ktoré definujú funkciu redukčného činidla."
   },
   {
     "subject": "Chémia",
@@ -1055,7 +1055,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, G, H."
+    "explanation": "Oxidácia je dej charakterizovaný odovzdávaním elektrónov (odpoveď a), čo v reakciách s kyslíkom často zodpovedá jeho adícii na substrát (g). V uzavretom redoxnom procese je oxidácia jednej látky nerozlučne spojená s redukciou druhej zložky. Kľúč testovnice uvádza medzi správnymi možnosťami a, e, g, h, ktoré vyjadrujú elektrónové bilancie a redoxnú väzbu medzi zložkami sústavy."
   },
   {
     "subject": "Chémia",
@@ -1101,7 +1101,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, H."
+    "explanation": "Rozklad peroxidu vodíka (2 H2O2 → 2 H2O + O2) je typickou disproporcionáciou kyslíka (d), ktorý má v peroxide oxidačné číslo -I. Časť atómov kyslíka sa redukuje na -II vo vode (c) a druhá časť sa oxiduje na 0 v molekule elementárneho kyslíka O2 (e), pričom dochádza k výmene dvoch elektrónov (h). Nejde o hydrolýzu ani hydratáciu (f, g), keďže reakcia zahŕňa prenos elektrónov a zmenu oxidačných stavov."
   },
   {
     "subject": "Chémia",
@@ -1147,7 +1147,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+    "explanation": "Peroxid vodíka pôsobí výlučne ako oxidovadlo vtedy, keď sa kyslík v ňom redukuje z oxidačného čísla -I na -II vo vode, zatiaľ čo reakčný partner sa oxiduje. Tento priebeh nastáva pri oxidácii Fe(II) na Fe(III) (a), oxidácii jodidov na elementárny jód (b), sulfidov na sírany (g) a oxidácii substrátu XH2 (e). V reakciách s KMnO4 (c) a dichrómanom (d) vystupuje H2O2 ako redukovadlo a sám sa oxiduje na plynný kyslík O2."
   },
   {
     "subject": "Chémia",
@@ -1193,7 +1193,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, H."
+    "explanation": "Železo má zápornejší elektródový potenciál než meď, preto podľa Beketovovho radu napätia kovov (f) redukuje meďnaté ióny z roztoku: Fe + Cu(2+) → Fe(2+) + Cu. Železo a meď tvoria spriahnuté redoxné páry (c), meď sa z oxidačného stavu +II redukuje na elementárnu meď Cu(0) (h) a dochádza k prenosu 2 elektrónov (d). Železo sa pritom ne redukuje, ale oxiduje na Fe(2+)."
   },
   {
     "subject": "Chémia",
@@ -1239,7 +1239,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, H."
+    "explanation": "V sulfide meďnatom (CuS) má síra oxidačné číslo -II a meď +II; pri reakcii s HNO3 sa meď neoxiduje a zostáva ako Cu(II) v Cu(NO3)2 (odpoveď c). Síra sa oxiduje z -II na +VI v H2SO4 stratou 8 elektrónov (b) a dusík sa redukuje z +V na +IV v plynnom NO2 prijatím 8 elektrónov (d, h). Tvrdenie e neplatí, pretože vznikajúcim plynom je oxid dusičitý NO2, nie oxid dusnatý NO."
   },
   {
     "subject": "Chémia",
@@ -1285,7 +1285,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, G, H."
+    "explanation": "Oxid manganičitý (burel, MnO2; odpoveď h) je silné oxidačné činidlo, v ktorom mangán prijíma 2 elektróny (a) a redukuje sa z Mn(IV) na Mn(II) v MnCl2. Chloridové ióny Cl(-I) z kyseliny chlorovodíkovej sa oxidujú na elementárny plynný chlór Cl2 (0; odpovede e, g). Mangán teda vystupuje ako oxidovadlo a sám podlieha redukcii, nie oxidácii (f)."
   },
   {
     "subject": "Chémia",
@@ -1331,7 +1331,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, H."
+    "explanation": "V uvedenej redoxnej reakcii sa arzén oxiduje z As(III) na As(V) odovzdaním dvoch elektrónov na každý atóm (a, h). Bróm v brómičnane BrO3- sa redukuje z oxidačného čísla +V na -I v bromide Br- prijatím 6 elektrónov (f). Keďže 3 katióny As3+ odovzdajú spolu 6 elektrónov (3 × 2 e-), celkovo sa v reakcii vymieňa 6 elektrónov (e)."
   },
   {
     "subject": "Chémia",
@@ -1377,7 +1377,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+    "explanation": "Redukčné činidlo je látka schopná odovzdať elektróny, pričom obsahuje prvok v nízkom alebo intermediárnom oxidačnom stave. Sulfán H2S (c; S(-II)), oxid uhoľnatý CO (e; C(II)), peroxid vodíka H2O2 (f; O(-I)) a elementárny vodík H2 (h; H(0)) sa môžu ďalej oxidovať na vyššie oxidačné stupne. Látky CO2 a H2SO4 (a, b) obsahujú uhlík a síru v ich maximálnom oxidačnom čísle (+IV, resp. +VI), preto môžu pôsobiť výhradne ako oxidovadlá."
   },
   {
     "subject": "Chémia",
@@ -1423,7 +1423,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+    "explanation": "Reakcia nie je oxidačno-redukčná, ak pri nej nedochádza k zmene oxidačných čísel žiadneho zo zúčastnených atómov. Zrážanie dichrómanu strieborného (c), tvorba tetrahydrátu/akvakomplexu meďnatého (e), zrážanie síranu olovnatého (f) a neutralizácia NaOH s H2SO4 (h) sú zrážacie, koordinačné a protolytické reakcie bez prenosu elektrónov. Rovnice a, d a g naopak predstavujú redoxné reakcie so zmenami oxidačných stavov."
   },
   {
     "subject": "Chémia",
@@ -1469,7 +1469,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+    "explanation": "Oxidácia je dej, pri ktorom atóm, ión alebo molekula stráca elektróny (f), čo vedie k zvýšeniu jeho algebraického oxidačného čísla (b). Ak má prvok záporné oxidačné číslo, oxidáciou sa znižuje jeho absolútna hodnota (c; napr. z -II na 0). Oxidácia nemusí zahŕňať reakciu s kyslíkom (g), pretože elektróny možno odovzdať akémukoľvek inému oxidačnému činidlu."
   },
   {
     "subject": "Chémia",
@@ -1515,7 +1515,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "Pri redukcii prvok prijíma (získava) elektróny (a), v dôsledku čoho sa jeho algebraické oxidačné číslo znižuje (d). Neutrálna molekula sa prijatím elektrónov môže premeniť na anión (g; napr. Cl2 + 2e- → 2 Cl-), čím vzrastá absolútna hodnota jej záporného oxidačného čísla (e). Strata elektrónov a tvorba katiónov (f, h) sú naopak typickými znakmi oxidácie."
   },
   {
     "subject": "Chémia",
@@ -1561,7 +1561,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, G."
+    "explanation": "Redukčné činidlá sa vyznačujú nízkou elektrónovou afinitou (b) a v reakcii ľahko odovzdávajú elektróny inej látke (g). Oxidačné činidlá majú naopak vysokú afinitu k elektrónom (e), ktoré ochotne pútajú. Dehydrogenácia organických molekúl predstavuje oxidačný proces (f), pričom z hľadiska reakčného mechanizmu ide o elimináciu vodíka, nie o adíciu (a)."
   },
   {
     "subject": "Chémia",
@@ -1607,7 +1607,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E."
+    "explanation": "V redoxnej reakcii 2 HNO3 + 3 H2S → 2 NO + 3 S + 4 H2O sa dusík redukuje z +V na +II prijatím 3 e- a síra sa oxiduje z -II na 0 odovzdaním 2 e-. Na 2 móly HNO3 pripadajú 3 móly H2S, pričom sa celkovo vymieňa 6 elektrónov (e). V súlade s kľúčom testovnice sú označené možnosti a, c, d, e, ktoré zachytávajú stechiometrické a elektrónové bilancie v testovom súbore."
   },
   {
     "subject": "Chémia",
@@ -1653,7 +1653,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, H."
+    "explanation": "Pri redukcii oxidu arzenitého zinkom v kyslom prostredí (As2O3 + 6 Zn + 6 H2SO4 → 2 AsH3 + 6 ZnSO4 + 3 H2O) vystupuje zinok ako redukovadlo a oxiduje sa: Zn0 - 2e- → ZnII (f). Arzén sa redukuje z As(III) na As(-III) v plynnom arzíne AsH3 (h) a pri reakcii vznikajú 3 móly vody (d). Podľa oficiálneho kľúča testovnice patrí medzi vyznačené správne možnosti aj odpoveď a."
   },
   {
     "subject": "Chémia",
@@ -1699,7 +1699,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+    "explanation": "V reakcii a (2 HNO3 + 6 HI → 2 NO + 3 I2 + 4 H2O) sa 2 atómy N(V) redukujú na N(II) prijatím 6 elektrónov a 6 iónov I(-I) sa oxiduje na 3 I2. Podobne pri oxidácii medi (c: 3 Cu → 3 Cu2+ + 6e-), amoniaku (e: 2 N(-III) → N2 + 6e-) a SO2 (g: 3 S(IV) → 3 S(VI) + 6e-) dochádza k výmene presne 6 elektrónov. V reakcii b sa vymieňa 8 elektrónov (4 Zn → 4 Zn2+ + 8e-) a v reakcii d iba 2 elektróny."
   },
   {
     "subject": "Chémia",
@@ -1745,7 +1745,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, H."
+    "explanation": "Soli silných kyselín a silných zásad (NaCl, K2SO4) nepodliehajú vo vodnom roztoku spätnej hydrolýze na voľnú kyselinu a hydroxid (odpovede a, h). Slabá kyselina uhličitá nedokáže vytesniť silnú kyselinu chlorovodíkovú z roztoku CaCl2 (b) a ortuť ako ušľachtilý kov nevytláča vodík z vody (d). Železo ako neušľachtilý kov s kyselinou sírovou ochotne reaguje (c) a prchavý amoniak sa bežne uvoľňuje reakciou amónnej soli so silnou zásadou (g)."
   },
   {
     "subject": "Chémia",
@@ -1791,7 +1791,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+    "explanation": "Protolytické reakcie spočívajú v prenose protónu H+ medzi kyselinou a zásadou bez akejkoľvek zmeny oxidačných čísel. Patria sem protolýza amoniaku (a), kyslá disociácia akvakomplexu meďnatého (e), väzba protónu na uhličitanový anión (f) a neutralizácia hydroxidu amónneho kyselinou sírovou (g). Reakcie b, c, d a h zahŕňajú zmeny oxidačných stavov prvkov (napr. oxidáciu Fe, Zn či spaľovanie H2S a NH3), a preto sú redoxné."
   },
   {
     "subject": "Chémia",
@@ -1837,7 +1837,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, F, H."
+    "explanation": "Niektoré reakcie možno súčasne zaradiť do viacerých kategórií; napríklad získavanie zlata kyanidovým lúhovaním (f) je redoxná reakcia (Au sa oxiduje na Au(I)) a zároveň komplexotvorný proces (tvorba [Au(CN)2]-). Podľa oficiálneho kľúča testovnice vykazujú duálny charakter reakcií možnosti b, e, f, h. Možnosť a nepredstavuje zrážaciu reakciu, pretože vznikajúci chlorid amónny je vo vode výborne rozpustný."
   },
   {
     "subject": "Chémia",
@@ -1883,7 +1883,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+    "explanation": "Prvky s-bloku (alkalické kovy a kovy alkalických zemín) tvoria I.A a II.A skupinu periodickej sústavy prvkov (c). Ich valenčná sféra obsahuje 1 alebo 2 elektróny (ns1, ns2), čo znamená, že majú o 1 resp. 2 elektróny viac ako predchádzajúci vzácny plyn (h). Sú to typické elektropozitívne kovy (e) s nízkou ionizačnou energiou, ktoré v chemických reakciách vystupujú ako silné redukovadlá (f)."
   },
   {
     "subject": "Chémia",
@@ -1929,7 +1929,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, H."
+    "explanation": "Prvky p-bloku patria medzi neprechodné prvky hlavných podskupín (podskupiny A; odpovede d, h), ktorých valenčné elektróny zapĺňajú orbitály np (f). Počet ich valenčných elektrónov (ns + np) sa rovná číslu hlavnej podskupiny (III.A až VIII.A, resp. 13 až 18; odpoveď a). Netvoria prvky podskupín B (tie tvoria prechodné d-prvky; c) a netvoria výlučne pí-väzby (e), ale predovšetkým pevné sigma-väzby."
   },
   {
     "subject": "Chémia",
@@ -1975,7 +1975,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+    "explanation": "Prvky d-bloku sa označujú ako prechodné prvky (kovy; a), pretože ich valenčné elektróny postupne zapĺňajú d-orbitály predposlednej vrstvy (b). Vďaka prítomnosti voľných orbitálov ochotne vystupujú ako centrálne atómy a tvoria stabilné koordinačné zlúčeniny (g). Ich maximálne kladné oxidačné číslo môže dosiahnuť až +VIII (napr. v RuO4 alebo OsO4; d), pričom nie všetky sú rádioaktívne či biogénne."
   },
   {
     "subject": "Chémia",
@@ -2021,7 +2021,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, H."
+    "explanation": "Prvky f-bloku sa označujú ako vnútorne prechodné prvky (c) a patria sem lantanoidy v 6. perióde a aktinoidy v 7. perióde (b, d). Pre lantanoidy je typická mimoriadna chemická podobnosť spôsobená lantanoidovou kontrakciou a ich najstabilnejšie oxidačné číslo v zlúčeninách je +III (h). Nepatria medzi bežné biogénne prvky (g) a ich valenčné elektróny sa postupne ukladajú do orbitálov 4f a 5f."
   },
   {
     "subject": "Chémia",
@@ -2067,7 +2067,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, E, G, H."
+    "explanation": "Prvky druhej skupiny (s2) majú v porovnaní s alkalickými kovmi (s1) menšie atómové polomery (e) v dôsledku vyššieho efektívneho náboja jadra. Prítomnosť dvoch valenčných elektrónov posilňuje kovovú väzbu, čo vedie k vyššej tvrdosti (h) a vyšším teplotám topenia (g). V dôsledku vyššej ionizačnej energie sú kovy s2 celkovo menej reaktívne než zodpovedajúce alkalické kovy s1 (b)."
   },
   {
     "subject": "Chémia",
@@ -2113,7 +2113,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+    "explanation": "Prvky p1 (III.A skupina: B, Al, Ga, In, Tl) majú valenčnú konfiguráciu ns2 np1, a teda disponujú 3 valenčnými elektrónmi (c). Bór ako nekov tvorí výhradne kovalentné väzby (g), kým ťažšie prvky sú kovy. So stúpajúcim protónovým číslom Z vzrastá zásaditosť ich oxidov (od kyslého B2O3 cez amfotérny Al2O3 až po bázické oxidy; e) a podľa kľúča testovnice je označená aj možnosť f."
   },
   {
     "subject": "Chémia",
@@ -2159,7 +2159,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "V IV.A podskupine (p2) schopnosť tvoriť stále kovalentné hydridy s rastúcim protónovým číslom Z klesá, nie rastie (výrok a neplatí). Oxidy olova a cínu sú amfotérne, takže výrok g o ich výlučne kyselinotvornom charaktere je nepravdivý. Germánium nie je biogénny prvok (d neplatí) a schopnosť tvoriť polymérne reťazce je výsadou uhlíka a kremíka (e neplatí), zatiaľ čo výroky b, c, f, h sú pravdivé."
   },
   {
     "subject": "Chémia",
@@ -2205,7 +2205,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+    "explanation": "Prvky p3 patria do V.A (15.) podskupiny periodickej tabuľky (a) a v zlúčeninách bežne nadobúdajú oxidačné čísla -III, +III a +V (d). Dusík a fosfor sú makrobiogénne prvky a arzén je esenciálny mikroprvok (g), pričom bizmut je jediným stabilným kovom tejto skupiny (h). Tvrdenie f neplatí, pretože v skupine sa nachádzajú nekovy (N, P), polokovy (As, Sb) aj kov (Bi)."
   },
   {
     "subject": "Chémia",
@@ -2251,7 +2251,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "Hydroxidy kovov II.A podskupiny (kovov alkalických zemín) sú vo vode podstatne horšie rozpustné než hydroxidy alkalických kovov (a; napr. Mg(OH)2 je takmer nerozpustný a Ca(OH)2 len málo rozpustný). Dôvodom je vyššia mriežková energia ich kryštálov spôsobená dvojnásobným nábojom katiónov M2+. Podľa oficiálneho kľúča testovnice sú správne vyznačené možnosti a, d, e, g, ktoré vystihujú ich fyzikálno-chemické vlastnosti a trendy v skupine."
   },
   {
     "subject": "Chémia",
@@ -2297,7 +2297,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, H."
+    "explanation": "Otázka sa viaže na prvky III.A skupiny, kde kovový charakter stúpa s rastúcim, nie klesajúcim protónovým číslom Z (výrok h neplatí). Tieto prvky netvoria výlučne kovalentné zlúčeniny, keďže katióny Al3+, Ga3+, In3+ a najmä Tl+ tvoria typické iónové soli (f neplatí) a s výnimkou hliníka nie sú v zemskej kôre hojné (e neplatí). Kľúč testovnice preto správne označuje ako nepravdivé tvrdenia možnosti a, e, f, h."
   },
   {
     "subject": "Chémia",
@@ -2343,7 +2343,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, F."
+    "explanation": "V IV.A podskupine (14. skupina) stúpa s rastúcim protónovým číslom kovový charakter od nekovového uhlíka cez polokovy Si, Ge až po typické kovy Sn a Pb (odpoveď b). Uhlík nemá vo valenčnej vrstve d-orbitály, preto je schopný tvoriť maximálne 4 kovalentné väzby, zatiaľ čo ťažšie prvky môžu využitím d-orbitálov prekročiť oktet (odpoveď c). V oxidačnom stave +IV prevažuje kovalentný charakter väzieb vďaka vysokej hustote kladného náboja (odpoveď d) a všetky tieto prvky môžu vystupovať aj v oxidačnom stave +II, ktorého stálosť smerom k olovu stúpa v dôsledku efektu inertného elektrónového páru (odpoveď f). Cín Sn už patrí medzi kovy a elektronegativita v skupine neklesá rovnomerne (a, e, g, h)."
   },
   {
     "subject": "Chémia",
@@ -2389,7 +2389,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, F, G."
+    "explanation": "Prvky V.A podskupiny (p3 prvky) majú 5 valenčných elektrónov (ns2 np3), takže prijatím troch elektrónov alebo vytvorením troch kovalentných väzieb môžu dosiahnuť stabilnú konfiguráciu nasledujúceho vzácneho plynu (odpoveď a). So stúpajúcim protónovým číslom klesá nekovový charakter (od N po Bi) a stúpa charakter kovový (odpoveď b). V dôsledku efektu inertného s-elektrónového páru klesá stabilita zlúčenín s oxidačným číslom +V (odpoveď f) a kyslý charakter oxidov prechádza od silne kyslých cez amfotérne až k zásaditému Bi2O3 (odpoveď g). Tieto prvky nie sú všetky polokovy a nie sú limitované len štvorväzbovosťou (c, d, e, h)."
   },
   {
     "subject": "Chémia",
@@ -2435,7 +2435,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G."
+    "explanation": "Prvky VIII.A podskupiny (18. skupina) sú nekovové vzácne plyny s plne obsadenou valenčnou vrstvou s2p6 (hélium 1s2), čo im dodáva mimoriadnu chemickú stálosť (odpovede a, d). Vďaka tejto stabilite a nízkej reaktivite netvoria viacatómové molekuly, ale vyskytujú sa ako jednoatómové plyny (odpoveď c). V zemskej atmosfére tvoria približne 1 objemové percento, pričom zďaleka najhojnejším z nich je argón s podielom cca 0,93 % (odpoveď g; možnosti e, f, h sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -2481,7 +2481,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, G."
+    "explanation": "S rastúcim protónovým číslom alkalických kovov (I.A) sa zväčšuje atómový polomer a klesá ionizačná energia, preto atómy ľahšie odovzdávajú svoj valenčný elektrón, čo vedie k rastu reaktivity a redukčných účinkov (odpovede d, e). Zväčšujúci sa polomer katiónov znižuje ich polarizačný účinok na hydroxidovú skupinu, čím rastie disociácia vo vode a zásaditosť ich hydroxidov (odpoveď a). Hustota alkalických kovov so stúpajúcim Z v skupine vo všeobecnosti rastie (odpoveď g), zatiaľ čo ich elektronegativita klesá a kyseliny netvoria (b, c, f, h)."
   },
   {
     "subject": "Chémia",
@@ -2527,7 +2527,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, G."
+    "explanation": "V podskupine halogénov (VII.A) so zväčšujúcim sa protónovým číslom klesá oxidačná schopnosť elementárnych prvkov a naopak rastie redukčný účinok halogenidových aniónov (I- je najsilnejšie redukovadlo; odpoveď a). S rastom atómového polomeru klesá acidobázická sila a kyslý charakter ich oxidov (odpoveď b). Vplyvom silnejúcich medzimolekulových disperzných síl stúpa teplota topenia a varu, mení sa skupenstvo od plynov (F2, Cl2) cez kvapalinu (Br2) po pevnú látku (I2; odpoveď g) a zároveň sa prehlbuje sfarbenie od svetložltého po fialovočierny (odpoveď e; c, d, f, h sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -2573,7 +2573,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+    "explanation": "Podskupinu I.B (11. skupina) tvoria prechodné d-prvky meď (Cu), striebro (Ag) a zlato (Au), ktoré majú valenčnú konfiguráciu (n-1)d10 ns1 s plne zaplnenou stabilnou d-podslupkou (odpovede a, f, g). V Beketovom rade napätia kovov ležia napravo od vodíka (majú kladný štandardný elektródový potenciál E° > 0), patria medzi ušľachtilé kovy a pre svoju nízku reaktivitu sa v prírode vyskytujú aj v rýdzej elementárnej forme (odpoveď e). Netvoria štvormocné katióny a sú neporovnateľne menej reaktívne než alkalické kovy (b, c, d, h)."
   },
   {
     "subject": "Chémia",
@@ -2619,7 +2619,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, F, G, H."
+    "explanation": "Prvky II.B podskupiny (Zn, Cd, Hg) majú v tej istej perióde oproti prvkom II.A vyššie protónové číslo, a teda väčší náboj jadra (odpoveď d), a ich valenčná sféra obsahuje plne zaplnené d-orbitály (n-1)d10 ns2 (odpoveď f). V dôsledku horšieho tienenia jadra d-elektrónmi dochádza ku kontrakcii elektrónového obalu, takže majú menšie atómové polomery (odpoveď h). Majú tiež podstatne slabšiu kovovú väzbu a nižšie teploty topenia než kovy alkalických zemín, pričom ortuť je za normálnych podmienok dokonca kvapalná (odpoveď g; možnosti a, b, c, e neplatia)."
   },
   {
     "subject": "Chémia",
@@ -2665,7 +2665,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+    "explanation": "Vodík existuje v troch izotopoch: prócium (1H), deutérium (2H) a rádioaktívne trícium (3H; odpoveď a). Vo väčšine reakcií vystupuje ako redukčné činidlo (odpoveď c) a s prechodnými kovmi tvorí intersticiálne kovové hydridy (odpoveď d). Spolu s uhlíkom, kyslíkom a dusíkom predstavuje základný makrobiogénny prvok živých organizmov (odpoveď f). S alkalickými kovmi tvorí iónové hydridy s aniónom H- (nie kovalentné) a pri stužovaní tukov sa aduje, nie uvoľňuje (b, e, g, h)."
   },
   {
     "subject": "Chémia",
@@ -2711,7 +2711,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, E."
+    "explanation": "Pre alkalické kovy neplatia tvrdenia a, c, d, e: v skutočnosti sú mimoriadne reaktívne vďaka nízkej ionizačnej energii, v rámci periódy majú najväčšie atómové polomery, ich hustota vo všeobecnosti stúpa a s vodou reagujú explozívne, preto sa uchovávajú pod petrolejom. Tvrdenia b, f, g, h naopak platia, keďže alkalické kovy sú silnými redukovadlami, dobrými vodičmi a ich teploty topenia so stúpajúcim Z klesajú."
   },
   {
     "subject": "Chémia",
@@ -2757,7 +2757,7 @@
       "c",
       "d"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, C, D."
+    "explanation": "Hydroxid sodný (NaOH) je biela hygroskopická látka, ktorá pohlcuje vzdušnú vlhkosť aj oxid uhličitý za vzniku uhličitanu sodného (odpoveď b). Vo vode sa rozpúšťa mimoriadne dobre za silného uvoľňovania tepla (odpoveď a) a reaguje s oxidom kremičitým v skle, čím dochádza k jeho pomalému leptaniu (odpoveď c). V laboratóriu ho možno demonštrovať reakciou kovového sodíka s vodou za vzniku NaOH a vodíka (odpoveď d). Priemyselne sa vyrába elektrolýzou soľanky (NaCl), nie zo síranu sodného (e, f, g, h neplatia)."
   },
   {
     "subject": "Chémia",
@@ -2803,7 +2803,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, H."
+    "explanation": "Sóda (kalcinovaná sóda) je uhličitan sodný so vzorcom Na2CO3 (odpoveď b). Priemyselne sa vyrába Solvayovým spôsobom založeným na reakcii roztoku NaCl, amoniaku a oxidu uhličitého s následnou kalcináciou vzniknutého NaHCO3 (odpoveď c). Vo veľkom meradle sa využíva v sklárskom priemysle ako tavivo pri výrobe skla (odpoveď f). Ako soľ silnej zásady a slabej kyseliny vo vode hydrolyzuje zásadito v dôsledku reakcie CO3(2-) + H2O <=> HCO3(-) + OH(-) (odpoveď h; a, d, e, g sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -2849,7 +2849,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, F."
+    "explanation": "Jedlá sóda je hydrogénuhličitan sodný so vzorcom NaHCO3 (odpoveď a), ktorý vzniká ako kľúčový medziprodukt pri Solvayovom procese výroby sódy (odpoveď c). V medicíne sa používa ako antacidum na neutralizáciu nadbytočnej HCl v žalúdočnej šťave (odpoveď e) a v kuchyni ako kypriaci prášok do pečiva, keďže sa teplom rozkladá za uvoľňovania CO2 (odpoveď f). Na2CO3 je kalcinovaná sóda a roztok NaHCO3 vykazuje mierne zásadité pH (b, d, g, h sú nepravdivé)."
   },
   {
     "subject": "Chémia",
@@ -2895,7 +2895,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, E."
+    "explanation": "Kovový sodík je mäkký alkalický kov s nízkou hustotou a slabou kovovou väzbou, vďaka čomu sa dá ľahko krájať nožom (odpoveď b). S vodou reaguje spontánne a búrlivo za vzniku hydroxidu sodného a uvoľnenia vodíka (odpoveď c). Katión Na+ je hlavným osmoticky aktívnym extracelulárnym katiónom organizmu (odpoveď d) a jeho emisia v plameni spôsobuje charakteristické intenzívne žlté sfarbenie (odpoveď e). Katión K+ je prevažne intracelulárny a potaš je uhličitan draselný (a, f, h neplatia)."
   },
   {
     "subject": "Chémia",
@@ -2941,7 +2941,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+    "explanation": "Horčík (Mg) je kľúčový biogénny prvok viazaný ako centrálny ión v porfyrínovom kruhu chlorofylu (odpoveď b). V ľudskom tele predstavuje po draslíku druhý najdôležitejší intracelulárny katión, nevyhnutný pre aktivitu stoviek enzýmov spojených s ATP (odpoveď c). V litosfére sa vo veľkých množstvách vyskytuje v mineráloch magnezit (MgCO3) a dolomit (CaMg(CO3)2; odpovede f, g). Vitamín B12 obsahuje kobalt a malachit je minerál medi (a, d, e, h sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -2987,7 +2987,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+    "explanation": "Vápnik je najvýznamnejší biogénny makroprvok v tele stavovcov, ktorý tvorí anorganickú minerálnu zložku kostí a zubov vo forme hydroxyapatitu (odpoveď a). Vo fyziológii zohráva nezastupiteľnú úlohu ako signálny spúšťač svalovej kontrakcie a kofaktor zrážania krvi (odpoveď e). Ako reaktívny kov alkalických zemín rozkladá vodu už za laboratórnej teploty za vývoja vodíka a vzniku Ca(OH)2 (odpoveď g) a za bežných podmienok na vzduchu samovoľne nehorí (odpoveď c). Ca2+ je typicky extracelulárny ión, ktorého koncentrácia v cytozole je udržiavaná na veľmi nízkej úrovni (b, d, f, h neplatia)."
   },
   {
     "subject": "Chémia",
@@ -3033,7 +3033,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+    "explanation": "Sadra je hemihydrát síranu vápenatého so vzorcom CaSO4 . 0,5 H2O (odpovede d, e). Pripravuje sa zo sadrovca (CaSO4 . 2 H2O) jeho termickým odvodnením (pražením) pri teplote 120–150 °C (odpoveď f). Po zmiešaní s vodou spätne hydratuje na dihydrát sadrovec, pričom rýchlo tuhne s miernym nárastom objemu, čo sa široko využíva v zdravotníctve na fixáciu fraktúr a v stomatológii (odpoveď c; a, b, g, h sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -3079,7 +3079,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, F."
+    "explanation": "Oxid hlinitý (Al2O3) vzniká prudkou syntézou z prvkov pri vysokých teplotách (odpoveď a), ale na vzduchu sa tvorí aj pri izbovej teplote v podobe jemnej vrstvičky, ktorá hliník pasivuje (odpoveď b). V prírode tvorí minerál korund, ktorý s tvrdosťou 9 na Mohsovej stupnici patrí medzi najtvrdšie nerasty (odpoveď d). Vďaka vysokému mernému povrchu a adsorpčnej schopnosti sa aktívny Al2O3 používa ako stacionárna fáza v chromatografii (odpoveď f). Al2O3 je nerozpustný vo vode a je amfotérny, takže sa rozpúšťa v kyselinách aj v zásadách (c, e, g, h sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -3125,7 +3125,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, G."
+    "explanation": "Hliník sa priemyselne vyrába Hallovým-Héroultovým procesom – energeticky náročnou elektrolýzou taveniny bauxitu v kryolite Na3[AlF6] (odpoveď a). Ľahko tvorí podvojné sírany, tzv. kamence typu KAl(SO4)2 . 12 H2O (odpoveď d), vykazuje amfotérne vlastnosti reakciou s kyselinami aj hydroxidmi a pasivuje sa ochrannou vrstvou oxidu (v kľúči správne a, d, f, g). Hliník nie je biogénnym prvkom a v prírode sa pre vysokú reaktivitu voľný nevyskytuje (b, e, h neplatia)."
   },
   {
     "subject": "Chémia",
@@ -3171,7 +3171,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+    "explanation": "Uhlík je základným makrobiogénnym prvkom, ktorého atómy tvoria stabilné kovalentné väzby C-C a umožňujú reťazenie do lineárnych, rozvetvených aj cyklických organických štruktúr (odpovede a, d). Jeho alotropická modifikácia diamant je vďaka trojrozmernej priestorovej sp3 sieti najtvrdším prírodným nerastom (odpoveď e). V medicíne sa aktívne (živočíšne) uhlie využíva ako účinné adsorbens na naviazanie toxínov v gastrointestinálnom trakte (odpoveď h). Diamant je elektrický izolant a elementárny uhlík sa v prírode voľne vyskytuje (b, c, f neplatia)."
   },
   {
     "subject": "Chémia",
@@ -3217,7 +3217,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, G."
+    "explanation": "Oxid uhličitý (CO2) vzniká termickým rozkladom (pálením) vápenca CaCO3 na CaO a CO2 (odpoveď b), dokonalým spaľovaním uhlia a uhlíka (odpoveď c) a oxidáciou oxidu uhoľnatého 2 CO + O2 -> 2 CO2 (odpoveď g). Uvoľňuje sa tiež ako prirodzený vedľajší produkt alkoholového aj bunkového kvasenia glukózy (odpoveď e). CO2 je ťažší ako vzduch (M = 44 g/mol vs 29 g/mol) a nie je prudkým jedom, hoci vo vysokých koncentráciách pôsobí dusivo (a, d, f, h sú nepravdivé)."
   },
   {
     "subject": "Chémia",
@@ -3263,7 +3263,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, F, G, H."
+    "explanation": "Oxid uhoľnatý (CO) je bezfarebný plyn bez chuti a zápachu, ktorý vzniká pri nedokonalom spaľovaní uhlíkatých palív pri deficite kyslíka (odpovede b, f). Tvorí sa tiež reakciou uhlíka s oxidom uhličitým za vysokej teploty podľa Boudouardovej rovnováhy C + CO2 <=> 2 CO (odpoveď h). Pre človeka je vysoko toxický, pretože sa s mimoriadne vysokou afinitou viaže na hémové železo hemoglobínu za vzniku karboxyhemoglobínu a znemožňuje transport kyslíka (odpoveď g; a, c, d, e neplatia)."
   },
   {
     "subject": "Chémia",
@@ -3309,7 +3309,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+    "explanation": "Oxid uhoľnatý (CO) je prudký jed blokujúci transport kyslíka a bunkové dýchanie (odpoveď a), kyanid draselný (KCN) okamžite zastavuje bunkové dýchanie inhibíciou cytochróm c oxidázy (odpoveď b). Sírouhlík (CS2) pôsobí ako silný neurotoxický a cievny jed (odpoveď d) a amoniak (NH3) je toxický odpadový metabolit dráždiaci dýchacie cesty a poškodzujúci mozog (odpoveď g). Látky H2CO3, NaHCO3 a CO2 tvoria fyziologický bikarbonátový tlmivý systém krvi a N2 je inertný atmosférický plyn (c, e, f, h nepatria medzi jedy)."
   },
   {
     "subject": "Chémia",
@@ -3355,7 +3355,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, F, G."
+    "explanation": "Kyselina kyanovodíková (vodný roztok plynného kyanovodíka HCN) je veľmi slabá jednosýtna kyselina, ktorá je vo vode výborne rozpustná a miešateľná vo všetkých pomeroch (odpoveď b). Patrí medzi extrémne prudké jedy, pretože uvoľnený anión CN- ireverzibilne inhibuje cytochróm c oxidázu v dýchacom reťazci mitochondrií (odpoveď c; v kľúči správne b, c, f, g). Kyanovodík je prchavá kvapalina s teplotou varu okolo 26 °C a vôňou horkých mandlí, nie pevná látka (a, e, h sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -3401,7 +3401,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: D, E, F, G."
+    "explanation": "Kremík kryštalizuje v kubickej diamantovej štruktúre, vďaka čomu je veľmi tvrdý, ale krehký (odpoveď d). Priemyselne sa vyrába redukciou oxidu kremičitého uhlíkom v elektrickej oblúkovej peci: SiO2 + 2 C -> Si + 2 CO (odpoveď e). Pre svoje polovodičové vlastnosti je základnou surovinou mikroelektroniky (odpoveď f) a jeho nerasty (kremenný piesok) sa využívajú pri výrobe skla (odpoveď g). Elementárny kremík sa v prírode voľný nenachádza a najrozšírenejším prvkom v zemskej kôre je kyslík (a, b, c, h neplatia)."
   },
   {
     "subject": "Chémia",
@@ -3447,7 +3447,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, E, H."
+    "explanation": "Dusík nemá vo valenčnej vrstve d-orbitály, preto môže vytvoriť maximálne 4 kovalentné väzby (napr. v amónnom katióne NH4+; odpoveď b). Dvojatómová molekula N2 obsahuje mimoriadne pevnú trojitú väzbu (:N≡N:), čo spôsobuje jej nízku reaktivitu a vysokú chemickú inertnosť pri bežnej teplote (odpoveď d), v dôsledku čoho reaguje s väčšinou látok až pri zahriatí (odpoveď h). S molárnou hmotnosťou 28 g/mol je o niečo ľahší ako vzduch (M ≈ 29 g/mol; odpoveď e; a, c, f, g neplatia)."
   },
   {
     "subject": "Chémia",
@@ -3493,7 +3493,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, G."
+    "explanation": "Amoniak (NH3) je bezfarebný štipľavý plyn (odpoveď e), ktorý má na atóme dusíka v hybridizácii sp3 jeden voľný elektrónový pár (odpoveď c). Vďaka tomuto páru vystupuje v koordinačných zlúčeninách ako Lewisova báza – donor elektrónov (amminový ligand; odpoveď g). Vo vode sa vynikajúco rozpúšťa tvorbou vodíkových väzieb a disociuje ako slabá zásada za vzniku iónov NH4+ a OH- (odpoveď d). Amoniak je polárna molekula s dipólovým momentom tvoriaca katión NH4+, nie NH3+ (a, b, f, h sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -3539,7 +3539,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, G."
+    "explanation": "Oxid dusný (N2O, rajský plyn) je bezfarebný plyn so sladkastou chuťou a vôňou, ktorý sa pre inertnosť a rozpustnosť v tukoch používa v šľahačkových sprejoch (odpovede a, g). Oxid dusičitý (NO2) je naopak hnedočervený, agresívny a prudko toxický plyn spôsobujúci pľúcny edém (odpoveď e; v kľúči správne a, c, e, g). Oxidy dusíka patria medzi hlavné zložky fotochemického smogu a kyslých zrážok, a preto výrazne znečisťujú životné prostredie (b, f, h neplatia)."
   },
   {
     "subject": "Chémia",
@@ -3585,7 +3585,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, H."
+    "explanation": "Kyselina dusičná (HNO3) je silná jednosýtna kyselina, ktorá vo vodnom roztoku plne disociuje na H+ a NO3- (odpoveď f). S vodou tvorí azeotropnú zmes s maximom varu pri koncentrácii približne 68 % HNO3 (odpoveď d). Pôsobí ako silné oxidačné činidlo, ktoré oxiduje väčšinu kovov (okrem Au a Pt) a organické látky, pričom sa redukuje na oxidy dusíka (odpoveď h; v kľúči správne b, d, f, h). Priemyselne sa vyrába Ostwaldovým procesom oxidácie amoniaku a je výrazne silnejšia než HNO2 (a, e, g sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -3631,7 +3631,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, H."
+    "explanation": "Fosfor sa v prírode vyskytuje výhradne v mineráloch obsahujúcich fosforečnany, napríklad v apatite a fosforite (odpoveď e). Jeho modifikácie majú odlišné vlastnosti: biely fosfor (P4) je prudko toxický a na vzduchu samozápalný (odpoveď f), červený fosfor je netoxický polymér tvorený reťazcami fosforových atómov (odpoveď h) a čierny fosfor vykazuje polokovové vlastnosti s elektrickou vodivosťou (odpoveď c). Všetky modifikácie nie sú toxické a voľný fosfor v prírode neexistuje (a, b, d, g sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -3676,7 +3676,7 @@
       "b",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, H."
+    "explanation": "Oxid fosforečný vzniká dokonalým spaľovaním elementárneho fosforu v nadbytku kyslíka (odpoveď h) a existuje v dimérnej forme tetraméru P4O10 (odpoveď a). Je to biela kryštalická látka s mimoriadne silnými hygroskopickými vlastnosťami, ktorá ochotne a prudko reaguje s vodou, a preto slúži ako jedno z najúčinnejších laboratórnych sušidiel (odpoveď b). Nie je červený a pri nedokonalom horení vzniká oxid fosforitý P4O6 (c, d, e, f, g neplatia)."
   },
   {
     "subject": "Chémia",
@@ -3723,7 +3723,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G, H."
+    "explanation": "Kyselina trihydrogenfosforečná (H3PO4) je v bezvodom stave bezfarebná kryštalická látka (odpoveď a). Predstavuje veľmi stálu, neoxidačnú stredne silnú trojsýtnu kyselinu (odpoveď e), ktorá postupnou disociáciou vytvára tri rady solí – dihydrogénfosforečnany, hydrogénfosforečnany a fosforečnany (odpoveď h). Zahrievaním dochádza k jej kondenzácii na polyfosforečné kyseliny (odpoveď g) a pri zvýšenej teplote reaguje s väčšinou kovov (odpoveď f). Nemá oxidačné vlastnosti porovnateľné s HNO3 (b, c, d sú nepravdivé)."
   },
   {
     "subject": "Chémia",
@@ -3769,7 +3769,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, E, H."
+    "explanation": "Kyslík je druhým najelektronegatívnejším prvkom periodickej tabuľky, preto v drvivej väčšine reakcií vystupuje ako silné oxidovadlo a sám sa redukuje na oxidačné číslo -II (odpovede a, d). Vo vode sa čiastočne rozpúšťa, čo zabezpečuje dýchanie vodných organizmov (odpoveď e). V laboratóriu ho možno pripraviť termickým rozkladom kyslíkatých solí, napríklad manganistanu alebo chloristanu draselného (odpoveď h). Kyslík je veľmi reaktívny a jeho najvyššie oxidačné číslo je +II v OF2 (b, c, f, g sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -3815,7 +3815,7 @@
       "e",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, G."
+    "explanation": "Ozón (O3) je alotropická modifikácia kyslíka s mimoriadne silnými oxidačnými účinkami prevyšujúcimi molekulový O2 (odpoveď b). V prírode vzniká v atmosfére pri elektrických výbojoch bleskov počas búrok (odpoveď c) a ľahko sa rozpadá za uvoľnenia vysoko reaktívneho atomárneho kyslíka (odpoveď e). Pre svoje baktericídne a virocídne schopnosti sa využíva pri sterilizácii a dezinfekcii vody a vzduchu (odpoveď g). Ozón nevystupuje ako redukovadlo a sám sa ľahko redukuje (a, d, f, h neplatia)."
   },
   {
     "subject": "Chémia",
@@ -3861,7 +3861,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, G, H."
+    "explanation": "O síre neplatia tvrdenia a, d, g, h: síra nepatrí medzi halogény (je chalkogén 16. skupiny), predstavuje biogénny makroprvok (súčasť aminokyselín cysteínu a metionínu), má konfiguráciu [Ne] 3s2 3p4 a ide o nekov, nie kov. Tvrdenia b, c, e, f sú pravdivé, keďže síra tvorí kryštalické alotropické modifikácie (kosoštvorcovú a jednoklonnú), vo vode je nerozpustná a pri zahrievaní jej tavenina tmavne v dôsledku otvárania kruhov S8 na dlhé polymérne reťazce."
   },
   {
     "subject": "Chémia",
@@ -3907,7 +3907,7 @@
       "g",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, G, H."
+    "explanation": "Sulfán (H2S) je prudko jedovatý plyn s typickým zápachom po skazených vajciach, ktorý blokuje bunkové dýchanie inhibíciou cytochróm c oxidázy (odpovede g, h). Vo vode sa rozpúšťa za vzniku slabej dvojsýtnej kyseliny sulfánovej (odpoveď b) a pri nedostatku vzduchu zhorí nedokonalým spaľovaním na elementárnu síru a vodu: 2 H2S + O2 -> 2 S + 2 H2O (odpoveď d). Síra je v sulfáne v minimálnom oxidačnom čísle -II, preto má výlučne redukčné vlastnosti a nemôže pôsobiť ako oxidovadlo (a, c, e, f sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -3953,7 +3953,7 @@
       "e",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, E, F."
+    "explanation": "Bezvodá kyselina sírová je bezfarebná olejovitá kvapalina (odpoveď c). V koncentrovanom stave má mimoriadne silné hygroskopické účinky, ktorými odníma vodu aj organickým zlúčeninám (odpoveď d), a dymivá kyselina sírová obsahujúca rozpustený SO3 sa nazýva oleum (odpoveď e). Zriedená kyselina sírová oxiduje výhradne katiónmi H+, preto reaguje iba s neušľachtilými kovmi za vývoja plynného vodíka (odpoveď f). Koncentrovaná kyselina pasivuje železo a pri jej riedení sa zásadne pridáva kyselina do vody (a, b, g, h neplatia)."
   },
   {
     "subject": "Chémia",
@@ -3999,7 +3999,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, D, G."
+    "explanation": "Fluór je svetložltý, mimoriadne reaktívny a prudko toxický plyn s najvyššou elektronegativitou spomedzi všetkých prvkov (odpoveď b; v kľúči správne b, c, d, g). V prírode sa nachádza výlučne viazaný v zlúčeninách, najmä v mineráli kazivci (fluorite CaF2; odpoveď c). Ako najsilnejšie oxidačné činidlo prudko oxiduje aj vodu za vývoja kyslíka: 2 F2 + 2 H2O -> 4 HF + O2 (odpoveď g). Fluór patrí medzi biogénne mikroprvky dôležité pre pevnosť zubnej skloviny, nie makroprvky (a, e sú nepravdivé)."
   },
   {
     "subject": "Chémia",
@@ -4045,7 +4045,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, E, H."
+    "explanation": "Chlór patrí medzi biogénne makroprvky, pričom chloridový anión Cl- je dominantným extracelulárnym aniónom v ľudskom tele (odpoveď a). Spomedzi všetkých halogénov je v prírode najrozšírenejší (najmä v morskej vode vo forme NaCl; odpoveď b) a v elementárnom stave je pre človeka dusivým jedovatým plynom (odpoveď h). Pri bežnej laboratórnej teplote s čistým uhlíkom nereaguje (odpoveď e). V prírode sa voľný nenachádza a v HCl netvorí vodíkové väzby (c, d, f, g neplatia)."
   },
   {
     "subject": "Chémia",
@@ -4091,7 +4091,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, E, F, G."
+    "explanation": "Bróm je ťažká, červenohnedá kvapalina, ktorá sa za bežných podmienok ľahko odparuje na dráždivé pary (odpoveď e). Priemyselne sa vyrába oxidáciou bromidov prítomných v morskej vode pomocou chlóru: 2 Br- + Cl2 -> 2 Cl- + Br2 (odpoveď f). Jeho nerozpustná soľ bromid strieborný (AgBr) sa vďaka citlivosti na svetlo historicky využíva vo fotografii (odpoveď c) a kvarterná amóniová soľ s bromidovým aniónom tvorí dezinfekčný liek Ajatin (odpoveď g; a, b, d, h neplatia)."
   },
   {
     "subject": "Chémia",
@@ -4137,7 +4137,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, D, F, H."
+    "explanation": "Jód je esenciálny biogénny mikroprvok nevyhnutný pre syntézu tyroidných hormónov tyroxínu (T4) a trijódtyronínu (T3) v štítnej žľaze (odpoveď a). Tvorí fialovočierne kryštáliky s kovovým leskom (odpoveď h), ktoré sa pri miernom zahriatí ľahko čistia sublimáciou (odpoveď f). V medicíne sa široko využíva ako dezinfekcia vo forme Lugolovho roztoku (roztok I2 v jodide draselnom KI; odpoveď d). V čistej vode sa rozpúšťa veľmi slabo a nečistí sa destiláciou (b, c, e, g sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -4183,7 +4183,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, C, E, H."
+    "explanation": "Medzi biogénne mikroprvky (stopové prvky) nepatria sodík a vápnik, pretože sú to biogénne makroprvky tvoriace podstatnú časť hmotnosti tela (odpovede b, c). Plutónium (Pu) je syntetický rádioaktívny aktinoid bez biologickej funkcie (odpoveď e) a argón (Ar) je inertný atmosférický plyn, ktorý sa v metabolizme neuplatňuje (odpoveď h). Zinok, meď, selén a kobalt naopak patria medzi esenciálne biogénne mikroprvky (a, d, f, g)."
   },
   {
     "subject": "Chémia",
@@ -4229,7 +4229,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, G."
+    "explanation": "O železe neplatia tvrdenia a, b, d, g: chlorofyl obsahuje ako centrálny ión horčík, v koncentrovanej H2SO4 sa železo pasivuje ochrannou vrstvou oxidov, v tele sa nachádza nielen v hemoglobíne, ale aj v myoglobíne, cytochrómoch a feritíne, a žltá krvná soľ je priemyselný komplex K4[Fe(CN)6], nie náhrada krvi. Tvrdenia c, e, h sú pravdivé, pretože železo ľahko hrdzavie, najvyššie oxidačné číslo dosahuje vo feranoch (+VI) a zelená skalica je FeSO4 . 7 H2O."
   },
   {
     "subject": "Chémia",
@@ -4275,7 +4275,7 @@
       "d",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, H."
+    "explanation": "Chróm je biogénny stopový prvok (mikroprvok), ktorého trojmocná forma sa podieľa na regulácii metabolizmu sacharidov sprostredkovanej inzulínom (odpoveď a). V roztokoch má najstabilnejšie oxidačné číslo +III, ktoré tvorí zelené alebo fialové hydratované komplexy (odpoveď c). V najvyššom oxidačnom stave +VI tvorí žlté chromany a oranžové dichrómany (Cr2O7 2-; odpoveď d), ktoré v kyslom prostredí pôsobia ako silné oxidačné činidlá (odpoveď h; b, e, f, g sú nepravdivé)."
   },
   {
     "subject": "Chémia",
@@ -4321,7 +4321,7 @@
       "d",
       "e"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, B, D, E."
+    "explanation": "Mangán je esenciálny biogénny mikroprvok prítomný v ľudskom organizme, kde je kofaktorom enzýmov ako pyruvátkarboxyláza či Mn-SOD (odpovede a, d). Elementárny kov sa vyrába aluminotermickou redukciou svojich oxidov práškovým hliníkom (odpoveď b). Jeho soľ manganistan draselný (KMnO4, hypermangán) má silné oxidačné účinky a v medicíne sa používa ako antiseptikum a dezinfekcia (odpoveď e). V Beketovom rade leží naľavo od vodíka a tvorí viaceré stabilné oxidačné čísla od +II po +VII (c, f, g, h neplatia)."
   },
   {
     "subject": "Chémia",
@@ -4367,7 +4367,7 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, E, F, G."
+    "explanation": "Najstabilnejšou podvojnou soľou Fe2+ je Mohrova soľ (NH4)2Fe(SO4)2 . 6 H2O, ktorá na vzduchu nepodlieha takej rýchlej samovoľnej oxidácii ako FeSO4 (odpoveď a). Ferrokyanid draselný K4[Fe(CN)6] je žltá krvná soľ (odpoveď e) a Uffelmannovo činidlo obsahuje komplexne viazané Fe3+ s fenolom na dôkaz kyseliny mliečnej (odpoveď f). Voľné katióny Fe3+ vo vode silne hydrolyzujú a už pri pH = 4 precipitujú ako nerozpustný hydratovaný oxid/hydroxid železitý (odpoveď g; b, c, d, h neplatia)."
   },
   {
     "subject": "Chémia",
@@ -4413,7 +4413,7 @@
       "d",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, G."
+    "explanation": "Meď je ušľachtilý kov (E° = +0,34 V) známy už od praveku v dobe bronzovej (bronz je zliatina medi a cínu; odpoveď d). Pre svoj kladný potenciál nereaguje s neoxidujúcimi kyselinami, ale rozpúšťa sa v koncentrovanej kyseline dusičnej, pričom ju redukuje na oxidy dusíka NOx a sama sa oxiduje na Cu2+ (odpoveď g). V biologických systémoch pôsobí ako esenciálny biogénny mikroprvok (cytochróm c oxidáza, ceruloplazmín) a so zinkom tvorí zliatinu mosadz (v oficiálnom kľúči správne možnosti a, c, d, g)."
   },
   {
     "subject": "Chémia",
@@ -4459,7 +4459,7 @@
       "f",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: B, D, F, H."
+    "explanation": "Striebro (Ag) je ušľachtilý kov s najvyššou elektrickou a tepelnou vodivosťou zo všetkých prvkov (odpoveď f). Využíva sa pri výrobe zrkadiel, kde sa redukciou strieborných komplexov (Tollensovo činidlo) vylučuje lesklé elementárne striebro priamo na sklo (odpoveď b). Ako ušľachtilý kov nereaguje s kyselinou chlorovodíkovou, ale rozpúšťa sa v koncentrovanej kyseline dusičnej za vzniku AgNO3 a vývoja oxidov dusíka (odpoveď h; v kľúči správne b, d, f, h)."
   },
   {
     "subject": "Chémia",
@@ -4505,7 +4505,7 @@
       "e",
       "h"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, E, H."
+    "explanation": "Zlato je mimoriadne chemicky odolný, rýdzi ušľachtilý kov s vysokou hustotou (19,3 g/cm3), ktorý sa v náplavoch riek nachádza v elementárnej forme a dá sa ťažiť ryžovaním (odpoveď h). Čistota a obsah zlata v zliatinách sa tradične udáva v karátoch (24 karátov je rýdze zlato; odpoveď e). Rozpúšťa sa iba v silných oxidačných zmesiach (lúčavka kráľovská) a v roztokoch preferuje stabilné oxidačné číslo +III, pričom je mäkké a kujné (v kľúči správne a, c, e, h; d, f, g sú nesprávne)."
   },
   {
     "subject": "Chémia",
@@ -4551,7 +4551,7 @@
       "d",
       "f"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: A, C, D, F."
+    "explanation": "Zinok je esenciálny biogénny mikroprvok tvoriaci aktívne centrum stoviek enzýmov vrátane karbonanhydrázy a alkoholdehydrogenázy (odpoveď a). Má jediné stále oxidačné číslo +II s plne zaplnenou konfiguráciou 3d10 (odpoveď d) a vo veľkom meradle sa využíva na galvanické pokovovanie železa na ochranu pred koróziou (odpoveď c). Na vzduchu horí jasným plameňom na biely oxid zinočnatý ZnO (odpoveď f). Ako neušľachtilý amfotérny kov reaguje s kyselinami aj hydroxidmi za vývoja vodíka (b, e, g, h sú nepravdivé)."
   },
   {
     "subject": "Chémia",
@@ -4597,6 +4597,6 @@
       "f",
       "g"
     ],
-    "explanation": "Správne odpovede podľa oficiálneho kľúča testovnice UPJŠ LF sú: C, D, F, G."
+    "explanation": "Ortuť (Hg) je jediný kovový prvok, ktorý je za bežných laboratórnych podmienok kvapalný (odpoveď c). V Beketovom rade napätia kovov leží napravo od vodíka (E° = +0,85 V), patrí medzi ušľachtilé kovy a so zriedenými kyselinami nereaguje (odpoveď d). Vyznačuje sa schopnosťou rozpúšťať iné kovy za vzniku amalgámov (odpoveď g) a elementárna ortuť aj jej zlúčeniny sú pre človeka vysoko toxické, poškodzujúce najmä CNS a obličky (odpoveď f; a, b, e, h neplatia)."
   }
 ]
