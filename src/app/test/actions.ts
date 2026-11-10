@@ -392,3 +392,91 @@ export async function evaluateTestAction(
   }
 }
 
+/**
+ * 3. Okamžité vyhodnotenie jednej konkrétnej otázky (režim vyhodnocovania po otázke)
+ *    a zapísanie výsledku do tabuľky `user_progress`.
+ */
+export async function evaluateSingleQuestionAction(
+  questionId: string,
+  selectedOptionIds: string[]
+): Promise<{
+  result?: EvaluatedQuestionResult;
+  error?: string;
+}> {
+  try {
+    const supabase = createClient();
+    const {
+      data: { user },
+      error: authError,
+    } = await supabase.auth.getUser();
+
+    if (authError || !user) {
+      return { error: "Pre vyhodnotenie otázky sa musíte prihlásiť." };
+    }
+
+    const { data: q, error: dbError } = await supabase
+      .from("questions")
+      .select("id, content, options, correct_answers, explanation")
+      .eq("id", questionId)
+      .single();
+
+    if (dbError || !q) {
+      return {
+        error: `Nepodarilo sa načítať otázku z databázy: ${
+          dbError?.message ?? "Neznáma chyba"
+        }`,
+      };
+    }
+
+    const correctAnswers = (
+      Array.isArray(q.correct_answers) ? q.correct_answers : []
+    ).map((ans) => String(ans));
+
+    const correctSet = new Set(correctAnswers);
+    const selectedUnique = Array.from(
+      new Set((selectedOptionIds ?? []).map((id) => String(id)))
+    );
+
+    const isCorrect =
+      selectedUnique.length === correctSet.size &&
+      selectedUnique.every((id) => correctSet.has(id));
+
+    // Zápis do user_progress
+    const { error: insertProgressError } = await supabase
+      .from("user_progress")
+      .insert({
+        user_id: user.id,
+        question_id: q.id,
+        is_correct: isCorrect,
+      });
+
+    if (insertProgressError) {
+      return {
+        error: `Chyba pri ukladaní do user_progress: ${insertProgressError.message}`,
+      };
+    }
+
+    revalidatePath("/");
+    revalidatePath("/test");
+
+    return {
+      result: {
+        questionId: q.id,
+        content: q.content,
+        options: normalizeOptions(q.options),
+        selectedOptionIds: selectedUnique,
+        correctAnswers,
+        isCorrect,
+        explanation: q.explanation ?? null,
+      },
+    };
+  } catch (err) {
+    return {
+      error:
+        err instanceof Error
+          ? err.message
+          : "Nastala neočakávaná chyba pri vyhodnocovaní otázky.",
+    };
+  }
+}
+

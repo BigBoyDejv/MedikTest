@@ -2,9 +2,11 @@
 
 import * as React from "react";
 import {
+  evaluateSingleQuestionAction,
   evaluateTestAction,
   generateTestQuestionsAction,
   type ActiveTestQuestion,
+  type EvaluatedQuestionResult,
   type QuestionFilterMode,
   type QuestionOrderMode,
   type TestEvaluationSummary,
@@ -43,6 +45,7 @@ import {
   Timer,
   Trophy,
   XCircle,
+  Zap,
 } from "lucide-react";
 
 export interface CategoryWithCount {
@@ -64,7 +67,9 @@ interface TestSuiteProps {
   initialFilterMode?: QuestionFilterMode;
 }
 
-const QUESTION_COUNT_OPTIONS = [10, 20, 50] as const;
+export type TestEvaluationMode = "end" | "instant";
+
+const QUESTION_COUNT_OPTIONS = [10, 20, 30, 50, 100] as const;
 
 const TIME_LIMIT_OPTIONS: {
   minutes: number;
@@ -75,7 +80,8 @@ const TIME_LIMIT_OPTIONS: {
   { minutes: 10, label: "10 min", sublabel: "Rýchly test" },
   { minutes: 20, label: "20 min", sublabel: "Štandard" },
   { minutes: 45, label: "45 min", sublabel: "Dlhší test" },
-  { minutes: 60, label: "60 min", sublabel: "Prijímačky" },
+  { minutes: 60, label: "60 min", sublabel: "Prijímačky 50Q" },
+  { minutes: 90, label: "90 min", sublabel: "Prijímačky 100Q" },
 ];
 
 const FILTER_OPTIONS: {
@@ -145,6 +151,8 @@ export function TestSuite({
   );
   const [orderMode, setOrderMode] = React.useState<QuestionOrderMode>("random");
   const [startQuestionNumber, setStartQuestionNumber] = React.useState<number>(1);
+  const [evaluationMode, setEvaluationMode] =
+    React.useState<TestEvaluationMode>("instant");
 
   // Nastavenie odporúčaného času pri zmene počtu otázok (ak používateľ nezvolil Bez limitu)
   function handleQuestionCountSelect(count: number) {
@@ -154,6 +162,7 @@ export function TestSuite({
       else if (count <= 20) setTimeLimitMinutes(20);
       else if (count <= 30) setTimeLimitMinutes(30);
       else if (count <= 50) setTimeLimitMinutes(45);
+      else if (count <= 100) setTimeLimitMinutes(90);
       else setTimeLimitMinutes(60);
     }
   }
@@ -171,6 +180,10 @@ export function TestSuite({
   const [answersMap, setAnswersMap] = React.useState<Record<string, string[]>>(
     {}
   );
+  const [evaluatedQuestionsMap, setEvaluatedQuestionsMap] = React.useState<
+    Record<string, EvaluatedQuestionResult>
+  >({});
+  const [isEvaluatingSingle, setIsEvaluatingSingle] = React.useState(false);
   const [evaluation, setEvaluation] =
     React.useState<TestEvaluationSummary | null>(null);
 
@@ -226,6 +239,27 @@ export function TestSuite({
     }
   }
 
+  // Okamžité vyhodnotenie jednej otázky (režim po jednej otázke)
+  async function handleEvaluateSingleQuestion(questionId: string) {
+    if (isEvaluatingSingle || isTimerPaused) return;
+    const selected = answersMap[questionId] ?? [];
+    setIsEvaluatingSingle(true);
+    setErrorMessage(null);
+    try {
+      const response = await evaluateSingleQuestionAction(questionId, selected);
+      if (response.error || !response.result) {
+        setErrorMessage(response.error ?? "Nepodarilo sa vyhodnotiť otázku.");
+        return;
+      }
+      setEvaluatedQuestionsMap((prev) => ({
+        ...prev,
+        [questionId]: response.result!,
+      }));
+    } finally {
+      setIsEvaluatingSingle(false);
+    }
+  }
+
   // Odoslanie celého testu na vyhodnotenie a uloženie do user_progress
   const submitTestEvaluation = React.useCallback(
     async (isTimeout = false) => {
@@ -237,27 +271,57 @@ export function TestSuite({
       }
 
       try {
-        const submissions = activeQuestions.map((q) => ({
-          questionId: q.id,
-          selectedOptionIds: answersMap[q.id] ?? [],
-        }));
+        const unEvaluatedQuestions = activeQuestions.filter(
+          (q) => !evaluatedQuestionsMap[q.id]
+        );
 
-        const response = await evaluateTestAction(submissions);
+        const finalResultsMap: Record<string, EvaluatedQuestionResult> = {
+          ...evaluatedQuestionsMap,
+        };
 
-        if (response.error || !response.evaluation) {
-          setErrorMessage(response.error ?? "Nepodarilo sa vyhodnotiť test.");
-          autoSubmitTriggeredRef.current = false;
-          return;
+        if (unEvaluatedQuestions.length > 0) {
+          const submissions = unEvaluatedQuestions.map((q) => ({
+            questionId: q.id,
+            selectedOptionIds: answersMap[q.id] ?? [],
+          }));
+
+          const response = await evaluateTestAction(submissions);
+
+          if (response.error || !response.evaluation) {
+            setErrorMessage(response.error ?? "Nepodarilo sa vyhodnotiť test.");
+            autoSubmitTriggeredRef.current = false;
+            return;
+          }
+
+          for (const res of response.evaluation.results) {
+            finalResultsMap[res.questionId] = res;
+          }
         }
 
-        setEvaluation(response.evaluation);
+        const finalResults = activeQuestions
+          .map((q) => finalResultsMap[q.id])
+          .filter(Boolean);
+
+        const correctCount = finalResults.filter((r) => r.isCorrect).length;
+        const totalQuestions = finalResults.length;
+        const scorePercentage =
+          totalQuestions > 0
+            ? Math.round((correctCount / totalQuestions) * 100)
+            : 0;
+
+        setEvaluation({
+          totalQuestions,
+          correctCount,
+          scorePercentage,
+          results: finalResults,
+        });
         setStage("results");
         window.scrollTo({ top: 0, behavior: "smooth" });
       } finally {
         setIsLoading(false);
       }
     },
-    [activeQuestions, answersMap, isLoading]
+    [activeQuestions, answersMap, evaluatedQuestionsMap, isLoading]
   );
 
   // Interval časovača počas behu testu
@@ -334,6 +398,7 @@ export function TestSuite({
 
       setActiveQuestions(response.questions);
       setAnswersMap({});
+      setEvaluatedQuestionsMap({});
       setCurrentIndex(0);
       setEvaluation(null);
       setStage("running");
@@ -369,6 +434,7 @@ export function TestSuite({
     setStage("builder");
     setActiveQuestions([]);
     setAnswersMap({});
+    setEvaluatedQuestionsMap({});
     setCurrentIndex(0);
     setEvaluation(null);
     setErrorMessage(null);
@@ -611,8 +677,8 @@ export function TestSuite({
                 <span className="text-xs font-semibold text-muted-foreground">
                   Počet otázok:
                 </span>
-                <div className="grid grid-cols-4 gap-2 sm:gap-2.5">
-                  {[10, 20, 30, 50].map((count) => {
+                <div className="grid grid-cols-3 sm:grid-cols-5 gap-2 sm:gap-2.5">
+                  {[10, 20, 30, 50, 100].map((count) => {
                     const isSelected = questionCount === count;
                     return (
                       <button
@@ -658,7 +724,7 @@ export function TestSuite({
               </CardDescription>
             </CardHeader>
             <CardContent className="p-4 pt-0 sm:p-6 sm:pt-0">
-              <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-5">
+              <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-6">
                 {TIME_LIMIT_OPTIONS.map((item) => {
                   const isSelected = timeLimitMinutes === item.minutes;
                   return (
@@ -692,12 +758,74 @@ export function TestSuite({
           </Card>
         </div>
 
-        {/* Krok 4: Filter otázok podľa user_progress */}
+        {/* Krok 4: Spôsob vyhodnocovania */}
+        <Card>
+          <CardHeader className="p-4 sm:p-6">
+            <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
+              <Sparkles className="h-5 w-5 shrink-0 text-primary" />
+              4. Spôsob vyhodnocovania odpovedí
+            </CardTitle>
+            <CardDescription className="text-xs sm:text-sm">
+              Zvoľte, či chcete vidieť správne odpovede okamžite po každej otázke, alebo až po dokončení celého testu.
+            </CardDescription>
+          </CardHeader>
+          <CardContent className="p-4 pt-0 sm:p-6 sm:pt-0">
+            <div className="grid gap-3 sm:grid-cols-2">
+              <button
+                type="button"
+                onClick={() => setEvaluationMode("instant")}
+                className={`flex flex-col items-start rounded-xl border p-4 text-left transition-all active:scale-[0.99] ${
+                  evaluationMode === "instant"
+                    ? "border-primary bg-primary/5 ring-1 ring-primary shadow-sm"
+                    : "border-border bg-background hover:bg-accent/50"
+                }`}
+              >
+                <div className="flex items-center gap-2 font-semibold text-sm sm:text-base">
+                  <Zap className="h-4 w-4 text-amber-500" />
+                  <span>Po každej otázke (Okamžitá kontrola)</span>
+                  {evaluationMode === "instant" && (
+                    <Badge variant="default" className="ml-auto text-[10px] py-0 px-1.5">
+                      Aktívne
+                    </Badge>
+                  )}
+                </div>
+                <p className="mt-1.5 text-xs text-muted-foreground leading-relaxed">
+                  Ideálne na precvičovanie a učenie. Hneď pri každej otázke si môžete overiť svoje odpovede, zistiť či sú správne a prečítať si oficiálne vysvetlenie.
+                </p>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setEvaluationMode("end")}
+                className={`flex flex-col items-start rounded-xl border p-4 text-left transition-all active:scale-[0.99] ${
+                  evaluationMode === "end"
+                    ? "border-primary bg-primary/5 ring-1 ring-primary shadow-sm"
+                    : "border-border bg-background hover:bg-accent/50"
+                }`}
+              >
+                <div className="flex items-center gap-2 font-semibold text-sm sm:text-base">
+                  <ClipboardCheck className="h-4 w-4 text-primary" />
+                  <span>Až na konci testu (Simulácia skúšky)</span>
+                  {evaluationMode === "end" && (
+                    <Badge variant="default" className="ml-auto text-[10px] py-0 px-1.5">
+                      Aktívne
+                    </Badge>
+                  )}
+                </div>
+                <p className="mt-1.5 text-xs text-muted-foreground leading-relaxed">
+                  Simulácia reálnych prijímačiek. Otázky vypĺňate v stanovenom čase a kompletné podrobné vyhodnotenie uvidíte až po odovzdaní celého testu.
+                </p>
+              </button>
+            </div>
+          </CardContent>
+        </Card>
+
+        {/* Krok 5: Filter otázok podľa user_progress */}
         <Card>
           <CardHeader className="p-4 sm:p-6">
             <CardTitle className="flex items-center gap-2 text-base sm:text-lg">
               <Filter className="h-5 w-5 shrink-0 text-primary" />
-              4. Filter otázok podľa vašej histórie
+              5. Filter otázok podľa vašej histórie
             </CardTitle>
             <CardDescription className="text-xs sm:text-sm">
               Filtrovanie otázok na základe vašich predchádzajúcich odpovedí v{" "}
@@ -750,6 +878,12 @@ export function TestSuite({
             <span>
               Počet otázok:{" "}
               <strong className="text-foreground">{questionCount}</strong>
+            </span>
+            <span>
+              Vyhodnotenie:{" "}
+              <strong className="text-foreground">
+                {evaluationMode === "instant" ? "Po každej otázke" : "Na konci testu"}
+              </strong>
             </span>
             {orderMode === "sequential" && (
               <span>
@@ -807,6 +941,13 @@ export function TestSuite({
       (q) => (answersMap[q.id]?.length ?? 0) > 0
     ).length;
 
+    const evaluatedList = Object.values(evaluatedQuestionsMap);
+    const evaluatedCount = evaluatedList.length;
+    const evaluatedCorrectCount = evaluatedList.filter((e) => e.isCorrect).length;
+
+    const currentEval = evaluatedQuestionsMap[currentQuestion.id];
+    const isCurrentEvaluated = Boolean(currentEval);
+
     const progressPercent = Math.round(
       ((currentIndex + 1) / totalQuestions) * 100
     );
@@ -839,19 +980,27 @@ export function TestSuite({
           </Alert>
         )}
 
-        {/* Sticky horná lišta s Časovačom a Progresom (výborné na mobil a tablet) */}
+        {/* Sticky horná lišta s Časovačom a Progresom */}
         <div className="sticky top-14 z-30 -mx-4 border-b bg-background/95 px-4 py-3 backdrop-blur sm:top-16 sm:mx-0 sm:rounded-xl sm:border sm:p-4 sm:shadow-sm">
           <div className="flex flex-wrap items-center justify-between gap-2">
-            <div className="flex items-center gap-2 sm:gap-3">
+            <div className="flex flex-wrap items-center gap-2 sm:gap-3">
               <span className="text-sm font-bold sm:text-base">
                 Otázka {currentIndex + 1} / {totalQuestions}
               </span>
               <Badge variant="secondary" className="text-xs">
                 Zodpovedané: {answeredCount}/{totalQuestions}
               </Badge>
+              {evaluatedCount > 0 && (
+                <Badge
+                  variant="outline"
+                  className="hidden xs:inline-flex text-xs border-emerald-500/40 text-emerald-700 bg-emerald-50/50 dark:bg-emerald-950/40 dark:text-emerald-300 font-semibold"
+                >
+                  Skontrolované: {evaluatedCorrectCount}/{evaluatedCount} správne
+                </Badge>
+              )}
             </div>
 
-            {/* Časovač + tlačidlo Pauza */}
+            {/* Časovač + Pauza + Ukončiť */}
             <div className="flex items-center gap-2">
               <div
                 className={`inline-flex items-center gap-1.5 rounded-lg border px-2.5 py-1 text-xs font-mono sm:px-3 sm:py-1.5 sm:text-sm ${timerBadgeClasses}`}
@@ -885,6 +1034,18 @@ export function TestSuite({
                     <span className="hidden sm:inline">Pauza</span>
                   </>
                 )}
+              </Button>
+
+              <Button
+                type="button"
+                variant="ghost"
+                size="sm"
+                className="h-8 px-2 text-xs text-muted-foreground hover:text-foreground"
+                onClick={() => void submitTestEvaluation(false)}
+                disabled={isLoading}
+                title="Predčasne ukončiť test a vyhodnotiť"
+              >
+                Ukončiť test
               </Button>
             </div>
           </div>
@@ -943,16 +1104,39 @@ export function TestSuite({
                 )}
               </div>
 
-              <Badge
-                variant={
-                  currentQuestion.isMultipleChoice ? "default" : "secondary"
-                }
-                className="text-xs"
-              >
-                {currentQuestion.isMultipleChoice
-                  ? "Viac správnych (Checkbox)"
-                  : "1 správna (Rádio)"}
-              </Badge>
+              <div className="flex items-center gap-2">
+                {isCurrentEvaluated && (
+                  <Badge
+                    className={
+                      currentEval?.isCorrect
+                        ? "bg-emerald-600 text-white text-xs gap-1 hover:bg-emerald-600"
+                        : "bg-red-600 text-white text-xs gap-1 hover:bg-red-600"
+                    }
+                  >
+                    {currentEval?.isCorrect ? (
+                      <>
+                        <CheckCircle2 className="h-3 w-3" />
+                        Správne (+1)
+                      </>
+                    ) : (
+                      <>
+                        <XCircle className="h-3 w-3" />
+                        Nesprávne (0)
+                      </>
+                    )}
+                  </Badge>
+                )}
+                <Badge
+                  variant={
+                    currentQuestion.isMultipleChoice ? "default" : "secondary"
+                  }
+                  className="text-xs"
+                >
+                  {currentQuestion.isMultipleChoice
+                    ? "Viac správnych (Checkbox)"
+                    : "1 správna (Rádio)"}
+                </Badge>
+              </div>
             </div>
 
             <CardTitle className="text-base leading-relaxed sm:text-xl">
@@ -960,43 +1144,154 @@ export function TestSuite({
             </CardTitle>
           </CardHeader>
 
-          <CardContent className="space-y-2.5 p-4 pt-0 sm:space-y-3 sm:p-6 sm:pt-0">
+          <CardContent className="space-y-3 p-4 pt-0 sm:space-y-3 sm:p-6 sm:pt-0">
             {currentQuestion.options.map((option) => {
               const isChecked = selectedForCurrent.includes(option.id);
+              const isCorrectAnswer =
+                currentEval?.correctAnswers.includes(option.id) ?? false;
+
+              let optionContainerClass =
+                "border-border bg-background hover:bg-accent/50";
+              let badgeIdClass = "border bg-muted/50 text-muted-foreground";
+
+              if (isCurrentEvaluated) {
+                if (isCorrectAnswer) {
+                  if (isChecked) {
+                    optionContainerClass =
+                      "border-emerald-500 bg-emerald-50/80 text-emerald-950 font-medium ring-1 ring-emerald-500 dark:bg-emerald-950/40 dark:text-emerald-200";
+                    badgeIdClass =
+                      "bg-emerald-600 text-white border-emerald-600";
+                  } else {
+                    optionContainerClass =
+                      "border-emerald-500/80 border-dashed bg-emerald-50/30 text-emerald-950 dark:bg-emerald-950/20 dark:text-emerald-300";
+                    badgeIdClass =
+                      "border-emerald-500 bg-emerald-100 text-emerald-800 dark:bg-emerald-900/60 dark:text-emerald-300";
+                  }
+                } else {
+                  if (isChecked) {
+                    optionContainerClass =
+                      "border-destructive bg-destructive/10 text-destructive font-medium ring-1 ring-destructive";
+                    badgeIdClass =
+                      "bg-destructive text-white border-destructive";
+                  } else {
+                    optionContainerClass =
+                      "border-border/60 bg-muted/10 opacity-70";
+                    badgeIdClass = "border bg-muted/30 text-muted-foreground";
+                  }
+                }
+              } else if (isChecked) {
+                optionContainerClass =
+                  "border-primary bg-primary/5 font-medium ring-1 ring-primary";
+                badgeIdClass =
+                  "bg-primary text-primary-foreground border-primary";
+              }
+
               return (
                 <label
                   key={option.id}
-                  className={`flex min-h-[52px] cursor-pointer touch-manipulation items-center gap-3 rounded-xl border p-3.5 text-sm transition-all active:scale-[0.99] sm:gap-3.5 sm:p-4 ${
-                    isChecked
-                      ? "border-primary bg-primary/5 font-medium ring-1 ring-primary"
-                      : "border-border bg-background hover:bg-accent/50"
-                  }`}
+                  className={`flex min-h-[52px] touch-manipulation items-center justify-between gap-3 rounded-xl border p-3.5 text-sm transition-all sm:gap-3.5 sm:p-4 ${
+                    isCurrentEvaluated
+                      ? "cursor-default"
+                      : "cursor-pointer active:scale-[0.99]"
+                  } ${optionContainerClass}`}
                 >
-                  <input
-                    type={
-                      currentQuestion.isMultipleChoice ? "checkbox" : "radio"
-                    }
-                    name={`question-${currentQuestion.id}`}
-                    value={option.id}
-                    checked={isChecked}
-                    onChange={() =>
-                      handleOptionChange(
-                        currentQuestion.id,
-                        option.id,
-                        currentQuestion.isMultipleChoice
-                      )
-                    }
-                    className="h-4 w-4 shrink-0 border-input text-primary focus:ring-primary sm:h-5 sm:w-5"
-                  />
-                  <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded border bg-muted/50 text-xs font-semibold uppercase sm:h-7 sm:w-7">
-                    {option.id}
-                  </span>
-                  <span className="text-sm leading-snug sm:text-base">
-                    {option.text}
-                  </span>
+                  <div className="flex items-center gap-3 sm:gap-3.5">
+                    <input
+                      type={
+                        currentQuestion.isMultipleChoice ? "checkbox" : "radio"
+                      }
+                      name={`question-${currentQuestion.id}`}
+                      value={option.id}
+                      checked={isChecked}
+                      disabled={isCurrentEvaluated || isTimerPaused}
+                      onChange={() =>
+                        handleOptionChange(
+                          currentQuestion.id,
+                          option.id,
+                          currentQuestion.isMultipleChoice
+                        )
+                      }
+                      className="h-4 w-4 shrink-0 border-input text-primary focus:ring-primary sm:h-5 sm:w-5 disabled:opacity-70"
+                    />
+                    <span
+                      className={`flex h-6 w-6 shrink-0 items-center justify-center rounded text-xs font-semibold uppercase sm:h-7 sm:w-7 ${badgeIdClass}`}
+                    >
+                      {option.id}
+                    </span>
+                    <span className="text-sm leading-snug sm:text-base">
+                      {option.text}
+                    </span>
+                  </div>
+
+                  {/* Vizuálny odznak po vyhodnotení */}
+                  {isCurrentEvaluated && (
+                    <div className="shrink-0 flex items-center gap-1.5 text-xs font-semibold">
+                      {isCorrectAnswer && isChecked && (
+                        <span className="flex items-center gap-1 text-emerald-600 dark:text-emerald-400">
+                          <CheckCircle2 className="h-4 w-4 shrink-0" />
+                          <span className="hidden sm:inline">Správne označené</span>
+                        </span>
+                      )}
+                      {isCorrectAnswer && !isChecked && (
+                        <span className="text-[11px] rounded bg-emerald-100 dark:bg-emerald-950 px-2 py-0.5 text-emerald-800 dark:text-emerald-300 border border-emerald-500/40">
+                          Mala byť označená
+                        </span>
+                      )}
+                      {!isCorrectAnswer && isChecked && (
+                        <span className="flex items-center gap-1 text-destructive">
+                          <XCircle className="h-4 w-4 shrink-0" />
+                          <span className="hidden sm:inline">Nesprávne</span>
+                        </span>
+                      )}
+                    </div>
+                  )}
                 </label>
               );
             })}
+
+            {/* Informačný blok po okamžitom vyhodnotení */}
+            {isCurrentEvaluated && currentEval && (
+              <div
+                className={`rounded-xl border p-4 text-sm space-y-2.5 animate-in fade-in duration-200 ${
+                  currentEval.isCorrect
+                    ? "border-emerald-500/40 bg-emerald-50/70 text-emerald-950 dark:bg-emerald-950/30 dark:text-emerald-200"
+                    : "border-red-500/40 bg-red-50/70 text-red-950 dark:bg-red-950/30 dark:text-red-200"
+                }`}
+              >
+                <div className="flex flex-wrap items-center justify-between gap-2 font-bold text-sm sm:text-base">
+                  <div className="flex items-center gap-2">
+                    {currentEval.isCorrect ? (
+                      <>
+                        <CheckCircle2 className="h-5 w-5 text-emerald-600 dark:text-emerald-400 shrink-0" />
+                        <span>Správna odpoveď! (+1 bod)</span>
+                      </>
+                    ) : (
+                      <>
+                        <XCircle className="h-5 w-5 text-red-600 dark:text-red-400 shrink-0" />
+                        <span>Nesprávna odpoveď (0 bodov)</span>
+                      </>
+                    )}
+                  </div>
+                  <Badge
+                    variant="outline"
+                    className={
+                      currentEval.isCorrect
+                        ? "border-emerald-500 text-emerald-700 bg-background font-semibold"
+                        : "border-red-500 text-red-700 bg-background font-semibold"
+                    }
+                  >
+                    Správne: {currentEval.correctAnswers.map((a) => a.toUpperCase()).join(", ")}
+                  </Badge>
+                </div>
+
+                {currentEval.explanation && (
+                  <div className="pt-2 text-xs sm:text-sm text-foreground/85 border-t border-border/40">
+                    <p className="font-semibold text-foreground">Oficiálne vysvetlenie UPJŠ LF:</p>
+                    <p className="mt-0.5 leading-relaxed">{currentEval.explanation}</p>
+                  </div>
+                )}
+              </div>
+            )}
           </CardContent>
 
           {/* Desktop/Tablet pätička s tlačidlami */}
@@ -1012,16 +1307,55 @@ export function TestSuite({
             </Button>
 
             <div className="flex items-center gap-3">
+              {/* Tlačidlo Skontrolovať otázku (ak ešte nebola vyhodnotená) */}
+              {!isCurrentEvaluated && (
+                <Button
+                  type="button"
+                  variant={evaluationMode === "instant" ? "default" : "secondary"}
+                  onClick={() => handleEvaluateSingleQuestion(currentQuestion.id)}
+                  disabled={
+                    isEvaluatingSingle ||
+                    isLoading ||
+                    isTimerPaused ||
+                    selectedForCurrent.length === 0
+                  }
+                  className={
+                    evaluationMode === "instant"
+                      ? "bg-amber-600 hover:bg-amber-700 text-white font-semibold shadow-sm"
+                      : "gap-1.5"
+                  }
+                >
+                  {isEvaluatingSingle ? (
+                    <>
+                      <Loader2 className="h-4 w-4 animate-spin" />
+                      Overujem odpoveď...
+                    </>
+                  ) : (
+                    <>
+                      <Zap className="h-4 w-4" />
+                      Skontrolovať otázku
+                    </>
+                  )}
+                </Button>
+              )}
+
               {!isLastQuestion ? (
                 <Button
                   type="button"
+                  variant={
+                    !isCurrentEvaluated && evaluationMode === "instant"
+                      ? "outline"
+                      : "default"
+                  }
                   onClick={() =>
                     setCurrentIndex((prev) =>
                       Math.min(totalQuestions - 1, prev + 1)
                     )
                   }
                 >
-                  Ďalšia
+                  {!isCurrentEvaluated && evaluationMode === "instant"
+                    ? "Preskočiť"
+                    : "Ďalšia"}
                   <ArrowRight className="h-4 w-4" />
                 </Button>
               ) : (
@@ -1029,7 +1363,7 @@ export function TestSuite({
                   type="button"
                   onClick={() => void submitTestEvaluation(false)}
                   disabled={isLoading}
-                  className="bg-emerald-600 text-white hover:bg-emerald-700"
+                  className="bg-emerald-600 text-white hover:bg-emerald-700 font-semibold"
                 >
                   {isLoading ? (
                     <>
@@ -1039,7 +1373,7 @@ export function TestSuite({
                   ) : (
                     <>
                       <ClipboardCheck className="h-4 w-4" />
-                      Vyhodnotiť test
+                      Vyhodnotiť test ({totalQuestions} otázok)
                     </>
                   )}
                 </Button>
@@ -1050,13 +1384,37 @@ export function TestSuite({
 
         {/* Rýchla navigácia medzi číslami otázok (horizontálny scroll na mobile, mriežka na tablete/desktope) */}
         <div className="space-y-1.5">
-          <span className="text-xs font-medium text-muted-foreground">
-            Rýchly prechod na otázku:
-          </span>
-          <div className="flex items-center gap-1.5 overflow-x-auto pb-2 sm:flex-wrap sm:overflow-visible sm:pb-0">
+          <div className="flex items-center justify-between text-xs text-muted-foreground">
+            <span className="font-medium">Prehľad otázok testu ({totalQuestions} otázok):</span>
+            <div className="flex items-center gap-3 text-[11px]">
+              <span className="flex items-center gap-1">
+                <span className="h-2 w-2 rounded-full bg-emerald-500" /> Správne
+              </span>
+              <span className="flex items-center gap-1">
+                <span className="h-2 w-2 rounded-full bg-red-500" /> Nesprávne
+              </span>
+              <span className="flex items-center gap-1">
+                <span className="h-2 w-2 rounded-full bg-primary" /> Označené
+              </span>
+            </div>
+          </div>
+          <div className="flex items-center gap-1.5 overflow-x-auto pb-2 sm:flex-wrap sm:max-h-52 sm:overflow-y-auto sm:p-2 sm:rounded-xl sm:border sm:bg-muted/15">
             {activeQuestions.map((q, idx) => {
               const hasAnswer = (answersMap[q.id]?.length ?? 0) > 0;
               const isCurrent = idx === currentIndex;
+              const evalRes = evaluatedQuestionsMap[q.id];
+
+              let btnClass =
+                "border-border bg-card text-muted-foreground hover:bg-accent";
+              if (evalRes) {
+                btnClass = evalRes.isCorrect
+                  ? "border-emerald-600 bg-emerald-600 text-white font-bold shadow-sm"
+                  : "border-red-600 bg-red-600 text-white font-bold shadow-sm";
+              } else if (hasAnswer) {
+                btnClass =
+                  "border-primary/40 bg-primary/10 text-primary font-semibold";
+              }
+
               return (
                 <button
                   key={q.id}
@@ -1064,14 +1422,18 @@ export function TestSuite({
                   onClick={() => setCurrentIndex(idx)}
                   title={`Otázka ${idx + 1}${
                     q.questionNumber ? ` (č. ${q.questionNumber})` : ""
+                  }${
+                    evalRes
+                      ? evalRes.isCorrect
+                        ? " - Správne"
+                        : " - Nesprávne"
+                      : ""
                   }`}
-                  className={`flex h-9 min-w-9 px-1.5 shrink-0 touch-manipulation items-center justify-center rounded-lg border text-xs font-semibold transition-all ${
+                  className={`flex h-8.5 min-w-8.5 px-1.5 shrink-0 touch-manipulation items-center justify-center rounded-lg border text-xs font-semibold transition-all ${
                     isCurrent
-                      ? "border-primary bg-primary text-primary-foreground shadow-sm"
-                      : hasAnswer
-                        ? "border-primary/40 bg-primary/10 text-primary"
-                        : "border-border bg-card text-muted-foreground hover:bg-accent"
-                  }`}
+                      ? "ring-2 ring-primary ring-offset-2 ring-offset-background"
+                      : ""
+                  } ${btnClass}`}
                 >
                   {q.questionNumber ?? idx + 1}
                 </button>
@@ -1085,27 +1447,65 @@ export function TestSuite({
           <Button
             type="button"
             variant="outline"
-            size="default"
-            className="flex-1"
+            size="sm"
             onClick={() => setCurrentIndex((prev) => Math.max(0, prev - 1))}
             disabled={isFirstQuestion || isLoading}
           >
             <ArrowLeft className="h-4 w-4" />
-            Predchádzajúca
           </Button>
+
+          {!isCurrentEvaluated && (
+            <Button
+              type="button"
+              variant={evaluationMode === "instant" ? "default" : "secondary"}
+              size="default"
+              className={`flex-1 ${
+                evaluationMode === "instant"
+                  ? "bg-amber-600 hover:bg-amber-700 text-white font-semibold"
+                  : ""
+              }`}
+              onClick={() => handleEvaluateSingleQuestion(currentQuestion.id)}
+              disabled={
+                isEvaluatingSingle ||
+                isLoading ||
+                isTimerPaused ||
+                selectedForCurrent.length === 0
+              }
+            >
+              {isEvaluatingSingle ? (
+                <Loader2 className="h-4 w-4 animate-spin" />
+              ) : (
+                <>
+                  <Zap className="h-4 w-4" />
+                  Skontrolovať
+                </>
+              )}
+            </Button>
+          )}
 
           {!isLastQuestion ? (
             <Button
               type="button"
+              variant={
+                !isCurrentEvaluated && evaluationMode === "instant"
+                  ? "outline"
+                  : "default"
+              }
               size="default"
-              className="flex-1"
+              className={
+                isCurrentEvaluated || evaluationMode !== "instant"
+                  ? "flex-1"
+                  : ""
+              }
               onClick={() =>
                 setCurrentIndex((prev) =>
                   Math.min(totalQuestions - 1, prev + 1)
                 )
               }
             >
-              Ďalšia
+              {!isCurrentEvaluated && evaluationMode === "instant"
+                ? "Ďalej"
+                : "Ďalšia"}
               <ArrowRight className="h-4 w-4" />
             </Button>
           ) : (
@@ -1114,7 +1514,7 @@ export function TestSuite({
               size="default"
               onClick={() => void submitTestEvaluation(false)}
               disabled={isLoading}
-              className="flex-1 bg-emerald-600 text-white hover:bg-emerald-700"
+              className="flex-1 bg-emerald-600 text-white hover:bg-emerald-700 font-semibold"
             >
               {isLoading ? (
                 <>
@@ -1124,7 +1524,7 @@ export function TestSuite({
               ) : (
                 <>
                   <ClipboardCheck className="h-4 w-4" />
-                  Vyhodnotiť
+                  Vyhodnotiť test
                 </>
               )}
             </Button>
